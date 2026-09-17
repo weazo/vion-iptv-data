@@ -5,92 +5,194 @@ import os
 from collections import defaultdict
 
 # --- الإعدادات ---
-API_BASE = "https://iptv-org.github.io/api"
 OUTPUT_DIR = "data"
-CHANNEL_LIMIT = 0  # 0 = بلا حد، ضع رقم لتحديد عدد القنوات للتجربة
+CHANNEL_LIMIT = 0  # 0 = بلا حد
+USER_AGENT = "VionIPTVBuilder/1.0"
 
-def fetch_json(endpoint):
-    """جلب ملف JSON من iptv-org API"""
-    url = f"{API_BASE}/{endpoint}"
+# --- قوائم الحظر (Blocklists) ---
+# قائمة كلمات البالغين والمقامرة
+ADULT_GAMBLING_KEYWORDS = [
+    # Adult
+    "xxx", "porn", "sex", "adult", "erotic", "brazzers", "playboy", "hustler",
+    "penthouse", "onlyfans", "livejasmin", "chaturbate", "stripchat", "cam4",
+    "bongacams", "myfreecams", "adult swim", "red light", "blue movie",
+    "hot", "passion", "desire", "pleasure", "sensual", "intimate",
+    # Gambling
+    "gambling", "casino", "bet", "poker", "slot", "roulette", "blackjack",
+    "lottery", "lotto", "jackpot", "betting", "sportsbook", "vegas",
+    "bingo", "keno", "craps", "baccarat", "pachinko", "toto",
+    "1xbet", "bet365", "betway", "william hill", "pokerstars", "bwin",
+    "draftkings", "fanduel", "betfair", "unibet", "ladbrokes", "coral",
+]
+
+# قائمة كلمات العنصرية وخطاب الكراهية
+RACISM_HATE_KEYWORDS = [
+    "racist", "racism", "white power", "white pride", "neo nazi", "neo-nazi",
+    "nazi", "hitler", "adolf", "third reich", "aryan", "kkk", "ku klux klan",
+    "supremacy", "supremacist", "hate", "bigot", "fascist", "fascism",
+    "islamophob", "antisemit", "anti-semitic", "homophob", "xenophob",
+    "ethnic cleansing", "genocide", "holocaust denial", "slur",
+    "nigger", "nigga", "faggot", "retard", "chink", "spic", "kike", "wetback",
+]
+
+def is_blocked(name, source_type="generic"):
+    """
+    فحص ما إذا كان اسم القناة يحتوي على كلمات محظورة.
+    source_type: نوع المصدر (iptv_org_api، m3u، generic)
+    """
+    if not name:
+        return False
+    
+    name_lower = name.lower()
+    
+    # فحص قوائم الكلمات
+    for keyword in ADULT_GAMBLING_KEYWORDS + RACISM_HATE_KEYWORDS:
+        if keyword in name_lower:
+            return True
+    
+    return False
+
+def fetch_url(url):
+    """جلب المحتوى من URL (JSON أو نص M3U)"""
     print(f"  جاري جلب {url}...")
     try:
-        response = requests.get(url, timeout=60)
+        headers = {'User-Agent': USER_AGENT}
+        response = requests.get(url, timeout=60, headers=headers)
         response.raise_for_status()
-        return response.json()
+        return response.text
     except Exception as e:
-        print(f"  خطأ في جلب {endpoint}: {e}")
+        print(f"  خطأ في جلب {url}: {e}")
+        return None
+
+def parse_m3u(content):
+    """محلل بسيط لملفات M3U لاستخراج القنوات"""
+    channels = []
+    lines = content.splitlines()
+    current_channel = {}
+    
+    for line in lines:
+        line = line.strip()
+        if line.startswith('#EXTINF:'):
+            info = line[8:]
+            attrs = {}
+            for match in re.finditer(r'([\w-]+)="([^"]*)"', info):
+                attrs[match.group(1)] = match.group(2)
+            name = info.split(',', 1)[-1].strip() if ',' in info else attrs.get('tvg-name', 'Unknown')
+            
+            current_channel = {
+                'name': name,
+                'tvg_id': attrs.get('tvg-id'),
+                'tvg_name': attrs.get('tvg-name'),
+                'tvg_logo': attrs.get('tvg-logo'),
+                'group_title': attrs.get('group-title'),
+                'url': None
+            }
+        elif line.startswith('http') and current_channel:
+            current_channel['url'] = line
+            channels.append(current_channel)
+            current_channel = {}
+    return channels
+
+def parse_iptv_org(content):
+    """محلل خاص لبيانات iptv-org API (streams.json)"""
+    try:
+        data = json.loads(content)
+        return data
+    except Exception as e:
+        print(f"  خطأ في تحليل JSON: {e}")
         return []
 
-def generate_code(name_en, country_code, existing_codes):
-    """توليد كود فريد للقناة"""
-    prefix = re.sub(r'[^A-Z]', '', name_en.upper())[:3]
-    if len(prefix) < 3:
-        prefix = prefix.ljust(3, 'X')
-    counter = 1
-    while True:
-        code = f"{prefix}-{country_code}-{counter:03d}"
-        if code not in existing_codes:
-            return code
-        counter += 1
+def normalize_name(name):
+    """توحيد الأسماء لإزالة التكرارات"""
+    if not name:
+        return ""
+    name = name.lower()
+    for word in ['hd', 'fhd', '4k', 'sd', 'tv', 'channel', 'live', 'ar', 'en', 'uhd']:
+        name = name.replace(word, '')
+    name = re.sub(r'[^a-z0-9\u0600-\u06FF]', '', name)
+    return name
 
 def build_channels():
     print("=" * 60)
-    print("بدء بناء قائمة Vion IPTV")
+    print("بدء بناء قائمة Vion IPTV (متعدد المصادر + تصفية)")
     print("=" * 60)
 
     # 1. جلب البيانات
-    print("\n[1/5] جلب البيانات من iptv-org...")
-    channels_raw = fetch_json("channels.json")
-    streams_raw = fetch_json("streams.json")
-    logos_raw = fetch_json("logos.json")
-    countries_raw = fetch_json("countries.json")
-    categories_raw = fetch_json("categories.json")
+    print("\n[1/5] جلب البيانات من المصادر...")
+    
+    # جلب بيانات iptv-org
+    iptv_org_channels_raw = fetch_url("https://iptv-org.github.io/api/channels.json")
+    iptv_org_streams_raw = fetch_url("https://iptv-org.github.io/api/streams.json")
+    
+    iptv_org_channels = {}
+    iptv_org_streams = defaultdict(list)
+    iptv_org_blocklist = set()
+    
+    if iptv_org_channels_raw:
+        try:
+            channels_list = json.loads(iptv_org_channels_raw)
+            for ch in channels_list:
+                if not ch.get('id'):
+                    continue
+                # استبعاد القنوات المغلقة أو غير الأخلاقية
+                if ch.get('closed') or ch.get('is_nsfw'):
+                    iptv_org_blocklist.add(ch['id'])
+                    continue
+                iptv_org_channels[ch['id']] = ch
+            print(f"  ✅ iptv-org: {len(iptv_org_channels)} قناة صالحة")
+        except Exception as e:
+            print(f"  خطأ في معالجة قنوات iptv-org: {e}")
+    
+    if iptv_org_streams_raw:
+        try:
+            streams_list = json.loads(iptv_org_streams_raw)
+            for s in streams_list:
+                ch_id = s.get('channel')
+                if ch_id and ch_id not in iptv_org_blocklist:
+                    iptv_org_streams[ch_id].append(s)
+        except Exception as e:
+            print(f"  خطأ في معالجة روابط iptv-org: {e}")
 
-    if not channels_raw:
-        print("فشل جلب القنوات. توقف.")
-        return
+    # جلب قوائم M3U الإضافية
+    m3u_sources = [
+        {"name": "Free-TV", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
+        {"name": "YueChan-Live", "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+        {"name": "joevess-IPTV", "url": "https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u"},
+    ]
+    
+    all_m3u_channels = []
+    for source in m3u_sources:
+        content = fetch_url(source['url'])
+        if content:
+            parsed = parse_m3u(content)
+            for ch in parsed:
+                ch['source'] = source['name']
+                if ch.get('url'):
+                    all_m3u_channels.append(ch)
+            print(f"  ✅ {source['name']}: {len(parsed)} قناة")
+    
+    print(f"  إجمالي قنوات M3U: {len(all_m3u_channels)}")
 
-    print(f"  تم جلب {len(channels_raw)} قناة، {len(streams_raw)} رابط بث")
-
-    # 2. بناء خرائط للوصول السريع
-    print("\n[2/5] بناء الخرائط...")
-    streams_by_channel = defaultdict(list)
-    for stream in streams_raw:
-        ch_id = stream.get('channel')
-        if ch_id:
-            streams_by_channel[ch_id].append(stream)
-
-    logos_by_channel = defaultdict(list)
-    for logo in logos_raw:
-        ch_id = logo.get('channel')
-        if ch_id and logo.get('in_use'):
-            logos_by_channel[ch_id].append(logo)
-
-    countries_map = {c['code']: c for c in countries_raw}
-    categories_map = {c['id']: c for c in categories_raw}
-
-    # 3. بناء قائمة القنوات الموحدة
-    print("\n[3/5] معالجة القنوات...")
-    all_channels = []
-    existing_codes = set()
-    index = 1
-
-    for ch in channels_raw:
-        ch_id = ch.get('id')
-        if not ch_id:
+    # 2. بناء قائمة موحدة من iptv-org
+    print("\n[2/5] بناء القنوات من iptv-org...")
+    all_channels_dict = {}
+    
+    for ch_id, ch_info in iptv_org_channels.items():
+        streams = iptv_org_streams.get(ch_id, [])
+        if not streams:
             continue
-        # تجاهل القنوات المغلقة أو غير الأخلاقية
-        if ch.get('closed') or ch.get('is_nsfw'):
+        
+        name = ch_info.get('name', '')
+        
+        # فحص الحظر الإضافي
+        if is_blocked(name):
             continue
-
-        ch_streams = streams_by_channel.get(ch_id, [])
-        if not ch_streams:
-            continue
-
-        # بناء قائمة البث
+        
         streams_list = []
-        for s in ch_streams:
+        for s in streams:
             url = s.get('url', '')
+            if not url:
+                continue
             protocol = 'hls' if '.m3u8' in url else ('rtmp' if 'rtmp' in url else 'unknown')
             streams_list.append({
                 "url": url,
@@ -100,95 +202,141 @@ def build_channels():
                 "last_checked": None,
                 "is_working": None
             })
-
-        # ترتيب الروابط حسب الأولوية
+        
         streams_list.sort(key=lambda x: x['priority'])
+        
+        key = normalize_name(name)
+        if key and key not in all_channels_dict:
+            all_channels_dict[key] = {
+                'id': ch_id,
+                'name': name,
+                'country': ch_info.get('country', 'XX'),
+                'language': (ch_info.get('languages') or ['unknown'])[0],
+                'category': (ch_info.get('categories') or ['general'])[0],
+                'logo': None,
+                'streams': streams_list
+            }
 
-        # الشعار
-        logo_url = None
-        ch_logos = logos_by_channel.get(ch_id, [])
-        if ch_logos:
-            # تفضيل الشعار الأفقي
-            for lg in ch_logos:
-                if 'horizontal' in lg.get('tags', []):
-                    logo_url = lg.get('url')
-                    break
-            if not logo_url:
-                logo_url = ch_logos[0].get('url')
+    # 3. دمج قنوات M3U
+    print("\n[3/5] دمج قنوات M3U...")
+    for ch in all_m3u_channels:
+        name = ch.get('name', '')
+        if is_blocked(name):
+            continue
+        
+        key = normalize_name(ch.get('tvg_name') or name)
+        if not key:
+            continue
+        
+        if key in all_channels_dict:
+            # إضافة رابط البث إلى القناة الموجودة
+            url = ch.get('url')
+            if url and url not in [s['url'] for s in all_channels_dict[key]['streams']]:
+                protocol = 'hls' if '.m3u8' in url else 'unknown'
+                all_channels_dict[key]['streams'].append({
+                    "url": url,
+                    "quality": "unknown",
+                    "protocol": protocol,
+                    "priority": 5,
+                    "last_checked": None,
+                    "is_working": None
+                })
+        else:
+            # قناة جديدة
+            country_code = 'XX'
+            if ch.get('tvg_id') and '.' in ch['tvg_id']:
+                country_code = ch['tvg_id'].split('.')[-1].upper()
+            
+            all_channels_dict[key] = {
+                'id': key,
+                'name': name,
+                'country': country_code,
+                'language': 'unknown',
+                'category': ch.get('group_title', 'general'),
+                'logo': ch.get('tvg_logo'),
+                'streams': [{
+                    "url": ch.get('url'),
+                    "quality": "unknown",
+                    "protocol": 'hls' if '.m3u8' in ch.get('url', '') else 'unknown',
+                    "priority": 5,
+                    "last_checked": None,
+                    "is_working": None
+                }]
+            }
+    
+    print(f"  إجمالي القنوات الفريدة: {len(all_channels_dict)}")
 
-        # الكود
-        code = generate_code(ch.get('name', 'UNKNOWN'), ch.get('country', 'XX'), existing_codes)
+    # 4. بناء قائمة القنوات النهائية
+    print("\n[4/5] بناء القنوات النهائية...")
+    all_channels = []
+    existing_codes = set()
+    index = 1
+    
+    for key, ch_data in all_channels_dict.items():
+        name = ch_data['name']
+        
+        # فحص الحظر النهائي
+        if is_blocked(name):
+            continue
+        
+        country_code = ch_data.get('country', 'XX')
+        prefix = re.sub(r'[^A-Z]', '', name.upper())[:3].ljust(3, 'X')
+        counter = 1
+        while True:
+            code = f"{prefix}-{country_code}-{counter:03d}"
+            if code not in existing_codes:
+                break
+            counter += 1
         existing_codes.add(code)
-
-        # اللغة الأولى
-        languages = ch.get('languages', [])
-        lang = languages[0] if languages else 'unknown'
-
-        # التصنيف الأول
-        categories = ch.get('categories', [])
-        category = categories[0] if categories else 'general'
-
+        
         channel_data = {
-            "id": ch_id,
+            "id": ch_data.get('id', key),
             "code": code,
             "index": index,
-            "tvg_id": f"{ch.get('name', '').replace(' ', '')}.{ch.get('country', '').lower()}",
+            "tvg_id": None,
             "tvg_chno": 100 + index,
-            "name_ar": ch.get('name', ''),  # يمكن تحسينه لاحقاً
-            "name_en": ch.get('name', ''),
-            "country": ch.get('country', ''),
-            "language": lang,
-            "category": category,
-            "logo": logo_url,
-            "website": ch.get('website'),
+            "name_ar": name,
+            "name_en": name,
+            "country": country_code,
+            "language": ch_data.get('language', 'unknown'),
+            "category": ch_data.get('category', 'general'),
+            "logo": ch_data.get('logo'),
+            "website": None,
             "priority": 1,
             "last_checked": None,
             "is_working": None,
-            "streams": streams_list
+            "streams": ch_data['streams']
         }
         all_channels.append(channel_data)
         index += 1
 
-        if CHANNEL_LIMIT > 0 and len(all_channels) >= CHANNEL_LIMIT:
-            break
-
-    print(f"  تمت معالجة {len(all_channels)} قناة")
-
-    # 4. تجميع حسب الدولة
-    print("\n[4/5] تجميع القنوات حسب الدولة...")
+    # 5. حفظ الملفات
+    print("\n[5/5] حفظ الملفات...")
     channels_by_country = defaultdict(list)
     for ch in all_channels:
         country = ch.get('country', 'XX')
         channels_by_country[country].append(ch)
 
-    # 5. حفظ الملفات
-    print("\n[5/5] حفظ الملفات...")
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # ملف الفهارس العام
     master_index = {
         "version": "1.0.0",
         "total_channels": len(all_channels),
+        "sources_used": ["iptv-org", "Free-TV", "YueChan-Live", "joevess-IPTV"],
+        "filtering": {
+            "adult_gambling_keywords": len(ADULT_GAMBLING_KEYWORDS),
+            "racism_hate_keywords": len(RACISM_HATE_KEYWORDS),
+            "iptv_org_nsfw_blocklist": len(iptv_org_blocklist)
+        },
         "countries": [
-            {
-                "code": code,
-                "name_en": countries_map.get(code, {}).get('name', code),
-                "name_ar": countries_map.get(code, {}).get('name', code),
-                "flag": countries_map.get(code, {}).get('flag', '🏳️'),
-                "channel_count": len(chs)
-            }
+            {"code": code, "channel_count": len(chs)}
             for code, chs in sorted(channels_by_country.items())
-        ],
-        "categories": [
-            {"id": cid, "name": cat.get('name', cid)}
-            for cid, cat in categories_map.items()
         ]
     }
     with open(f"{OUTPUT_DIR}/index.json", 'w', encoding='utf-8') as f:
         json.dump(master_index, f, ensure_ascii=False, indent=2)
-    print(f"  ✅ index.json ({len(master_index['countries'])} دولة)")
+    print(f"  ✅ index.json")
 
-    # ملف لكل دولة
     for country_code, chs in channels_by_country.items():
         country_file = {
             "version": "1.0.0",
@@ -203,6 +351,7 @@ def build_channels():
 
     print("\n" + "=" * 60)
     print(f"تم الانتهاء! إجمالي القنوات: {len(all_channels)}")
+    print(f"تم استبعاد {len(iptv_org_blocklist)} قناة NSFW من iptv-org")
     print("=" * 60)
 
 if __name__ == '__main__':
