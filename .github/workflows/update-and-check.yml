@@ -1,9 +1,9 @@
 name: Update and Check Channels
 
 on:
-  # كل 6 ساعات
+  # كل 24 ساعات
   schedule:
-    - cron: '0 */6 * * *'
+        - cron: '0 3 * * *'
   # تشغيل يدوي
   workflow_dispatch:
 
