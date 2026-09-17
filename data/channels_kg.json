@@ -1,0 +1,251 @@
+{
+  "version": "1.0.0",
+  "country": "KG",
+  "total_channels": 9,
+  "channels": [
+    {
+      "id": "312Kino.kg",
+      "code": "KIN-KG-001",
+      "index": 68,
+      "tvg_id": null,
+      "tvg_chno": 168,
+      "name_ar": "312 Kino",
+      "name_en": "312 Kino",
+      "country": "KG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+          "quality": "406p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "312TV.kg",
+      "code": "TVX-KG-001",
+      "index": 69,
+      "tvg_id": null,
+      "tvg_chno": 169,
+      "name_ar": "312 TV",
+      "name_en": "312 TV",
+      "country": "KG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+          "quality": "406p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AlaToo24.kg",
+      "code": "ALA-KG-001",
+      "index": 356,
+      "tvg_id": null,
+      "tvg_chno": 456,
+      "name_ar": "Ala-Too 24",
+      "name_en": "Ala-Too 24",
+      "country": "KG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BilimIlim.kg",
+      "code": "BIL-KG-001",
+      "index": 1037,
+      "tvg_id": null,
+      "tvg_chno": 1137,
+      "name_ar": "Bilim Ilim",
+      "name_en": "Bilim Ilim",
+      "country": "KG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ElTR.kg",
+      "code": "ELT-KG-001",
+      "index": 2469,
+      "tvg_id": null,
+      "tvg_chno": 2569,
+      "name_ar": "ElTR",
+      "name_en": "ElTR",
+      "country": "KG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ManasTV.kg",
+      "code": "MAN-KG-001",
+      "index": 4194,
+      "tvg_id": null,
+      "tvg_chno": 4294,
+      "name_ar": "Manas TV",
+      "name_en": "Manas TV",
+      "country": "KG",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OshPirim.kg",
+      "code": "OSH-KG-001",
+      "index": 5189,
+      "tvg_id": null,
+      "tvg_chno": 5289,
+      "name_ar": "Osh Pirim",
+      "name_en": "Osh Pirim",
+      "country": "KG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Sport.kg",
+      "code": "SPO-KG-001",
+      "index": 7002,
+      "tvg_id": null,
+      "tvg_chno": 7102,
+      "name_ar": "Sport",
+      "name_en": "Sport",
+      "country": "KG",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TV1KG.kg",
+      "code": "TVK-KG-001",
+      "index": 7931,
+      "tvg_id": null,
+      "tvg_chno": 8031,
+      "name_ar": "TV1.KG",
+      "name_en": "TV1.KG",
+      "country": "KG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

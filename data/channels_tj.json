@@ -1,0 +1,386 @@
+{
+  "version": "1.0.0",
+  "country": "TJ",
+  "total_channels": 14,
+  "channels": [
+    {
+      "id": "Badakhshon.tj",
+      "code": "BAD-TJ-001",
+      "index": 827,
+      "tvg_id": null,
+      "tvg_chno": 927,
+      "name_ar": "Badakhshon",
+      "name_en": "Badakhshon",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/11/3m.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DushanbeHD.tj",
+      "code": "DUS-TJ-001",
+      "index": 2359,
+      "tvg_id": null,
+      "tvg_chno": 2459,
+      "name_ar": "Dushanbe HD",
+      "name_en": "Dushanbe HD",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/7/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Futbol.tj",
+      "code": "FUT-TJ-001",
+      "index": 2854,
+      "tvg_id": null,
+      "tvg_chno": 2954,
+      "name_ar": "Futbol",
+      "name_en": "Futbol",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/8/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "IlmvaTabiat.tj",
+      "code": "ILM-TJ-001",
+      "index": 3348,
+      "tvg_id": null,
+      "tvg_chno": 3448,
+      "name_ar": "Ilm va Tabiat",
+      "name_en": "Ilm va Tabiat",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "science",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/15/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Jahonnamo.tj",
+      "code": "JAH-TJ-001",
+      "index": 3498,
+      "tvg_id": null,
+      "tvg_chno": 3598,
+      "name_ar": "Jahonnamo",
+      "name_en": "Jahonnamo",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/4/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Khatlon.tj",
+      "code": "KHA-TJ-001",
+      "index": 3722,
+      "tvg_id": null,
+      "tvg_chno": 3822,
+      "name_ar": "Khatlon",
+      "name_en": "Khatlon",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/10/3m.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TMT.tj",
+      "code": "TMT-TJ-001",
+      "index": 7735,
+      "tvg_id": null,
+      "tvg_chno": 7835,
+      "name_ar": "TMT",
+      "name_en": "TMT",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/9/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Tojikiston.tj",
+      "code": "TOJ-TJ-001",
+      "index": 7764,
+      "tvg_id": null,
+      "tvg_chno": 7864,
+      "name_ar": "Tojikiston",
+      "name_en": "Tojikiston",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/1/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVBahoriston.tj",
+      "code": "TVB-TJ-001",
+      "index": 8004,
+      "tvg_id": null,
+      "tvg_chno": 8104,
+      "name_ar": "TV Bahoriston",
+      "name_en": "TV Bahoriston",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/3/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVKulob.tj",
+      "code": "TVK-TJ-001",
+      "index": 8146,
+      "tvg_id": null,
+      "tvg_chno": 8246,
+      "name_ar": "TV Kulob",
+      "name_en": "TV Kulob",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/12/3m.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVSafina.tj",
+      "code": "TVS-TJ-001",
+      "index": 8301,
+      "tvg_id": null,
+      "tvg_chno": 8401,
+      "name_ar": "TV Safina",
+      "name_en": "TV Safina",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVSayohi.tj",
+      "code": "TVS-TJ-002",
+      "index": 8306,
+      "tvg_id": null,
+      "tvg_chno": 8406,
+      "name_ar": "TV Sayohi",
+      "name_en": "TV Sayohi",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/16/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVSinamo.tj",
+      "code": "TVS-TJ-003",
+      "index": 8330,
+      "tvg_id": null,
+      "tvg_chno": 8430,
+      "name_ar": "TV Sinamo",
+      "name_en": "TV Sinamo",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/6/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVSugd.tj",
+      "code": "TVS-TJ-004",
+      "index": 8360,
+      "tvg_id": null,
+      "tvg_chno": 8460,
+      "name_ar": "TV Sugd",
+      "name_en": "TV Sugd",
+      "country": "TJ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.teleradiocom.tj/14/3m.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

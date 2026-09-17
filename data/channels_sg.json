@@ -1,0 +1,639 @@
+{
+  "version": "1.0.0",
+  "country": "SG",
+  "total_channels": 21,
+  "channels": [
+    {
+      "id": "AnimaxAsia.sg",
+      "code": "ANI-SG-001",
+      "index": 567,
+      "tvg_id": null,
+      "tvg_chno": 667,
+      "name_ar": "Animax Asia",
+      "name_en": "Animax Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AniplusAsia.sg",
+      "code": "ANI-SG-002",
+      "index": 571,
+      "tvg_id": null,
+      "tvg_chno": 671,
+      "name_ar": "Aniplus Asia",
+      "name_en": "Aniplus Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AXNAsia.sg",
+      "code": "AXN-SG-001",
+      "index": 787,
+      "tvg_id": null,
+      "tvg_chno": 887,
+      "name_ar": "AXN Asia",
+      "name_en": "AXN Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://58.8.186.128:10007/bysid/2814",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ChannelU.sg",
+      "code": "CHA-SG-001",
+      "index": 1649,
+      "tvg_id": null,
+      "tvg_chno": 1749,
+      "name_ar": "Channel U",
+      "name_en": "Channel U",
+      "country": "SG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.qd.je/163189/chu",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNAInternational.sg",
+      "code": "CNA-SG-001",
+      "index": 1840,
+      "tvg_id": null,
+      "tvg_chno": 1940,
+      "name_ar": "CNA International",
+      "name_en": "CNA International",
+      "country": "SG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNAOriginals.sg",
+      "code": "CNA-SG-002",
+      "index": 1841,
+      "tvg_id": null,
+      "tvg_chno": 1941,
+      "name_ar": "CNA Originals",
+      "name_en": "CNA Originals",
+      "country": "SG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNBCAsia.sg",
+      "code": "CNB-SG-001",
+      "index": 1844,
+      "tvg_id": null,
+      "tvg_chno": 1944,
+      "name_ar": "CNBC Asia",
+      "name_en": "CNBC Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CrimePlusInvestigationAsia.sg",
+      "code": "CRI-SG-001",
+      "index": 1966,
+      "tvg_id": null,
+      "tvg_chno": 2066,
+      "name_ar": "Crime + Investigation Asia",
+      "name_en": "Crime + Investigation Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "GlobalTrekker.sg",
+      "code": "GLO-SG-001",
+      "index": 2951,
+      "tvg_id": null,
+      "tvg_chno": 3051,
+      "name_ar": "Global Trekker",
+      "name_en": "Global Trekker",
+      "country": "SG",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KCM.sg",
+      "code": "KCM-SG-001",
+      "index": 3698,
+      "tvg_id": null,
+      "tvg_chno": 3798,
+      "name_ar": "KCM",
+      "name_en": "KCM",
+      "country": "SG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "meWATCHLIVE1.sg",
+      "code": "MEW-SG-001",
+      "index": 4369,
+      "tvg_id": null,
+      "tvg_chno": 4469,
+      "name_ar": "meWATCH LIVE 1",
+      "name_en": "meWATCH LIVE 1",
+      "country": "SG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NickelodeonAsia.sg",
+      "code": "NIC-SG-001",
+      "index": 4867,
+      "tvg_id": null,
+      "tvg_chno": 4967,
+      "name_ar": "Nickelodeon Asia",
+      "name_en": "Nickelodeon Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NickJrAsia.sg",
+      "code": "NIC-SG-002",
+      "index": 4880,
+      "tvg_id": null,
+      "tvg_chno": 4980,
+      "name_ar": "Nick Jr. Asia",
+      "name_en": "Nick Jr. Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10003/bysid/2330",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ROCKAction.sg",
+      "code": "ROC-SG-001",
+      "index": 6309,
+      "tvg_id": null,
+      "tvg_chno": 6409,
+      "name_ar": "ROCK Action",
+      "name_en": "ROCK Action",
+      "country": "SG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ROCKEntertainment.sg",
+      "code": "ROC-SG-002",
+      "index": 6311,
+      "tvg_id": null,
+      "tvg_chno": 6411,
+      "name_ar": "ROCK Entertainment",
+      "name_en": "ROCK Entertainment",
+      "country": "SG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10006/bysid/2612",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ROCKXStream.sg",
+      "code": "ROC-SG-003",
+      "index": 6314,
+      "tvg_id": null,
+      "tvg_chno": 6414,
+      "name_ar": "ROCK X Stream",
+      "name_en": "ROCK X Stream",
+      "country": "SG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10007/bysid/2811",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Suria.sg",
+      "code": "SUR-SG-001",
+      "index": 7191,
+      "tvg_id": null,
+      "tvg_chno": 7291,
+      "name_ar": "Suria",
+      "name_en": "Suria",
+      "country": "SG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TechStorm.sg",
+      "code": "TEC-SG-001",
+      "index": 7353,
+      "tvg_id": null,
+      "tvg_chno": 7453,
+      "name_ar": "TechStorm",
+      "name_en": "TechStorm",
+      "country": "SG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ZeeTVAsiaPacific.sg",
+      "code": "ZEE-SG-001",
+      "index": 9012,
+      "tvg_id": null,
+      "tvg_chno": 9112,
+      "name_ar": "Zee TV Asia Pacific",
+      "name_en": "Zee TV Asia Pacific",
+      "country": "SG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ZooMoo.sg",
+      "code": "ZOO-SG-001",
+      "index": 9048,
+      "tvg_id": null,
+      "tvg_chno": 9148,
+      "name_ar": "ZooMoo",
+      "name_en": "ZooMoo",
+      "country": "SG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "newsasia",
+      "code": "CHA-SG-002",
+      "index": 9883,
+      "tvg_id": null,
+      "tvg_chno": 9983,
+      "name_ar": "Channel News Asia Ⓨ",
+      "name_en": "Channel News Asia Ⓨ",
+      "country": "SG",
+      "language": "unknown",
+      "category": "News",
+      "logo": "https://i.imgur.com/xWglicB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

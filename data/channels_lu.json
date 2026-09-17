@@ -1,0 +1,340 @@
+{
+  "version": "1.0.0",
+  "country": "LU",
+  "total_channels": 12,
+  "channels": [
+    {
+      "id": "apartTV.lu",
+      "code": "APA-LU-001",
+      "index": 606,
+      "tvg_id": null,
+      "tvg_chno": 706,
+      "name_ar": "apart TV",
+      "name_en": "apart TV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DudelangeTV.lu",
+      "code": "DUD-LU-001",
+      "index": 2342,
+      "tvg_id": null,
+      "tvg_chno": 2442,
+      "name_ar": "Dudelange TV",
+      "name_en": "Dudelange TV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "eldoTV.lu",
+      "code": "ELD-LU-001",
+      "index": 2437,
+      "tvg_id": null,
+      "tvg_chno": 2537,
+      "name_ar": "eldo.TV",
+      "name_en": "eldo.TV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LuxeTV.lu",
+      "code": "LUX-LU-001",
+      "index": 4116,
+      "tvg_id": null,
+      "tvg_chno": 4216,
+      "name_ar": "Luxe TV",
+      "name_en": "Luxe TV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.154.3.101:5001/live/1736.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MierschTV.lu",
+      "code": "MIE-LU-001",
+      "index": 4394,
+      "tvg_id": null,
+      "tvg_chno": 4494,
+      "name_ar": "MierschTV",
+      "name_en": "MierschTV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RTL9.lu",
+      "code": "RTL-LU-001",
+      "index": 6389,
+      "tvg_id": null,
+      "tvg_chno": 6489,
+      "name_ar": "RTL9",
+      "name_en": "RTL9",
+      "country": "LU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://145.239.5.177/308/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTLTeleLetzebuerg.lu",
+      "code": "RTL-LU-002",
+      "index": 6396,
+      "tvg_id": null,
+      "tvg_chno": 6496,
+      "name_ar": "RTL Tele Letzebuerg",
+      "name_en": "RTL Tele Letzebuerg",
+      "country": "LU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RTLWebRadioTV.lu",
+      "code": "RTL-LU-003",
+      "index": 6398,
+      "tvg_id": null,
+      "tvg_chno": 6498,
+      "name_ar": "RTL Web Radio TV",
+      "name_en": "RTL Web Radio TV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RTLZwee.lu",
+      "code": "RTL-LU-004",
+      "index": 6399,
+      "tvg_id": null,
+      "tvg_chno": 6499,
+      "name_ar": "RTL Zwee",
+      "name_en": "RTL Zwee",
+      "country": "LU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TodayRadio.lu",
+      "code": "TOD-LU-001",
+      "index": 7760,
+      "tvg_id": null,
+      "tvg_chno": 7860,
+      "name_ar": "Today Radio",
+      "name_en": "Today Radio",
+      "country": "LU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "rtltlltzebuerg",
+      "code": "RTL-LU-005",
+      "index": 9650,
+      "tvg_id": null,
+      "tvg_chno": 9750,
+      "name_ar": "RTL Télé Lëtzebuerg",
+      "name_en": "RTL Télé Lëtzebuerg",
+      "country": "LU",
+      "language": "unknown",
+      "category": "Luxembourg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/500px-RTL_Luxembourg_2023.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "chamber",
+      "code": "CHA-LU-001",
+      "index": 9651,
+      "tvg_id": null,
+      "tvg_chno": 9751,
+      "name_ar": "Chamber TV",
+      "name_en": "Chamber TV",
+      "country": "LU",
+      "language": "unknown",
+      "category": "Luxembourg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2023_Logo_of_the_Chamber_of_Deputies_of_Luxembourg.svg/500px-2023_Logo_of_the_Chamber_of_Deputies_of_Luxembourg.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "country": "UY",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "UCL.uy",
+      "code": "UCL-UY-001",
+      "index": 8430,
+      "tvg_id": null,
+      "tvg_chno": 8530,
+      "name_ar": "UCL",
+      "name_en": "UCL",
+      "country": "UY",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

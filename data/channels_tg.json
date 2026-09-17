@@ -1,0 +1,251 @@
+{
+  "version": "1.0.0",
+  "country": "TG",
+  "total_channels": 9,
+  "channels": [
+    {
+      "id": "ChandelTV.tg",
+      "code": "CHA-TG-001",
+      "index": 1631,
+      "tvg_id": null,
+      "tvg_chno": 1731,
+      "name_ar": "Chandel TV",
+      "name_en": "Chandel TV",
+      "country": "TG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DynamicGospelTV.tg",
+      "code": "DYN-TG-001",
+      "index": 2367,
+      "tvg_id": null,
+      "tvg_chno": 2467,
+      "name_ar": "Dynamic Gospel TV",
+      "name_en": "Dynamic Gospel TV",
+      "country": "TG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NWEconomie.tg",
+      "code": "NWE-TG-001",
+      "index": 5025,
+      "tvg_id": null,
+      "tvg_chno": 5125,
+      "name_ar": "NW Economie",
+      "name_en": "NW Economie",
+      "country": "TG",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.newworldtv.com/nw-economie/video/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NWInfo.tg",
+      "code": "NWI-TG-001",
+      "index": 5026,
+      "tvg_id": null,
+      "tvg_chno": 5126,
+      "name_ar": "NW Info",
+      "name_en": "NW Info",
+      "country": "TG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.newworldtv.com/nw-info/video/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NWInfo2.tg",
+      "code": "NWI-TG-002",
+      "index": 5027,
+      "tvg_id": null,
+      "tvg_chno": 5127,
+      "name_ar": "NW Info 2",
+      "name_en": "NW Info 2",
+      "country": "TG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.newworldtv.com/nw-info-2/video/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NWMagazine.tg",
+      "code": "NWM-TG-001",
+      "index": 5028,
+      "tvg_id": null,
+      "tvg_chno": 5128,
+      "name_ar": "NW Magazine",
+      "name_en": "NW Magazine",
+      "country": "TG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTJVA.tg",
+      "code": "RTJ-TG-001",
+      "index": 6378,
+      "tvg_id": null,
+      "tvg_chno": 6478,
+      "name_ar": "RT JVA",
+      "name_en": "RT JVA",
+      "country": "TG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SOSDocteurTV.tg",
+      "code": "SOS-TG-001",
+      "index": 6952,
+      "tvg_id": null,
+      "tvg_chno": 7052,
+      "name_ar": "SOS Docteur TV",
+      "name_en": "SOS Docteur TV",
+      "country": "TG",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TelevisionEspoir47.tg",
+      "code": "TEL-TG-001",
+      "index": 7553,
+      "tvg_id": null,
+      "tvg_chno": 7653,
+      "name_ar": "Television Espoir 47",
+      "name_en": "Television Espoir 47",
+      "country": "TG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

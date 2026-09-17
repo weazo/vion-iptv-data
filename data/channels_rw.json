@@ -1,0 +1,132 @@
+{
+  "version": "1.0.0",
+  "country": "RW",
+  "total_channels": 4,
+  "channels": [
+    {
+      "id": "IsangoTV.rw",
+      "code": "ISA-RW-001",
+      "index": 3459,
+      "tvg_id": null,
+      "tvg_chno": 3559,
+      "name_ar": "Isango TV",
+      "name_en": "Isango TV",
+      "country": "RW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IsiboTV.rw",
+      "code": "ISI-RW-001",
+      "index": 3464,
+      "tvg_id": null,
+      "tvg_chno": 3564,
+      "name_ar": "Isibo TV",
+      "name_en": "Isibo TV",
+      "country": "RW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KC2.rw",
+      "code": "KCX-RW-001",
+      "index": 3694,
+      "tvg_id": null,
+      "tvg_chno": 3794,
+      "name_ar": "KC2",
+      "name_en": "KC2",
+      "country": "RW",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RwandaTV.rw",
+      "code": "RWA-RW-001",
+      "index": 6511,
+      "tvg_id": null,
+      "tvg_chno": 6611,
+      "name_ar": "Rwanda TV",
+      "name_en": "Rwanda TV",
+      "country": "RW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

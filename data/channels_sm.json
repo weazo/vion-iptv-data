@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "country": "SM",
+  "total_channels": 2,
+  "channels": [
+    {
+      "id": "SanMarinoRTV.sm",
+      "code": "SAN-SM-001",
+      "index": 6593,
+      "tvg_id": null,
+      "tvg_chno": 6693,
+      "name_ar": "San Marino RTV",
+      "name_en": "San Marino RTV",
+      "country": "SM",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SanMarinoRTVSport.sm",
+      "code": "SAN-SM-002",
+      "index": 6594,
+      "tvg_id": null,
+      "tvg_chno": 6694,
+      "name_ar": "San Marino RTV Sport",
+      "name_en": "San Marino RTV Sport",
+      "country": "SM",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

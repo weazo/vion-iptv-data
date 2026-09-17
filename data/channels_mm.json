@@ -1,0 +1,475 @@
+{
+  "version": "1.0.0",
+  "country": "MM",
+  "total_channels": 17,
+  "channels": [
+    {
+      "id": "5Plus.mm",
+      "code": "PLU-MM-001",
+      "index": 120,
+      "tvg_id": null,
+      "tvg_chno": 220,
+      "name_ar": "5 Plus",
+      "name_en": "5 Plus",
+      "country": "MM",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mmtvs.exliatycl.online/5plus/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ChannelK.mm",
+      "code": "CHA-MM-001",
+      "index": 1645,
+      "tvg_id": null,
+      "tvg_chno": 1745,
+      "name_ar": "Channel K",
+      "name_en": "Channel K",
+      "country": "MM",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mmtvs.exliatycl.online/channelk/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DVBTV.mm",
+      "code": "DVB-MM-001",
+      "index": 2363,
+      "tvg_id": null,
+      "tvg_chno": 2463,
+      "name_ar": "DVB TV",
+      "name_en": "DVB TV",
+      "country": "MM",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FortuneTV.mm",
+      "code": "FOR-MM-001",
+      "index": 2801,
+      "tvg_id": null,
+      "tvg_chno": 2901,
+      "name_ar": "Fortune TV",
+      "name_en": "Fortune TV",
+      "country": "MM",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HluttawSD.mm",
+      "code": "HLU-MM-001",
+      "index": 3210,
+      "tvg_id": null,
+      "tvg_chno": 3310,
+      "name_ar": "Hluttaw S & D",
+      "name_en": "Hluttaw S & D",
+      "country": "MM",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MEntertainmentChannel.mm",
+      "code": "MEN-MM-001",
+      "index": 4346,
+      "tvg_id": null,
+      "tvg_chno": 4446,
+      "name_ar": "M Entertainment Channel",
+      "name_en": "M Entertainment Channel",
+      "country": "MM",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mmtvs.exliatycl.online/mchannel/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MRTV.mm",
+      "code": "MRT-MM-001",
+      "index": 4540,
+      "tvg_id": null,
+      "tvg_chno": 4640,
+      "name_ar": "MRTV",
+      "name_en": "MRTV",
+      "country": "MM",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://mrtvott.com/cache/MRTV-HD/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MRTVEntertainment.mm",
+      "code": "MRT-MM-002",
+      "index": 4541,
+      "tvg_id": null,
+      "tvg_chno": 4641,
+      "name_ar": "MRTV Entertainment",
+      "name_en": "MRTV Entertainment",
+      "country": "MM",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MRTVFarmer.mm",
+      "code": "MRT-MM-003",
+      "index": 4542,
+      "tvg_id": null,
+      "tvg_chno": 4642,
+      "name_ar": "MRTV Farmer",
+      "name_en": "MRTV Farmer",
+      "country": "MM",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MRTV-FARMER/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MRTVNews.mm",
+      "code": "MRT-MM-004",
+      "index": 4543,
+      "tvg_id": null,
+      "tvg_chno": 4643,
+      "name_ar": "MRTV News",
+      "name_en": "MRTV News",
+      "country": "MM",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MRTVNRC.mm",
+      "code": "MRT-MM-005",
+      "index": 4544,
+      "tvg_id": null,
+      "tvg_chno": 4644,
+      "name_ar": "MRTV NRC",
+      "name_en": "MRTV NRC",
+      "country": "MM",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MRTVSports.mm",
+      "code": "MRT-MM-006",
+      "index": 4545,
+      "tvg_id": null,
+      "tvg_chno": 4645,
+      "name_ar": "MRTV Sports",
+      "name_en": "MRTV Sports",
+      "country": "MM",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MWD.mm",
+      "code": "MWD-MM-001",
+      "index": 4659,
+      "tvg_id": null,
+      "tvg_chno": 4759,
+      "name_ar": "MWD",
+      "name_en": "MWD",
+      "country": "MM",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://203.81.84.130/hls/mwd/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MWDDocumentary.mm",
+      "code": "MWD-MM-002",
+      "index": 4660,
+      "tvg_id": null,
+      "tvg_chno": 4760,
+      "name_ar": "MWD Documentary",
+      "name_en": "MWD Documentary",
+      "country": "MM",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MWDMovies.mm",
+      "code": "MWD-MM-003",
+      "index": 4661,
+      "tvg_id": null,
+      "tvg_chno": 4761,
+      "name_ar": "MWD Movies",
+      "name_en": "MWD Movies",
+      "country": "MM",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://203.81.84.130/hls/mwd_movie/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MWDVariety.mm",
+      "code": "MWD-MM-004",
+      "index": 4662,
+      "tvg_id": null,
+      "tvg_chno": 4762,
+      "name_ar": "MWD Variety",
+      "name_en": "MWD Variety",
+      "country": "MM",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MyanmarInternationalTV.mm",
+      "code": "MYA-MM-001",
+      "index": 4664,
+      "tvg_id": null,
+      "tvg_chno": 4764,
+      "name_ar": "Myanmar International TV",
+      "name_en": "Myanmar International TV",
+      "country": "MM",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mrtvott.com/cache/MITV/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "country": "BZ",
+  "total_channels": 2,
+  "channels": [
+    {
+      "id": "FlexStudioRadioTV.bz",
+      "code": "FLE-BZ-001",
+      "index": 2764,
+      "tvg_id": null,
+      "tvg_chno": 2864,
+      "name_ar": "Flex Studio Radio TV",
+      "name_en": "Flex Studio Radio TV",
+      "country": "BZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GuadalupeMedia.bz",
+      "code": "GUA-BZ-001",
+      "index": 3042,
+      "tvg_id": null,
+      "tvg_chno": 3142,
+      "name_ar": "Guadalupe Media",
+      "name_en": "Guadalupe Media",
+      "country": "BZ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

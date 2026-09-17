@@ -1,0 +1,97 @@
+{
+  "version": "1.0.0",
+  "country": "ET",
+  "total_channels": 3,
+  "channels": [
+    {
+      "id": "AddisTV.et",
+      "code": "ADD-ET-001",
+      "index": 258,
+      "tvg_id": null,
+      "tvg_chno": 358,
+      "name_ar": "Addis TV",
+      "name_en": "Addis TV",
+      "country": "ET",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MerejaTV.et",
+      "code": "MER-ET-001",
+      "index": 4351,
+      "tvg_id": null,
+      "tvg_chno": 4451,
+      "name_ar": "Mereja TV",
+      "name_en": "Mereja TV",
+      "country": "ET",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NesihaTV.et",
+      "code": "NES-ET-001",
+      "index": 4785,
+      "tvg_id": null,
+      "tvg_chno": 4885,
+      "name_ar": "Nesiha TV",
+      "name_en": "Nesiha TV",
+      "country": "ET",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.cisk.tech/nasihatv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "country": "VC",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "SVGTV.vc",
+      "code": "SVG-VC-001",
+      "index": 7216,
+      "tvg_id": null,
+      "tvg_chno": 7316,
+      "name_ar": "SVG TV",
+      "name_en": "SVG TV",
+      "country": "VC",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

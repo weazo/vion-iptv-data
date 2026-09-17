@@ -1,0 +1,553 @@
+{
+  "version": "1.0.0",
+  "country": "PS",
+  "total_channels": 19,
+  "channels": [
+    {
+      "id": "AjyalTV.ps",
+      "code": "AJY-PS-001",
+      "index": 328,
+      "tvg_id": null,
+      "tvg_chno": 428,
+      "name_ar": "Ajyal TV",
+      "name_en": "Ajyal TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlMadina.ps",
+      "code": "ALM-PS-001",
+      "index": 433,
+      "tvg_id": null,
+      "tvg_chno": 533,
+      "name_ar": "Al Madina",
+      "name_en": "Al Madina",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlNajahNews.ps",
+      "code": "ALN-PS-001",
+      "index": 448,
+      "tvg_id": null,
+      "tvg_chno": 548,
+      "name_ar": "Al Najah News",
+      "name_en": "Al Najah News",
+      "country": "PS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FalastiniTV.ps",
+      "code": "FAL-PS-001",
+      "index": 2662,
+      "tvg_id": null,
+      "tvg_chno": 2762,
+      "name_ar": "Falastini TV",
+      "name_en": "Falastini TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HolyQuranRadioNablus.ps",
+      "code": "HOL-PS-001",
+      "index": 3227,
+      "tvg_id": null,
+      "tvg_chno": 3327,
+      "name_ar": "Holy Quran Radio Nablus",
+      "name_en": "Holy Quran Radio Nablus",
+      "country": "PS",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KolalnasTV.ps",
+      "code": "KOL-PS-001",
+      "index": 3797,
+      "tvg_id": null,
+      "tvg_chno": 3897,
+      "name_ar": "Kolalnas TV",
+      "name_en": "Kolalnas TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://htvint.mada.ps/kolalnas/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MaanTV.ps",
+      "code": "MAA-PS-001",
+      "index": 4134,
+      "tvg_id": null,
+      "tvg_chno": 4234,
+      "name_ar": "Ma'an TV",
+      "name_en": "Ma'an TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://htvmada.mada.ps:4443/maannews/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MusawaChannel.ps",
+      "code": "MUS-PS-001",
+      "index": 4630,
+      "tvg_id": null,
+      "tvg_chno": 4730,
+      "name_ar": "Musawa Channel",
+      "name_en": "Musawa Channel",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://pbc.furrera.ps/musawahd/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NablusTV.ps",
+      "code": "NAB-PS-001",
+      "index": 4684,
+      "tvg_id": null,
+      "tvg_chno": 4784,
+      "name_ar": "Nablus TV",
+      "name_en": "Nablus TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://htvmada.mada.ps:8888/nabluslive/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PalestineEdu.ps",
+      "code": "PAL-PS-001",
+      "index": 5231,
+      "tvg_id": null,
+      "tvg_chno": 5331,
+      "name_ar": "Palestine Edu",
+      "name_en": "Palestine Edu",
+      "country": "PS",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://pbc.furrera.ps/PalestineEDU/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PalestineMubasher.ps",
+      "code": "PAL-PS-002",
+      "index": 5232,
+      "tvg_id": null,
+      "tvg_chno": 5332,
+      "name_ar": "Palestine Mubasher",
+      "name_en": "Palestine Mubasher",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://pbc.furrera.ps/palestinelivehd/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PalestineSatelliteChannel.ps",
+      "code": "PAL-PS-003",
+      "index": 5233,
+      "tvg_id": null,
+      "tvg_chno": 5333,
+      "name_ar": "Palestine Satellite Channel",
+      "name_en": "Palestine Satellite Channel",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PalestineToday.ps",
+      "code": "PAL-PS-004",
+      "index": 5234,
+      "tvg_id": null,
+      "tvg_chno": 5334,
+      "name_ar": "Palestine Today",
+      "name_en": "Palestine Today",
+      "country": "PS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioAlbaladTV.ps",
+      "code": "RAD-PS-001",
+      "index": 5940,
+      "tvg_id": null,
+      "tvg_chno": 6040,
+      "name_ar": "Radio Albalad TV",
+      "name_en": "Radio Albalad TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RajeenTV.ps",
+      "code": "RAJ-PS-001",
+      "index": 6089,
+      "tvg_id": null,
+      "tvg_chno": 6189,
+      "name_ar": "Rajeen TV",
+      "name_en": "Rajeen TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SerajTV.ps",
+      "code": "SER-PS-001",
+      "index": 6703,
+      "tvg_id": null,
+      "tvg_chno": 6803,
+      "name_ar": "Seraj TV",
+      "name_en": "Seraj TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
+          "quality": "1080i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ShababFM.ps",
+      "code": "SHA-PS-001",
+      "index": 6734,
+      "tvg_id": null,
+      "tvg_chno": 6834,
+      "name_ar": "Shabab FM",
+      "name_en": "Shabab FM",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WatarTV.ps",
+      "code": "WAT-PS-001",
+      "index": 8773,
+      "tvg_id": null,
+      "tvg_chno": 8873,
+      "name_ar": "Watar TV",
+      "name_en": "Watar TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://htvint.mada.ps:8889/orient/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://htvint.mada.ps/orient/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WattanTV.ps",
+      "code": "WAT-PS-002",
+      "index": 8780,
+      "tvg_id": null,
+      "tvg_chno": 8880,
+      "name_ar": "Wattan TV",
+      "name_en": "Wattan TV",
+      "country": "PS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

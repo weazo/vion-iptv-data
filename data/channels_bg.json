@@ -1,0 +1,1923 @@
+{
+  "version": "1.0.0",
+  "country": "BG",
+  "total_channels": 65,
+  "channels": [
+    {
+      "id": "100AutoMotoTV.bg",
+      "code": "AUT-BG-001",
+      "index": 3,
+      "tvg_id": null,
+      "tvg_chno": 103,
+      "name_ar": "100% Auto Moto TV",
+      "name_en": "100% Auto Moto TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "auto",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8",
+          "quality": "406p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "78TV.bg",
+      "code": "TVX-BG-001",
+      "index": 130,
+      "tvg_id": null,
+      "tvg_chno": 230,
+      "name_ar": "7/8 TV",
+      "name_en": "7/8 TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0cn",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AgroTV.bg",
+      "code": "AGR-BG-001",
+      "index": 314,
+      "tvg_id": null,
+      "tvg_chno": 414,
+      "name_ar": "Agro TV",
+      "name_en": "Agro TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BloombergTVBulgaria.bg",
+      "code": "BLO-BG-001",
+      "index": 1066,
+      "tvg_id": null,
+      "tvg_chno": 1166,
+      "name_ar": "Bloomberg TV Bulgaria",
+      "name_en": "Bloomberg TV Bulgaria",
+      "country": "BG",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a04m",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BNT1.bg",
+      "code": "BNT-BG-001",
+      "index": 1079,
+      "tvg_id": null,
+      "tvg_chno": 1179,
+      "name_ar": "BNT 1",
+      "name_en": "BNT 1",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/BNT1_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a046",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BNT2.bg",
+      "code": "BNT-BG-002",
+      "index": 1080,
+      "tvg_id": null,
+      "tvg_chno": 1180,
+      "name_ar": "BNT 2",
+      "name_en": "BNT 2",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/BNT2_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a049",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BNT3.bg",
+      "code": "BNT-BG-003",
+      "index": 1081,
+      "tvg_id": null,
+      "tvg_chno": 1181,
+      "name_ar": "BNT 3",
+      "name_en": "BNT 3",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/BNT3_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a03x",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BNT4.bg",
+      "code": "BNT-BG-004",
+      "index": 1082,
+      "tvg_id": null,
+      "tvg_chno": 1182,
+      "name_ar": "BNT 4",
+      "name_en": "BNT 4",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/BNT4_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a04u",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BOXTV.bg",
+      "code": "BOX-BG-001",
+      "index": 1122,
+      "tvg_id": null,
+      "tvg_chno": 1222,
+      "name_ar": "BOX TV",
+      "name_en": "BOX TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0an",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "bTV.bg",
+      "code": "BTV-BG-001",
+      "index": 1169,
+      "tvg_id": null,
+      "tvg_chno": 1269,
+      "name_ar": "bTV",
+      "name_en": "bTV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a03w",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://stream.mcquack.net/35/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "bTVAction.bg",
+      "code": "BTV-BG-002",
+      "index": 1170,
+      "tvg_id": null,
+      "tvg_chno": 1270,
+      "name_ar": "bTV Action",
+      "name_en": "bTV Action",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a04n",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "bTVCinema.bg",
+      "code": "BTV-BG-003",
+      "index": 1171,
+      "tvg_id": null,
+      "tvg_chno": 1271,
+      "name_ar": "bTV Cinema",
+      "name_en": "bTV Cinema",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a04i",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "bTVComedy.bg",
+      "code": "BTV-BG-004",
+      "index": 1172,
+      "tvg_id": null,
+      "tvg_chno": 1272,
+      "name_ar": "bTV Comedy",
+      "name_en": "bTV Comedy",
+      "country": "BG",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a04k",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "bTVLady.bg",
+      "code": "BTV-BG-005",
+      "index": 1173,
+      "tvg_id": null,
+      "tvg_chno": 1273,
+      "name_ar": "bTV Lady",
+      "name_en": "bTV Lady",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a05i",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BulgariaOnAir.bg",
+      "code": "BUL-BG-001",
+      "index": 1184,
+      "tvg_id": null,
+      "tvg_chno": 1284,
+      "name_ar": "Bulgaria On Air",
+      "name_en": "Bulgaria On Air",
+      "country": "BG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a05x",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "cinebox.bg",
+      "code": "CIN-BG-001",
+      "index": 1710,
+      "tvg_id": null,
+      "tvg_chno": 1810,
+      "name_ar": "cine.box",
+      "name_en": "cine.box",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://212.70.131.37:8000/play/a08b",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CineStar1Bulgaria.bg",
+      "code": "CIN-BG-002",
+      "index": 1742,
+      "tvg_id": null,
+      "tvg_chno": 1842,
+      "name_ar": "CineStar 1 Bulgaria",
+      "name_en": "CineStar 1 Bulgaria",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a05h",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CityTV.bg",
+      "code": "CIT-BG-001",
+      "index": 1783,
+      "tvg_id": null,
+      "tvg_chno": 1883,
+      "name_ar": "City TV",
+      "name_en": "City TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CodeFashionTV.bg",
+      "code": "COD-BG-001",
+      "index": 1866,
+      "tvg_id": null,
+      "tvg_chno": 1966,
+      "name_ar": "Code Fashion TV",
+      "name_en": "Code Fashion TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn2.invivo.bg/Codefashion_5500/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CodeHealthTV.bg",
+      "code": "COD-BG-002",
+      "index": 1867,
+      "tvg_id": null,
+      "tvg_chno": 1967,
+      "name_ar": "Code Health TV",
+      "name_en": "Code Health TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn2.invivo.bg/codehealth_test/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Diema.bg",
+      "code": "DIE-BG-001",
+      "index": 2201,
+      "tvg_id": null,
+      "tvg_chno": 2301,
+      "name_ar": "Diema",
+      "name_en": "Diema",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a045",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DiemaFamily.bg",
+      "code": "DIE-BG-002",
+      "index": 2202,
+      "tvg_id": null,
+      "tvg_chno": 2302,
+      "name_ar": "Diema Family",
+      "name_en": "Diema Family",
+      "country": "BG",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a047",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DisneyChannel.bg",
+      "code": "DIS-BG-001",
+      "index": 2231,
+      "tvg_id": null,
+      "tvg_chno": 2331,
+      "name_ar": "Disney Channel",
+      "name_en": "Disney Channel",
+      "country": "BG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a059",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DSTV.bg",
+      "code": "DST-BG-001",
+      "index": 2331,
+      "tvg_id": null,
+      "tvg_chno": 2431,
+      "name_ar": "DSTV",
+      "name_en": "DSTV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://46.249.95.140:8081/hls/data.m3u8",
+          "quality": "614p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EKids.bg",
+      "code": "EKI-BG-001",
+      "index": 2419,
+      "tvg_id": null,
+      "tvg_chno": 2519,
+      "name_ar": "EKids",
+      "name_en": "EKids",
+      "country": "BG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://78.108.244.134:8899/ekids",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Eurocom.bg",
+      "code": "EUR-BG-001",
+      "index": 2590,
+      "tvg_id": null,
+      "tvg_chno": 2690,
+      "name_ar": "Eurocom",
+      "name_en": "Eurocom",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.ecomservice.bg/hls/stream.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "EuronewsBulgaria.bg",
+      "code": "EUR-BG-002",
+      "index": 2594,
+      "tvg_id": null,
+      "tvg_chno": 2694,
+      "name_ar": "Euronews Bulgaria",
+      "name_en": "Euronews Bulgaria",
+      "country": "BG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a05e",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "H2.bg",
+      "code": "HXX-BG-001",
+      "index": 3074,
+      "tvg_id": null,
+      "tvg_chno": 3174,
+      "name_ar": "H2",
+      "name_en": "H2",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a03r",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "History.bg",
+      "code": "HIS-BG-001",
+      "index": 3171,
+      "tvg_id": null,
+      "tvg_chno": 3271,
+      "name_ar": "History",
+      "name_en": "History",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0c1",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HitMixMusic.bg",
+      "code": "HIT-BG-001",
+      "index": 3182,
+      "tvg_id": null,
+      "tvg_chno": 3282,
+      "name_ar": "Hit Mix Music",
+      "name_en": "Hit Mix Music",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0cl",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HopeChannelBulgaria.bg",
+      "code": "HOP-BG-001",
+      "index": 3239,
+      "tvg_id": null,
+      "tvg_chno": 3339,
+      "name_ar": "Hope Channel Bulgaria",
+      "name_en": "Hope Channel Bulgaria",
+      "country": "BG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ID.bg",
+      "code": "IDX-BG-001",
+      "index": 3328,
+      "tvg_id": null,
+      "tvg_chno": 3428,
+      "name_ar": "ID",
+      "name_en": "ID",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0cf",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KinoNova.bg",
+      "code": "KIN-BG-001",
+      "index": 3753,
+      "tvg_id": null,
+      "tvg_chno": 3853,
+      "name_ar": "Kino Nova",
+      "name_en": "Kino Nova",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a041",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LightChannel.bg",
+      "code": "LIG-BG-001",
+      "index": 4022,
+      "tvg_id": null,
+      "tvg_chno": 4122,
+      "name_ar": "Light Channel",
+      "name_en": "Light Channel",
+      "country": "BG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MagicTV.bg",
+      "code": "MAG-BG-001",
+      "index": 4153,
+      "tvg_id": null,
+      "tvg_chno": 4253,
+      "name_ar": "Magic TV",
+      "name_en": "Magic TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://bss1.neterra.tv/magictv/magictv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MaxSport1.bg",
+      "code": "MAX-BG-001",
+      "index": 4264,
+      "tvg_id": null,
+      "tvg_chno": 4364,
+      "name_ar": "Max Sport 1",
+      "name_en": "Max Sport 1",
+      "country": "BG",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0as",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MaxSport2.bg",
+      "code": "MAX-BG-002",
+      "index": 4265,
+      "tvg_id": null,
+      "tvg_chno": 4365,
+      "name_ar": "Max Sport 2",
+      "name_en": "Max Sport 2",
+      "country": "BG",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0at",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MaxSport3.bg",
+      "code": "MAX-BG-003",
+      "index": 4266,
+      "tvg_id": null,
+      "tvg_chno": 4366,
+      "name_ar": "Max Sport 3",
+      "name_en": "Max Sport 3",
+      "country": "BG",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0ar",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MaxSport4.bg",
+      "code": "MAX-BG-004",
+      "index": 4267,
+      "tvg_id": null,
+      "tvg_chno": 4367,
+      "name_ar": "Max Sport 4",
+      "name_en": "Max Sport 4",
+      "country": "BG",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a05n",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MovieStar.bg",
+      "code": "MOV-BG-001",
+      "index": 4524,
+      "tvg_id": null,
+      "tvg_chno": 4624,
+      "name_ar": "Movie Star",
+      "name_en": "Movie Star",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://85.14.32.26:8800/udp/239.100.10.160:5000",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NationalGeographic.bg",
+      "code": "NAT-BG-001",
+      "index": 4725,
+      "tvg_id": null,
+      "tvg_chno": 4825,
+      "name_ar": "National Geographic",
+      "name_en": "National Geographic",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0ct",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NationalGeographicWild.bg",
+      "code": "NAT-BG-002",
+      "index": 4727,
+      "tvg_id": null,
+      "tvg_chno": 4827,
+      "name_ar": "National Geographic Wild",
+      "name_en": "National Geographic Wild",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0cu",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Nickelodeon.bg",
+      "code": "NIC-BG-001",
+      "index": 4866,
+      "tvg_id": null,
+      "tvg_chno": 4966,
+      "name_ar": "Nickelodeon",
+      "name_en": "Nickelodeon",
+      "country": "BG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a056",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Nostalgia.bg",
+      "code": "NOS-BG-001",
+      "index": 4932,
+      "tvg_id": null,
+      "tvg_chno": 5032,
+      "name_ar": "Nostalgia",
+      "name_en": "Nostalgia",
+      "country": "BG",
+      "language": "unknown",
+      "category": "classic",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a03q",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Nova.bg",
+      "code": "NOV-BG-001",
+      "index": 4948,
+      "tvg_id": null,
+      "tvg_chno": 5048,
+      "name_ar": "Nova",
+      "name_en": "Nova",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a03l",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://176.61.157.250/NovaTV/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Nova",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://40.160.24.55/Nova/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NovaNews.bg",
+      "code": "NOV-BG-002",
+      "index": 4950,
+      "tvg_id": null,
+      "tvg_chno": 5050,
+      "name_ar": "Nova News",
+      "name_en": "Nova News",
+      "country": "BG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a063",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PlovdivOrthodoxTV.bg",
+      "code": "PLO-BG-001",
+      "index": 5398,
+      "tvg_id": null,
+      "tvg_chno": 5498,
+      "name_ar": "Plovdiv Orthodox TV",
+      "name_en": "Plovdiv Orthodox TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RING.bg",
+      "code": "RIN-BG-001",
+      "index": 6287,
+      "tvg_id": null,
+      "tvg_chno": 6387,
+      "name_ar": "RING",
+      "name_en": "RING",
+      "country": "BG",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a06e",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RMTV.bg",
+      "code": "RMT-BG-001",
+      "index": 6300,
+      "tvg_id": null,
+      "tvg_chno": 6400,
+      "name_ar": "RMTV",
+      "name_en": "RMTV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+          "quality": "288p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StarChannel.bg",
+      "code": "STA-BG-001",
+      "index": 7037,
+      "tvg_id": null,
+      "tvg_chno": 7137,
+      "name_ar": "Star Channel",
+      "name_en": "Star Channel",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0c9",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://livestar.siliconweb.com/starvod/star4/star4.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "StarCrime.bg",
+      "code": "STA-BG-002",
+      "index": 7042,
+      "tvg_id": null,
+      "tvg_chno": 7142,
+      "name_ar": "Star Crime",
+      "name_en": "Star Crime",
+      "country": "BG",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0cs",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "StarLife.bg",
+      "code": "STA-BG-003",
+      "index": 7048,
+      "tvg_id": null,
+      "tvg_chno": 7148,
+      "name_ar": "Star Life",
+      "name_en": "Star Life",
+      "country": "BG",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a0cr",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TheVoice.bg",
+      "code": "THE-BG-001",
+      "index": 7673,
+      "tvg_id": null,
+      "tvg_chno": 7773,
+      "name_ar": "The Voice",
+      "name_en": "The Voice",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://bss1.neterra.tv/thevoice/thevoice.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ThisisBulgariaHD.bg",
+      "code": "THI-BG-001",
+      "index": 7683,
+      "tvg_id": null,
+      "tvg_chno": 7783,
+      "name_ar": "This is Bulgaria HD",
+      "name_en": "This is Bulgaria HD",
+      "country": "BG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer103.neterra.tv/thisisbulgaria/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TiankovFolk.bg",
+      "code": "TIA-BG-001",
+      "index": 7691,
+      "tvg_id": null,
+      "tvg_chno": 7791,
+      "name_ar": "Tiankov Folk",
+      "name_en": "Tiankov Folk",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer103.neterra.tv/tiankov-folk/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TiankovOrientFolk.bg",
+      "code": "TIA-BG-002",
+      "index": 7692,
+      "tvg_id": null,
+      "tvg_chno": 7792,
+      "name_ar": "Tiankov Orient Folk",
+      "name_en": "Tiankov Orient Folk",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer103.neterra.tv/tiankov-orient/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TravelTV.bg",
+      "code": "TRA-BG-001",
+      "index": 7835,
+      "tvg_id": null,
+      "tvg_chno": 7935,
+      "name_ar": "Travel TV",
+      "name_en": "Travel TV",
+      "country": "BG",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer103.neterra.tv/travel/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TV1000.bg",
+      "code": "TVX-BG-002",
+      "index": 7926,
+      "tvg_id": null,
+      "tvg_chno": 8026,
+      "name_ar": "TV1000",
+      "name_en": "TV1000",
+      "country": "BG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVRodina.bg",
+      "code": "TVR-BG-001",
+      "index": 8291,
+      "tvg_id": null,
+      "tvg_chno": 8391,
+      "name_ar": "TV Rodina",
+      "name_en": "TV Rodina",
+      "country": "BG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/RodinaTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVSpravedlivaBulgariya.bg",
+      "code": "TVS-BG-001",
+      "index": 8345,
+      "tvg_id": null,
+      "tvg_chno": 8445,
+      "name_ar": "TV Spravedliva Bulgariya",
+      "name_en": "TV Spravedliva Bulgariya",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.tvsb.bg/112.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVZagora.bg",
+      "code": "TVZ-BG-001",
+      "index": 8399,
+      "tvg_id": null,
+      "tvg_chno": 8499,
+      "name_ar": "TV Zagora",
+      "name_en": "TV Zagora",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://zagoratv.ddns.net:8080/tvzagora.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ViasatExplore.bg",
+      "code": "VIA-BG-001",
+      "index": 8622,
+      "tvg_id": null,
+      "tvg_chno": 8722,
+      "name_ar": "Viasat Explore",
+      "name_en": "Viasat Explore",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViasatHistory.bg",
+      "code": "VIA-BG-002",
+      "index": 8624,
+      "tvg_id": null,
+      "tvg_chno": 8724,
+      "name_ar": "Viasat History",
+      "name_en": "Viasat History",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViasatNature.bg",
+      "code": "VIA-BG-003",
+      "index": 8629,
+      "tvg_id": null,
+      "tvg_chno": 8729,
+      "name_ar": "Viasat Nature",
+      "name_en": "Viasat Nature",
+      "country": "BG",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VivacomArena.bg",
+      "code": "VIV-BG-001",
+      "index": 8688,
+      "tvg_id": null,
+      "tvg_chno": 8788,
+      "name_ar": "Vivacom Arena",
+      "name_en": "Vivacom Arena",
+      "country": "BG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a053",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,1789 @@
+{
+  "version": "1.0.0",
+  "country": "AE",
+  "total_channels": 63,
+  "channels": [
+    {
+      "id": "AjmanTV.ae",
+      "code": "AJM-AE-001",
+      "index": 326,
+      "tvg_id": null,
+      "tvg_chno": 426,
+      "name_ar": "Ajman TV",
+      "name_en": "Ajman TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Alarabiya.ae",
+      "code": "ALA-AE-001",
+      "index": 350,
+      "tvg_id": null,
+      "tvg_chno": 450,
+      "name_ar": "Alarabiya",
+      "name_en": "Alarabiya",
+      "country": "AE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://185.9.2.18/chid_146/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlArabiyaBusiness.ae",
+      "code": "ALA-AE-002",
+      "index": 351,
+      "tvg_id": null,
+      "tvg_chno": 451,
+      "name_ar": "Al Arabiya Business",
+      "name_en": "Al Arabiya Business",
+      "country": "AE",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlArabiyaPrograms.ae",
+      "code": "ALA-AE-003",
+      "index": 353,
+      "tvg_id": null,
+      "tvg_chno": 453,
+      "name_ar": "Al Arabiya Programs",
+      "name_en": "Al Arabiya Programs",
+      "country": "AE",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8",
+          "quality": "1280p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlQamarTV.ae",
+      "code": "ALQ-AE-001",
+      "index": 454,
+      "tvg_id": null,
+      "tvg_chno": 554,
+      "name_ar": "Al Qamar TV",
+      "name_en": "Al Qamar TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlShallalTV.ae",
+      "code": "ALS-AE-001",
+      "index": 468,
+      "tvg_id": null,
+      "tvg_chno": 568,
+      "name_ar": "Al Shallal TV",
+      "name_en": "Al Shallal TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlSharqiyaMinKabla.ae",
+      "code": "ALS-AE-002",
+      "index": 470,
+      "tvg_id": null,
+      "tvg_chno": 570,
+      "name_ar": "Al Sharqiya Min Kabla",
+      "name_en": "Al Sharqiya Min Kabla",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlWoustaTV.ae",
+      "code": "ALW-AE-001",
+      "index": 494,
+      "tvg_id": null,
+      "tvg_chno": 594,
+      "name_ar": "Al Wousta TV",
+      "name_en": "Al Wousta TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlYaumTV.ae",
+      "code": "ALY-AE-001",
+      "index": 495,
+      "tvg_id": null,
+      "tvg_chno": 595,
+      "name_ar": "Al Yaum TV",
+      "name_en": "Al Yaum TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNBCArabiya.ae",
+      "code": "CNB-AE-001",
+      "index": 1843,
+      "tvg_id": null,
+      "tvg_chno": 1943,
+      "name_ar": "CNBC Arabiya",
+      "name_en": "CNBC Arabiya",
+      "country": "AE",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DubaiTVInternational.ae",
+      "code": "DUB-AE-001",
+      "index": 2337,
+      "tvg_id": null,
+      "tvg_chno": 2437,
+      "name_ar": "Dubai TV International",
+      "name_en": "Dubai TV International",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://185.9.2.18/chid_139/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FujairahTV.ae",
+      "code": "FUJ-AE-001",
+      "index": 2845,
+      "tvg_id": null,
+      "tvg_chno": 2945,
+      "name_ar": "Fujairah TV",
+      "name_en": "Fujairah TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MBC1.ae",
+      "code": "MBC-AE-001",
+      "index": 4273,
+      "tvg_id": null,
+      "tvg_chno": 4373,
+      "name_ar": "MBC 1",
+      "name_en": "MBC 1",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBC4.ae",
+      "code": "MBC-AE-002",
+      "index": 4277,
+      "tvg_id": null,
+      "tvg_chno": 4377,
+      "name_ar": "MBC 4",
+      "name_en": "MBC 4",
+      "country": "AE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBC5.ae",
+      "code": "MBC-AE-003",
+      "index": 4278,
+      "tvg_id": null,
+      "tvg_chno": 4378,
+      "name_ar": "MBC 5",
+      "name_en": "MBC 5",
+      "country": "AE",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBCBollywood.ae",
+      "code": "MBC-AE-004",
+      "index": 4280,
+      "tvg_id": null,
+      "tvg_chno": 4380,
+      "name_ar": "MBC Bollywood",
+      "name_en": "MBC Bollywood",
+      "country": "AE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBCDrama.ae",
+      "code": "MBC-AE-005",
+      "index": 4282,
+      "tvg_id": null,
+      "tvg_chno": 4382,
+      "name_ar": "MBC Drama",
+      "name_en": "MBC Drama",
+      "country": "AE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBCFM.ae",
+      "code": "MBC-AE-006",
+      "index": 4284,
+      "tvg_id": null,
+      "tvg_chno": 4384,
+      "name_ar": "MBC FM",
+      "name_en": "MBC FM",
+      "country": "AE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBCPersia.ae",
+      "code": "MBC-AE-007",
+      "index": 4294,
+      "tvg_id": null,
+      "tvg_chno": 4394,
+      "name_ar": "MBC Persia",
+      "name_en": "MBC Persia",
+      "country": "AE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://hls.mbcpersia.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NourTV.ae",
+      "code": "NOU-AE-001",
+      "index": 4947,
+      "tvg_id": null,
+      "tvg_chno": 5047,
+      "name_ar": "Nour TV",
+      "name_en": "Nour TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OSNMoviesAction.ae",
+      "code": "OSN-AE-001",
+      "index": 5191,
+      "tvg_id": null,
+      "tvg_chno": 5291,
+      "name_ar": "OSN Movies Action",
+      "name_en": "OSN Movies Action",
+      "country": "AE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://116.90.120.151:8000/play/a0ax/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PeaceTVBangla.ae",
+      "code": "PEA-AE-001",
+      "index": 5306,
+      "tvg_id": null,
+      "tvg_chno": 5406,
+      "name_ar": "Peace TV Bangla",
+      "name_en": "Peace TV Bangla",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PeaceTVChinese.ae",
+      "code": "PEA-AE-002",
+      "index": 5307,
+      "tvg_id": null,
+      "tvg_chno": 5407,
+      "name_ar": "Peace TV Chinese",
+      "name_en": "Peace TV Chinese",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PeaceTVEnglish.ae",
+      "code": "PEA-AE-003",
+      "index": 5308,
+      "tvg_id": null,
+      "tvg_chno": 5408,
+      "name_ar": "Peace TV English",
+      "name_en": "Peace TV English",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PeaceTVUrdu.ae",
+      "code": "PEA-AE-004",
+      "index": 5309,
+      "tvg_id": null,
+      "tvg_chno": 5409,
+      "name_ar": "Peace TV Urdu",
+      "name_en": "Peace TV Urdu",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PMC.ae",
+      "code": "PMC-AE-001",
+      "index": 5681,
+      "tvg_id": null,
+      "tvg_chno": 5781,
+      "name_ar": "PMC",
+      "name_en": "PMC",
+      "country": "AE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://pmchls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PMCRoyale.ae",
+      "code": "PMC-AE-002",
+      "index": 5682,
+      "tvg_id": null,
+      "tvg_chno": 5782,
+      "name_ar": "PMC Royale",
+      "name_en": "PMC Royale",
+      "country": "AE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Pulse95Radio.ae",
+      "code": "PUL-AE-001",
+      "index": 5848,
+      "tvg_id": null,
+      "tvg_chno": 5948,
+      "name_ar": "Pulse95 Radio",
+      "name_en": "Pulse95 Radio",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sharjah2.ae",
+      "code": "SHA-AE-001",
+      "index": 6752,
+      "tvg_id": null,
+      "tvg_chno": 6852,
+      "name_ar": "Sharjah 2",
+      "name_en": "Sharjah 2",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SharjahRadio.ae",
+      "code": "SHA-AE-002",
+      "index": 6753,
+      "tvg_id": null,
+      "tvg_chno": 6853,
+      "name_ar": "Sharjah Radio",
+      "name_en": "Sharjah Radio",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SharjahRadioQuran.ae",
+      "code": "SHA-AE-003",
+      "index": 6754,
+      "tvg_id": null,
+      "tvg_chno": 6854,
+      "name_ar": "Sharjah Radio Quran",
+      "name_en": "Sharjah Radio Quran",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SharjahSports.ae",
+      "code": "SHA-AE-004",
+      "index": 6755,
+      "tvg_id": null,
+      "tvg_chno": 6855,
+      "name_ar": "Sharjah Sports",
+      "name_en": "Sharjah Sports",
+      "country": "AE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SharjahTV.ae",
+      "code": "SHA-AE-005",
+      "index": 6756,
+      "tvg_id": null,
+      "tvg_chno": 6856,
+      "name_ar": "Sharjah TV",
+      "name_en": "Sharjah TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SkyNewsArabia.ae",
+      "code": "SKY-AE-001",
+      "index": 6846,
+      "tvg_id": null,
+      "tvg_chno": 6946,
+      "name_ar": "Sky News Arabia",
+      "name_en": "Sky News Arabia",
+      "country": "AE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SkyNewsArabiaVertical.ae",
+      "code": "SKY-AE-002",
+      "index": 6847,
+      "tvg_id": null,
+      "tvg_chno": 6947,
+      "name_ar": "Sky News Arabia Vertical",
+      "name_en": "Sky News Arabia Vertical",
+      "country": "AE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+          "quality": "1280p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SpacetoonArabic.ae",
+      "code": "SPA-AE-001",
+      "index": 6985,
+      "tvg_id": null,
+      "tvg_chno": 7085,
+      "name_ar": "Spacetoon Arabic",
+      "name_en": "Spacetoon Arabic",
+      "country": "AE",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WatarRadio.ae",
+      "code": "WAT-AE-001",
+      "index": 8772,
+      "tvg_id": null,
+      "tvg_chno": 8872,
+      "name_ar": "Watar Radio",
+      "name_en": "Watar Radio",
+      "country": "AE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ZeeAlwan.ae",
+      "code": "ZEE-AE-001",
+      "index": 8984,
+      "tvg_id": null,
+      "tvg_chno": 9084,
+      "name_ar": "Zee Alwan",
+      "name_en": "Zee Alwan",
+      "country": "AE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "cartoonnetworkarabic",
+      "code": "CAR-AE-001",
+      "index": 9829,
+      "tvg_id": null,
+      "tvg_chno": 9929,
+      "name_ar": "Cartoon Network Arabic",
+      "name_en": "Cartoon Network Arabic",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "mbc2",
+      "code": "MBC-AE-008",
+      "index": 9830,
+      "tvg_id": null,
+      "tvg_chno": 9930,
+      "name_ar": "MBC 2 Ⓢ",
+      "name_en": "MBC 2 Ⓢ",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/n9mSHuP.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://37.122.156.107:4000/play/a07g/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "mbc3",
+      "code": "MBC-AE-009",
+      "index": 9831,
+      "tvg_id": null,
+      "tvg_chno": 9931,
+      "name_ar": "MBC 3",
+      "name_en": "MBC 3",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/PVt8OPN.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "mbcaction",
+      "code": "MBC-AE-010",
+      "index": 9832,
+      "tvg_id": null,
+      "tvg_chno": 9932,
+      "name_ar": "MBC Action Ⓢ",
+      "name_en": "MBC Action Ⓢ",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/OWZAghw.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://37.122.156.107:4000/play/a07h/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "mbcmax",
+      "code": "MBC-AE-011",
+      "index": 9833,
+      "tvg_id": null,
+      "tvg_chno": 9933,
+      "name_ar": "MBC Max Ⓢ",
+      "name_en": "MBC Max Ⓢ",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/A02CptP.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://37.122.156.107:4000/play/a07i/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "wanasah",
+      "code": "WAN-AE-001",
+      "index": 9834,
+      "tvg_id": null,
+      "tvg_chno": 9934,
+      "name_ar": "Wanasah",
+      "name_en": "Wanasah",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/nLtiXNf.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "baynounah",
+      "code": "BAY-AE-001",
+      "index": 9835,
+      "tvg_id": null,
+      "tvg_chno": 9935,
+      "name_ar": "Baynounah TV",
+      "name_en": "Baynounah TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/60/Baynounah_tv_2023.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "alaan",
+      "code": "ALA-AE-004",
+      "index": 9836,
+      "tvg_id": null,
+      "tvg_chno": 9936,
+      "name_ar": "Al Aan TV",
+      "name_en": "Al Aan TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://shls-live-ak.akamaized.net/out/v1/dfbdea4c1bf149629764e58c6ff314c8/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "abudhabi",
+      "code": "ABU-AE-001",
+      "index": 9837,
+      "tvg_id": null,
+      "tvg_chno": 9937,
+      "name_ar": "Abu Dhabi TV",
+      "name_en": "Abu Dhabi TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/7cNke07.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "abudhabisports1",
+      "code": "ABU-AE-002",
+      "index": 9838,
+      "tvg_id": null,
+      "tvg_chno": 9938,
+      "name_ar": "Abu Dhabi Sports 1",
+      "name_en": "Abu Dhabi Sports 1",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "abudhabisports2",
+      "code": "ABU-AE-003",
+      "index": 9839,
+      "tvg_id": null,
+      "tvg_chno": 9939,
+      "name_ar": "Abu Dhabi Sports 2",
+      "name_en": "Abu Dhabi Sports 2",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "nationalgeographicabudhabi",
+      "code": "NAT-AE-001",
+      "index": 9840,
+      "tvg_id": null,
+      "tvg_chno": 9940,
+      "name_ar": "National Geographic Abu Dhabi",
+      "name_en": "National Geographic Abu Dhabi",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/fNA00VF.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubai",
+      "code": "DUB-AE-002",
+      "index": 9841,
+      "tvg_id": null,
+      "tvg_chno": 9941,
+      "name_ar": "Dubai TV",
+      "name_en": "Dubai TV",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/wZMkKF7.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubaione",
+      "code": "DUB-AE-003",
+      "index": 9842,
+      "tvg_id": null,
+      "tvg_chno": 9942,
+      "name_ar": "Dubai One",
+      "name_en": "Dubai One",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubaisports1",
+      "code": "DUB-AE-004",
+      "index": 9843,
+      "tvg_id": null,
+      "tvg_chno": 9943,
+      "name_ar": "Dubai Sports 1",
+      "name_en": "Dubai Sports 1",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubaisports2",
+      "code": "DUB-AE-005",
+      "index": 9844,
+      "tvg_id": null,
+      "tvg_chno": 9944,
+      "name_ar": "Dubai Sports 2",
+      "name_en": "Dubai Sports 2",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubaisports3",
+      "code": "DUB-AE-006",
+      "index": 9845,
+      "tvg_id": null,
+      "tvg_chno": 9945,
+      "name_ar": "Dubai Sports 3",
+      "name_en": "Dubai Sports 3",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubairacing1",
+      "code": "DUB-AE-007",
+      "index": 9846,
+      "tvg_id": null,
+      "tvg_chno": 9946,
+      "name_ar": "Dubai Racing 1",
+      "name_en": "Dubai Racing 1",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubairacing2",
+      "code": "DUB-AE-008",
+      "index": 9847,
+      "tvg_id": null,
+      "tvg_chno": 9947,
+      "name_ar": "Dubai Racing 2",
+      "name_en": "Dubai Racing 2",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubairacing3",
+      "code": "DUB-AE-009",
+      "index": 9848,
+      "tvg_id": null,
+      "tvg_chno": 9948,
+      "name_ar": "Dubai Racing 3",
+      "name_en": "Dubai Racing 3",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dubaizaman",
+      "code": "DUB-AE-010",
+      "index": 9849,
+      "tvg_id": null,
+      "tvg_chno": 9949,
+      "name_ar": "Dubai Zaman",
+      "name_en": "Dubai Zaman",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://www.lyngsat.com/logo/tv/dd/dubai-zaman-ae.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "samadubai",
+      "code": "SAM-AE-001",
+      "index": 9850,
+      "tvg_id": null,
+      "tvg_chno": 9950,
+      "name_ar": "Sama Dubai",
+      "name_en": "Sama Dubai",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/bF6I3N1.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "noordubai",
+      "code": "NOO-AE-001",
+      "index": 9851,
+      "tvg_id": null,
+      "tvg_chno": 9951,
+      "name_ar": "Noor Dubai",
+      "name_en": "Noor Dubai",
+      "country": "AE",
+      "language": "unknown",
+      "category": "United Arab Emirates",
+      "logo": "https://i.imgur.com/DLe7ZuM.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "alarabiyaالعربية",
+      "code": "ALA-AE-005",
+      "index": 9873,
+      "tvg_id": null,
+      "tvg_chno": 9973,
+      "name_ar": "Al Arabiya العربية",
+      "name_en": "Al Arabiya العربية",
+      "country": "AE",
+      "language": "unknown",
+      "category": "News (AR)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/500px-Al-Arabiya_new_logo.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "skynewsالعربية",
+      "code": "SKY-AE-003",
+      "index": 9878,
+      "tvg_id": null,
+      "tvg_chno": 9978,
+      "name_ar": "Sky News العربية",
+      "name_en": "Sky News العربية",
+      "country": "AE",
+      "language": "unknown",
+      "category": "News (AR)",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/500px-Sky_News_logo.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

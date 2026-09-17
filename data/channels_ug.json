@@ -1,0 +1,448 @@
+{
+  "version": "1.0.0",
+  "country": "UG",
+  "total_channels": 16,
+  "channels": [
+    {
+      "id": "3ABNTVUganda.ug",
+      "code": "ABN-UG-001",
+      "index": 88,
+      "tvg_id": null,
+      "tvg_chno": 188,
+      "name_ar": "3ABN TV Uganda",
+      "name_en": "3ABN TV Uganda",
+      "country": "UG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://3abn.bozztv.com/3abn/3abn_uganda_live/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ACWUGTV.ug",
+      "code": "ACW-UG-001",
+      "index": 255,
+      "tvg_id": null,
+      "tvg_chno": 355,
+      "name_ar": "ACW UG TV",
+      "name_en": "ACW UG TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.acwugtv.com/hls/stream.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AlphaDigital.ug",
+      "code": "ALP-UG-001",
+      "index": 452,
+      "tvg_id": null,
+      "tvg_chno": 552,
+      "name_ar": "Alpha Digital",
+      "name_en": "Alpha Digital",
+      "country": "UG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ArkTV.ug",
+      "code": "ARK-UG-001",
+      "index": 655,
+      "tvg_id": null,
+      "tvg_chno": 755,
+      "name_ar": "Ark TV",
+      "name_en": "Ark TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BTMTV.ug",
+      "code": "BTM-UG-001",
+      "index": 1166,
+      "tvg_id": null,
+      "tvg_chno": 1266,
+      "name_ar": "BTM TV",
+      "name_en": "BTM TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://btmug.zerocdn.org/hls/stream.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BukeddeTV1.ug",
+      "code": "BUK-UG-001",
+      "index": 1182,
+      "tvg_id": null,
+      "tvg_chno": 1282,
+      "name_ar": "Bukedde TV 1",
+      "name_en": "Bukedde TV 1",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BukeddeTV2.ug",
+      "code": "BUK-UG-002",
+      "index": 1183,
+      "tvg_id": null,
+      "tvg_chno": 1283,
+      "name_ar": "Bukedde TV 2",
+      "name_en": "Bukedde TV 2",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FarajaTelevision.ug",
+      "code": "FAR-UG-001",
+      "index": 2671,
+      "tvg_id": null,
+      "tvg_chno": 2771,
+      "name_ar": "Faraja Television",
+      "name_en": "Faraja Television",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://panel.freedomflixtv.org:3868/hybrid/play.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FORTTV.ug",
+      "code": "FOR-UG-001",
+      "index": 2799,
+      "tvg_id": null,
+      "tvg_chno": 2899,
+      "name_ar": "FORT TV",
+      "name_en": "FORT TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GalaxyTV.ug",
+      "code": "GAL-UG-001",
+      "index": 2867,
+      "tvg_id": null,
+      "tvg_chno": 2967,
+      "name_ar": "Galaxy TV",
+      "name_en": "Galaxy TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GuguddeTV.ug",
+      "code": "GUG-UG-001",
+      "index": 3058,
+      "tvg_id": null,
+      "tvg_chno": 3158,
+      "name_ar": "Gugudde TV",
+      "name_en": "Gugudde TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KRCTV.ug",
+      "code": "KRC-UG-001",
+      "index": 3823,
+      "tvg_id": null,
+      "tvg_chno": 3923,
+      "name_ar": "KRC TV",
+      "name_en": "KRC TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://channels.ad-ug.com/live/ch03/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KSTVUganda.ug",
+      "code": "KST-UG-001",
+      "index": 3831,
+      "tvg_id": null,
+      "tvg_chno": 3931,
+      "name_ar": "KSTV Uganda",
+      "name_en": "KSTV Uganda",
+      "country": "UG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.esteem.africa/kstv/hls/0/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RwenzoriTV.ug",
+      "code": "RWE-UG-001",
+      "index": 6512,
+      "tvg_id": null,
+      "tvg_chno": 6612,
+      "name_ar": "Rwenzori TV",
+      "name_en": "Rwenzori TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TayariWestTV.ug",
+      "code": "TAY-UG-001",
+      "index": 7320,
+      "tvg_id": null,
+      "tvg_chno": 7420,
+      "name_ar": "Tayari West TV",
+      "name_en": "Tayari West TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.hydeinnovations.com/tarari-west/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WanLuoTV.ug",
+      "code": "WAN-UG-001",
+      "index": 8765,
+      "tvg_id": null,
+      "tvg_chno": 8865,
+      "name_ar": "Wan Luo TV",
+      "name_en": "Wan Luo TV",
+      "country": "UG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

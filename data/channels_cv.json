@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "country": "CV",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "TVCidade.cv",
+      "code": "TVC-CV-001",
+      "index": 8052,
+      "tvg_id": null,
+      "tvg_chno": 8152,
+      "name_ar": "TV Cidade",
+      "name_en": "TV Cidade",
+      "country": "CV",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

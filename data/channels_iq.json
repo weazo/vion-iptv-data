@@ -1,0 +1,1535 @@
+{
+  "version": "1.0.0",
+  "country": "IQ",
+  "total_channels": 53,
+  "channels": [
+    {
+      "id": "ABNsat.iq",
+      "code": "ABN-IQ-001",
+      "index": 218,
+      "tvg_id": null,
+      "tvg_chno": 318,
+      "name_ar": "ABNsat",
+      "name_en": "ABNsat",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mediaserver.abnvideos.com/streams/abnsat.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AfaqTV.iq",
+      "code": "AFA-IQ-001",
+      "index": 274,
+      "tvg_id": null,
+      "tvg_chno": 374,
+      "name_ar": "Afaq TV",
+      "name_en": "Afaq TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AfarinBaxcha.iq",
+      "code": "AFA-IQ-002",
+      "index": 275,
+      "tvg_id": null,
+      "tvg_chno": 375,
+      "name_ar": "Afarin Baxcha",
+      "name_en": "Afarin Baxcha",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AfarinTV.iq",
+      "code": "AFA-IQ-003",
+      "index": 276,
+      "tvg_id": null,
+      "tvg_chno": 376,
+      "name_ar": "Afarin TV",
+      "name_en": "Afarin TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlabbassiaTV.iq",
+      "code": "ALA-IQ-001",
+      "index": 342,
+      "tvg_id": null,
+      "tvg_chno": 442,
+      "name_ar": "Alabbassia TV",
+      "name_en": "Alabbassia TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.alabbassia.com/live/alabbassia/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlAimmaTV.iq",
+      "code": "ALA-IQ-002",
+      "index": 344,
+      "tvg_id": null,
+      "tvg_chno": 444,
+      "name_ar": "Al-Aimma TV",
+      "name_en": "Al-Aimma TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://alaimma.tv/live/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AlawlaTV.iq",
+      "code": "ALA-IQ-003",
+      "index": 358,
+      "tvg_id": null,
+      "tvg_chno": 458,
+      "name_ar": "Alawla TV",
+      "name_en": "Alawla TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.alawla.tv/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlghadeerTV.iq",
+      "code": "ALG-IQ-001",
+      "index": 383,
+      "tvg_id": null,
+      "tvg_chno": 483,
+      "name_ar": "Alghadeer TV",
+      "name_en": "Alghadeer TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlIraqia.iq",
+      "code": "ALI-IQ-001",
+      "index": 395,
+      "tvg_id": null,
+      "tvg_chno": 495,
+      "name_ar": "Al Iraqia",
+      "name_en": "Al Iraqia",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://imn-live.esite-lab.com/hls/iraqia-general.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlIraqiaKurdish.iq",
+      "code": "ALI-IQ-002",
+      "index": 396,
+      "tvg_id": null,
+      "tvg_chno": 496,
+      "name_ar": "Al Iraqia Kurdish",
+      "name_en": "Al Iraqia Kurdish",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlIraqiaNews.iq",
+      "code": "ALI-IQ-003",
+      "index": 397,
+      "tvg_id": null,
+      "tvg_chno": 497,
+      "name_ar": "Al Iraqia News",
+      "name_en": "Al Iraqia News",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlIraqiaSport.iq",
+      "code": "ALI-IQ-004",
+      "index": 398,
+      "tvg_id": null,
+      "tvg_chno": 498,
+      "name_ar": "Al Iraqia Sport",
+      "name_en": "Al Iraqia Sport",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AlJanoubTV.iq",
+      "code": "ALJ-IQ-001",
+      "index": 402,
+      "tvg_id": null,
+      "tvg_chno": 502,
+      "name_ar": "Al Janoub TV",
+      "name_en": "Al Janoub TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.alissahost.net/hls/test.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlJawadainTV.iq",
+      "code": "ALJ-IQ-002",
+      "index": 403,
+      "tvg_id": null,
+      "tvg_chno": 503,
+      "name_ar": "Al-Jawadain TV",
+      "name_en": "Al-Jawadain TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlNaeemTV.iq",
+      "code": "ALN-IQ-001",
+      "index": 447,
+      "tvg_id": null,
+      "tvg_chno": 547,
+      "name_ar": "Al-Naeem TV",
+      "name_en": "Al-Naeem TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://37.238.136.61/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Alquran.iq",
+      "code": "ALQ-IQ-001",
+      "index": 455,
+      "tvg_id": null,
+      "tvg_chno": 555,
+      "name_ar": "Alquran",
+      "name_en": "Alquran",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlRasheedTV.iq",
+      "code": "ALR-IQ-001",
+      "index": 458,
+      "tvg_id": null,
+      "tvg_chno": 558,
+      "name_ar": "Al Rasheed TV",
+      "name_en": "Al Rasheed TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AlSharqiya.iq",
+      "code": "ALS-IQ-001",
+      "index": 469,
+      "tvg_id": null,
+      "tvg_chno": 569,
+      "name_ar": "Al Sharqiya",
+      "name_en": "Al Sharqiya",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://185.9.2.18/chid_144/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlSharqiyaNews.iq",
+      "code": "ALS-IQ-002",
+      "index": 471,
+      "tvg_id": null,
+      "tvg_chno": 571,
+      "name_ar": "Al Sharqiya News",
+      "name_en": "Al Sharqiya News",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AmozhgaryTV.iq",
+      "code": "AMO-IQ-001",
+      "index": 536,
+      "tvg_id": null,
+      "tvg_chno": 636,
+      "name_ar": "Amozhgary TV",
+      "name_en": "Amozhgary TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://app-live.org/live/3268334b/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AnwarTV2.iq",
+      "code": "ANW-IQ-001",
+      "index": 604,
+      "tvg_id": null,
+      "tvg_chno": 704,
+      "name_ar": "Anwar TV2",
+      "name_en": "Anwar TV2",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AvarTV.iq",
+      "code": "AVA-IQ-001",
+      "index": 764,
+      "tvg_id": null,
+      "tvg_chno": 864,
+      "name_ar": "Avar TV",
+      "name_en": "Avar TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BeitolAbbasTVChannel.iq",
+      "code": "BEI-IQ-001",
+      "index": 955,
+      "tvg_id": null,
+      "tvg_chno": 1055,
+      "name_ar": "BeitolAbbas TV Channel",
+      "name_en": "BeitolAbbas TV Channel",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DijlahTV.iq",
+      "code": "DIJ-IQ-001",
+      "index": 2217,
+      "tvg_id": null,
+      "tvg_chno": 2317,
+      "name_ar": "Dijlah TV",
+      "name_en": "Dijlah TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ghaasiflu.online/Dijlah/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FarmodaTV.iq",
+      "code": "FAR-IQ-001",
+      "index": 2673,
+      "tvg_id": null,
+      "tvg_chno": 2773,
+      "name_ar": "FarmodaTV",
+      "name_en": "FarmodaTV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://avr.host247.net/live/FarmodaTV/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImamHusseinTV1.iq",
+      "code": "IMA-IQ-001",
+      "index": 3356,
+      "tvg_id": null,
+      "tvg_chno": 3456,
+      "name_ar": "Imam Hussein TV 1",
+      "name_en": "Imam Hussein TV 1",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://fa.imamhossaintv.com/live/ih1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImamHusseinTV2.iq",
+      "code": "IMA-IQ-002",
+      "index": 3357,
+      "tvg_id": null,
+      "tvg_chno": 3457,
+      "name_ar": "Imam Hussein TV 2",
+      "name_en": "Imam Hussein TV 2",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.imamhossaintv.com/live/ih2.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://ar.imamhossaintv.com/live/ih2.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImamHusseinTV3.iq",
+      "code": "IMA-IQ-003",
+      "index": 3358,
+      "tvg_id": null,
+      "tvg_chno": 3458,
+      "name_ar": "Imam Hussein TV 3",
+      "name_en": "Imam Hussein TV 3",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://en.imamhossaintv.com/live/ih3.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImamHusseinTV4.iq",
+      "code": "IMA-IQ-004",
+      "index": 3359,
+      "tvg_id": null,
+      "tvg_chno": 3459,
+      "name_ar": "Imam Hussein TV 4",
+      "name_en": "Imam Hussein TV 4",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.imamhossaintv.com/live/ih4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://ur.imamhossaintv.com/live/ih4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImamHusseinTV5.iq",
+      "code": "IMA-IQ-005",
+      "index": 3360,
+      "tvg_id": null,
+      "tvg_chno": 3460,
+      "name_ar": "Imam Hussein TV 5",
+      "name_en": "Imam Hussein TV 5",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://live.al-zahratv.com/live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImamHusseinTV6.iq",
+      "code": "IMA-IQ-006",
+      "index": 3361,
+      "tvg_id": null,
+      "tvg_chno": 3461,
+      "name_ar": "Imam Hussein TV 6",
+      "name_en": "Imam Hussein TV 6",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://live.imamhossaintv.com/live/ih6.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IraqFuture.iq",
+      "code": "IRA-IQ-001",
+      "index": 3444,
+      "tvg_id": null,
+      "tvg_chno": 3544,
+      "name_ar": "Iraq Future",
+      "name_en": "Iraq Future",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IshtarTV.iq",
+      "code": "ISH-IQ-001",
+      "index": 3462,
+      "tvg_id": null,
+      "tvg_chno": 3562,
+      "name_ar": "Ishtar TV",
+      "name_en": "Ishtar TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KarbalaDocumentary.iq",
+      "code": "KAR-IQ-001",
+      "index": 3675,
+      "tvg_id": null,
+      "tvg_chno": 3775,
+      "name_ar": "Karbala Documentary",
+      "name_en": "Karbala Documentary",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ktvlive.online/stream/hls/ch3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KurdChannel.iq",
+      "code": "KUR-IQ-001",
+      "index": 3850,
+      "tvg_id": null,
+      "tvg_chno": 3950,
+      "name_ar": "Kurd Channel",
+      "name_en": "Kurd Channel",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kurdchhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kurdistan24.iq",
+      "code": "KUR-IQ-002",
+      "index": 3851,
+      "tvg_id": null,
+      "tvg_chno": 3951,
+      "name_ar": "Kurdistan 24",
+      "name_en": "Kurdistan 24",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KurdistanTV.iq",
+      "code": "KUR-IQ-003",
+      "index": 3852,
+      "tvg_id": null,
+      "tvg_chno": 3952,
+      "name_ar": "Kurdistan TV",
+      "name_en": "Kurdistan TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kurdsat.iq",
+      "code": "KUR-IQ-004",
+      "index": 3853,
+      "tvg_id": null,
+      "tvg_chno": 3953,
+      "name_ar": "Kurdsat",
+      "name_en": "Kurdsat",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://185.9.2.18/chid_1/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KurdsatNews.iq",
+      "code": "KUR-IQ-005",
+      "index": 3854,
+      "tvg_id": null,
+      "tvg_chno": 3954,
+      "name_ar": "Kurdsat News",
+      "name_en": "Kurdsat News",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManuChat.iq",
+      "code": "MAN-IQ-001",
+      "index": 4208,
+      "tvg_id": null,
+      "tvg_chno": 4308,
+      "name_ar": "Manu Chat",
+      "name_en": "Manu Chat",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vmi747311.contaboserver.net/hls/livetv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MarjaeyatTVArabic.iq",
+      "code": "MAR-IQ-001",
+      "index": 4221,
+      "tvg_id": null,
+      "tvg_chno": 4321,
+      "name_ar": "Marjaeyat TV Arabic",
+      "name_en": "Marjaeyat TV Arabic",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MarjaeyatTVEnglish.iq",
+      "code": "MAR-IQ-002",
+      "index": 4222,
+      "tvg_id": null,
+      "tvg_chno": 4322,
+      "name_ar": "Marjaeyat TV English",
+      "name_en": "Marjaeyat TV English",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MarjaeyatTVPersian.iq",
+      "code": "MAR-IQ-003",
+      "index": 4223,
+      "tvg_id": null,
+      "tvg_chno": 4323,
+      "name_ar": "Marjaeyat TV Persian",
+      "name_en": "Marjaeyat TV Persian",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MBCIraq.iq",
+      "code": "MBC-IQ-001",
+      "index": 4286,
+      "tvg_id": null,
+      "tvg_chno": 4386,
+      "name_ar": "MBC Iraq",
+      "name_en": "MBC Iraq",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Mixkurdy.iq",
+      "code": "MIX-IQ-001",
+      "index": 4436,
+      "tvg_id": null,
+      "tvg_chno": 4536,
+      "name_ar": "Mixkurdy",
+      "name_en": "Mixkurdy",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NRTTV.iq",
+      "code": "NRT-IQ-001",
+      "index": 4977,
+      "tvg_id": null,
+      "tvg_chno": 5077,
+      "name_ar": "NRT TV",
+      "name_en": "NRT TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://media.streambrothers.com:1936/8226/8226/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PayamTV.iq",
+      "code": "PAY-IQ-001",
+      "index": 5285,
+      "tvg_id": null,
+      "tvg_chno": 5385,
+      "name_ar": "Payam TV",
+      "name_en": "Payam TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RudawTV.iq",
+      "code": "RUD-IQ-001",
+      "index": 6481,
+      "tvg_id": null,
+      "tvg_chno": 6581,
+      "name_ar": "Rudaw TV",
+      "name_en": "Rudaw TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.rudaw.net/hls/rudaw-tv/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SamarraTV.iq",
+      "code": "SAM-IQ-001",
+      "index": 6571,
+      "tvg_id": null,
+      "tvg_chno": 6671,
+      "name_ar": "Samarra TV",
+      "name_en": "Samarra TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.bradosti.net/live/samaraweb_playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://samarra.tv/proxy.php/hls/main3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WaarTV.iq",
+      "code": "WAA-IQ-001",
+      "index": 8759,
+      "tvg_id": null,
+      "tvg_chno": 8859,
+      "name_ar": "Waar TV",
+      "name_en": "Waar TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ZagrosTV.iq",
+      "code": "ZAG-IQ-001",
+      "index": 8961,
+      "tvg_id": null,
+      "tvg_chno": 9061,
+      "name_ar": "Zagros TV",
+      "name_en": "Zagros TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "dijlahtarab",
+      "code": "DIJ-IQ-002",
+      "index": 9335,
+      "tvg_id": null,
+      "tvg_chno": 9435,
+      "name_ar": "Dijlah Tarab",
+      "name_en": "Dijlah Tarab",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "Iraq",
+      "logo": "https://i.imgur.com/2SBjjBQ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "turkmeneli",
+      "code": "TUR-IQ-001",
+      "index": 9336,
+      "tvg_id": null,
+      "tvg_chno": 9436,
+      "name_ar": "Turkmeneli TV",
+      "name_en": "Turkmeneli TV",
+      "country": "IQ",
+      "language": "unknown",
+      "category": "Iraq",
+      "logo": "https://i.imgur.com/iUhhg4B.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,1492 @@
+{
+  "version": "1.0.0",
+  "country": "PT",
+  "total_channels": 52,
+  "channels": [
+    {
+      "id": "ADBTV.pt",
+      "code": "ADB-PT-001",
+      "index": 257,
+      "tvg_id": null,
+      "tvg_chno": 357,
+      "name_ar": "ADB TV",
+      "name_en": "ADB TV",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AXNMovies.pt",
+      "code": "AXN-PT-001",
+      "index": 792,
+      "tvg_id": null,
+      "tvg_chno": 892,
+      "name_ar": "AXN Movies",
+      "name_en": "AXN Movies",
+      "country": "PT",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Famatv.pt",
+      "code": "FAM-PT-001",
+      "index": 2663,
+      "tvg_id": null,
+      "tvg_chno": 2763,
+      "name_ar": "Famatv",
+      "name_en": "Famatv",
+      "country": "PT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FUELTV.pt",
+      "code": "FUE-PT-001",
+      "index": 2843,
+      "tvg_id": null,
+      "tvg_chno": 2943,
+      "name_ar": "FUEL TV",
+      "name_en": "FUEL TV",
+      "country": "PT",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KuriakosCine.pt",
+      "code": "KUR-PT-001",
+      "index": 3855,
+      "tvg_id": null,
+      "tvg_chno": 3955,
+      "name_ar": "Kuriakos Cine",
+      "name_en": "Kuriakos Cine",
+      "country": "PT",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KuriakosKids.pt",
+      "code": "KUR-PT-002",
+      "index": 3856,
+      "tvg_id": null,
+      "tvg_chno": 3956,
+      "name_ar": "Kuriakos Kids",
+      "name_en": "Kuriakos Kids",
+      "country": "PT",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KuriakosMusic.pt",
+      "code": "KUR-PT-003",
+      "index": 3857,
+      "tvg_id": null,
+      "tvg_chno": 3957,
+      "name_ar": "Kuriakos Music",
+      "name_en": "Kuriakos Music",
+      "country": "PT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KuriakosTV.pt",
+      "code": "KUR-PT-004",
+      "index": 3858,
+      "tvg_id": null,
+      "tvg_chno": 3958,
+      "name_ar": "Kuriakos TV",
+      "name_en": "Kuriakos TV",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManaChurchOnline.pt",
+      "code": "MAN-PT-001",
+      "index": 4188,
+      "tvg_id": null,
+      "tvg_chno": 4288,
+      "name_ar": "Mana Church Online",
+      "name_en": "Mana Church Online",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManaCirkevOnline.pt",
+      "code": "MAN-PT-002",
+      "index": 4189,
+      "tvg_id": null,
+      "tvg_chno": 4289,
+      "name_ar": "Mana Cirkev Online",
+      "name_en": "Mana Cirkev Online",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManaEgliseOnline.pt",
+      "code": "MAN-PT-003",
+      "index": 4191,
+      "tvg_id": null,
+      "tvg_chno": 4291,
+      "name_ar": "Mana Eglise Online",
+      "name_en": "Mana Eglise Online",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManaIglesiaOnline.pt",
+      "code": "MAN-PT-004",
+      "index": 4192,
+      "tvg_id": null,
+      "tvg_chno": 4292,
+      "name_ar": "Mana Iglesia Online",
+      "name_en": "Mana Iglesia Online",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManaIgrejaOnline.pt",
+      "code": "MAN-PT-005",
+      "index": 4193,
+      "tvg_id": null,
+      "tvg_chno": 4293,
+      "name_ar": "Mana Igreja Online",
+      "name_en": "Mana Igreja Online",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManaTserkovOnlayn.pt",
+      "code": "MAN-PT-006",
+      "index": 4195,
+      "tvg_id": null,
+      "tvg_chno": 4295,
+      "name_ar": "Mana Tserkov' Onlayn",
+      "name_en": "Mana Tserkov' Onlayn",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NPCRadioeTV.pt",
+      "code": "NPC-PT-001",
+      "index": 4966,
+      "tvg_id": null,
+      "tvg_chno": 5066,
+      "name_ar": "NPC Radio e TV",
+      "name_en": "NPC Radio e TV",
+      "country": "PT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ONFM.pt",
+      "code": "ONF-PT-001",
+      "index": 5145,
+      "tvg_id": null,
+      "tvg_chno": 5245,
+      "name_ar": "ON FM",
+      "name_en": "ON FM",
+      "country": "PT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PortoCanal.pt",
+      "code": "POR-PT-001",
+      "index": 5724,
+      "tvg_id": null,
+      "tvg_chno": 5824,
+      "name_ar": "Porto Canal",
+      "name_en": "Porto Canal",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioSines.pt",
+      "code": "RAD-PT-001",
+      "index": 6022,
+      "tvg_id": null,
+      "tvg_chno": 6122,
+      "name_ar": "Radio Sines",
+      "name_en": "Radio Sines",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RFPtv.pt",
+      "code": "RFP-PT-001",
+      "index": 6265,
+      "tvg_id": null,
+      "tvg_chno": 6365,
+      "name_ar": "RFPtv",
+      "name_en": "RFPtv",
+      "country": "PT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RTP1.pt",
+      "code": "RTP-PT-001",
+      "index": 6407,
+      "tvg_id": null,
+      "tvg_chno": 6507,
+      "name_ar": "RTP 1",
+      "name_en": "RTP 1",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTP2.pt",
+      "code": "RTP-PT-002",
+      "index": 6408,
+      "tvg_id": null,
+      "tvg_chno": 6508,
+      "name_ar": "RTP 2",
+      "name_en": "RTP 2",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTPAcores.pt",
+      "code": "RTP-PT-003",
+      "index": 6409,
+      "tvg_id": null,
+      "tvg_chno": 6509,
+      "name_ar": "RTP Acores",
+      "name_en": "RTP Acores",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8",
+          "quality": "504p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTPAfrica.pt",
+      "code": "RTP-PT-004",
+      "index": 6410,
+      "tvg_id": null,
+      "tvg_chno": 6510,
+      "name_ar": "RTP Africa",
+      "name_en": "RTP Africa",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
+          "quality": "504p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTPMadeira.pt",
+      "code": "RTP-PT-005",
+      "index": 6411,
+      "tvg_id": null,
+      "tvg_chno": 6511,
+      "name_ar": "RTP Madeira",
+      "name_en": "RTP Madeira",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
+          "quality": "504p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTPMemoria.pt",
+      "code": "RTP-PT-006",
+      "index": 6412,
+      "tvg_id": null,
+      "tvg_chno": 6512,
+      "name_ar": "RTP Memoria",
+      "name_en": "RTP Memoria",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
+          "quality": "504p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTPMundo.pt",
+      "code": "RTP-PT-007",
+      "index": 6413,
+      "tvg_id": null,
+      "tvg_chno": 6513,
+      "name_ar": "RTP Mundo",
+      "name_en": "RTP Mundo",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+          "quality": "504p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTPNoticias.pt",
+      "code": "RTP-PT-008",
+      "index": 6414,
+      "tvg_id": null,
+      "tvg_chno": 6514,
+      "name_ar": "RTP Noticias",
+      "name_en": "RTP Noticias",
+      "country": "PT",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8",
+          "quality": "504p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SIC.pt",
+      "code": "SIC-PT-001",
+      "index": 6792,
+      "tvg_id": null,
+      "tvg_chno": 6892,
+      "name_ar": "SIC",
+      "name_en": "SIC",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sic.live.impresa.pt/sic.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SICAltaDefinicao.pt",
+      "code": "SIC-PT-002",
+      "index": 6793,
+      "tvg_id": null,
+      "tvg_chno": 6893,
+      "name_ar": "SIC Alta Definicao",
+      "name_en": "SIC Alta Definicao",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SICMulher.pt",
+      "code": "SIC-PT-003",
+      "index": 6797,
+      "tvg_id": null,
+      "tvg_chno": 6897,
+      "name_ar": "SIC Mulher",
+      "name_en": "SIC Mulher",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SICNoticias.pt",
+      "code": "SIC-PT-004",
+      "index": 6798,
+      "tvg_id": null,
+      "tvg_chno": 6898,
+      "name_ar": "SIC Noticias",
+      "name_en": "SIC Noticias",
+      "country": "PT",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SICRadical.pt",
+      "code": "SIC-PT-005",
+      "index": 6800,
+      "tvg_id": null,
+      "tvg_chno": 6900,
+      "name_ar": "SIC Radical",
+      "name_en": "SIC Radical",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SICReplay.pt",
+      "code": "SIC-PT-006",
+      "index": 6801,
+      "tvg_id": null,
+      "tvg_chno": 6901,
+      "name_ar": "SIC Replay",
+      "name_en": "SIC Replay",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SportTV6.pt",
+      "code": "SPO-PT-001",
+      "index": 7016,
+      "tvg_id": null,
+      "tvg_chno": 7116,
+      "name_ar": "Sport TV6",
+      "name_en": "Sport TV6",
+      "country": "PT",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://zntx.dyndns.org:8085/hls/stv6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SportTV7.pt",
+      "code": "SPO-PT-002",
+      "index": 7017,
+      "tvg_id": null,
+      "tvg_chno": 7117,
+      "name_ar": "Sport TV7",
+      "name_en": "Sport TV7",
+      "country": "PT",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://zntx.dyndns.org:8085/hls/stv7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "StarComedy.pt",
+      "code": "STA-PT-001",
+      "index": 7041,
+      "tvg_id": null,
+      "tvg_chno": 7141,
+      "name_ar": "Star Comedy",
+      "name_en": "Star Comedy",
+      "country": "PT",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://znty.dyndns.org:5010/hls/foxcomedy.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "StarMovies.pt",
+      "code": "STA-PT-002",
+      "index": 7051,
+      "tvg_id": null,
+      "tvg_chno": 7151,
+      "name_ar": "Star Movies",
+      "name_en": "Star Movies",
+      "country": "PT",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVIFiccao.pt",
+      "code": "TVI-PT-001",
+      "index": 8125,
+      "tvg_id": null,
+      "tvg_chno": 8225,
+      "name_ar": "TVI Ficcao",
+      "name_en": "TVI Ficcao",
+      "country": "PT",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVIReality.pt",
+      "code": "TVI-PT-002",
+      "index": 8131,
+      "tvg_id": null,
+      "tvg_chno": 8231,
+      "name_ar": "TVI Reality",
+      "name_en": "TVI Reality",
+      "country": "PT",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVMana1.pt",
+      "code": "TVM-PT-001",
+      "index": 8163,
+      "tvg_id": null,
+      "tvg_chno": 8263,
+      "name_ar": "TV Mana 1",
+      "name_en": "TV Mana 1",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVMana2.pt",
+      "code": "TVM-PT-002",
+      "index": 8164,
+      "tvg_id": null,
+      "tvg_chno": 8264,
+      "name_ar": "TV Mana 2",
+      "name_en": "TV Mana 2",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVManaBrasil.pt",
+      "code": "TVM-PT-003",
+      "index": 8166,
+      "tvg_id": null,
+      "tvg_chno": 8266,
+      "name_ar": "TV Mana Brasil",
+      "name_en": "TV Mana Brasil",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVManaEnglish.pt",
+      "code": "TVM-PT-004",
+      "index": 8167,
+      "tvg_id": null,
+      "tvg_chno": 8267,
+      "name_ar": "TV Mana English",
+      "name_en": "TV Mana English",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVManaEspanhol.pt",
+      "code": "TVM-PT-005",
+      "index": 8168,
+      "tvg_id": null,
+      "tvg_chno": 8268,
+      "name_ar": "TV Mana Espanhol",
+      "name_en": "TV Mana Espanhol",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVManaRusskiy.pt",
+      "code": "TVM-PT-006",
+      "index": 8170,
+      "tvg_id": null,
+      "tvg_chno": 8270,
+      "name_ar": "TV Mana Russkiy",
+      "name_en": "TV Mana Russkiy",
+      "country": "PT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VPlusTVI.pt",
+      "code": "VTV-PT-001",
+      "index": 8724,
+      "tvg_id": null,
+      "tvg_chno": 8824,
+      "name_ar": "V+ TVI",
+      "name_en": "V+ TVI",
+      "country": "PT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "rtp3",
+      "code": "RTP-PT-009",
+      "index": 9697,
+      "tvg_id": null,
+      "tvg_chno": 9797,
+      "name_ar": "RTP3",
+      "name_en": "RTP3",
+      "country": "PT",
+      "language": "unknown",
+      "category": "Portugal",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "rtpaores",
+      "code": "RTP-PT-010",
+      "index": 9698,
+      "tvg_id": null,
+      "tvg_chno": 9798,
+      "name_ar": "RTP Açores",
+      "name_en": "RTP Açores",
+      "country": "PT",
+      "language": "unknown",
+      "category": "Portugal",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/500px-RTP_A%C3%A7ores_%282016%29.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "rtpnotcias",
+      "code": "RTP-PT-011",
+      "index": 9699,
+      "tvg_id": null,
+      "tvg_chno": 9799,
+      "name_ar": "RTP notícias",
+      "name_en": "RTP notícias",
+      "country": "PT",
+      "language": "unknown",
+      "category": "Portugal",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "rtpmemria",
+      "code": "RTP-PT-012",
+      "index": 9700,
+      "tvg_id": null,
+      "tvg_chno": 9800,
+      "name_ar": "RTP Memória",
+      "name_en": "RTP Memória",
+      "country": "PT",
+      "language": "unknown",
+      "category": "Portugal",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "cnnportugal",
+      "code": "CNN-PT-001",
+      "index": 9702,
+      "tvg_id": null,
+      "tvg_chno": 9802,
+      "name_ar": "CNN Portugal",
+      "name_en": "CNN Portugal",
+      "country": "PT",
+      "language": "unknown",
+      "category": "Portugal",
+      "logo": "https://i.imgur.com/NYH39xs.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "rtpfrica",
+      "code": "RTP-PT-013",
+      "index": 9703,
+      "tvg_id": null,
+      "tvg_chno": 9803,
+      "name_ar": "RTP África",
+      "name_en": "RTP África",
+      "country": "PT",
+      "language": "unknown",
+      "category": "Portugal",
+      "logo": "https://i.imgur.com/ISFNy17.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,413 @@
+{
+  "version": "1.0.0",
+  "country": "CD",
+  "total_channels": 15,
+  "channels": [
+    {
+      "id": "AntenneA.cd",
+      "code": "ANT-CD-001",
+      "index": 593,
+      "tvg_id": null,
+      "tvg_chno": 693,
+      "name_ar": "Antenne A",
+      "name_en": "Antenne A",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/antenne_a-plus/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BarakaTelevision.cd",
+      "code": "BAR-CD-001",
+      "index": 863,
+      "tvg_id": null,
+      "tvg_chno": 963,
+      "name_ar": "Baraka Television",
+      "name_en": "Baraka Television",
+      "country": "CD",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BossBrothersTV.cd",
+      "code": "BOS-CD-001",
+      "index": 1116,
+      "tvg_id": null,
+      "tvg_chno": 1216,
+      "name_ar": "Boss Brothers TV",
+      "name_en": "Boss Brothers TV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CongoPlanetTelevision.cd",
+      "code": "CON-CD-001",
+      "index": 1915,
+      "tvg_id": null,
+      "tvg_chno": 2015,
+      "name_ar": "Congo Planet Television",
+      "name_en": "Congo Planet Television",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DigitalCongoTV.cd",
+      "code": "DIG-CD-001",
+      "index": 2215,
+      "tvg_id": null,
+      "tvg_chno": 2315,
+      "name_ar": "Digital Congo TV",
+      "name_en": "Digital Congo TV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/DigitalCongoTV/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "EVITV.cd",
+      "code": "EVI-CD-001",
+      "index": 2624,
+      "tvg_id": null,
+      "tvg_chno": 2724,
+      "name_ar": "EVI TV",
+      "name_en": "EVI TV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kin24.cd",
+      "code": "KIN-CD-001",
+      "index": 3740,
+      "tvg_id": null,
+      "tvg_chno": 3840,
+      "name_ar": "Kin24",
+      "name_en": "Kin24",
+      "country": "CD",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/kin24/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LBFDRTV.cd",
+      "code": "LBF-CD-001",
+      "index": 3972,
+      "tvg_id": null,
+      "tvg_chno": 4072,
+      "name_ar": "LBFD RTV",
+      "name_en": "LBFD RTV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://tnt-television.com/LBFD_RTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LeMondeen24h.cd",
+      "code": "LEM-CD-001",
+      "index": 3989,
+      "tvg_id": null,
+      "tvg_chno": 4089,
+      "name_ar": "Le Monde en 24h",
+      "name_en": "Le Monde en 24h",
+      "country": "CD",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LollywoodHDTV.cd",
+      "code": "LOL-CD-001",
+      "index": 4071,
+      "tvg_id": null,
+      "tvg_chno": 4171,
+      "name_ar": "Lollywood HD TV",
+      "name_en": "Lollywood HD TV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MikubaTV.cd",
+      "code": "MIK-CD-001",
+      "index": 4398,
+      "tvg_id": null,
+      "tvg_chno": 4498,
+      "name_ar": "Mikuba TV",
+      "name_en": "Mikuba TV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/MIKUBATV/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PSTVHD.cd",
+      "code": "PST-CD-001",
+      "index": 5820,
+      "tvg_id": null,
+      "tvg_chno": 5920,
+      "name_ar": "PSTV HD",
+      "name_en": "PSTV HD",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/PSTV/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RLPROTV.cd",
+      "code": "RLP-CD-001",
+      "index": 6295,
+      "tvg_id": null,
+      "tvg_chno": 6395,
+      "name_ar": "RL PRO TV",
+      "name_en": "RL PRO TV",
+      "country": "CD",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RTNC3.cd",
+      "code": "RTN-CD-001",
+      "index": 6405,
+      "tvg_id": null,
+      "tvg_chno": 6505,
+      "name_ar": "RTNC 3",
+      "name_en": "RTNC 3",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/e-cableRTNC3/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTVS1.cd",
+      "code": "RTV-CD-001",
+      "index": 6473,
+      "tvg_id": null,
+      "tvg_chno": 6573,
+      "name_ar": "RTVS1",
+      "name_en": "RTVS1",
+      "country": "CD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/RTVS1/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

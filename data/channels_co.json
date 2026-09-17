@@ -1,0 +1,3010 @@
+{
+  "version": "1.0.0",
+  "country": "CO",
+  "total_channels": 102,
+  "channels": [
+    {
+      "id": "AlertaBogota.co",
+      "code": "ALE-CO-001",
+      "index": 373,
+      "tvg_id": null,
+      "tvg_chno": 473,
+      "name_ar": "Alerta Bogota",
+      "name_en": "Alerta Bogota",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AmagaTelevision.co",
+      "code": "AMA-CO-001",
+      "index": 497,
+      "tvg_id": null,
+      "tvg_chno": 597,
+      "name_ar": "Amaga Television",
+      "name_en": "Amaga Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ANCTelevision.co",
+      "code": "ANC-CO-001",
+      "index": 549,
+      "tvg_id": null,
+      "tvg_chno": 649,
+      "name_ar": "ANC Television",
+      "name_en": "ANC Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.amelbatv.co:81/anctvlive/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AupurTelevision.co",
+      "code": "AUP-CO-001",
+      "index": 750,
+      "tvg_id": null,
+      "tvg_chno": 850,
+      "name_ar": "Aupur Television",
+      "name_en": "Aupur Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://canal.aupurtv.co/live/stream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AvivamientoTV.co",
+      "code": "AVI-CO-001",
+      "index": 772,
+      "tvg_id": null,
+      "tvg_chno": 872,
+      "name_ar": "Avivamiento TV",
+      "name_en": "Avivamiento TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BendicionChannel.co",
+      "code": "BEN-CO-001",
+      "index": 972,
+      "tvg_id": null,
+      "tvg_chno": 1072,
+      "name_ar": "Bendicion Channel",
+      "name_en": "Bendicion Channel",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://s.emisoras.tv:8081/bendicionchannel/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BluRadio.co",
+      "code": "BLU-CO-001",
+      "index": 1070,
+      "tvg_id": null,
+      "tvg_chno": 1170,
+      "name_ar": "Blu Radio",
+      "name_en": "Blu Radio",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BuenisimaRadioTV.co",
+      "code": "BUE-CO-001",
+      "index": 1180,
+      "tvg_id": null,
+      "tvg_chno": 1280,
+      "name_ar": "Buenisima Radio TV",
+      "name_en": "Buenisima Radio TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BUMTelevision.co",
+      "code": "BUM-CO-001",
+      "index": 1186,
+      "tvg_id": null,
+      "tvg_chno": 1286,
+      "name_ar": "BUM Television",
+      "name_en": "BUM Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/visiondorada.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://video.ejeserver.com/live/visiondorada.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal1.co",
+      "code": "CAN-CO-001",
+      "index": 1235,
+      "tvg_id": null,
+      "tvg_chno": 1335,
+      "name_ar": "Canal 1",
+      "name_en": "Canal 1",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://138.121.15.230:9002/CANAL-UNO/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal14Codazzi.co",
+      "code": "CAN-CO-002",
+      "index": 1261,
+      "tvg_id": null,
+      "tvg_chno": 1361,
+      "name_ar": "Canal 14 Codazzi",
+      "name_en": "Canal 14 Codazzi",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8056/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal2AlpavisionNeiva.co",
+      "code": "CAN-CO-003",
+      "index": 1281,
+      "tvg_id": null,
+      "tvg_chno": 1381,
+      "name_ar": "Canal 2 Alpavision Neiva",
+      "name_en": "Canal 2 Alpavision Neiva",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal9Cosespu.co",
+      "code": "CAN-CO-004",
+      "index": 1356,
+      "tvg_id": null,
+      "tvg_chno": 1456,
+      "name_ar": "Canal 9 Cosespu",
+      "name_en": "Canal 9 Cosespu",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://video2.lhdserver.es/canal9cosespu/live.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanalCalimaTV.co",
+      "code": "CAN-CO-005",
+      "index": 1361,
+      "tvg_id": null,
+      "tvg_chno": 1461,
+      "name_ar": "Canal Calima TV",
+      "name_en": "Canal Calima TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/calimatv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalCapital.co",
+      "code": "CAN-CO-006",
+      "index": 1362,
+      "tvg_id": null,
+      "tvg_chno": 1462,
+      "name_ar": "Canal Capital",
+      "name_en": "Canal Capital",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalCHD.co",
+      "code": "CAN-CO-007",
+      "index": 1365,
+      "tvg_id": null,
+      "tvg_chno": 1465,
+      "name_ar": "Canal CHD",
+      "name_en": "Canal CHD",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanalCineDios.co",
+      "code": "CAN-CO-008",
+      "index": 1368,
+      "tvg_id": null,
+      "tvg_chno": 1468,
+      "name_ar": "Canal Cine Dios",
+      "name_en": "Canal Cine Dios",
+      "country": "CO",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://canal.mediaserver.com.co/live/cinedios.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalCongreso.co",
+      "code": "CAN-CO-009",
+      "index": 1371,
+      "tvg_id": null,
+      "tvg_chno": 1471,
+      "name_ar": "Canal Congreso",
+      "name_en": "Canal Congreso",
+      "country": "CO",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalDos.co",
+      "code": "CAN-CO-010",
+      "index": 1385,
+      "tvg_id": null,
+      "tvg_chno": 1485,
+      "name_ar": "Canal Dos",
+      "name_en": "Canal Dos",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://131.221.41.94/hls/canal2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream2.micanal2.tv/hls/canal2.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalInstitucional.co",
+      "code": "CAN-CO-011",
+      "index": 1400,
+      "tvg_id": null,
+      "tvg_chno": 1500,
+      "name_ar": "Canal Institucional",
+      "name_en": "Canal Institucional",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalMasTelevision.co",
+      "code": "CAN-CO-012",
+      "index": 1410,
+      "tvg_id": null,
+      "tvg_chno": 1510,
+      "name_ar": "Canal Mas Television",
+      "name_en": "Canal Mas Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://video.ejeserver.com/live/teledoradahd.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalMundoVision.co",
+      "code": "CAN-CO-013",
+      "index": 1416,
+      "tvg_id": null,
+      "tvg_chno": 1516,
+      "name_ar": "Canal Mundo Vision",
+      "name_en": "Canal Mundo Vision",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://video.ejeserver.com/live/mundovisiontv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanalNets.co",
+      "code": "CAN-CO-014",
+      "index": 1418,
+      "tvg_id": null,
+      "tvg_chno": 1518,
+      "name_ar": "Canal Nets",
+      "name_en": "Canal Nets",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/nets.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://video.ejeserver.com/live/nets.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalOracionConSon.co",
+      "code": "CAN-CO-015",
+      "index": 1420,
+      "tvg_id": null,
+      "tvg_chno": 1520,
+      "name_ar": "Canal Oracion Con Son",
+      "name_en": "Canal Oracion Con Son",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalPyC.co",
+      "code": "CAN-CO-016",
+      "index": 1431,
+      "tvg_id": null,
+      "tvg_chno": 1531,
+      "name_ar": "Canal PyC",
+      "name_en": "Canal PyC",
+      "country": "CO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalRCN.co",
+      "code": "CAN-CO-017",
+      "index": 1432,
+      "tvg_id": null,
+      "tvg_chno": 1532,
+      "name_ar": "Canal RCN",
+      "name_en": "Canal RCN",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/RCN/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://181.78.17.228:8081/RCN-HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://209.14.115.253:8081/RCN/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanalTelefamilia.co",
+      "code": "CAN-CO-018",
+      "index": 1450,
+      "tvg_id": null,
+      "tvg_chno": 1550,
+      "name_ar": "Canal Telefamilia",
+      "name_en": "Canal Telefamilia",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalTRO.co",
+      "code": "CAN-CO-019",
+      "index": 1452,
+      "tvg_id": null,
+      "tvg_chno": 1552,
+      "name_ar": "Canal TRO",
+      "name_en": "Canal TRO",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanalWomtv.co",
+      "code": "CAN-CO-020",
+      "index": 1458,
+      "tvg_id": null,
+      "tvg_chno": 1558,
+      "name_ar": "Canal Womtv",
+      "name_en": "Canal Womtv",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.amelbatv.co:81/womtvlive/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanicaTV.co",
+      "code": "CAN-CO-021",
+      "index": 1467,
+      "tvg_id": null,
+      "tvg_chno": 1567,
+      "name_ar": "Canica TV",
+      "name_en": "Canica TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CaracolHD2.co",
+      "code": "CAR-CO-001",
+      "index": 1491,
+      "tvg_id": null,
+      "tvg_chno": 1591,
+      "name_ar": "Caracol HD2",
+      "name_en": "Caracol HD2",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://181.78.14.26:4000/play/a00d/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CaracolTV.co",
+      "code": "CAR-CO-002",
+      "index": 1492,
+      "tvg_id": null,
+      "tvg_chno": 1592,
+      "name_ar": "Caracol TV",
+      "name_en": "Caracol TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.171.108.253:8888/CARACOL/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://181.78.17.228:8081/CARACOL-HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CitytvBogota.co",
+      "code": "CIT-CO-001",
+      "index": 1785,
+      "tvg_id": null,
+      "tvg_chno": 1885,
+      "name_ar": "Citytv Bogota",
+      "name_en": "Citytv Bogota",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/CITY-TV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CMBTelevision.co",
+      "code": "CMB-CO-001",
+      "index": 1831,
+      "tvg_id": null,
+      "tvg_chno": 1931,
+      "name_ar": "CMB Television",
+      "name_en": "CMB Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNCBugavision.co",
+      "code": "CNC-CO-001",
+      "index": 1852,
+      "tvg_id": null,
+      "tvg_chno": 1952,
+      "name_ar": "CNC Bugavision",
+      "name_en": "CNC Bugavision",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/cncbuga.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://video.ejeserver.com/live/cncbuga.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNCPereira.co",
+      "code": "CNC-CO-002",
+      "index": 1853,
+      "tvg_id": null,
+      "tvg_chno": 1953,
+      "name_ar": "CNC Pereira",
+      "name_en": "CNC Pereira",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNCSantanderdeQuilichao.co",
+      "code": "CNC-CO-003",
+      "index": 1854,
+      "tvg_id": null,
+      "tvg_chno": 1954,
+      "name_ar": "CNC Santander de Quilichao",
+      "name_en": "CNC Santander de Quilichao",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/cncsantander.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://video.ejeserver.com/live/cncsantander.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNCTulua.co",
+      "code": "CNC-CO-004",
+      "index": 1855,
+      "tvg_id": null,
+      "tvg_chno": 1955,
+      "name_ar": "CNC Tulua",
+      "name_en": "CNC Tulua",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CNCValledupar.co",
+      "code": "CNC-CO-005",
+      "index": 1856,
+      "tvg_id": null,
+      "tvg_chno": 1956,
+      "name_ar": "CNC Valledupar",
+      "name_en": "CNC Valledupar",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Cosmovision.co",
+      "code": "COS-CO-001",
+      "index": 1938,
+      "tvg_id": null,
+      "tvg_chno": 2038,
+      "name_ar": "Cosmovision",
+      "name_en": "Cosmovision",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Cristovision.co",
+      "code": "CRI-CO-001",
+      "index": 1969,
+      "tvg_id": null,
+      "tvg_chno": 2069,
+      "name_ar": "Cristovision",
+      "name_en": "Cristovision",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://186.148.196.82:8001/play/a0c3",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Eduvision.co",
+      "code": "EDU-CO-001",
+      "index": 2409,
+      "tvg_id": null,
+      "tvg_chno": 2509,
+      "name_ar": "Eduvision",
+      "name_en": "Eduvision",
+      "country": "CO",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ElMundodelCampo.co",
+      "code": "ELM-CO-001",
+      "index": 2451,
+      "tvg_id": null,
+      "tvg_chno": 2551,
+      "name_ar": "El Mundo del Campo",
+      "name_en": "El Mundo del Campo",
+      "country": "CO",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/elmundodelcampo.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "EmisoraComunitaria1041FM.co",
+      "code": "EMI-CO-001",
+      "index": 2477,
+      "tvg_id": null,
+      "tvg_chno": 2577,
+      "name_ar": "Emisora Comunitaria 104.1 FM",
+      "name_en": "Emisora Comunitaria 104.1 FM",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Eureka.co",
+      "code": "EUR-CO-001",
+      "index": 2588,
+      "tvg_id": null,
+      "tvg_chno": 2688,
+      "name_ar": "Eureka",
+      "name_en": "Eureka",
+      "country": "CO",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FiestaTV.co",
+      "code": "FIE-CO-001",
+      "index": 2716,
+      "tvg_id": null,
+      "tvg_chno": 2816,
+      "name_ar": "Fiesta TV",
+      "name_en": "Fiesta TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FrecuenciaFTV.co",
+      "code": "FRE-CO-001",
+      "index": 2825,
+      "tvg_id": null,
+      "tvg_chno": 2925,
+      "name_ar": "Frecuencia F TV",
+      "name_en": "Frecuencia F TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HeliconiaRadioTV.co",
+      "code": "HEL-CO-001",
+      "index": 3139,
+      "tvg_id": null,
+      "tvg_chno": 3239,
+      "name_ar": "Heliconia Radio TV",
+      "name_en": "Heliconia Radio TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8178/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KaluTV.co",
+      "code": "KAL-CO-001",
+      "index": 3635,
+      "tvg_id": null,
+      "tvg_chno": 3735,
+      "name_ar": "Kalu TV",
+      "name_en": "Kalu TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LaHermandadSalsera.co",
+      "code": "LAH-CO-001",
+      "index": 3893,
+      "tvg_id": null,
+      "tvg_chno": 3993,
+      "name_ar": "La Hermandad Salsera",
+      "name_en": "La Hermandad Salsera",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LaKalle.co",
+      "code": "LAK-CO-001",
+      "index": 3897,
+      "tvg_id": null,
+      "tvg_chno": 3997,
+      "name_ar": "La Kalle",
+      "name_en": "La Kalle",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LaMoradaRadioTV.co",
+      "code": "LAM-CO-001",
+      "index": 3908,
+      "tvg_id": null,
+      "tvg_chno": 4008,
+      "name_ar": "La Morada Radio TV",
+      "name_en": "La Morada Radio TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/lamoradatv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MarsellaTV.co",
+      "code": "MAR-CO-001",
+      "index": 4227,
+      "tvg_id": null,
+      "tvg_chno": 4327,
+      "name_ar": "Marsella TV",
+      "name_en": "Marsella TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MasMusicaFM.co",
+      "code": "MAS-CO-001",
+      "index": 4236,
+      "tvg_id": null,
+      "tvg_chno": 4336,
+      "name_ar": "MasMusica FM",
+      "name_en": "MasMusica FM",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://video.ejeserver.com/live/masmusica.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MasNorteTV.co",
+      "code": "MAS-CO-002",
+      "index": 4237,
+      "tvg_id": null,
+      "tvg_chno": 4337,
+      "name_ar": "Mas Norte TV",
+      "name_en": "Mas Norte TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.arnoproducciones.com/hls/norte.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MCITelevision.co",
+      "code": "MCI-CO-001",
+      "index": 4297,
+      "tvg_id": null,
+      "tvg_chno": 4397,
+      "name_ar": "MCI Television",
+      "name_en": "MCI Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://video.ejeserver.com/live/mcitelevision.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Momento24.co",
+      "code": "MOM-CO-001",
+      "index": 4474,
+      "tvg_id": null,
+      "tvg_chno": 4574,
+      "name_ar": "Momento24",
+      "name_en": "Momento24",
+      "country": "CO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NexoTV.co",
+      "code": "NEX-CO-001",
+      "index": 4848,
+      "tvg_id": null,
+      "tvg_chno": 4948,
+      "name_ar": "Nexo TV",
+      "name_en": "Nexo TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NoticiasRCN.co",
+      "code": "NOT-CO-001",
+      "index": 4937,
+      "tvg_id": null,
+      "tvg_chno": 5037,
+      "name_ar": "Noticias RCN",
+      "name_en": "Noticias RCN",
+      "country": "CO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Noticiero90Minutos.co",
+      "code": "NOT-CO-002",
+      "index": 4938,
+      "tvg_id": null,
+      "tvg_chno": 5038,
+      "name_ar": "Noticiero 90 Minutos",
+      "name_en": "Noticiero 90 Minutos",
+      "country": "CO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NSTV.co",
+      "code": "NST-CO-001",
+      "index": 4983,
+      "tvg_id": null,
+      "tvg_chno": 5083,
+      "name_ar": "NSTV",
+      "name_en": "NSTV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://138.186.23.7:22281/nstv/nstv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NTN24.co",
+      "code": "NTN-CO-001",
+      "index": 4995,
+      "tvg_id": null,
+      "tvg_chno": 5095,
+      "name_ar": "NTN24",
+      "name_en": "NTN24",
+      "country": "CO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://181.78.8.199:8000/play/a0a6/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NuestraTeleInternacional.co",
+      "code": "NUE-CO-001",
+      "index": 5008,
+      "tvg_id": null,
+      "tvg_chno": 5108,
+      "name_ar": "Nuestra Tele Internacional",
+      "name_en": "Nuestra Tele Internacional",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://170.238.200.199/nuestra-tele/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://181.78.8.199:8000/play/a0a8/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OasisTV.co",
+      "code": "OAS-CO-001",
+      "index": 5036,
+      "tvg_id": null,
+      "tvg_chno": 5136,
+      "name_ar": "Oasis TV",
+      "name_en": "Oasis TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OndambientalTV.co",
+      "code": "OND-CO-001",
+      "index": 5129,
+      "tvg_id": null,
+      "tvg_chno": 5229,
+      "name_ar": "Ondambiental TV",
+      "name_en": "Ondambiental TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PancheTelevision.co",
+      "code": "PAN-CO-001",
+      "index": 5242,
+      "tvg_id": null,
+      "tvg_chno": 5342,
+      "name_ar": "Panche Television",
+      "name_en": "Panche Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ParrandaVallenata.co",
+      "code": "PAR-CO-001",
+      "index": 5273,
+      "tvg_id": null,
+      "tvg_chno": 5373,
+      "name_ar": "Parranda Vallenata",
+      "name_en": "Parranda Vallenata",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RCNHD2.co",
+      "code": "RCN-CO-001",
+      "index": 6137,
+      "tvg_id": null,
+      "tvg_chno": 6237,
+      "name_ar": "RCN HD2",
+      "name_en": "RCN HD2",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://181.78.14.26:4000/play/a07m/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RCNMas.co",
+      "code": "RCN-CO-002",
+      "index": 6138,
+      "tvg_id": null,
+      "tvg_chno": 6238,
+      "name_ar": "RCN Mas",
+      "name_en": "RCN Mas",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RCNNovelas.co",
+      "code": "RCN-CO-003",
+      "index": 6139,
+      "tvg_id": null,
+      "tvg_chno": 6239,
+      "name_ar": "RCN Novelas",
+      "name_en": "RCN Novelas",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://170.238.200.199/rcn-novelas/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://181.78.8.199:8000/play/a0a7/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Reyali.co",
+      "code": "REY-CO-001",
+      "index": 6260,
+      "tvg_id": null,
+      "tvg_chno": 6360,
+      "name_ar": "Reyali",
+      "name_en": "Reyali",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8090/index.m3u8",
+          "quality": "614p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RumbaTV.co",
+      "code": "RUM-CO-001",
+      "index": 6484,
+      "tvg_id": null,
+      "tvg_chno": 6584,
+      "name_ar": "Rumba TV",
+      "name_en": "Rumba TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://186.148.196.100:8000/play/a02h",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SalsaGordaTelevision.co",
+      "code": "SAL-CO-001",
+      "index": 6556,
+      "tvg_id": null,
+      "tvg_chno": 6656,
+      "name_ar": "Salsa Gorda Television",
+      "name_en": "Salsa Gorda Television",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SantelTV.co",
+      "code": "SAN-CO-001",
+      "index": 6607,
+      "tvg_id": null,
+      "tvg_chno": 6707,
+      "name_ar": "Santel TV",
+      "name_en": "Santel TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SenalColombia.co",
+      "code": "SEN-CO-001",
+      "index": 6687,
+      "tvg_id": null,
+      "tvg_chno": 6787,
+      "name_ar": "Senal Colombia",
+      "name_en": "Senal Colombia",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SoonaTV.co",
+      "code": "SOO-CO-001",
+      "index": 6943,
+      "tvg_id": null,
+      "tvg_chno": 7043,
+      "name_ar": "Soona TV",
+      "name_en": "Soona TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StreamForce360.co",
+      "code": "STR-CO-001",
+      "index": 7120,
+      "tvg_id": null,
+      "tvg_chno": 7220,
+      "name_ar": "StreamForce 360",
+      "name_en": "StreamForce 360",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SupermusicaTV.co",
+      "code": "SUP-CO-001",
+      "index": 7172,
+      "tvg_id": null,
+      "tvg_chno": 7272,
+      "name_ar": "Supermusica TV",
+      "name_en": "Supermusica TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuramTV.co",
+      "code": "SUR-CO-001",
+      "index": 7187,
+      "tvg_id": null,
+      "tvg_chno": 7287,
+      "name_ar": "Suram TV",
+      "name_en": "Suram TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://us.streaminghd.cl/suramtv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TeleAmiga.co",
+      "code": "TEL-CO-001",
+      "index": 7373,
+      "tvg_id": null,
+      "tvg_chno": 7473,
+      "name_ar": "Tele Amiga",
+      "name_en": "Tele Amiga",
+      "country": "CO",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Teleantioquia.co",
+      "code": "TEL-CO-002",
+      "index": 7377,
+      "tvg_id": null,
+      "tvg_chno": 7477,
+      "name_ar": "Teleantioquia",
+      "name_en": "Teleantioquia",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Telecafe.co",
+      "code": "TEL-CO-003",
+      "index": 7387,
+      "tvg_id": null,
+      "tvg_chno": 7487,
+      "name_ar": "Telecafe",
+      "name_en": "Telecafe",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://138.121.15.230:9002/TELECAFE/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Telecaribe.co",
+      "code": "TEL-CO-004",
+      "index": 7392,
+      "tvg_id": null,
+      "tvg_chno": 7492,
+      "name_ar": "Telecaribe",
+      "name_en": "Telecaribe",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/TELECARIBE/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TelecaribePlus.co",
+      "code": "TEL-CO-005",
+      "index": 7393,
+      "tvg_id": null,
+      "tvg_chno": 7493,
+      "name_ar": "Telecaribe Plus",
+      "name_en": "Telecaribe Plus",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Teleislas.co",
+      "code": "TEL-CO-006",
+      "index": 7431,
+      "tvg_id": null,
+      "tvg_chno": 7531,
+      "name_ar": "Teleislas",
+      "name_en": "Teleislas",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8",
+          "quality": "486p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Telemedellin.co",
+      "code": "TEL-CO-007",
+      "index": 7450,
+      "tvg_id": null,
+      "tvg_chno": 7550,
+      "name_ar": "Telemedellin",
+      "name_en": "Telemedellin",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TeleMocoaCanal10.co",
+      "code": "TEL-CO-008",
+      "index": 7458,
+      "tvg_id": null,
+      "tvg_chno": 7558,
+      "name_ar": "Tele Mocoa Canal 10",
+      "name_en": "Tele Mocoa Canal 10",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.amelbatv.co:81/telemocoalive/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Telepacifico.co",
+      "code": "TEL-CO-009",
+      "index": 7486,
+      "tvg_id": null,
+      "tvg_chno": 7586,
+      "name_ar": "Telepacifico",
+      "name_en": "Telepacifico",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TeleQuindio.co",
+      "code": "TEL-CO-010",
+      "index": 7498,
+      "tvg_id": null,
+      "tvg_chno": 7598,
+      "name_ar": "TeleQuindio",
+      "name_en": "TeleQuindio",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Telesangil.co",
+      "code": "TEL-CO-011",
+      "index": 7513,
+      "tvg_id": null,
+      "tvg_chno": 7613,
+      "name_ar": "Telesangil",
+      "name_en": "Telesangil",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TeleVid.co",
+      "code": "TEL-CO-012",
+      "index": 7543,
+      "tvg_id": null,
+      "tvg_chno": 7643,
+      "name_ar": "Tele Vid",
+      "name_en": "Tele Vid",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TeveColombia.co",
+      "code": "TEV-CO-001",
+      "index": 7594,
+      "tvg_id": null,
+      "tvg_chno": 7694,
+      "name_ar": "TeveColombia",
+      "name_en": "TeveColombia",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Trece.co",
+      "code": "TRE-CO-001",
+      "index": 7840,
+      "tvg_id": null,
+      "tvg_chno": 7940,
+      "name_ar": "Trece",
+      "name_en": "Trece",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TuUniversoTV.co",
+      "code": "TUU-CO-001",
+      "index": 7924,
+      "tvg_id": null,
+      "tvg_chno": 8024,
+      "name_ar": "Tu Universo TV",
+      "name_en": "Tu Universo TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TV3LaPlata.co",
+      "code": "TVL-CO-001",
+      "index": 7948,
+      "tvg_id": null,
+      "tvg_chno": 8048,
+      "name_ar": "TV3 La Plata",
+      "name_en": "TV3 La Plata",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVGolfoUraba.co",
+      "code": "TVG-CO-001",
+      "index": 8115,
+      "tvg_id": null,
+      "tvg_chno": 8215,
+      "name_ar": "TV Golfo Uraba",
+      "name_en": "TV Golfo Uraba",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVGracia.co",
+      "code": "TVG-CO-002",
+      "index": 8116,
+      "tvg_id": null,
+      "tvg_chno": 8216,
+      "name_ar": "TVGracia",
+      "name_en": "TVGracia",
+      "country": "CO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vs20.live.opencaster.com/diego_57244803/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVRivera.co",
+      "code": "TVR-CO-001",
+      "index": 8288,
+      "tvg_id": null,
+      "tvg_chno": 8388,
+      "name_ar": "TV Rivera",
+      "name_en": "TV Rivera",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/tvrivera.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://video.ejeserver.com/live/tvrivera.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "UltraCasanareTV.co",
+      "code": "ULT-CO-001",
+      "index": 8440,
+      "tvg_id": null,
+      "tvg_chno": 8540,
+      "name_ar": "Ultra Casanare TV",
+      "name_en": "Ultra Casanare TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UMCTV.co",
+      "code": "UMC-CO-001",
+      "index": 8447,
+      "tvg_id": null,
+      "tvg_chno": 8547,
+      "name_ar": "UMC TV",
+      "name_en": "UMC TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViveTV.co",
+      "code": "VIV-CO-001",
+      "index": 8694,
+      "tvg_id": null,
+      "tvg_chno": 8794,
+      "name_ar": "Vive TV",
+      "name_en": "Vive TV",
+      "country": "CO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://192.144.113.132:1935/live/ViveTV/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WinSports.co",
+      "code": "WIN-CO-001",
+      "index": 8835,
+      "tvg_id": null,
+      "tvg_chno": 8935,
+      "name_ar": "Win Sports",
+      "name_en": "Win Sports",
+      "country": "CO",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

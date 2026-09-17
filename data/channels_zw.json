@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "country": "ZW",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "YadahTV.zw",
+      "code": "YAD-ZW-001",
+      "index": 8916,
+      "tvg_id": null,
+      "tvg_chno": 9016,
+      "name_ar": "Yadah TV",
+      "name_en": "Yadah TV",
+      "country": "ZW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

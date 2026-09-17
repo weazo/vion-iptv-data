@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "country": "AO",
+  "total_channels": 3,
+  "channels": [
+    {
+      "id": "KKTV.ao",
+      "code": "KKT-AO-001",
+      "index": 3774,
+      "tvg_id": null,
+      "tvg_chno": 3874,
+      "name_ar": "KK TV",
+      "name_en": "KK TV",
+      "country": "AO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MuzangalaTV.ao",
+      "code": "MUZ-AO-001",
+      "index": 4645,
+      "tvg_id": null,
+      "tvg_chno": 4745,
+      "name_ar": "Muzangala TV",
+      "name_en": "Muzangala TV",
+      "country": "AO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVZimbo.ao",
+      "code": "TVZ-AO-001",
+      "index": 8402,
+      "tvg_id": null,
+      "tvg_chno": 8502,
+      "name_ar": "TV Zimbo",
+      "name_en": "TV Zimbo",
+      "country": "AO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

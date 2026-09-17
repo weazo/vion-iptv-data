@@ -1,0 +1,170 @@
+{
+  "version": "1.0.0",
+  "country": "SX",
+  "total_channels": 6,
+  "channels": [
+    {
+      "id": "981PearlFM.sx",
+      "code": "PEA-SX-001",
+      "index": 150,
+      "tvg_id": null,
+      "tvg_chno": 250,
+      "name_ar": "98.1 Pearl FM",
+      "name_en": "98.1 Pearl FM",
+      "country": "SX",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVCARiB.sx",
+      "code": "TVC-SX-001",
+      "index": 8035,
+      "tvg_id": null,
+      "tvg_chno": 8135,
+      "name_ar": "TVCARiB",
+      "name_en": "TVCARiB",
+      "country": "SX",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVCARiBCinema.sx",
+      "code": "TVC-SX-002",
+      "index": 8036,
+      "tvg_id": null,
+      "tvg_chno": 8136,
+      "name_ar": "TVCARiB Cinema",
+      "name_en": "TVCARiB Cinema",
+      "country": "SX",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVCARiBGospel.sx",
+      "code": "TVC-SX-003",
+      "index": 8037,
+      "tvg_id": null,
+      "tvg_chno": 8137,
+      "name_ar": "TVCARiB Gospel",
+      "name_en": "TVCARiB Gospel",
+      "country": "SX",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVCARiBKidsTeens.sx",
+      "code": "TVC-SX-004",
+      "index": 8038,
+      "tvg_id": null,
+      "tvg_chno": 8138,
+      "name_ar": "TVCARiB Kids & Teens",
+      "name_en": "TVCARiB Kids & Teens",
+      "country": "SX",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVCARiBLatino.sx",
+      "code": "TVC-SX-005",
+      "index": 8039,
+      "tvg_id": null,
+      "tvg_chno": 8139,
+      "name_ar": "TVCARiB Latino",
+      "name_en": "TVCARiB Latino",
+      "country": "SX",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

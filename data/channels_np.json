@@ -1,0 +1,264 @@
+{
+  "version": "1.0.0",
+  "country": "NP",
+  "total_channels": 8,
+  "channels": [
+    {
+      "id": "DivyaDarshanTV.np",
+      "code": "DIV-NP-001",
+      "index": 2245,
+      "tvg_id": null,
+      "tvg_chno": 2345,
+      "name_ar": "Divya Darshan TV",
+      "name_en": "Divya Darshan TV",
+      "country": "NP",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.divyadarshantv.com/hls/0/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IndigenousTelevision.np",
+      "code": "IND-NP-001",
+      "index": 3387,
+      "tvg_id": null,
+      "tvg_chno": 3487,
+      "name_ar": "Indigenous Television",
+      "name_en": "Indigenous Television",
+      "country": "NP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KantipurMax.np",
+      "code": "KAN-NP-001",
+      "index": 3668,
+      "tvg_id": null,
+      "tvg_chno": 3768,
+      "name_ar": "Kantipur Max",
+      "name_en": "Kantipur Max",
+      "country": "NP",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KantipurTV.np",
+      "code": "KAN-NP-002",
+      "index": 3669,
+      "tvg_id": null,
+      "tvg_chno": 3769,
+      "name_ar": "Kantipur TV",
+      "name_en": "Kantipur TV",
+      "country": "NP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MithilaNepalTV.np",
+      "code": "MIT-NP-001",
+      "index": 4431,
+      "tvg_id": null,
+      "tvg_chno": 4531,
+      "name_ar": "Mithila Nepal TV",
+      "name_en": "Mithila Nepal TV",
+      "country": "NP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Public4KTV.np",
+      "code": "PUB-NP-001",
+      "index": 5836,
+      "tvg_id": null,
+      "tvg_chno": 5936,
+      "name_ar": "Public 4K TV",
+      "name_en": "Public 4K TV",
+      "country": "NP",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://103.180.240.141:8080/hls/main1/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RayTVHD.np",
+      "code": "RAY-NP-001",
+      "index": 6122,
+      "tvg_id": null,
+      "tvg_chno": 6222,
+      "name_ar": "Ray TV HD",
+      "name_en": "Ray TV HD",
+      "country": "NP",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVTodayJanakpur.np",
+      "code": "TVT-NP-001",
+      "index": 8374,
+      "tvg_id": null,
+      "tvg_chno": 8474,
+      "name_ar": "TV Today Janakpur",
+      "name_en": "TV Today Janakpur",
+      "country": "NP",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

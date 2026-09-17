@@ -1,0 +1,869 @@
+{
+  "version": "1.0.0",
+  "country": "TW",
+  "total_channels": 31,
+  "channels": [
+    {
+      "id": "BeautifulLifeTV.tw",
+      "code": "BEA-TW-001",
+      "index": 943,
+      "tvg_id": null,
+      "tvg_chno": 1043,
+      "name_ar": "Beautiful Life TV",
+      "name_en": "Beautiful Life TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CGNTVChinese.tw",
+      "code": "CGN-TW-001",
+      "index": 1614,
+      "tvg_id": null,
+      "tvg_chno": 1714,
+      "name_ar": "CGNTV Chinese",
+      "name_en": "CGNTV Chinese",
+      "country": "TW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CTiVariety.tw",
+      "code": "CTI-TW-001",
+      "index": 1993,
+      "tvg_id": null,
+      "tvg_chno": 2093,
+      "name_ar": "CTi Variety",
+      "name_en": "CTi Variety",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://23.237.10.66:16372",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CTS.tw",
+      "code": "CTS-TW-001",
+      "index": 1998,
+      "tvg_id": null,
+      "tvg_chno": 2098,
+      "name_ar": "CTS",
+      "name_en": "CTS",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "rtmp://59.124.75.138:1935/sat/tv111",
+          "quality": "1080p",
+          "protocol": "rtmp",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CTSNews.tw",
+      "code": "CTS-TW-002",
+      "index": 1999,
+      "tvg_id": null,
+      "tvg_chno": 2099,
+      "name_ar": "CTS News",
+      "name_en": "CTS News",
+      "country": "TW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/hsxw_fhd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DaAi1.tw",
+      "code": "DAA-TW-001",
+      "index": 2039,
+      "tvg_id": null,
+      "tvg_chno": 2139,
+      "name_ar": "DaAi 1",
+      "name_en": "DaAi 1",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DaAi2.tw",
+      "code": "DAA-TW-002",
+      "index": 2040,
+      "tvg_id": null,
+      "tvg_chno": 2140,
+      "name_ar": "DaAi 2",
+      "name_en": "DaAi 2",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DaliTV.tw",
+      "code": "DAL-TW-001",
+      "index": 2049,
+      "tvg_id": null,
+      "tvg_chno": 2149,
+      "name_ar": "Dali TV",
+      "name_en": "Dali TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EBCFinancialNews.tw",
+      "code": "EBC-TW-001",
+      "index": 2376,
+      "tvg_id": null,
+      "tvg_chno": 2476,
+      "name_ar": "EBC Financial News",
+      "name_en": "EBC Financial News",
+      "country": "TW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "EBCNews.tw",
+      "code": "EBC-TW-002",
+      "index": 2378,
+      "tvg_id": null,
+      "tvg_chno": 2478,
+      "name_ar": "EBC News",
+      "name_en": "EBC News",
+      "country": "TW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/dsxw_fhd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FTVOne.tw",
+      "code": "FTV-TW-001",
+      "index": 2839,
+      "tvg_id": null,
+      "tvg_chno": 2939,
+      "name_ar": "FTV One",
+      "name_en": "FTV One",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/ptv/ftv.php?id=dy",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FTVTaiwan.tw",
+      "code": "FTV-TW-002",
+      "index": 2840,
+      "tvg_id": null,
+      "tvg_chno": 2940,
+      "name_ar": "FTV Taiwan",
+      "name_en": "FTV Taiwan",
+      "country": "TW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/ptv/ftv.php?id=tw",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Good2.tw",
+      "code": "GOO-TW-001",
+      "index": 2994,
+      "tvg_id": null,
+      "tvg_chno": 3094,
+      "name_ar": "Good 2",
+      "name_en": "Good 2",
+      "country": "TW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HakkaTV.tw",
+      "code": "HAK-TW-001",
+      "index": 3083,
+      "tvg_id": null,
+      "tvg_chno": 3183,
+      "name_ar": "Hakka TV",
+      "name_en": "Hakka TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "IndigenousTV.tw",
+      "code": "IND-TW-001",
+      "index": 3388,
+      "tvg_id": null,
+      "tvg_chno": 3488,
+      "name_ar": "Indigenous TV",
+      "name_en": "Indigenous TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MOMOTV.tw",
+      "code": "MOM-TW-001",
+      "index": 4475,
+      "tvg_id": null,
+      "tvg_chno": 4575,
+      "name_ar": "MOMO TV",
+      "name_en": "MOMO TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SETNews.tw",
+      "code": "SET-TW-001",
+      "index": 6722,
+      "tvg_id": null,
+      "tvg_chno": 6822,
+      "name_ar": "SET News",
+      "name_en": "SET News",
+      "country": "TW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/sllive_fhd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SupremeMasterTV.tw",
+      "code": "SUP-TW-001",
+      "index": 7186,
+      "tvg_id": null,
+      "tvg_chno": 7286,
+      "name_ar": "Supreme Master TV",
+      "name_en": "Supreme Master TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TaiwanIndigenousTV.tw",
+      "code": "TAI-TW-001",
+      "index": 7283,
+      "tvg_id": null,
+      "tvg_chno": 7383,
+      "name_ar": "Taiwan Indigenous TV",
+      "name_en": "Taiwan Indigenous TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TaiwanPlusTV.tw",
+      "code": "TAI-TW-002",
+      "index": 7284,
+      "tvg_id": null,
+      "tvg_chno": 7384,
+      "name_ar": "Taiwan Plus TV",
+      "name_en": "Taiwan Plus TV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dZp87qnWelE",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TTV.tw",
+      "code": "TTV-TW-001",
+      "index": 7904,
+      "tvg_id": null,
+      "tvg_chno": 8004,
+      "name_ar": "TTV",
+      "name_en": "TTV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://162.19.247.76:22222/live/taishi/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVBSAsia.tw",
+      "code": "TVB-TW-001",
+      "index": 8021,
+      "tvg_id": null,
+      "tvg_chno": 8121,
+      "name_ar": "TVBS-Asia",
+      "name_en": "TVBS-Asia",
+      "country": "TW",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVBSNews.tw",
+      "code": "TVB-TW-002",
+      "index": 8022,
+      "tvg_id": null,
+      "tvg_chno": 8122,
+      "name_ar": "TVBS News",
+      "name_en": "TVBS News",
+      "country": "TW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "WXTV.tw",
+      "code": "WXT-TW-001",
+      "index": 8871,
+      "tvg_id": null,
+      "tvg_chno": 8971,
+      "name_ar": "WXTV",
+      "name_en": "WXTV",
+      "country": "TW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "pts",
+      "code": "PTS-TW-001",
+      "index": 9782,
+      "tvg_id": null,
+      "tvg_chno": 9882,
+      "name_ar": "PTS (公視主頻) Ⓨ",
+      "name_en": "PTS (公視主頻) Ⓨ",
+      "country": "TW",
+      "language": "unknown",
+      "category": "Taiwan",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/f/fb/PTS_Taiwan.svg/500px-PTS_Taiwan.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ptstaigi",
+      "code": "PTS-TW-002",
+      "index": 9783,
+      "tvg_id": null,
+      "tvg_chno": 9883,
+      "name_ar": "PTS Taigi (公視台語台) Ⓨ Ⓖ",
+      "name_en": "PTS Taigi (公視台語台) Ⓨ Ⓖ",
+      "country": "TW",
+      "language": "unknown",
+      "category": "Taiwan",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/PTS_Taigi.svg/500px-PTS_Taigi.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/watch?v=6KlRR_DGhmI",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "fnews",
+      "code": "FTV-TW-003",
+      "index": 9784,
+      "tvg_id": null,
+      "tvg_chno": 9884,
+      "name_ar": "FTV News (民視新聞台) Ⓨ",
+      "name_en": "FTV News (民視新聞台) Ⓨ",
+      "country": "TW",
+      "language": "unknown",
+      "category": "Taiwan",
+      "logo": "https://i.imgur.com/j9Gebr5.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "tmain",
+      "code": "TTV-TW-002",
+      "index": 9785,
+      "tvg_id": null,
+      "tvg_chno": 9885,
+      "name_ar": "TTV Main Channel (臺灣電視台) Ⓨ Ⓖ",
+      "name_en": "TTV Main Channel (臺灣電視台) Ⓨ Ⓖ",
+      "country": "TW",
+      "language": "unknown",
+      "category": "Taiwan",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "congress1",
+      "code": "CON-TW-001",
+      "index": 9786,
+      "tvg_id": null,
+      "tvg_chno": 9886,
+      "name_ar": "Congress Channel 1 Ⓨ",
+      "name_en": "Congress Channel 1 Ⓨ",
+      "country": "TW",
+      "language": "unknown",
+      "category": "Taiwan",
+      "logo": "https://i.imgur.com/0dVlvsz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/watch?v=x6XVbD7Ln78",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "congress2",
+      "code": "CON-TW-002",
+      "index": 9787,
+      "tvg_id": null,
+      "tvg_chno": 9887,
+      "name_ar": "Congress Channel 2 Ⓨ",
+      "name_en": "Congress Channel 2 Ⓨ",
+      "country": "TW",
+      "language": "unknown",
+      "category": "Taiwan",
+      "logo": "https://i.imgur.com/htGr996.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/watch?v=Lj8OWF6nzcg",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "code": "TAI-TW-003",
+      "index": 9885,
+      "tvg_id": null,
+      "tvg_chno": 9985,
+      "name_ar": "Taiwan+",
+      "name_en": "Taiwan+",
+      "country": "TW",
+      "language": "unknown",
+      "category": "News",
+      "logo": "https://i.imgur.com/SfcZyqm.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

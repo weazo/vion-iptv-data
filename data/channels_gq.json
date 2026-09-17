@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "country": "GQ",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "TVGE.gq",
+      "code": "TVG-GQ-001",
+      "index": 8110,
+      "tvg_id": null,
+      "tvg_chno": 8210,
+      "name_ar": "TVGE",
+      "name_en": "TVGE",
+      "country": "GQ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

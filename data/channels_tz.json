@@ -1,0 +1,221 @@
+{
+  "version": "1.0.0",
+  "country": "TZ",
+  "total_channels": 7,
+  "channels": [
+    {
+      "id": "DodomaTV.tz",
+      "code": "DOD-TZ-001",
+      "index": 2285,
+      "tvg_id": null,
+      "tvg_chno": 2385,
+      "name_ar": "Dodoma TV",
+      "name_en": "Dodoma TV",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "IBNTV.tz",
+      "code": "IBN-TZ-001",
+      "index": 3310,
+      "tvg_id": null,
+      "tvg_chno": 3410,
+      "name_ar": "IBN TV",
+      "name_en": "IBN TV",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://sktv-forwarders.7m.pl/get.php?x=IBN",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "IBNTVAfrica.tz",
+      "code": "IBN-TZ-002",
+      "index": 3311,
+      "tvg_id": null,
+      "tvg_chno": 3411,
+      "name_ar": "IBN TV Africa",
+      "name_en": "IBN TV Africa",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MahaasinTV.tz",
+      "code": "MAH-TZ-001",
+      "index": 4162,
+      "tvg_id": null,
+      "tvg_chno": 4262,
+      "name_ar": "Mahaasin TV",
+      "name_en": "Mahaasin TV",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TanzaniaSafariChannel.tz",
+      "code": "TAN-TZ-001",
+      "index": 7302,
+      "tvg_id": null,
+      "tvg_chno": 7402,
+      "name_ar": "Tanzania Safari Channel",
+      "name_en": "Tanzania Safari Channel",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TBC1.tz",
+      "code": "TBC-TZ-001",
+      "index": 7322,
+      "tvg_id": null,
+      "tvg_chno": 7422,
+      "name_ar": "TBC1",
+      "name_en": "TBC1",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_67aeec90584911f1ab60174d68f7c06e/index.fmp4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TBC2.tz",
+      "code": "TBC-TZ-002",
+      "index": 7323,
+      "tvg_id": null,
+      "tvg_chno": 7423,
+      "name_ar": "TBC2",
+      "name_en": "TBC2",
+      "country": "TZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

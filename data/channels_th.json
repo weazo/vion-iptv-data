@@ -1,0 +1,2047 @@
+{
+  "version": "1.0.0",
+  "country": "TH",
+  "total_channels": 69,
+  "channels": [
+    {
+      "id": "13SiamThai.th",
+      "code": "SIA-TH-001",
+      "index": 17,
+      "tvg_id": null,
+      "tvg_chno": 117,
+      "name_ar": "13 Siam Thai",
+      "name_en": "13 Siam Thai",
+      "country": "TH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "3HD.th",
+      "code": "HDX-TH-001",
+      "index": 96,
+      "tvg_id": null,
+      "tvg_chno": 196,
+      "name_ar": "3HD",
+      "name_en": "3HD",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://stream.mcquack.net/29/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ALTV.th",
+      "code": "ALT-TH-001",
+      "index": 486,
+      "tvg_id": null,
+      "tvg_chno": 586,
+      "name_ar": "ALTV",
+      "name_en": "ALTV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AmarinTV.th",
+      "code": "AMA-TH-001",
+      "index": 499,
+      "tvg_id": null,
+      "tvg_chno": 599,
+      "name_ar": "Amarin TV",
+      "name_en": "Amarin TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BaanBaanTV73.th",
+      "code": "BAA-TH-001",
+      "index": 819,
+      "tvg_id": null,
+      "tvg_chno": 919,
+      "name_ar": "Baan Baan TV 73",
+      "name_en": "Baan Baan TV 73",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo.plathong.net/live8794/live8794/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BoonniyomTV.th",
+      "code": "BOO-TH-001",
+      "index": 1114,
+      "tvg_id": null,
+      "tvg_chno": 1214,
+      "name_ar": "Boonniyom TV",
+      "name_en": "Boonniyom TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.x2.co.th/live/bntv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CharoenCable37TV.th",
+      "code": "CHA-TH-001",
+      "index": 1660,
+      "tvg_id": null,
+      "tvg_chno": 1760,
+      "name_ar": "Charoen Cable 37 TV",
+      "name_en": "Charoen Cable 37 TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CoolChannel.th",
+      "code": "COO-TH-001",
+      "index": 1926,
+      "tvg_id": null,
+      "tvg_chno": 2026,
+      "name_ar": "Cool Channel",
+      "name_en": "Cool Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV1.th",
+      "code": "DLT-TH-001",
+      "index": 2251,
+      "tvg_id": null,
+      "tvg_chno": 2351,
+      "name_ar": "DLTV 1",
+      "name_en": "DLTV 1",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV10.th",
+      "code": "DLT-TH-002",
+      "index": 2252,
+      "tvg_id": null,
+      "tvg_chno": 2352,
+      "name_ar": "DLTV 10",
+      "name_en": "DLTV 10",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV11.th",
+      "code": "DLT-TH-003",
+      "index": 2253,
+      "tvg_id": null,
+      "tvg_chno": 2353,
+      "name_ar": "DLTV 11",
+      "name_en": "DLTV 11",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV12.th",
+      "code": "DLT-TH-004",
+      "index": 2254,
+      "tvg_id": null,
+      "tvg_chno": 2354,
+      "name_ar": "DLTV 12",
+      "name_en": "DLTV 12",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV13.th",
+      "code": "DLT-TH-005",
+      "index": 2255,
+      "tvg_id": null,
+      "tvg_chno": 2355,
+      "name_ar": "DLTV 13",
+      "name_en": "DLTV 13",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV14.th",
+      "code": "DLT-TH-006",
+      "index": 2256,
+      "tvg_id": null,
+      "tvg_chno": 2356,
+      "name_ar": "DLTV 14",
+      "name_en": "DLTV 14",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV15.th",
+      "code": "DLT-TH-007",
+      "index": 2257,
+      "tvg_id": null,
+      "tvg_chno": 2357,
+      "name_ar": "DLTV 15",
+      "name_en": "DLTV 15",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV2.th",
+      "code": "DLT-TH-008",
+      "index": 2258,
+      "tvg_id": null,
+      "tvg_chno": 2358,
+      "name_ar": "DLTV 2",
+      "name_en": "DLTV 2",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV3.th",
+      "code": "DLT-TH-009",
+      "index": 2259,
+      "tvg_id": null,
+      "tvg_chno": 2359,
+      "name_ar": "DLTV 3",
+      "name_en": "DLTV 3",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV4.th",
+      "code": "DLT-TH-010",
+      "index": 2260,
+      "tvg_id": null,
+      "tvg_chno": 2360,
+      "name_ar": "DLTV 4",
+      "name_en": "DLTV 4",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV5.th",
+      "code": "DLT-TH-011",
+      "index": 2261,
+      "tvg_id": null,
+      "tvg_chno": 2361,
+      "name_ar": "DLTV 5",
+      "name_en": "DLTV 5",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV6.th",
+      "code": "DLT-TH-012",
+      "index": 2262,
+      "tvg_id": null,
+      "tvg_chno": 2362,
+      "name_ar": "DLTV 6",
+      "name_en": "DLTV 6",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV7.th",
+      "code": "DLT-TH-013",
+      "index": 2263,
+      "tvg_id": null,
+      "tvg_chno": 2363,
+      "name_ar": "DLTV 7",
+      "name_en": "DLTV 7",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV8.th",
+      "code": "DLT-TH-014",
+      "index": 2264,
+      "tvg_id": null,
+      "tvg_chno": 2364,
+      "name_ar": "DLTV 8",
+      "name_en": "DLTV 8",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DLTV9.th",
+      "code": "DLT-TH-015",
+      "index": 2265,
+      "tvg_id": null,
+      "tvg_chno": 2365,
+      "name_ar": "DLTV 9",
+      "name_en": "DLTV 9",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DopaChannel.th",
+      "code": "DOP-TH-001",
+      "index": 2301,
+      "tvg_id": null,
+      "tvg_chno": 2401,
+      "name_ar": "Dopa Channel",
+      "name_en": "Dopa Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://dopachannel.truegse.com/live/dopatv03.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DramaChannel.th",
+      "code": "DRA-TH-001",
+      "index": 2314,
+      "tvg_id": null,
+      "tvg_chno": 2414,
+      "name_ar": "Drama Channel",
+      "name_en": "Drama Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GMM25.th",
+      "code": "GMM-TH-001",
+      "index": 2963,
+      "tvg_id": null,
+      "tvg_chno": 3063,
+      "name_ar": "GMM 25",
+      "name_en": "GMM 25",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "GoodIdeaTV.th",
+      "code": "GOO-TH-001",
+      "index": 2995,
+      "tvg_id": null,
+      "tvg_chno": 3095,
+      "name_ar": "Good Idea TV",
+      "name_en": "Good Idea TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HalalTV.th",
+      "code": "HAL-TH-001",
+      "index": 3086,
+      "tvg_id": null,
+      "tvg_chno": 3186,
+      "name_ar": "Halal TV",
+      "name_en": "Halal TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo.plathong.net/Halaltv/Halaltv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JKN18.th",
+      "code": "JKN-TH-001",
+      "index": 3566,
+      "tvg_id": null,
+      "tvg_chno": 3666,
+      "name_ar": "JKN 18",
+      "name_en": "JKN 18",
+      "country": "TH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LanthungTV.th",
+      "code": "LAN-TH-001",
+      "index": 3916,
+      "tvg_id": null,
+      "tvg_chno": 4016,
+      "name_ar": "Lanthung TV",
+      "name_en": "Lanthung TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Mangorn.th",
+      "code": "MAN-TH-001",
+      "index": 4199,
+      "tvg_id": null,
+      "tvg_chno": 4299,
+      "name_ar": "Mangorn",
+      "name_en": "Mangorn",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MayaChannel.th",
+      "code": "MAY-TH-001",
+      "index": 4268,
+      "tvg_id": null,
+      "tvg_chno": 4368,
+      "name_ar": "Maya Channel",
+      "name_en": "Maya Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MCOTHD.th",
+      "code": "MCO-TH-001",
+      "index": 4305,
+      "tvg_id": null,
+      "tvg_chno": 4405,
+      "name_ar": "MCOT HD",
+      "name_en": "MCOT HD",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NationTV.th",
+      "code": "NAT-TH-001",
+      "index": 4730,
+      "tvg_id": null,
+      "tvg_chno": 4830,
+      "name_ar": "Nation TV",
+      "name_en": "Nation TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NBT2HD.th",
+      "code": "NBT-TH-001",
+      "index": 4753,
+      "tvg_id": null,
+      "tvg_chno": 4853,
+      "name_ar": "NBT 2 HD",
+      "name_en": "NBT 2 HD",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NBTTVChiangMai.th",
+      "code": "NBT-TH-002",
+      "index": 4754,
+      "tvg_id": null,
+      "tvg_chno": 4854,
+      "name_ar": "NBT TV Chiang Mai",
+      "name_en": "NBT TV Chiang Mai",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NBTWorld.th",
+      "code": "NBT-TH-003",
+      "index": 4755,
+      "tvg_id": null,
+      "tvg_chno": 4855,
+      "name_ar": "NBT World",
+      "name_en": "NBT World",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "News1.th",
+      "code": "NEW-TH-001",
+      "index": 4795,
+      "tvg_id": null,
+      "tvg_chno": 4895,
+      "name_ar": "News1",
+      "name_en": "News1",
+      "country": "TH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://news1.live14.com/stream/news1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "One31.th",
+      "code": "ONE-TH-001",
+      "index": 5134,
+      "tvg_id": null,
+      "tvg_chno": 5234,
+      "name_ar": "One 31",
+      "name_en": "One 31",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chone-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PoliceTV.th",
+      "code": "POL-TH-001",
+      "index": 5697,
+      "tvg_id": null,
+      "tvg_chno": 5797,
+      "name_ar": "Police TV",
+      "name_en": "Police TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RamaChannel.th",
+      "code": "RAM-TH-001",
+      "index": 6110,
+      "tvg_id": null,
+      "tvg_chno": 6210,
+      "name_ar": "Rama Channel",
+      "name_en": "Rama Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RChannel.th",
+      "code": "RCH-TH-001",
+      "index": 6136,
+      "tvg_id": null,
+      "tvg_chno": 6236,
+      "name_ar": "R Channel",
+      "name_en": "R Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://180.180.243.239/streams/3/hls",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SBBTV.th",
+      "code": "SBB-TH-001",
+      "index": 6632,
+      "tvg_id": null,
+      "tvg_chno": 6732,
+      "name_ar": "SBB TV",
+      "name_en": "SBB TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SBTTV.th",
+      "code": "SBT-TH-001",
+      "index": 6646,
+      "tvg_id": null,
+      "tvg_chno": 6746,
+      "name_ar": "SBT TV",
+      "name_en": "SBT TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ABVQXgr2LW4",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "STOUChannel.th",
+      "code": "STO-TH-001",
+      "index": 7118,
+      "tvg_id": null,
+      "tvg_chno": 7218,
+      "name_ar": "STOU Channel",
+      "name_en": "STOU Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuwannabhumiChannel.th",
+      "code": "SUW-TH-001",
+      "index": 7204,
+      "tvg_id": null,
+      "tvg_chno": 7304,
+      "name_ar": "Suwannabhumi Channel",
+      "name_en": "Suwannabhumi Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Thaiban83.th",
+      "code": "THA-TH-001",
+      "index": 7607,
+      "tvg_id": null,
+      "tvg_chno": 7707,
+      "name_ar": "Thaiban 83",
+      "name_en": "Thaiban 83",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ThaiChaiyo.th",
+      "code": "THA-TH-002",
+      "index": 7608,
+      "tvg_id": null,
+      "tvg_chno": 7708,
+      "name_ar": "Thai Chaiyo",
+      "name_en": "Thai Chaiyo",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.thaichaiyo.tv/tcy/live-transmux.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ThaiParliamentTelevision.th",
+      "code": "THA-TH-003",
+      "index": 7610,
+      "tvg_id": null,
+      "tvg_chno": 7710,
+      "name_ar": "Thai Parliament Television",
+      "name_en": "Thai Parliament Television",
+      "country": "TH",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv-live.tpchannel.org/live/tv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ThaiPBS.th",
+      "code": "THA-TH-004",
+      "index": 7611,
+      "tvg_id": null,
+      "tvg_chno": 7711,
+      "name_ar": "Thai PBS",
+      "name_en": "Thai PBS",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ThairathTV.th",
+      "code": "THA-TH-005",
+      "index": 7612,
+      "tvg_id": null,
+      "tvg_chno": 7712,
+      "name_ar": "Thairath TV",
+      "name_en": "Thairath TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TNN16.th",
+      "code": "TNN-TH-001",
+      "index": 7746,
+      "tvg_id": null,
+      "tvg_chno": 7846,
+      "name_ar": "TNN16",
+      "name_en": "TNN16",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TopNews.th",
+      "code": "TOP-TH-001",
+      "index": 7784,
+      "tvg_id": null,
+      "tvg_chno": 7884,
+      "name_ar": "Top News",
+      "name_en": "Top News",
+      "country": "TH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://www.twitch.tv/topnewsal",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "True4U.th",
+      "code": "TRU-TH-001",
+      "index": 7880,
+      "tvg_id": null,
+      "tvg_chno": 7980,
+      "name_ar": "True4U",
+      "name_en": "True4U",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TrueFilm1.th",
+      "code": "TRU-TH-002",
+      "index": 7886,
+      "tvg_id": null,
+      "tvg_chno": 7986,
+      "name_ar": "True Film 1",
+      "name_en": "True Film 1",
+      "country": "TH",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10004/bysid/2415",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TrueFilm2.th",
+      "code": "TRU-TH-003",
+      "index": 7887,
+      "tvg_id": null,
+      "tvg_chno": 7987,
+      "name_ar": "True Film 2",
+      "name_en": "True Film 2",
+      "country": "TH",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10004/bysid/2432",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TrueFilmAsia.th",
+      "code": "TRU-TH-004",
+      "index": 7888,
+      "tvg_id": null,
+      "tvg_chno": 7988,
+      "name_ar": "True Film Asia",
+      "name_en": "True Film Asia",
+      "country": "TH",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10004/bysid/2416",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TrueMovieHits.th",
+      "code": "TRU-TH-005",
+      "index": 7890,
+      "tvg_id": null,
+      "tvg_chno": 7990,
+      "name_ar": "True Movie Hits",
+      "name_en": "True Movie Hits",
+      "country": "TH",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10003/bysid/2325",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TrueTennis.th",
+      "code": "TRU-TH-006",
+      "index": 7891,
+      "tvg_id": null,
+      "tvg_chno": 7991,
+      "name_ar": "True Tennis",
+      "name_en": "True Tennis",
+      "country": "TH",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10004/bysid/2418",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TrueThaiFilm.th",
+      "code": "TRU-TH-007",
+      "index": 7892,
+      "tvg_id": null,
+      "tvg_chno": 7992,
+      "name_ar": "True Thai Film",
+      "name_en": "True Thai Film",
+      "country": "TH",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://58.8.186.128:10003/bysid/2326",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TSports7.th",
+      "code": "TSP-TH-001",
+      "index": 7901,
+      "tvg_id": null,
+      "tvg_chno": 8001,
+      "name_ar": "T Sports 7",
+      "name_en": "T Sports 7",
+      "country": "TH",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVMuslimThailand.th",
+      "code": "TVM-TH-001",
+      "index": 8199,
+      "tvg_id": null,
+      "tvg_chno": 8299,
+      "name_ar": "TV Muslim Thailand",
+      "name_en": "TV Muslim Thailand",
+      "country": "TH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UmmTV.th",
+      "code": "UMM-TH-001",
+      "index": 8448,
+      "tvg_id": null,
+      "tvg_chno": 8548,
+      "name_ar": "Umm TV",
+      "name_en": "Umm TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chtvb-2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VipaTV.th",
+      "code": "VIP-TH-001",
+      "index": 8668,
+      "tvg_id": null,
+      "tvg_chno": 8768,
+      "name_ar": "Vipa TV",
+      "name_en": "Vipa TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WhiteChannel.th",
+      "code": "WHI-TH-001",
+      "index": 8819,
+      "tvg_id": null,
+      "tvg_chno": 8919,
+      "name_ar": "White Channel",
+      "name_en": "White Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WorkpointTV.th",
+      "code": "WOR-TH-001",
+      "index": 8848,
+      "tvg_id": null,
+      "tvg_chno": 8948,
+      "name_ar": "Workpoint TV",
+      "name_en": "Workpoint TV",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WorldEntertainmentTV42.th",
+      "code": "WOR-TH-002",
+      "index": 8851,
+      "tvg_id": null,
+      "tvg_chno": 8951,
+      "name_ar": "World Entertainment TV 42",
+      "name_en": "World Entertainment TV 42",
+      "country": "TH",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://3bb.engatetv.com:25461/hstn/line/147",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ZabbChannel.th",
+      "code": "ZAB-TH-001",
+      "index": 8959,
+      "tvg_id": null,
+      "tvg_chno": 9059,
+      "name_ar": "Zabb Channel",
+      "name_en": "Zabb Channel",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ZeeNung.th",
+      "code": "ZEE-TH-001",
+      "index": 9003,
+      "tvg_id": null,
+      "tvg_chno": 9103,
+      "name_ar": "Zee Nung",
+      "name_en": "Zee Nung",
+      "country": "TH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "country": "FO",
+  "total_channels": 2,
+  "channels": [
+    {
+      "id": "kvfsjnvarp",
+      "code": "KVF-FO-001",
+      "index": 9214,
+      "tvg_id": null,
+      "tvg_chno": 9314,
+      "name_ar": "KVF Sjónvarp",
+      "name_en": "KVF Sjónvarp",
+      "country": "FO",
+      "language": "unknown",
+      "category": "Faroe Islands",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kringvarp_F%C3%B8roya_2018.svg/500px-Kringvarp_F%C3%B8roya_2018.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "tingvarp",
+      "code": "TIN-FO-001",
+      "index": 9215,
+      "tvg_id": null,
+      "tvg_chno": 9315,
+      "name_ar": "Tingvarp",
+      "name_en": "Tingvarp",
+      "country": "FO",
+      "language": "unknown",
+      "category": "Faroe Islands",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_-_L%C3%B8gting.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

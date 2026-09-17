@@ -1,0 +1,434 @@
+{
+  "version": "1.0.0",
+  "country": "MY",
+  "total_channels": 14,
+  "channels": [
+    {
+      "id": "8TV.my",
+      "code": "TVX-MY-001",
+      "index": 143,
+      "tvg_id": null,
+      "tvg_chno": 243,
+      "name_ar": "8TV",
+      "name_en": "8TV",
+      "country": "MY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://cdn6.163189.xyz/163189/8tv",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://stream.mcquack.net/374/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AwesomeTV.my",
+      "code": "AWE-MY-001",
+      "index": 782,
+      "tvg_id": null,
+      "tvg_chno": 882,
+      "name_ar": "Awesome TV",
+      "name_en": "Awesome TV",
+      "country": "MY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BeritaRTM.my",
+      "code": "BER-MY-001",
+      "index": 978,
+      "tvg_id": null,
+      "tvg_chno": 1078,
+      "name_ar": "Berita RTM",
+      "name_en": "Berita RTM",
+      "country": "MY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CinemaWorld.my",
+      "code": "CIN-MY-001",
+      "index": 1722,
+      "tvg_id": null,
+      "tvg_chno": 1822,
+      "name_ar": "CinemaWorld",
+      "name_en": "CinemaWorld",
+      "country": "MY",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn.qd.je/163189/cinemaworld",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DidikTVKPM.my",
+      "code": "DID-MY-001",
+      "index": 2200,
+      "tvg_id": null,
+      "tvg_chno": 2300,
+      "name_ar": "DidikTV KPM",
+      "name_en": "DidikTV KPM",
+      "country": "MY",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DramaSangat.my",
+      "code": "DRA-MY-001",
+      "index": 2315,
+      "tvg_id": null,
+      "tvg_chno": 2415,
+      "name_ar": "Drama Sangat",
+      "name_en": "Drama Sangat",
+      "country": "MY",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MaahTV.my",
+      "code": "MAA-MY-001",
+      "index": 4133,
+      "tvg_id": null,
+      "tvg_chno": 4233,
+      "name_ar": "Maah TV",
+      "name_en": "Maah TV",
+      "country": "MY",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hls.maahtv.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NTV7.my",
+      "code": "NTV-MY-001",
+      "index": 4998,
+      "tvg_id": null,
+      "tvg_chno": 5098,
+      "name_ar": "NTV7",
+      "name_en": "NTV7",
+      "country": "MY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Okey.my",
+      "code": "OKE-MY-001",
+      "index": 5071,
+      "tvg_id": null,
+      "tvg_chno": 5171,
+      "name_ar": "Okey",
+      "name_en": "Okey",
+      "country": "MY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTMParlimenDewanNegara.my",
+      "code": "RTM-MY-001",
+      "index": 6401,
+      "tvg_id": null,
+      "tvg_chno": 6501,
+      "name_ar": "RTM Parlimen Dewan Negara",
+      "name_en": "RTM Parlimen Dewan Negara",
+      "country": "MY",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RTMParlimenDewanRakyat.my",
+      "code": "RTM-MY-002",
+      "index": 6402,
+      "tvg_id": null,
+      "tvg_chno": 6502,
+      "name_ar": "RTM Parlimen Dewan Rakyat",
+      "name_en": "RTM Parlimen Dewan Rakyat",
+      "country": "MY",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SelangorTV.my",
+      "code": "SEL-MY-001",
+      "index": 6680,
+      "tvg_id": null,
+      "tvg_chno": 6780,
+      "name_ar": "SelangorTV",
+      "name_en": "SelangorTV",
+      "country": "MY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SukeTV.my",
+      "code": "SUK-MY-001",
+      "index": 7150,
+      "tvg_id": null,
+      "tvg_chno": 7250,
+      "name_ar": "Suke TV",
+      "name_en": "Suke TV",
+      "country": "MY",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVIKIM.my",
+      "code": "TVI-MY-001",
+      "index": 8126,
+      "tvg_id": null,
+      "tvg_chno": 8226,
+      "name_ar": "TVIKIM",
+      "name_en": "TVIKIM",
+      "country": "MY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

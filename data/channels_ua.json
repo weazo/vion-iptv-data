@@ -1,0 +1,4368 @@
+{
+  "version": "1.0.0",
+  "country": "UA",
+  "total_channels": 152,
+  "channels": [
+    {
+      "id": "100NEWS.ua",
+      "code": "NEW-UA-001",
+      "index": 4,
+      "tvg_id": null,
+      "tvg_chno": 104,
+      "name_ar": "100% NEWS",
+      "name_en": "100% NEWS",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "1Plus1International.ua",
+      "code": "INT-UA-001",
+      "index": 27,
+      "tvg_id": null,
+      "tvg_chno": 127,
+      "name_ar": "1+1 International",
+      "name_en": "1+1 International",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "1Plus1Marafon.ua",
+      "code": "MAR-UA-001",
+      "index": 28,
+      "tvg_id": null,
+      "tvg_chno": 128,
+      "name_ar": "1+1 Marafon",
+      "name_en": "1+1 Marafon",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "1Plus1Ukraina.ua",
+      "code": "UKR-UA-001",
+      "index": 29,
+      "tvg_id": null,
+      "tvg_chno": 129,
+      "name_ar": "1+1 Ukraina",
+      "name_en": "1+1 Ukraina",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/219/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "24Kanal.ua",
+      "code": "KAN-UA-001",
+      "index": 42,
+      "tvg_id": null,
+      "tvg_chno": 142,
+      "name_ar": "24 Kanal",
+      "name_en": "24 Kanal",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2Plus2.ua",
+      "code": "XXX-UA-001",
+      "index": 50,
+      "tvg_id": null,
+      "tvg_chno": 150,
+      "name_ar": "2+2",
+      "name_en": "2+2",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/173/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2Plus2Marathon.ua",
+      "code": "MAR-UA-002",
+      "index": 51,
+      "tvg_id": null,
+      "tvg_chno": 151,
+      "name_ar": "2+2 Marathon",
+      "name_en": "2+2 Marathon",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "366TV.ua",
+      "code": "TVX-UA-001",
+      "index": 77,
+      "tvg_id": null,
+      "tvg_chno": 177,
+      "name_ar": "36.6 TV",
+      "name_en": "36.6 TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "4everCinema.ua",
+      "code": "EVE-UA-001",
+      "index": 103,
+      "tvg_id": null,
+      "tvg_chno": 203,
+      "name_ar": "4ever Cinema",
+      "name_en": "4ever Cinema",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/258/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "4everDrama.ua",
+      "code": "EVE-UA-002",
+      "index": 104,
+      "tvg_id": null,
+      "tvg_chno": 204,
+      "name_ar": "4ever Drama",
+      "name_en": "4ever Drama",
+      "country": "UA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/260/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "4everMusic.ua",
+      "code": "EVE-UA-003",
+      "index": 105,
+      "tvg_id": null,
+      "tvg_chno": 205,
+      "name_ar": "4ever Music",
+      "name_en": "4ever Music",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/257/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "4everTheater.ua",
+      "code": "EVE-UA-004",
+      "index": 106,
+      "tvg_id": null,
+      "tvg_chno": 206,
+      "name_ar": "4ever Theater",
+      "name_en": "4ever Theater",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/259/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "6sotok.ua",
+      "code": "SOT-UA-001",
+      "index": 124,
+      "tvg_id": null,
+      "tvg_chno": 224,
+      "name_ar": "6 sotok",
+      "name_en": "6 sotok",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/405/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ApostropheTV.ua",
+      "code": "APO-UA-001",
+      "index": 614,
+      "tvg_id": null,
+      "tvg_chno": 714,
+      "name_ar": "Apostrophe TV",
+      "name_en": "Apostrophe TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ArmyTV.ua",
+      "code": "ARM-UA-001",
+      "index": 661,
+      "tvg_id": null,
+      "tvg_chno": 761,
+      "name_ar": "Army TV",
+      "name_en": "Army TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://195.54.52.40/test/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ATR.ua",
+      "code": "ATR-UA-001",
+      "index": 733,
+      "tvg_id": null,
+      "tvg_chno": 833,
+      "name_ar": "ATR",
+      "name_en": "ATR",
+      "country": "UA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/244/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Avers.ua",
+      "code": "AVE-UA-001",
+      "index": 769,
+      "tvg_id": null,
+      "tvg_chno": 869,
+      "name_ar": "Avers",
+      "name_en": "Avers",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://avers.pp.ua/hls/efir.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BaltaTV.ua",
+      "code": "BAL-UA-001",
+      "index": 848,
+      "tvg_id": null,
+      "tvg_chno": 948,
+      "name_ar": "Balta TV",
+      "name_en": "Balta TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://194.50.51.34/playlist.m3u8",
+          "quality": "768p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BamBarBiaTV.ua",
+      "code": "BAM-UA-001",
+      "index": 851,
+      "tvg_id": null,
+      "tvg_chno": 951,
+      "name_ar": "BamBarBia.TV",
+      "name_en": "BamBarBia.TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Bigudi.ua",
+      "code": "BIG-UA-001",
+      "index": 1036,
+      "tvg_id": null,
+      "tvg_chno": 1136,
+      "name_ar": "Bigudi",
+      "name_en": "Bigudi",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/340/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BlackSeaTV.ua",
+      "code": "BLA-UA-001",
+      "index": 1058,
+      "tvg_id": null,
+      "tvg_chno": 1158,
+      "name_ar": "Black Sea TV",
+      "name_en": "Black Sea TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Channel7Ukraine.ua",
+      "code": "CHA-UA-001",
+      "index": 1639,
+      "tvg_id": null,
+      "tvg_chno": 1739,
+      "name_ar": "Channel 7 Ukraine",
+      "name_en": "Channel 7 Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ChemodanTV.ua",
+      "code": "CHE-UA-001",
+      "index": 1674,
+      "tvg_id": null,
+      "tvg_chno": 1774,
+      "name_ar": "Chemodan TV",
+      "name_en": "Chemodan TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/399/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Cherniveckiypromin.ua",
+      "code": "CHE-UA-002",
+      "index": 1675,
+      "tvg_id": null,
+      "tvg_chno": 1775,
+      "name_ar": "Cherniveckiy promin",
+      "name_en": "Cherniveckiy promin",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://langate.tv/promin/live_720/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ChPinfo.ua",
+      "code": "CHP-UA-001",
+      "index": 1691,
+      "tvg_id": null,
+      "tvg_chno": 1791,
+      "name_ar": "ChP info",
+      "name_en": "ChP info",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CinePlus.ua",
+      "code": "CIN-UA-001",
+      "index": 1726,
+      "tvg_id": null,
+      "tvg_chno": 1826,
+      "name_ar": "Cine+",
+      "name_en": "Cine+",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CinePlusHit.ua",
+      "code": "CIN-UA-002",
+      "index": 1730,
+      "tvg_id": null,
+      "tvg_chno": 1830,
+      "name_ar": "Cine+ Hit",
+      "name_en": "Cine+ Hit",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CinePlusKids.ua",
+      "code": "CIN-UA-003",
+      "index": 1731,
+      "tvg_id": null,
+      "tvg_chno": 1831,
+      "name_ar": "Cine+ Kids",
+      "name_en": "Cine+ Kids",
+      "country": "UA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CinePlusLegend.ua",
+      "code": "CIN-UA-004",
+      "index": 1732,
+      "tvg_id": null,
+      "tvg_chno": 1832,
+      "name_ar": "Cine+ Legend",
+      "name_en": "Cine+ Legend",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ContinentE.ua",
+      "code": "CON-UA-001",
+      "index": 1922,
+      "tvg_id": null,
+      "tvg_chno": 2022,
+      "name_ar": "Continent E",
+      "name_en": "Continent E",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/449/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Dacha.ua",
+      "code": "DAC-UA-001",
+      "index": 2043,
+      "tvg_id": null,
+      "tvg_chno": 2143,
+      "name_ar": "Dacha",
+      "name_en": "Dacha",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DIM.ua",
+      "code": "DIM-UA-001",
+      "index": 2222,
+      "tvg_id": null,
+      "tvg_chno": 2322,
+      "name_ar": "DIM",
+      "name_en": "DIM",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://stream.mcquack.net/383/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DiviSport.ua",
+      "code": "DIV-UA-001",
+      "index": 2244,
+      "tvg_id": null,
+      "tvg_chno": 2344,
+      "name_ar": "DiviSport",
+      "name_en": "DiviSport",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/457/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DniproTV.ua",
+      "code": "DNI-UA-001",
+      "index": 2272,
+      "tvg_id": null,
+      "tvg_chno": 2372,
+      "name_ar": "Dnipro TV",
+      "name_en": "Dnipro TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DonbassOnline.ua",
+      "code": "DON-UA-001",
+      "index": 2294,
+      "tvg_id": null,
+      "tvg_chno": 2394,
+      "name_ar": "Donbass Online",
+      "name_en": "Donbass Online",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DynamoKyivTV.ua",
+      "code": "DYN-UA-001",
+      "index": 2368,
+      "tvg_id": null,
+      "tvg_chno": 2468,
+      "name_ar": "Dynamo Kyiv TV",
+      "name_en": "Dynamo Kyiv TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/396/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EkoTV.ua",
+      "code": "EKO-UA-001",
+      "index": 2421,
+      "tvg_id": null,
+      "tvg_chno": 2521,
+      "name_ar": "Eko TV",
+      "name_en": "Eko TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "science",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "EnterFilm.ua",
+      "code": "ENT-UA-001",
+      "index": 2502,
+      "tvg_id": null,
+      "tvg_chno": 2602,
+      "name_ar": "Enter-Film",
+      "name_en": "Enter-Film",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/322/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Equalympic.ua",
+      "code": "EQU-UA-001",
+      "index": 2519,
+      "tvg_id": null,
+      "tvg_chno": 2619,
+      "name_ar": "Equalympic",
+      "name_en": "Equalympic",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/485/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EspresoTV.ua",
+      "code": "ESP-UA-001",
+      "index": 2551,
+      "tvg_id": null,
+      "tvg_chno": 2651,
+      "name_ar": "Espreso TV",
+      "name_en": "Espreso TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://dash4.antik.sk/live/test_espresso/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EUMusic.ua",
+      "code": "EUM-UA-001",
+      "index": 2586,
+      "tvg_id": null,
+      "tvg_chno": 2686,
+      "name_ar": "EU Music",
+      "name_en": "EU Music",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/261/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EWTNUkraine.ua",
+      "code": "EWT-UA-001",
+      "index": 2632,
+      "tvg_id": null,
+      "tvg_chno": 2732,
+      "name_ar": "EWTN Ukraine",
+      "name_en": "EWTN Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Fashion.ua",
+      "code": "FAS-UA-001",
+      "index": 2680,
+      "tvg_id": null,
+      "tvg_chno": 2780,
+      "name_ar": "Fashion",
+      "name_en": "Fashion",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/288/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Fauna.ua",
+      "code": "FAU-UA-001",
+      "index": 2691,
+      "tvg_id": null,
+      "tvg_chno": 2791,
+      "name_ar": "Fauna",
+      "name_en": "Fauna",
+      "country": "UA",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/401/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FilmUADrama.ua",
+      "code": "FIL-UA-001",
+      "index": 2748,
+      "tvg_id": null,
+      "tvg_chno": 2848,
+      "name_ar": "FilmUADrama",
+      "name_en": "FilmUADrama",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.99.215.227/FilmUADrama/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FilmUALive.ua",
+      "code": "FIL-UA-002",
+      "index": 2749,
+      "tvg_id": null,
+      "tvg_chno": 2849,
+      "name_ar": "FilmUA Live",
+      "name_en": "FilmUA Live",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FREEDOM.ua",
+      "code": "FRE-UA-001",
+      "index": 2827,
+      "tvg_id": null,
+      "tvg_chno": 2927,
+      "name_ar": "FREEDOM",
+      "name_en": "FREEDOM",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_uatv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "GIT.ua",
+      "code": "GIT-UA-001",
+      "index": 2943,
+      "tvg_id": null,
+      "tvg_chno": 3043,
+      "name_ar": "GIT",
+      "name_en": "GIT",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.uagit.tv/gittv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HappyRadioTV.ua",
+      "code": "HAP-UA-001",
+      "index": 3104,
+      "tvg_id": null,
+      "tvg_chno": 3204,
+      "name_ar": "Happy Radio TV",
+      "name_en": "Happy Radio TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.mediacp.eu:8081/happyradio/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HersonPlyus.ua",
+      "code": "HER-UA-001",
+      "index": 3146,
+      "tvg_id": null,
+      "tvg_chno": 3246,
+      "name_ar": "Herson Plyus",
+      "name_en": "Herson Plyus",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://46.175.163.130/ks_plus/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "History2Ukraine.ua",
+      "code": "HIS-UA-001",
+      "index": 3174,
+      "tvg_id": null,
+      "tvg_chno": 3274,
+      "name_ar": "History2 Ukraine",
+      "name_en": "History2 Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://dtv.vol.net.ua/H2-HD/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HistoryUkraine.ua",
+      "code": "HIS-UA-002",
+      "index": 3179,
+      "tvg_id": null,
+      "tvg_chno": 3279,
+      "name_ar": "History Ukraine",
+      "name_en": "History Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://dtv.vol.net.ua/History_HD/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HollywoodUkraine.ua",
+      "code": "HOL-UA-001",
+      "index": 3224,
+      "tvg_id": null,
+      "tvg_chno": 3324,
+      "name_ar": "Hollywood Ukraine",
+      "name_en": "Hollywood Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HopeChannelUkraine.ua",
+      "code": "HOP-UA-001",
+      "index": 3249,
+      "tvg_id": null,
+      "tvg_chno": 3349,
+      "name_ar": "Hope Channel Ukraine",
+      "name_en": "Hope Channel Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://nadiya.home-net.com.ua/mob/mystream.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ICTV2.ua",
+      "code": "ICT-UA-001",
+      "index": 3327,
+      "tvg_id": null,
+      "tvg_chno": 3427,
+      "name_ar": "ICTV2",
+      "name_en": "ICTV2",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/368/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "InRatingTV.ua",
+      "code": "INR-UA-001",
+      "index": 3404,
+      "tvg_id": null,
+      "tvg_chno": 3504,
+      "name_ar": "InRating TV",
+      "name_en": "InRating TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/147/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Inter.ua",
+      "code": "INT-UA-002",
+      "index": 3409,
+      "tvg_id": null,
+      "tvg_chno": 3509,
+      "name_ar": "Inter",
+      "name_en": "Inter",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/174/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IRT.ua",
+      "code": "IRT-UA-001",
+      "index": 3456,
+      "tvg_id": null,
+      "tvg_chno": 3556,
+      "name_ar": "IRT",
+      "name_en": "IRT",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Islandia.ua",
+      "code": "ISL-UA-001",
+      "index": 3466,
+      "tvg_id": null,
+      "tvg_chno": 3566,
+      "name_ar": "Islandia",
+      "name_en": "Islandia",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ITV.ua",
+      "code": "ITV-UA-001",
+      "index": 3483,
+      "tvg_id": null,
+      "tvg_chno": 3583,
+      "name_ar": "ITV",
+      "name_en": "ITV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IUAtv.ua",
+      "code": "IUA-UA-001",
+      "index": 3487,
+      "tvg_id": null,
+      "tvg_chno": 3587,
+      "name_ar": "I-UA.tv",
+      "name_en": "I-UA.tv",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "IzmailTV.ua",
+      "code": "IZM-UA-001",
+      "index": 3491,
+      "tvg_id": null,
+      "tvg_chno": 3591,
+      "name_ar": "Izmail TV",
+      "name_en": "Izmail TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
+          "quality": "384p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "K1.ua",
+      "code": "KXX-UA-001",
+      "index": 3613,
+      "tvg_id": null,
+      "tvg_chno": 3713,
+      "name_ar": "K1",
+      "name_en": "K1",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/270/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "K2.ua",
+      "code": "KXX-UA-002",
+      "index": 3616,
+      "tvg_id": null,
+      "tvg_chno": 3716,
+      "name_ar": "K2",
+      "name_en": "K2",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/324/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kino2.ua",
+      "code": "KIN-UA-001",
+      "index": 3745,
+      "tvg_id": null,
+      "tvg_chno": 3845,
+      "name_ar": "Kino 2",
+      "name_en": "Kino 2",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/465/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kinoliving.ua",
+      "code": "KIN-UA-002",
+      "index": 3751,
+      "tvg_id": null,
+      "tvg_chno": 3851,
+      "name_ar": "Kinoliving",
+      "name_en": "Kinoliving",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/445/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kinowood.ua",
+      "code": "KIN-UA-003",
+      "index": 3763,
+      "tvg_id": null,
+      "tvg_chno": 3863,
+      "name_ar": "Kinowood",
+      "name_en": "Kinowood",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/446/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KonkurentUkraine.ua",
+      "code": "KON-UA-001",
+      "index": 3808,
+      "tvg_id": null,
+      "tvg_chno": 3908,
+      "name_ar": "Konkurent Ukraine",
+      "name_en": "Konkurent Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==&master=311",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KusKus.ua",
+      "code": "KUS-UA-001",
+      "index": 3859,
+      "tvg_id": null,
+      "tvg_chno": 3959,
+      "name_ar": "Kus-Kus",
+      "name_en": "Kus-Kus",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kyiv.ua",
+      "code": "KYI-UA-001",
+      "index": 3863,
+      "tvg_id": null,
+      "tvg_chno": 3963,
+      "name_ar": "Kyiv",
+      "name_en": "Kyiv",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Lale.ua",
+      "code": "LAL-UA-001",
+      "index": 3901,
+      "tvg_id": null,
+      "tvg_chno": 4001,
+      "name_ar": "Lale",
+      "name_en": "Lale",
+      "country": "UA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Lugansk24.ua",
+      "code": "LUG-UA-001",
+      "index": 4111,
+      "tvg_id": null,
+      "tvg_chno": 4211,
+      "name_ar": "Lugansk 24",
+      "name_en": "Lugansk 24",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LuxTV.ua",
+      "code": "LUX-UA-001",
+      "index": 4117,
+      "tvg_id": null,
+      "tvg_chno": 4217,
+      "name_ar": "Lux TV",
+      "name_en": "Lux TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84&channel=431",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MaincastCybersport.ua",
+      "code": "MAI-UA-001",
+      "index": 4169,
+      "tvg_id": null,
+      "tvg_chno": 4269,
+      "name_ar": "Maincast Cybersport",
+      "name_en": "Maincast Cybersport",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/487/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MaincastSport.ua",
+      "code": "MAI-UA-002",
+      "index": 4170,
+      "tvg_id": null,
+      "tvg_chno": 4270,
+      "name_ar": "Maincast Sport",
+      "name_en": "Maincast Sport",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/490/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MasonTV.ua",
+      "code": "MAS-UA-001",
+      "index": 4239,
+      "tvg_id": null,
+      "tvg_chno": 4339,
+      "name_ar": "Mason TV",
+      "name_en": "Mason TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/346/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MegogoMusic.ua",
+      "code": "MEG-UA-001",
+      "index": 4338,
+      "tvg_id": null,
+      "tvg_chno": 4438,
+      "name_ar": "Megogo Music",
+      "name_en": "Megogo Music",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MistoPlus.ua",
+      "code": "MIS-UA-001",
+      "index": 4430,
+      "tvg_id": null,
+      "tvg_chno": 4530,
+      "name_ar": "Misto+",
+      "name_en": "Misto+",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://93.78.206.172:8080/stream3/stream.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Muzvar.ua",
+      "code": "MUZ-UA-001",
+      "index": 4651,
+      "tvg_id": null,
+      "tvg_chno": 4751,
+      "name_ar": "Muzvar",
+      "name_en": "Muzvar",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MyUkrainaPlus.ua",
+      "code": "MYU-UA-001",
+      "index": 4677,
+      "tvg_id": null,
+      "tvg_chno": 4777,
+      "name_ar": "My Ukraina+",
+      "name_en": "My Ukraina+",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NasheLubimoeKinoUkraine.ua",
+      "code": "NAS-UA-001",
+      "index": 4711,
+      "tvg_id": null,
+      "tvg_chno": 4811,
+      "name_ar": "Nashe Lubimoe Kino Ukraine",
+      "name_en": "Nashe Lubimoe Kino Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/456/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NASHEMusic.ua",
+      "code": "NAS-UA-002",
+      "index": 4712,
+      "tvg_id": null,
+      "tvg_chno": 4812,
+      "name_ar": "NASHE Music",
+      "name_en": "NASHE Music",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NikiJunior.ua",
+      "code": "NIK-UA-001",
+      "index": 4895,
+      "tvg_id": null,
+      "tvg_chno": 4995,
+      "name_ar": "Niki Junior",
+      "name_en": "Niki Junior",
+      "country": "UA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/262/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://158.101.222.193:88/georgia_play.php?id=nikijunior",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NikiKids.ua",
+      "code": "NIK-UA-002",
+      "index": 4896,
+      "tvg_id": null,
+      "tvg_chno": 4996,
+      "name_ar": "Niki Kids",
+      "name_en": "Niki Kids",
+      "country": "UA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/271/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NovyiChannel.ua",
+      "code": "NOV-UA-001",
+      "index": 4957,
+      "tvg_id": null,
+      "tvg_chno": 5057,
+      "name_ar": "Novyi Channel",
+      "name_en": "Novyi Channel",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/157/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ObozrevatelTV.ua",
+      "code": "OBO-UA-001",
+      "index": 5039,
+      "tvg_id": null,
+      "tvg_chno": 5139,
+      "name_ar": "Obozrevatel TV",
+      "name_en": "Obozrevatel TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
+      "code": "OBS-UA-001",
+      "index": 5041,
+      "tvg_id": null,
+      "tvg_chno": 5141,
+      "name_ar": "Obshchestvennoe Nezavisimoe Televidenie",
+      "name_en": "Obshchestvennoe Nezavisimoe Televidenie",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OnePlanet.ua",
+      "code": "ONE-UA-001",
+      "index": 5143,
+      "tvg_id": null,
+      "tvg_chno": 5243,
+      "name_ar": "One Planet",
+      "name_en": "One Planet",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/448/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://dtv.vol.net.ua/OnePlanet/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "OrbitaTV.ua",
+      "code": "ORB-UA-001",
+      "index": 5170,
+      "tvg_id": null,
+      "tvg_chno": 5270,
+      "name_ar": "Orbita TV",
+      "name_en": "Orbita TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://ftp.orbita.dn.ua/hls/orbita.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OTSE.ua",
+      "code": "OTS-UA-001",
+      "index": 5198,
+      "tvg_id": null,
+      "tvg_chno": 5298,
+      "name_ar": "OTSE",
+      "name_en": "OTSE",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/329/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PershiyXTVMedia.ua",
+      "code": "PER-UA-001",
+      "index": 5328,
+      "tvg_id": null,
+      "tvg_chno": 5428,
+      "name_ar": "Pershiy XTV Media",
+      "name_en": "Pershiy XTV Media",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Pershyi.ua",
+      "code": "PER-UA-002",
+      "index": 5329,
+      "tvg_id": null,
+      "tvg_chno": 5429,
+      "name_ar": "Pershyi",
+      "name_en": "Pershyi",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Pershyiavtomobilnyi.ua",
+      "code": "PER-UA-003",
+      "index": 5330,
+      "tvg_id": null,
+      "tvg_chno": 5430,
+      "name_ar": "Pershyi avtomobilnyi",
+      "name_en": "Pershyi avtomobilnyi",
+      "country": "UA",
+      "language": "unknown",
+      "category": "auto",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/404/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PershyiZahidnyi.ua",
+      "code": "PER-UA-004",
+      "index": 5331,
+      "tvg_id": null,
+      "tvg_chno": 5431,
+      "name_ar": "Pershyi Zahidnyi",
+      "name_en": "Pershyi Zahidnyi",
+      "country": "UA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/246/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PervyygorodskoyOdessa.ua",
+      "code": "PER-UA-005",
+      "index": 5354,
+      "tvg_id": null,
+      "tvg_chno": 5454,
+      "name_ar": "Pervyy gorodskoy. Odessa",
+      "name_en": "Pervyy gorodskoy. Odessa",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.1tv.od.ua/stream1/channel1/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PLUSPLUS.ua",
+      "code": "PLU-UA-001",
+      "index": 5399,
+      "tvg_id": null,
+      "tvg_chno": 5499,
+      "name_ar": "PLUSPLUS",
+      "name_en": "PLUSPLUS",
+      "country": "UA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/339/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PravdaTUT.ua",
+      "code": "PRA-UA-001",
+      "index": 5748,
+      "tvg_id": null,
+      "tvg_chno": 5848,
+      "name_ar": "PravdaTUT",
+      "name_en": "PravdaTUT",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Prokino.ua",
+      "code": "PRO-UA-001",
+      "index": 5796,
+      "tvg_id": null,
+      "tvg_chno": 5896,
+      "name_ar": "Prokino",
+      "name_en": "Prokino",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://dtv.vol.net.ua/ProKino/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "QuizTV.ua",
+      "code": "QUI-UA-001",
+      "index": 5903,
+      "tvg_id": null,
+      "tvg_chno": 6003,
+      "name_ar": "Quiz TV",
+      "name_en": "Quiz TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/397/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadaTV.ua",
+      "code": "RAD-UA-001",
+      "index": 5928,
+      "tvg_id": null,
+      "tvg_chno": 6028,
+      "name_ar": "Rada TV",
+      "name_en": "Rada TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RAZ1.ua",
+      "code": "RAZ-UA-001",
+      "index": 6123,
+      "tvg_id": null,
+      "tvg_chno": 6223,
+      "name_ar": "RAZ 1",
+      "name_en": "RAZ 1",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/463/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RAZ2.ua",
+      "code": "RAZ-UA-002",
+      "index": 6124,
+      "tvg_id": null,
+      "tvg_chno": 6224,
+      "name_ar": "RAZ 2",
+      "name_en": "RAZ 2",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/464/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RAZ3.ua",
+      "code": "RAZ-UA-003",
+      "index": 6125,
+      "tvg_id": null,
+      "tvg_chno": 6225,
+      "name_ar": "RAZ 3",
+      "name_en": "RAZ 3",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RAZ3International.ua",
+      "code": "RAZ-UA-004",
+      "index": 6126,
+      "tvg_id": null,
+      "tvg_chno": 6226,
+      "name_ar": "RAZ 3 International",
+      "name_en": "RAZ 3 International",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RenomeTV.ua",
+      "code": "REN-UA-001",
+      "index": 6224,
+      "tvg_id": null,
+      "tvg_chno": 6324,
+      "name_ar": "Renome TV",
+      "name_en": "Renome TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Reporter.ua",
+      "code": "REP-UA-001",
+      "index": 6227,
+      "tvg_id": null,
+      "tvg_chno": 6327,
+      "name_ar": "Reporter",
+      "name_en": "Reporter",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Rivne1.ua",
+      "code": "RIV-UA-001",
+      "index": 6293,
+      "tvg_id": null,
+      "tvg_chno": 6393,
+      "name_ar": "Rivne 1",
+      "name_en": "Rivne 1",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Rybalka.ua",
+      "code": "RYB-UA-001",
+      "index": 6514,
+      "tvg_id": null,
+      "tvg_chno": 6614,
+      "name_ar": "Rybalka",
+      "name_en": "Rybalka",
+      "country": "UA",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SaltTV.ua",
+      "code": "SAL-UA-001",
+      "index": 6562,
+      "tvg_id": null,
+      "tvg_chno": 6662,
+      "name_ar": "Salt TV",
+      "name_en": "Salt TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/398/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SetantaSportsPlusUkraine.ua",
+      "code": "SET-UA-001",
+      "index": 6720,
+      "tvg_id": null,
+      "tvg_chno": 6820,
+      "name_ar": "Setanta Sports+ Ukraine",
+      "name_en": "Setanta Sports+ Ukraine",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/390/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Simon.ua",
+      "code": "SIM-UA-001",
+      "index": 6813,
+      "tvg_id": null,
+      "tvg_chno": 6913,
+      "name_ar": "Simon",
+      "name_en": "Simon",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hls.simon.ua/live-HD/live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SK1.ua",
+      "code": "SKX-UA-001",
+      "index": 6834,
+      "tvg_id": null,
+      "tvg_chno": 6934,
+      "name_ar": "SK 1",
+      "name_en": "SK 1",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sonce.ua",
+      "code": "SON-UA-001",
+      "index": 6910,
+      "tvg_id": null,
+      "tvg_chno": 7010,
+      "name_ar": "Sonce",
+      "name_en": "Sonce",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Sport1Baltic.ua",
+      "code": "SPO-UA-001",
+      "index": 7004,
+      "tvg_id": null,
+      "tvg_chno": 7104,
+      "name_ar": "Sport 1 Baltic",
+      "name_en": "Sport 1 Baltic",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/461/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sport3.ua",
+      "code": "SPO-UA-002",
+      "index": 7006,
+      "tvg_id": null,
+      "tvg_chno": 7106,
+      "name_ar": "Sport 3",
+      "name_en": "Sport 3",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/393/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sport4.ua",
+      "code": "SPO-UA-003",
+      "index": 7007,
+      "tvg_id": null,
+      "tvg_chno": 7107,
+      "name_ar": "Sport 4",
+      "name_en": "Sport 4",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/394/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sport5.ua",
+      "code": "SPO-UA-004",
+      "index": 7008,
+      "tvg_id": null,
+      "tvg_chno": 7108,
+      "name_ar": "Sport 5",
+      "name_en": "Sport 5",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/212/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "STB.ua",
+      "code": "STB-UA-001",
+      "index": 7078,
+      "tvg_id": null,
+      "tvg_chno": 7178,
+      "name_ar": "STB",
+      "name_en": "STB",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/156/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuspilneDonbas.ua",
+      "code": "SUS-UA-001",
+      "index": 7197,
+      "tvg_id": null,
+      "tvg_chno": 7297,
+      "name_ar": "Suspilne. Donbas",
+      "name_en": "Suspilne. Donbas",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuspilneKrym.ua",
+      "code": "SUS-UA-002",
+      "index": 7198,
+      "tvg_id": null,
+      "tvg_chno": 7298,
+      "name_ar": "Suspilne. Krym",
+      "name_en": "Suspilne. Krym",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/436/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuspilneKultura.ua",
+      "code": "SUS-UA-003",
+      "index": 7199,
+      "tvg_id": null,
+      "tvg_chno": 7299,
+      "name_ar": "Suspilne. Kultura",
+      "name_en": "Suspilne. Kultura",
+      "country": "UA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/435/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuspilneKyiv.ua",
+      "code": "SUS-UA-004",
+      "index": 7200,
+      "tvg_id": null,
+      "tvg_chno": 7300,
+      "name_ar": "Suspilne. Kyiv",
+      "name_en": "Suspilne. Kyiv",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuspilneSport.ua",
+      "code": "SUS-UA-005",
+      "index": 7201,
+      "tvg_id": null,
+      "tvg_chno": 7301,
+      "name_ar": "Suspilne. Sport",
+      "name_en": "Suspilne. Sport",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/444/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Svarozhychy.ua",
+      "code": "SVA-UA-001",
+      "index": 7209,
+      "tvg_id": null,
+      "tvg_chno": 7309,
+      "name_ar": "Svarozhychy",
+      "name_en": "Svarozhychy",
+      "country": "UA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SvitPlus.ua",
+      "code": "SVI-UA-001",
+      "index": 7217,
+      "tvg_id": null,
+      "tvg_chno": 7317,
+      "name_ar": "Svit+",
+      "name_en": "Svit+",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/358/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TelekanalRAI.ua",
+      "code": "TEL-UA-001",
+      "index": 7434,
+      "tvg_id": null,
+      "tvg_chno": 7534,
+      "name_ar": "Telekanal RAI",
+      "name_en": "Telekanal RAI",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.rai.ua/rai/stream.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://92.253.233.136/uploads/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Televsesvit.ua",
+      "code": "TEL-UA-002",
+      "index": 7565,
+      "tvg_id": null,
+      "tvg_chno": 7665,
+      "name_ar": "Televsesvit",
+      "name_en": "Televsesvit",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Ternopil1.ua",
+      "code": "TER-UA-001",
+      "index": 7588,
+      "tvg_id": null,
+      "tvg_chno": 7688,
+      "name_ar": "Ternopil 1",
+      "name_en": "Ternopil 1",
+      "country": "UA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ott.columbus.te.ua/ternopil1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TET.ua",
+      "code": "TET-UA-001",
+      "index": 7592,
+      "tvg_id": null,
+      "tvg_chno": 7692,
+      "name_ar": "TET",
+      "name_en": "TET",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://stream.mcquack.net/338/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TISTV.ua",
+      "code": "TIS-UA-001",
+      "index": 7714,
+      "tvg_id": null,
+      "tvg_chno": 7814,
+      "name_ar": "TIS TV",
+      "name_en": "TIS TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TRKAleks.ua",
+      "code": "TRK-UA-001",
+      "index": 7854,
+      "tvg_id": null,
+      "tvg_chno": 7954,
+      "name_ar": "TRK Aleks",
+      "name_en": "TRK Aleks",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://46.46.112.223/live/livestream1.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TRKIldana.ua",
+      "code": "TRK-UA-002",
+      "index": 7855,
+      "tvg_id": null,
+      "tvg_chno": 7955,
+      "name_ar": "TRK Ildana",
+      "name_en": "TRK Ildana",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Trofei.ua",
+      "code": "TRO-UA-001",
+      "index": 7856,
+      "tvg_id": null,
+      "tvg_chno": 7956,
+      "name_ar": "Trofei",
+      "name_en": "Trofei",
+      "country": "UA",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/357/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TUSO.ua",
+      "code": "TUS-UA-001",
+      "index": 7922,
+      "tvg_id": null,
+      "tvg_chno": 8022,
+      "name_ar": "TUSO",
+      "name_en": "TUSO",
+      "country": "UA",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Tviyserial.ua",
+      "code": "TVI-UA-001",
+      "index": 8134,
+      "tvg_id": null,
+      "tvg_chno": 8234,
+      "name_ar": "Tviy serial",
+      "name_en": "Tviy serial",
+      "country": "UA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/466/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UAMusic.ua",
+      "code": "UAM-UA-001",
+      "index": 8424,
+      "tvg_id": null,
+      "tvg_chno": 8524,
+      "name_ar": "UA Music",
+      "name_en": "UA Music",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/281/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UNIANSerial.ua",
+      "code": "UNI-UA-001",
+      "index": 8461,
+      "tvg_id": null,
+      "tvg_chno": 8561,
+      "name_ar": "UNIAN Serial",
+      "name_en": "UNIAN Serial",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/341/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UPLTV.ua",
+      "code": "UPL-UA-001",
+      "index": 8499,
+      "tvg_id": null,
+      "tvg_chno": 8599,
+      "name_ar": "UPL.TV",
+      "name_en": "UPL.TV",
+      "country": "UA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://dtv.vol.net.ua/UPL-TV/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ViasatKino.ua",
+      "code": "VIA-UA-001",
+      "index": 8625,
+      "tvg_id": null,
+      "tvg_chno": 8725,
+      "name_ar": "Viasat Kino",
+      "name_en": "Viasat Kino",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://176.61.157.250/TV1000/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ViasatKinoAction.ua",
+      "code": "VIA-UA-002",
+      "index": 8626,
+      "tvg_id": null,
+      "tvg_chno": 8726,
+      "name_ar": "Viasat Kino Action",
+      "name_en": "Viasat Kino Action",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ViasatKinoComedy.ua",
+      "code": "VIA-UA-003",
+      "index": 8627,
+      "tvg_id": null,
+      "tvg_chno": 8727,
+      "name_ar": "Viasat Kino Comedy",
+      "name_en": "Viasat Kino Comedy",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViasatKinoWorld.ua",
+      "code": "VIA-UA-004",
+      "index": 8628,
+      "tvg_id": null,
+      "tvg_chno": 8728,
+      "name_ar": "Viasat Kino World",
+      "name_en": "Viasat Kino World",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViasatSerial.ua",
+      "code": "VIA-UA-005",
+      "index": 8630,
+      "tvg_id": null,
+      "tvg_chno": 8730,
+      "name_ar": "Viasat Serial",
+      "name_en": "Viasat Serial",
+      "country": "UA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VivaLatino.ua",
+      "code": "VIV-UA-001",
+      "index": 8689,
+      "tvg_id": null,
+      "tvg_chno": 8789,
+      "name_ar": "¡Viva Latino!",
+      "name_en": "¡Viva Latino!",
+      "country": "UA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/285/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Z.ua",
+      "code": "ZXX-UA-001",
+      "index": 8958,
+      "tvg_id": null,
+      "tvg_chno": 9058,
+      "name_ar": "Z",
+      "name_en": "Z",
+      "country": "UA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.ztv.zp.ua/hls/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "icserialy",
+      "code": "ICT-UA-002",
+      "index": 9822,
+      "tvg_id": null,
+      "tvg_chno": 9922,
+      "name_ar": "ICTV Serialy",
+      "name_en": "ICTV Serialy",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "novyikanal",
+      "code": "NOV-UA-002",
+      "index": 9823,
+      "tvg_id": null,
+      "tvg_chno": 9923,
+      "name_ar": "Novyi Kanal",
+      "name_en": "Novyi Kanal",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://i.imgur.com/4JhqpPM.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/157/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "xsport",
+      "code": "XSP-UA-001",
+      "index": 9824,
+      "tvg_id": null,
+      "tvg_chno": 9924,
+      "name_ar": "XSport Ⓢ",
+      "name_en": "XSport Ⓢ",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://i.imgur.com/CHDcfrT.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "5kanal",
+      "code": "KAN-UA-002",
+      "index": 9825,
+      "tvg_id": null,
+      "tvg_chno": 9925,
+      "name_ar": "5 Kanal",
+      "name_en": "5 Kanal",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/500px-Logo_5_Channel.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/291/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "kropyvnytskyi",
+      "code": "KRO-UA-001",
+      "index": 9826,
+      "tvg_id": null,
+      "tvg_chno": 9926,
+      "name_ar": "Суспільне Kropyvnytskyi",
+      "name_en": "Суспільне Kropyvnytskyi",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://i.imgur.com/zzYJr87.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "freeom",
+      "code": "FRE-UA-002",
+      "index": 9827,
+      "tvg_id": null,
+      "tvg_chno": 9927,
+      "name_ar": "FREEДOM",
+      "name_en": "FREEДOM",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/500px-FreeDOMUAlogo.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.67.106.242/mobile-app/main/freedom/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ck1",
+      "code": "CKX-UA-001",
+      "index": 9828,
+      "tvg_id": null,
+      "tvg_chno": 9928,
+      "name_ar": "CK 1",
+      "name_en": "CK 1",
+      "country": "UA",
+      "language": "unknown",
+      "category": "Ukraine",
+      "logo": "https://i.imgur.com/XiXwr5h.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

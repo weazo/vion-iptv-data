@@ -1,0 +1,4596 @@
+{
+  "version": "1.0.0",
+  "country": "PE",
+  "total_channels": 148,
+  "channels": [
+    {
+      "id": "36TVHuacho.pe",
+      "code": "TVH-PE-001",
+      "index": 78,
+      "tvg_id": null,
+      "tvg_chno": 178,
+      "name_ar": "36 TV Huacho",
+      "name_en": "36 TV Huacho",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ABCTeleshow.pe",
+      "code": "ABC-PE-001",
+      "index": 206,
+      "tvg_id": null,
+      "tvg_chno": 306,
+      "name_ar": "ABC Teleshow",
+      "name_en": "ABC Teleshow",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ABTelevision.pe",
+      "code": "ABT-PE-001",
+      "index": 227,
+      "tvg_id": null,
+      "tvg_chno": 327,
+      "name_ar": "ABTelevision",
+      "name_en": "ABTelevision",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlturaTV.pe",
+      "code": "ALT-PE-001",
+      "index": 485,
+      "tvg_id": null,
+      "tvg_chno": 585,
+      "name_ar": "Altura TV",
+      "name_en": "Altura TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AmazoniaTV.pe",
+      "code": "AMA-PE-001",
+      "index": 503,
+      "tvg_id": null,
+      "tvg_chno": 603,
+      "name_ar": "Amazonia TV",
+      "name_en": "Amazonia TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://servilive.com:3199/live/amazoniatvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AmazonicaTV.pe",
+      "code": "AMA-PE-002",
+      "index": 504,
+      "tvg_id": null,
+      "tvg_chno": 604,
+      "name_ar": "Amazonica TV",
+      "name_en": "Amazonica TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AmericaTelevision.pe",
+      "code": "AME-PE-001",
+      "index": 525,
+      "tvg_id": null,
+      "tvg_chno": 625,
+      "name_ar": "America Television",
+      "name_en": "America Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.171.108.253:8888/AMERICA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://190.93.224.42/AMERICA-TV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/america.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://187.102.210.46/AMERICA/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AndesTelevision.pe",
+      "code": "AND-PE-001",
+      "index": 550,
+      "tvg_id": null,
+      "tvg_chno": 650,
+      "name_ar": "Andes Television",
+      "name_en": "Andes Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AndinaRTV.pe",
+      "code": "AND-PE-002",
+      "index": 551,
+      "tvg_id": null,
+      "tvg_chno": 651,
+      "name_ar": "Andina RTV",
+      "name_en": "Andina RTV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AntaresTelevision.pe",
+      "code": "ANT-PE-001",
+      "index": 579,
+      "tvg_id": null,
+      "tvg_chno": 679,
+      "name_ar": "Antares Television",
+      "name_en": "Antares Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Antena1.pe",
+      "code": "ANT-PE-002",
+      "index": 580,
+      "tvg_id": null,
+      "tvg_chno": 680,
+      "name_ar": "Antena 1",
+      "name_en": "Antena 1",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AntenaSUR.pe",
+      "code": "ANT-PE-003",
+      "index": 586,
+      "tvg_id": null,
+      "tvg_chno": 686,
+      "name_ar": "Antena SUR",
+      "name_en": "Antena SUR",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ArpegioTV.pe",
+      "code": "ARP-PE-001",
+      "index": 662,
+      "tvg_id": null,
+      "tvg_chno": 762,
+      "name_ar": "Arpegio TV",
+      "name_en": "Arpegio TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vdo.oyotunserver.com/arpegio/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AsiriTV.pe",
+      "code": "ASI-PE-001",
+      "index": 697,
+      "tvg_id": null,
+      "tvg_chno": 797,
+      "name_ar": "AsiriTV",
+      "name_en": "AsiriTV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AtlantisRadioTV.pe",
+      "code": "ATL-PE-001",
+      "index": 725,
+      "tvg_id": null,
+      "tvg_chno": 825,
+      "name_ar": "Atlantis Radio TV",
+      "name_en": "Atlantis Radio TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ATVSur.pe",
+      "code": "ATV-PE-001",
+      "index": 740,
+      "tvg_id": null,
+      "tvg_chno": 840,
+      "name_ar": "ATV Sur",
+      "name_en": "ATV Sur",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/ATV-SUR/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://dnhmqt6n0lkaq.cloudfront.net/ts:abr.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AutenticaTelevision.pe",
+      "code": "AUT-PE-001",
+      "index": 757,
+      "tvg_id": null,
+      "tvg_chno": 857,
+      "name_ar": "Autentica Television",
+      "name_en": "Autentica Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BNBDigital.pe",
+      "code": "BNB-PE-001",
+      "index": 1075,
+      "tvg_id": null,
+      "tvg_chno": 1175,
+      "name_ar": "BNB Digital",
+      "name_en": "BNB Digital",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CadenaTV.pe",
+      "code": "CAD-PE-001",
+      "index": 1212,
+      "tvg_id": null,
+      "tvg_chno": 1312,
+      "name_ar": "Cadena TV",
+      "name_en": "Cadena TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CajamarcaTV.pe",
+      "code": "CAJ-PE-001",
+      "index": 1219,
+      "tvg_id": null,
+      "tvg_chno": 1319,
+      "name_ar": "Cajamarca TV",
+      "name_en": "Cajamarca TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal21Huancayo.pe",
+      "code": "CAN-PE-001",
+      "index": 1270,
+      "tvg_id": null,
+      "tvg_chno": 1370,
+      "name_ar": "Canal 21 Huancayo",
+      "name_en": "Canal 21 Huancayo",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal25Ayacucho.pe",
+      "code": "CAN-PE-002",
+      "index": 1275,
+      "tvg_id": null,
+      "tvg_chno": 1375,
+      "name_ar": "Canal 25 Ayacucho",
+      "name_en": "Canal 25 Ayacucho",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal8Catacaos.pe",
+      "code": "CAN-PE-003",
+      "index": 1348,
+      "tvg_id": null,
+      "tvg_chno": 1448,
+      "name_ar": "Canal 8 Catacaos",
+      "name_en": "Canal 8 Catacaos",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/canal8/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalIPe.pe",
+      "code": "CAN-PE-004",
+      "index": 1401,
+      "tvg_id": null,
+      "tvg_chno": 1501,
+      "name_ar": "Canal IPe",
+      "name_en": "Canal IPe",
+      "country": "PE",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://187.102.210.46/IPE/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://190.93.224.42/IPE/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/ipemovil/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/ipe.stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CanalMasTV.pe",
+      "code": "CAN-PE-005",
+      "index": 1411,
+      "tvg_id": null,
+      "tvg_chno": 1511,
+      "name_ar": "Canal Mas TV",
+      "name_en": "Canal Mas TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CANALMTelevision.pe",
+      "code": "CAN-PE-006",
+      "index": 1414,
+      "tvg_id": null,
+      "tvg_chno": 1514,
+      "name_ar": "CANAL M Television",
+      "name_en": "CANAL M Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CanalN.pe",
+      "code": "CAN-PE-007",
+      "index": 1417,
+      "tvg_id": null,
+      "tvg_chno": 1517,
+      "name_ar": "Canal N",
+      "name_en": "Canal N",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.108.91.206:9050/play/a0bd/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CasmaTV.pe",
+      "code": "CAS-PE-001",
+      "index": 1509,
+      "tvg_id": null,
+      "tvg_chno": 1609,
+      "name_ar": "Casma TV",
+      "name_en": "Casma TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CharapaTV.pe",
+      "code": "CHA-PE-001",
+      "index": 1654,
+      "tvg_id": null,
+      "tvg_chno": 1754,
+      "name_ar": "Charapa TV",
+      "name_en": "Charapa TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Chikitoonz.pe",
+      "code": "CHI-PE-001",
+      "index": 1677,
+      "tvg_id": null,
+      "tvg_chno": 1777,
+      "name_ar": "Chikitoonz",
+      "name_en": "Chikitoonz",
+      "country": "PE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.70.201.81:8000/play/a00p/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Conecta2TV.pe",
+      "code": "CON-PE-001",
+      "index": 1908,
+      "tvg_id": null,
+      "tvg_chno": 2008,
+      "name_ar": "Conecta2TV",
+      "name_en": "Conecta2TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/conecta2/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CRTelevision.pe",
+      "code": "CRT-PE-001",
+      "index": 1972,
+      "tvg_id": null,
+      "tvg_chno": 2072,
+      "name_ar": "CR Television",
+      "name_en": "CR Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Cultura24.pe",
+      "code": "CUL-PE-001",
+      "index": 2013,
+      "tvg_id": null,
+      "tvg_chno": 2113,
+      "name_ar": "Cultura 24",
+      "name_en": "Cultura 24",
+      "country": "PE",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CVNTV.pe",
+      "code": "CVN-PE-001",
+      "index": 2029,
+      "tvg_id": null,
+      "tvg_chno": 2129,
+      "name_ar": "CVN TV",
+      "name_en": "CVN TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DacTV.pe",
+      "code": "DAC-PE-001",
+      "index": 2044,
+      "tvg_id": null,
+      "tvg_chno": 2144,
+      "name_ar": "Dac TV",
+      "name_en": "Dac TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DiasporaTV.pe",
+      "code": "DIA-PE-001",
+      "index": 2198,
+      "tvg_id": null,
+      "tvg_chno": 2298,
+      "name_ar": "Diaspora TV",
+      "name_en": "Diaspora TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DobleCTelevision.pe",
+      "code": "DOB-PE-001",
+      "index": 2274,
+      "tvg_id": null,
+      "tvg_chno": 2374,
+      "name_ar": "Doble C Television",
+      "name_en": "Doble C Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ECOTelevision.pe",
+      "code": "ECO-PE-001",
+      "index": 2396,
+      "tvg_id": null,
+      "tvg_chno": 2496,
+      "name_ar": "ECO Television",
+      "name_en": "ECO Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "EvolucionTV.pe",
+      "code": "EVO-PE-001",
+      "index": 2625,
+      "tvg_id": null,
+      "tvg_chno": 2725,
+      "name_ar": "Evolucion TV",
+      "name_en": "Evolucion TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ExitosaTV.pe",
+      "code": "EXI-PE-001",
+      "index": 2636,
+      "tvg_id": null,
+      "tvg_chno": 2736,
+      "name_ar": "Exitosa TV",
+      "name_en": "Exitosa TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/EXITOSA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://187.102.210.46/EXITOSA/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FolkloreTV.pe",
+      "code": "FOL-PE-001",
+      "index": 2778,
+      "tvg_id": null,
+      "tvg_chno": 2878,
+      "name_ar": "Folklore TV",
+      "name_en": "Folklore TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ForoTV.pe",
+      "code": "FOR-PE-001",
+      "index": 2794,
+      "tvg_id": null,
+      "tvg_chno": 2894,
+      "name_ar": "Foro TV",
+      "name_en": "Foro TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mc.servidor.stream:19360/8274/8274.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FrecuenciaAmazonica.pe",
+      "code": "FRE-PE-001",
+      "index": 2824,
+      "tvg_id": null,
+      "tvg_chno": 2924,
+      "name_ar": "Frecuencia Amazonica",
+      "name_en": "Frecuencia Amazonica",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GalacticaTV.pe",
+      "code": "GAL-PE-001",
+      "index": 2863,
+      "tvg_id": null,
+      "tvg_chno": 2963,
+      "name_ar": "Galactica TV",
+      "name_en": "Galactica TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GeniosTV.pe",
+      "code": "GEN-PE-001",
+      "index": 2923,
+      "tvg_id": null,
+      "tvg_chno": 3023,
+      "name_ar": "Genios TV",
+      "name_en": "Genios TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HuachoPeruTV.pe",
+      "code": "HUA-PE-001",
+      "index": 3281,
+      "tvg_id": null,
+      "tvg_chno": 3381,
+      "name_ar": "Huacho Peru TV",
+      "name_en": "Huacho Peru TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.huachotv.com/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImpactoTelevision.pe",
+      "code": "IMP-PE-001",
+      "index": 3368,
+      "tvg_id": null,
+      "tvg_chno": 3468,
+      "name_ar": "Impacto Television",
+      "name_en": "Impacto Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImperialTelevision.pe",
+      "code": "IMP-PE-002",
+      "index": 3372,
+      "tvg_id": null,
+      "tvg_chno": 3472,
+      "name_ar": "Imperial Television",
+      "name_en": "Imperial Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "IntuitivaTV.pe",
+      "code": "INT-PE-001",
+      "index": 3421,
+      "tvg_id": null,
+      "tvg_chno": 3521,
+      "name_ar": "Intuitiva TV",
+      "name_en": "Intuitiva TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "JN19.pe",
+      "code": "JNX-PE-001",
+      "index": 3567,
+      "tvg_id": null,
+      "tvg_chno": 3667,
+      "name_ar": "JN 19",
+      "name_en": "JN 19",
+      "country": "PE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://servilive.com:3028/live/jntv19live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://187.102.210.46/JN19/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "JNETV.pe",
+      "code": "JNE-PE-001",
+      "index": 3568,
+      "tvg_id": null,
+      "tvg_chno": 3668,
+      "name_ar": "JNE TV",
+      "name_en": "JNE TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Karibena.pe",
+      "code": "KAR-PE-001",
+      "index": 3677,
+      "tvg_id": null,
+      "tvg_chno": 3777,
+      "name_ar": "Karibena",
+      "name_en": "Karibena",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://201.77.61.226:8000/play/a0qd/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KoraTV.pe",
+      "code": "KOR-PE-001",
+      "index": 3813,
+      "tvg_id": null,
+      "tvg_chno": 3913,
+      "name_ar": "Kora TV",
+      "name_en": "Kora TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "L1.pe",
+      "code": "LXX-PE-001",
+      "index": 3864,
+      "tvg_id": null,
+      "tvg_chno": 3964,
+      "name_ar": "L1",
+      "name_en": "L1",
+      "country": "PE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.4.1.201:8000/play/a1ai/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "L1Max.pe",
+      "code": "LMA-PE-001",
+      "index": 3865,
+      "tvg_id": null,
+      "tvg_chno": 3965,
+      "name_ar": "L1 Max",
+      "name_en": "L1 Max",
+      "country": "PE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LaFabulosaTV.pe",
+      "code": "LAF-PE-001",
+      "index": 3889,
+      "tvg_id": null,
+      "tvg_chno": 3989,
+      "name_ar": "La Fabulosa TV",
+      "name_en": "La Fabulosa TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LaTele.pe",
+      "code": "LAT-PE-001",
+      "index": 3943,
+      "tvg_id": null,
+      "tvg_chno": 4043,
+      "name_ar": "La Tele",
+      "name_en": "La Tele",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/LA-TELE/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Latina.pe",
+      "code": "LAT-PE-002",
+      "index": 3946,
+      "tvg_id": null,
+      "tvg_chno": 4046,
+      "name_ar": "Latina",
+      "name_en": "Latina",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/LATINA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LatinaClasicos.pe",
+      "code": "LAT-PE-003",
+      "index": 3947,
+      "tvg_id": null,
+      "tvg_chno": 4047,
+      "name_ar": "Latina Clasicos",
+      "name_en": "Latina Clasicos",
+      "country": "PE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LatinaNoticias247.pe",
+      "code": "LAT-PE-004",
+      "index": 3948,
+      "tvg_id": null,
+      "tvg_chno": 4048,
+      "name_ar": "Latina Noticias 24/7",
+      "name_en": "Latina Noticias 24/7",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LatinaPodcast.pe",
+      "code": "LAT-PE-005",
+      "index": 3949,
+      "tvg_id": null,
+      "tvg_chno": 4049,
+      "name_ar": "Latina Podcast",
+      "name_en": "Latina Podcast",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LotPlusTV.pe",
+      "code": "LOT-PE-001",
+      "index": 4082,
+      "tvg_id": null,
+      "tvg_chno": 4182,
+      "name_ar": "LotPlus TV",
+      "name_en": "LotPlus TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MasterTV.pe",
+      "code": "MAS-PE-001",
+      "index": 4245,
+      "tvg_id": null,
+      "tvg_chno": 4345,
+      "name_ar": "Master TV",
+      "name_en": "Master TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.obslivestream.com/mastertv/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MediaTV.pe",
+      "code": "MED-PE-001",
+      "index": 4318,
+      "tvg_id": null,
+      "tvg_chno": 4418,
+      "name_ar": "Media TV",
+      "name_en": "Media TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MegaTVJaen.pe",
+      "code": "MEG-PE-001",
+      "index": 4334,
+      "tvg_id": null,
+      "tvg_chno": 4434,
+      "name_ar": "Mega TV Jaen",
+      "name_en": "Mega TV Jaen",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MetropolitanadelCuzco.pe",
+      "code": "MET-PE-001",
+      "index": 4365,
+      "tvg_id": null,
+      "tvg_chno": 4465,
+      "name_ar": "Metropolitana del Cuzco",
+      "name_en": "Metropolitana del Cuzco",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MielTV.pe",
+      "code": "MIE-PE-001",
+      "index": 4393,
+      "tvg_id": null,
+      "tvg_chno": 4493,
+      "name_ar": "Miel TV",
+      "name_en": "Miel TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MilenialTV.pe",
+      "code": "MIL-PE-001",
+      "index": 4399,
+      "tvg_id": null,
+      "tvg_chno": 4499,
+      "name_ar": "Milenial TV",
+      "name_en": "Milenial TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.milenial.news/salida/milenial.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Millenium109FM.pe",
+      "code": "MIL-PE-002",
+      "index": 4401,
+      "tvg_id": null,
+      "tvg_chno": 4501,
+      "name_ar": "Millenium 109 FM",
+      "name_en": "Millenium 109 FM",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MonterricoTV.pe",
+      "code": "MON-PE-001",
+      "index": 4487,
+      "tvg_id": null,
+      "tvg_chno": 4587,
+      "name_ar": "Monterrico TV",
+      "name_en": "Monterrico TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MovistarDeportes.pe",
+      "code": "MOV-PE-001",
+      "index": 4527,
+      "tvg_id": null,
+      "tvg_chno": 4627,
+      "name_ar": "Movistar Deportes",
+      "name_en": "Movistar Deportes",
+      "country": "PE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://45.4.1.201:8000/play/a13e/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MovistarPlus.pe",
+      "code": "MOV-PE-002",
+      "index": 4528,
+      "tvg_id": null,
+      "tvg_chno": 4628,
+      "name_ar": "Movistar Plus",
+      "name_en": "Movistar Plus",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://190.108.91.206:9050/play/a0bb/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NacionalTvPeru.pe",
+      "code": "NAC-PE-001",
+      "index": 4686,
+      "tvg_id": null,
+      "tvg_chno": 4786,
+      "name_ar": "Nacional Tv Peru",
+      "name_en": "Nacional Tv Peru",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Nativa.pe",
+      "code": "NAT-PE-001",
+      "index": 4731,
+      "tvg_id": null,
+      "tvg_chno": 4831,
+      "name_ar": "Nativa",
+      "name_en": "Nativa",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://187.102.210.46/NATIVATV/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NativaTVSatipo.pe",
+      "code": "NAT-PE-002",
+      "index": 4732,
+      "tvg_id": null,
+      "tvg_chno": 4832,
+      "name_ar": "Nativa TV Satipo",
+      "name_en": "Nativa TV Satipo",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NZKTelevision.pe",
+      "code": "NZK-PE-001",
+      "index": 5030,
+      "tvg_id": null,
+      "tvg_chno": 5130,
+      "name_ar": "NZK Television",
+      "name_en": "NZK Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://eu1.servers10.com:8081/8258/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ONDADIGITAL.pe",
+      "code": "OND-PE-001",
+      "index": 5128,
+      "tvg_id": null,
+      "tvg_chno": 5228,
+      "name_ar": "ONDA DIGITAL",
+      "name_en": "ONDA DIGITAL",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OvacionTV.pe",
+      "code": "OVA-PE-001",
+      "index": 5207,
+      "tvg_id": null,
+      "tvg_chno": 5307,
+      "name_ar": "Ovacion TV",
+      "name_en": "Ovacion TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OzonoTV.pe",
+      "code": "OZO-PE-001",
+      "index": 5221,
+      "tvg_id": null,
+      "tvg_chno": 5321,
+      "name_ar": "Ozono TV",
+      "name_en": "Ozono TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://vps.chasquirouter.com/salida/ozono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PanamericanaTV.pe",
+      "code": "PAN-PE-001",
+      "index": 5241,
+      "tvg_id": null,
+      "tvg_chno": 5341,
+      "name_ar": "Panamericana TV",
+      "name_en": "Panamericana TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://190.93.224.42/PANAMERICANA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PBO.pe",
+      "code": "PBO-PE-001",
+      "index": 5289,
+      "tvg_id": null,
+      "tvg_chno": 5389,
+      "name_ar": "PBO",
+      "name_en": "PBO",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/PBO/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PequesTV.pe",
+      "code": "PEQ-PE-001",
+      "index": 5324,
+      "tvg_id": null,
+      "tvg_chno": 5424,
+      "name_ar": "Peques TV",
+      "name_en": "Peques TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PiuraTV.pe",
+      "code": "PIU-PE-001",
+      "index": 5379,
+      "tvg_id": null,
+      "tvg_chno": 5479,
+      "name_ar": "PiuraTV",
+      "name_en": "PiuraTV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlaneaTV.pe",
+      "code": "PLA-PE-001",
+      "index": 5385,
+      "tvg_id": null,
+      "tvg_chno": 5485,
+      "name_ar": "Planea TV",
+      "name_en": "Planea TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PrattelTV.pe",
+      "code": "PRA-PE-001",
+      "index": 5745,
+      "tvg_id": null,
+      "tvg_chno": 5845,
+      "name_ar": "Prattel TV",
+      "name_en": "Prattel TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Primavera15.pe",
+      "code": "PRI-PE-001",
+      "index": 5775,
+      "tvg_id": null,
+      "tvg_chno": 5875,
+      "name_ar": "Primavera 15",
+      "name_en": "Primavera 15",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://mc.servidor.stream:19360/8244/8244.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "QollasuyoTV.pe",
+      "code": "QOL-PE-001",
+      "index": 5883,
+      "tvg_id": null,
+      "tvg_chno": 5983,
+      "name_ar": "Qollasuyo TV",
+      "name_en": "Qollasuyo TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "QosqoTimes.pe",
+      "code": "QOS-PE-001",
+      "index": 5885,
+      "tvg_id": null,
+      "tvg_chno": 5985,
+      "name_ar": "Qosqo Times",
+      "name_en": "Qosqo Times",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioChalaca.pe",
+      "code": "RAD-PE-001",
+      "index": 5953,
+      "tvg_id": null,
+      "tvg_chno": 6053,
+      "name_ar": "Radio Chalaca",
+      "name_en": "Radio Chalaca",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://servilive.com:3414/hybrid/play.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioMaster.pe",
+      "code": "RAD-PE-002",
+      "index": 5992,
+      "tvg_id": null,
+      "tvg_chno": 6092,
+      "name_ar": "Radio Master",
+      "name_en": "Radio Master",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioOndaDigital.pe",
+      "code": "RAD-PE-003",
+      "index": 6005,
+      "tvg_id": null,
+      "tvg_chno": 6105,
+      "name_ar": "Radio Onda Digital",
+      "name_en": "Radio Onda Digital",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioRumbaTV.pe",
+      "code": "RAD-PE-004",
+      "index": 6017,
+      "tvg_id": null,
+      "tvg_chno": 6117,
+      "name_ar": "Radio Rumba TV",
+      "name_en": "Radio Rumba TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://tv.sistemasandinos.org/rumbatv/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioSanBorjaTV.pe",
+      "code": "RAD-PE-005",
+      "index": 6018,
+      "tvg_id": null,
+      "tvg_chno": 6118,
+      "name_ar": "Radio San Borja TV",
+      "name_en": "Radio San Borja TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RadioTropical.pe",
+      "code": "RAD-PE-006",
+      "index": 6046,
+      "tvg_id": null,
+      "tvg_chno": 6146,
+      "name_ar": "Radio Tropical",
+      "name_en": "Radio Tropical",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioTVOriente.pe",
+      "code": "RAD-PE-007",
+      "index": 6051,
+      "tvg_id": null,
+      "tvg_chno": 6151,
+      "name_ar": "RadioTV Oriente",
+      "name_en": "RadioTV Oriente",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioUnoTacna.pe",
+      "code": "RAD-PE-008",
+      "index": 6056,
+      "tvg_id": null,
+      "tvg_chno": 6156,
+      "name_ar": "Radio Uno Tacna",
+      "name_en": "Radio Uno Tacna",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RealTelevision.pe",
+      "code": "REA-PE-001",
+      "index": 6157,
+      "tvg_id": null,
+      "tvg_chno": 6257,
+      "name_ar": "Real Television",
+      "name_en": "Real Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RegionTVCallao.pe",
+      "code": "REG-PE-001",
+      "index": 6210,
+      "tvg_id": null,
+      "tvg_chno": 6310,
+      "name_ar": "Region TV Callao",
+      "name_en": "Region TV Callao",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://servilive.com:3757/live/regiontvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RikuTV.pe",
+      "code": "RIK-PE-001",
+      "index": 6286,
+      "tvg_id": null,
+      "tvg_chno": 6386,
+      "name_ar": "Riku TV",
+      "name_en": "Riku TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://amixtv.com:8081/rikutv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RNTelevision.pe",
+      "code": "RNT-PE-001",
+      "index": 6304,
+      "tvg_id": null,
+      "tvg_chno": 6404,
+      "name_ar": "RN Television",
+      "name_en": "RN Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RPPTV.pe",
+      "code": "RPP-PE-001",
+      "index": 6347,
+      "tvg_id": null,
+      "tvg_chno": 6447,
+      "name_ar": "RPP TV",
+      "name_en": "RPP TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/RPP/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RSelvaTV.pe",
+      "code": "RSE-PE-001",
+      "index": 6349,
+      "tvg_id": null,
+      "tvg_chno": 6449,
+      "name_ar": "RSelvaTV",
+      "name_en": "RSelvaTV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.obslivestream.com/selvatv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RumbaMixTV.pe",
+      "code": "RUM-PE-001",
+      "index": 6483,
+      "tvg_id": null,
+      "tvg_chno": 6583,
+      "name_ar": "RumbaMix TV",
+      "name_en": "RumbaMix TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RumboMineroTV.pe",
+      "code": "RUM-PE-002",
+      "index": 6485,
+      "tvg_id": null,
+      "tvg_chno": 6585,
+      "name_ar": "Rumbo Minero TV",
+      "name_en": "Rumbo Minero TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.70.201.81:8000/play/a018/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SenalPeruTV.pe",
+      "code": "SEN-PE-001",
+      "index": 6690,
+      "tvg_id": null,
+      "tvg_chno": 6790,
+      "name_ar": "Senal Peru TV",
+      "name_en": "Senal Peru TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://livestream.perucast.com/hls/stream.m3u8",
+          "quality": "404p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SiscomTV.pe",
+      "code": "SIS-PE-001",
+      "index": 6825,
+      "tvg_id": null,
+      "tvg_chno": 6925,
+      "name_ar": "Siscom TV",
+      "name_en": "Siscom TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://video2.lhdserver.es/siscomtv/live.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SolarTelevision.pe",
+      "code": "SOL-PE-001",
+      "index": 6897,
+      "tvg_id": null,
+      "tvg_chno": 6997,
+      "name_ar": "Solar Television",
+      "name_en": "Solar Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SqalaTV.pe",
+      "code": "SQA-PE-001",
+      "index": 7024,
+      "tvg_id": null,
+      "tvg_chno": 7124,
+      "name_ar": "Sqala TV",
+      "name_en": "Sqala TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StudioPascoTV.pe",
+      "code": "STU-PE-001",
+      "index": 7133,
+      "tvg_id": null,
+      "tvg_chno": 7233,
+      "name_ar": "Studio Pasco TV",
+      "name_en": "Studio Pasco TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TelecolorYurimaguas.pe",
+      "code": "TEL-PE-001",
+      "index": 7402,
+      "tvg_id": null,
+      "tvg_chno": 7502,
+      "name_ar": "Telecolor Yurimaguas",
+      "name_en": "Telecolor Yurimaguas",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Telelima.pe",
+      "code": "TEL-PE-002",
+      "index": 7439,
+      "tvg_id": null,
+      "tvg_chno": 7539,
+      "name_ar": "Telelima",
+      "name_en": "Telelima",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Teleselva.pe",
+      "code": "TEL-PE-003",
+      "index": 7514,
+      "tvg_id": null,
+      "tvg_chno": 7614,
+      "name_ar": "Teleselva",
+      "name_en": "Teleselva",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TelesystemTV.pe",
+      "code": "TEL-PE-004",
+      "index": 7524,
+      "tvg_id": null,
+      "tvg_chno": 7624,
+      "name_ar": "Telesystem TV",
+      "name_en": "Telesystem TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TelevisionTarapoto.pe",
+      "code": "TEL-PE-005",
+      "index": 7557,
+      "tvg_id": null,
+      "tvg_chno": 7657,
+      "name_ar": "Television Tarapoto",
+      "name_en": "Television Tarapoto",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TeveEmpresa.pe",
+      "code": "TEV-PE-001",
+      "index": 7595,
+      "tvg_id": null,
+      "tvg_chno": 7695,
+      "name_ar": "Teve Empresa",
+      "name_en": "Teve Empresa",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Tevesur.pe",
+      "code": "TEV-PE-002",
+      "index": 7596,
+      "tvg_id": null,
+      "tvg_chno": 7696,
+      "name_ar": "Tevesur",
+      "name_en": "Tevesur",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Trivu.pe",
+      "code": "TRI-PE-001",
+      "index": 7853,
+      "tvg_id": null,
+      "tvg_chno": 7953,
+      "name_ar": "Trivu",
+      "name_en": "Trivu",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/trivutv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TurboMixRadioTV.pe",
+      "code": "TUR-PE-001",
+      "index": 7910,
+      "tvg_id": null,
+      "tvg_chno": 8010,
+      "name_ar": "Turbo Mix Radio TV",
+      "name_en": "Turbo Mix Radio TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVBellaAsuncion.pe",
+      "code": "TVB-PE-001",
+      "index": 8006,
+      "tvg_id": null,
+      "tvg_chno": 8106,
+      "name_ar": "TV Bella Asuncion",
+      "name_en": "TV Bella Asuncion",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://s2.tvdatta.com:3687/hybrid/play.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVenLinea.pe",
+      "code": "TVE-PE-001",
+      "index": 8095,
+      "tvg_id": null,
+      "tvg_chno": 8195,
+      "name_ar": "TVenLinea",
+      "name_en": "TVenLinea",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://srt.tvdatta.com/tvenlinea/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVKaliente.pe",
+      "code": "TVK-PE-001",
+      "index": 8139,
+      "tvg_id": null,
+      "tvg_chno": 8239,
+      "name_ar": "TV Kaliente",
+      "name_en": "TV Kaliente",
+      "country": "PE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVMAR.pe",
+      "code": "TVM-PE-001",
+      "index": 8171,
+      "tvg_id": null,
+      "tvg_chno": 8271,
+      "name_ar": "TV MAR",
+      "name_en": "TV MAR",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVNorteChiclayo.pe",
+      "code": "TVN-PE-001",
+      "index": 8210,
+      "tvg_id": null,
+      "tvg_chno": 8310,
+      "name_ar": "TV Norte Chiclayo",
+      "name_en": "TV Norte Chiclayo",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVPeru.pe",
+      "code": "TVP-PE-001",
+      "index": 8246,
+      "tvg_id": null,
+      "tvg_chno": 8346,
+      "name_ar": "TV Peru",
+      "name_en": "TV Peru",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/TV-PERU/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://190.93.224.42/VIVA-TV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://187.102.210.46/TVPERU/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVPeruanisima.pe",
+      "code": "TVP-PE-002",
+      "index": 8247,
+      "tvg_id": null,
+      "tvg_chno": 8347,
+      "name_ar": "TV Peruanisima",
+      "name_en": "TV Peruanisima",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVPeruNoticias.pe",
+      "code": "TVP-PE-003",
+      "index": 8248,
+      "tvg_id": null,
+      "tvg_chno": 8348,
+      "name_ar": "TV Peru Noticias",
+      "name_en": "TV Peru Noticias",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVPlusChincha.pe",
+      "code": "TVC-PE-001",
+      "index": 8257,
+      "tvg_id": null,
+      "tvg_chno": 8357,
+      "name_ar": "TV+ Chincha",
+      "name_en": "TV+ Chincha",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVUNO.pe",
+      "code": "TVU-PE-001",
+      "index": 8387,
+      "tvg_id": null,
+      "tvg_chno": 8487,
+      "name_ar": "TVUNO",
+      "name_en": "TVUNO",
+      "country": "PE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://stream1.aswifi.it/unotv/live/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "UcayalinadeTelevision.pe",
+      "code": "UCA-PE-001",
+      "index": 8428,
+      "tvg_id": null,
+      "tvg_chno": 8528,
+      "name_ar": "Ucayalina de Television",
+      "name_en": "Ucayalina de Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UchuTV.pe",
+      "code": "UCH-PE-001",
+      "index": 8429,
+      "tvg_id": null,
+      "tvg_chno": 8529,
+      "name_ar": "Uchu TV",
+      "name_en": "Uchu TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UnicentroTV.pe",
+      "code": "UNI-PE-001",
+      "index": 8464,
+      "tvg_id": null,
+      "tvg_chno": 8564,
+      "name_ar": "Unicentro TV",
+      "name_en": "Unicentro TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Unitel.pe",
+      "code": "UNI-PE-002",
+      "index": 8479,
+      "tvg_id": null,
+      "tvg_chno": 8579,
+      "name_ar": "Unitel",
+      "name_en": "Unitel",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UniversitariaTV.pe",
+      "code": "UNI-PE-003",
+      "index": 8487,
+      "tvg_id": null,
+      "tvg_chno": 8587,
+      "name_ar": "Universitaria TV",
+      "name_en": "Universitaria TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "UranioTV.pe",
+      "code": "URA-PE-001",
+      "index": 8503,
+      "tvg_id": null,
+      "tvg_chno": 8603,
+      "name_ar": "Uranio TV",
+      "name_en": "Uranio TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "USMPTV.pe",
+      "code": "USM-PE-001",
+      "index": 8513,
+      "tvg_id": null,
+      "tvg_chno": 8613,
+      "name_ar": "USMPTV",
+      "name_en": "USMPTV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://187.102.210.46/USMP/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streamusmptv.ddns.net/live/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ViaAltomayo.pe",
+      "code": "VIA-PE-001",
+      "index": 8612,
+      "tvg_id": null,
+      "tvg_chno": 8712,
+      "name_ar": "Via Altomayo",
+      "name_en": "Via Altomayo",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViaTelevision.pe",
+      "code": "VIA-PE-002",
+      "index": 8633,
+      "tvg_id": null,
+      "tvg_chno": 8733,
+      "name_ar": "Via Television",
+      "name_en": "Via Television",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VisionSur.pe",
+      "code": "VIS-PE-001",
+      "index": 8678,
+      "tvg_id": null,
+      "tvg_chno": 8778,
+      "name_ar": "Vision Sur",
+      "name_en": "Vision Sur",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VivaTVYurimaguas.pe",
+      "code": "VIV-PE-001",
+      "index": 8693,
+      "tvg_id": null,
+      "tvg_chno": 8793,
+      "name_ar": "Viva TV Yurimaguas",
+      "name_en": "Viva TV Yurimaguas",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.obslivestream.com/vivatv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VNP.pe",
+      "code": "VNP-PE-001",
+      "index": 8701,
+      "tvg_id": null,
+      "tvg_chno": 8801,
+      "name_ar": "VNP",
+      "name_en": "VNP",
+      "country": "PE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VRCanal21Nasca.pe",
+      "code": "VRC-PE-001",
+      "index": 8725,
+      "tvg_id": null,
+      "tvg_chno": 8825,
+      "name_ar": "VR Canal 21 Nasca",
+      "name_en": "VR Canal 21 Nasca",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WayraTV.pe",
+      "code": "WAY-PE-001",
+      "index": 8784,
+      "tvg_id": null,
+      "tvg_chno": 8884,
+      "name_ar": "Wayra TV",
+      "name_en": "Wayra TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WillaxTV.pe",
+      "code": "WIL-PE-001",
+      "index": 8829,
+      "tvg_id": null,
+      "tvg_chno": 8929,
+      "name_ar": "Willax TV",
+      "name_en": "Willax TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/WILLAX/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://187.102.210.46/WILLAX/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "YurimaguasTV.pe",
+      "code": "YUR-PE-001",
+      "index": 8955,
+      "tvg_id": null,
+      "tvg_chno": 9055,
+      "name_ar": "Yurimaguas TV",
+      "name_en": "Yurimaguas TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Yurivision.pe",
+      "code": "YUR-PE-002",
+      "index": 8956,
+      "tvg_id": null,
+      "tvg_chno": 9056,
+      "name_ar": "Yurivision",
+      "name_en": "Yurivision",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ZeleveTV.pe",
+      "code": "ZEL-PE-001",
+      "index": 9016,
+      "tvg_id": null,
+      "tvg_chno": 9116,
+      "name_ar": "Zeleve TV",
+      "name_en": "Zeleve TV",
+      "country": "PE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "anoticias",
+      "code": "ATV-PE-002",
+      "index": 9693,
+      "tvg_id": null,
+      "tvg_chno": 9793,
+      "name_ar": "ATV+ Noticias",
+      "name_en": "ATV+ Noticias",
+      "country": "PE",
+      "language": "unknown",
+      "category": "Peru",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.171.108.253:8888/ATV/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://www.youtube.com/c/ATVNoticiasOficial/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "exitosaexkaribea",
+      "code": "EXI-PE-002",
+      "index": 9694,
+      "tvg_id": null,
+      "tvg_chno": 9794,
+      "name_ar": "Exitosa (ex-Karibeña)",
+      "name_en": "Exitosa (ex-Karibeña)",
+      "country": "PE",
+      "language": "unknown",
+      "category": "Peru",
+      "logo": "https://i.pinimg.com/280x280_RS/11/85/b6/1185b667fe3f80d7072359d7ce7ce52d.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://190.93.224.42/EXITOSA/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

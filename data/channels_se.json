@@ -1,0 +1,5162 @@
+{
+  "version": "1.0.0",
+  "country": "SE",
+  "total_channels": 158,
+  "channels": [
+    {
+      "id": "2900Happiness.se",
+      "code": "HAP-SE-001",
+      "index": 46,
+      "tvg_id": null,
+      "tvg_chno": 146,
+      "name_ar": "2900 Happiness",
+      "name_en": "2900 Happiness",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "7thHeaven.se",
+      "code": "THH-SE-001",
+      "index": 136,
+      "tvg_id": null,
+      "tvg_chno": 236,
+      "name_ar": "7th Heaven",
+      "name_en": "7th Heaven",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AreYouTheOne.se",
+      "code": "ARE-SE-001",
+      "index": 641,
+      "tvg_id": null,
+      "tvg_chno": 741,
+      "name_ar": "Are You The One?",
+      "name_en": "Are You The One?",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AryenTV.se",
+      "code": "ARY-SE-001",
+      "index": 674,
+      "tvg_id": null,
+      "tvg_chno": 774,
+      "name_ar": "Aryen TV",
+      "name_en": "Aryen TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://aryen.tv/live/tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ATGLive.se",
+      "code": "ATG-SE-001",
+      "index": 721,
+      "tvg_id": null,
+      "tvg_chno": 821,
+      "name_ar": "ATG Live",
+      "name_en": "ATG Live",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AznewsTV.se",
+      "code": "AZN-SE-001",
+      "index": 805,
+      "tvg_id": null,
+      "tvg_chno": 905,
+      "name_ar": "Aznews TV",
+      "name_en": "Aznews TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BeavisandButtHead.se",
+      "code": "BEA-SE-001",
+      "index": 944,
+      "tvg_id": null,
+      "tvg_chno": 1044,
+      "name_ar": "Beavis and Butt-Head",
+      "name_en": "Beavis and Butt-Head",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BestofMTV.se",
+      "code": "BES-SE-001",
+      "index": 985,
+      "tvg_id": null,
+      "tvg_chno": 1085,
+      "name_ar": "Best of MTV",
+      "name_en": "Best of MTV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-632afc466699570007ed1106.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BestofParadiseHotelFinalveckan.se",
+      "code": "BES-SE-002",
+      "index": 986,
+      "tvg_id": null,
+      "tvg_chno": 1086,
+      "name_ar": "Best of Paradise Hotel: Finalveckan",
+      "name_en": "Best of Paradise Hotel: Finalveckan",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BestofParadiseHotelKyssarkarlek.se",
+      "code": "BES-SE-003",
+      "index": 987,
+      "tvg_id": null,
+      "tvg_chno": 1087,
+      "name_ar": "Best of Paradise Hotel: Kyssar & karlek",
+      "name_en": "Best of Paradise Hotel: Kyssar & karlek",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BestofParadiseHotelPandorasAsk.se",
+      "code": "BES-SE-004",
+      "index": 988,
+      "tvg_id": null,
+      "tvg_chno": 1088,
+      "name_ar": "Best of Paradise Hotel: Pandoras Ask",
+      "name_en": "Best of Paradise Hotel: Pandoras Ask",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65e97d760d456100082da660.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BestofParadiseHotelSkolveckan.se",
+      "code": "BES-SE-005",
+      "index": 989,
+      "tvg_id": null,
+      "tvg_chno": 1089,
+      "name_ar": "Best of Paradise Hotel: Skolveckan",
+      "name_en": "Best of Paradise Hotel: Skolveckan",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BestofTheDrewBarrymoreShow.se",
+      "code": "BES-SE-006",
+      "index": 990,
+      "tvg_id": null,
+      "tvg_chno": 1090,
+      "name_ar": "Best of The Drew Barrymore Show",
+      "name_en": "Best of The Drew Barrymore Show",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-630483153a21200007f1920f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Boligjakten.se",
+      "code": "BOL-SE-001",
+      "index": 1095,
+      "tvg_id": null,
+      "tvg_chno": 1195,
+      "name_ar": "Boligjakten",
+      "name_en": "Boligjakten",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Boligkjopiblinde.se",
+      "code": "BOL-SE-002",
+      "index": 1096,
+      "tvg_id": null,
+      "tvg_chno": 1196,
+      "name_ar": "Boligkjop i blinde",
+      "name_en": "Boligkjop i blinde",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Boligkobiblinde.se",
+      "code": "BOL-SE-003",
+      "index": 1097,
+      "tvg_id": null,
+      "tvg_chno": 1197,
+      "name_ar": "Boligkob i blinde",
+      "name_en": "Boligkob i blinde",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Breinholts.se",
+      "code": "BRE-SE-001",
+      "index": 1133,
+      "tvg_id": null,
+      "tvg_chno": 1233,
+      "name_ar": "Breinholts",
+      "name_en": "Breinholts",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-660d6c0094db140008fe2f74.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BritainsNextTopModel.se",
+      "code": "BRI-SE-001",
+      "index": 1145,
+      "tvg_id": null,
+      "tvg_chno": 1245,
+      "name_ar": "Britain's Next Top Model",
+      "name_en": "Britain's Next Top Model",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-67a09e25c070cf00083c40fa.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BroadCity.se",
+      "code": "BRO-SE-001",
+      "index": 1150,
+      "tvg_id": null,
+      "tvg_chno": 1250,
+      "name_ar": "Broad City",
+      "name_en": "Broad City",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65cba778ec452d0008acbe86.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BrondbyTV.se",
+      "code": "BRO-SE-002",
+      "index": 1151,
+      "tvg_id": null,
+      "tvg_chno": 1251,
+      "name_ar": "Brondby TV",
+      "name_en": "Brondby TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Bull.se",
+      "code": "BUL-SE-001",
+      "index": 1185,
+      "tvg_id": null,
+      "tvg_chno": 1285,
+      "name_ar": "Bull",
+      "name_en": "Bull",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BuyingBlindDenmark.se",
+      "code": "BUY-SE-001",
+      "index": 1192,
+      "tvg_id": null,
+      "tvg_chno": 1292,
+      "name_ar": "Buying Blind Denmark",
+      "name_en": "Buying Blind Denmark",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CampKulinaris.se",
+      "code": "CAM-SE-001",
+      "index": 1228,
+      "tvg_id": null,
+      "tvg_chno": 1328,
+      "name_ar": "Camp Kulinaris",
+      "name_en": "Camp Kulinaris",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CarChase.se",
+      "code": "CAR-SE-001",
+      "index": 1494,
+      "tvg_id": null,
+      "tvg_chno": 1594,
+      "name_ar": "Car Chase",
+      "name_en": "Car Chase",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CarolineintheCity.se",
+      "code": "CAR-SE-002",
+      "index": 1501,
+      "tvg_id": null,
+      "tvg_chno": 1601,
+      "name_ar": "Caroline in the City",
+      "name_en": "Caroline in the City",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ChappellesShow.se",
+      "code": "CHA-SE-001",
+      "index": 1652,
+      "tvg_id": null,
+      "tvg_chno": 1752,
+      "name_ar": "Chappelle's Show",
+      "name_en": "Chappelle's Show",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65e977a618036500082ec972.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Charterfeber.se",
+      "code": "CHA-SE-002",
+      "index": 1661,
+      "tvg_id": null,
+      "tvg_chno": 1761,
+      "name_ar": "Charterfeber",
+      "name_en": "Charterfeber",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ComedyCentralRoast.se",
+      "code": "COM-SE-001",
+      "index": 1894,
+      "tvg_id": null,
+      "tvg_chno": 1994,
+      "name_ar": "Comedy Central Roast",
+      "name_en": "Comedy Central Roast",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CrazyExGirlfriend.se",
+      "code": "CRA-SE-001",
+      "index": 1951,
+      "tvg_id": null,
+      "tvg_chno": 2051,
+      "name_ar": "Crazy Ex-Girlfriend",
+      "name_en": "Crazy Ex-Girlfriend",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-693ae58fc2d0f38be38df821.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CSI.se",
+      "code": "CSI-SE-001",
+      "index": 1978,
+      "tvg_id": null,
+      "tvg_chno": 2078,
+      "name_ar": "CSI",
+      "name_en": "CSI",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DallasCowboysCheerleaders.se",
+      "code": "DAL-SE-001",
+      "index": 2050,
+      "tvg_id": null,
+      "tvg_chno": 2150,
+      "name_ar": "Dallas Cowboys Cheerleaders",
+      "name_en": "Dallas Cowboys Cheerleaders",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-64e77016324d190008291c13.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DengulesofamedAllanSindberg.se",
+      "code": "DEN-SE-001",
+      "index": 2152,
+      "tvg_id": null,
+      "tvg_chno": 2252,
+      "name_ar": "Den gule sofa med Allan Sindberg",
+      "name_en": "Den gule sofa med Allan Sindberg",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DetseneshowmedChristianFuhlendorff.se",
+      "code": "DET-SE-001",
+      "index": 2180,
+      "tvg_id": null,
+      "tvg_chno": 2280,
+      "name_ar": "Det sene show med Christian Fuhlendorff",
+      "name_en": "Det sene show med Christian Fuhlendorff",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Deungemodre.se",
+      "code": "DEU-SE-001",
+      "index": 2184,
+      "tvg_id": null,
+      "tvg_chno": 2284,
+      "name_ar": "De unge modre",
+      "name_en": "De unge modre",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-69172a4fcf4a1101befdd894.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DiagnosisMurder.se",
+      "code": "DIA-SE-001",
+      "index": 2195,
+      "tvg_id": null,
+      "tvg_chno": 2295,
+      "name_ar": "Diagnosis Murder",
+      "name_en": "Diagnosis Murder",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DiTV.se",
+      "code": "DIT-SE-001",
+      "index": 2242,
+      "tvg_id": null,
+      "tvg_chno": 2342,
+      "name_ar": "Di TV",
+      "name_en": "Di TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DocMartin.se",
+      "code": "DOC-SE-001",
+      "index": 2276,
+      "tvg_id": null,
+      "tvg_chno": 2376,
+      "name_ar": "Doc Martin",
+      "name_en": "Doc Martin",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "EventyrligOppussing.se",
+      "code": "EVE-SE-001",
+      "index": 2613,
+      "tvg_id": null,
+      "tvg_chno": 2713,
+      "name_ar": "Eventyrlig Oppussing",
+      "name_en": "Eventyrlig Oppussing",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ExpressenTV.se",
+      "code": "EXP-SE-001",
+      "index": 2643,
+      "tvg_id": null,
+      "tvg_chno": 2743,
+      "name_ar": "Expressen TV",
+      "name_en": "Expressen TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FamilienfraBryggen.se",
+      "code": "FAM-SE-001",
+      "index": 2666,
+      "tvg_id": null,
+      "tvg_chno": 2766,
+      "name_ar": "Familien fra Bryggen",
+      "name_en": "Familien fra Bryggen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FamilyTies.se",
+      "code": "FAM-SE-002",
+      "index": 2667,
+      "tvg_id": null,
+      "tvg_chno": 2767,
+      "name_ar": "Family Ties",
+      "name_en": "Family Ties",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FBoyIsland.se",
+      "code": "FBO-SE-001",
+      "index": 2694,
+      "tvg_id": null,
+      "tvg_chno": 2794,
+      "name_ar": "FBoy Island",
+      "name_en": "FBoy Island",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FCKLovinderne.se",
+      "code": "FCK-SE-001",
+      "index": 2696,
+      "tvg_id": null,
+      "tvg_chno": 2796,
+      "name_ar": "FCK Lovinderne",
+      "name_en": "FCK Lovinderne",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Forlaekkertillove.se",
+      "code": "FOR-SE-001",
+      "index": 2792,
+      "tvg_id": null,
+      "tvg_chno": 2892,
+      "name_ar": "For laekker til love",
+      "name_en": "For laekker til love",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Forsidefruer.se",
+      "code": "FOR-SE-002",
+      "index": 2795,
+      "tvg_id": null,
+      "tvg_chno": 2895,
+      "name_ar": "Forsidefruer",
+      "name_en": "Forsidefruer",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FrusnaVagar.se",
+      "code": "FRU-SE-001",
+      "index": 2835,
+      "tvg_id": null,
+      "tvg_chno": 2935,
+      "name_ar": "Frusna Vagar",
+      "name_en": "Frusna Vagar",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "GustavLinsepaudebane.se",
+      "code": "GUS-SE-001",
+      "index": 3068,
+      "tvg_id": null,
+      "tvg_chno": 3168,
+      "name_ar": "Gustav & Linse pa udebane",
+      "name_en": "Gustav & Linse pa udebane",
+      "country": "SE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HappyDays.se",
+      "code": "HAP-SE-002",
+      "index": 3102,
+      "tvg_id": null,
+      "tvg_chno": 3202,
+      "name_ar": "Happy Days",
+      "name_en": "Happy Days",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Hogspanning.se",
+      "code": "HOG-SE-001",
+      "index": 3219,
+      "tvg_id": null,
+      "tvg_chno": 3319,
+      "name_ar": "Hogspanning",
+      "name_en": "Hogspanning",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HouseofLies.se",
+      "code": "HOU-SE-001",
+      "index": 3259,
+      "tvg_id": null,
+      "tvg_chno": 3359,
+      "name_ar": "House of Lies",
+      "name_en": "House of Lies",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JerseyShore.se",
+      "code": "JER-SE-001",
+      "index": 3533,
+      "tvg_id": null,
+      "tvg_chno": 3633,
+      "name_ar": "Jersey Shore",
+      "name_en": "Jersey Shore",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JerseyShoreFamilyVacation.se",
+      "code": "JER-SE-002",
+      "index": 3534,
+      "tvg_id": null,
+      "tvg_chno": 3634,
+      "name_ar": "Jersey Shore Family Vacation",
+      "name_en": "Jersey Shore Family Vacation",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kanal10Asia.se",
+      "code": "KAN-SE-001",
+      "index": 3638,
+      "tvg_id": null,
+      "tvg_chno": 3738,
+      "name_ar": "Kanal 10 Asia",
+      "name_en": "Kanal 10 Asia",
+      "country": "SE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KeyPeele.se",
+      "code": "KEY-SE-001",
+      "index": 3714,
+      "tvg_id": null,
+      "tvg_chno": 3814,
+      "name_ar": "Key & Peele",
+      "name_en": "Key & Peele",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Klovn.se",
+      "code": "KLO-SE-001",
+      "index": 3779,
+      "tvg_id": null,
+      "tvg_chno": 3879,
+      "name_ar": "Klovn",
+      "name_en": "Klovn",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kochenpatoppen.se",
+      "code": "KOC-SE-001",
+      "index": 3791,
+      "tvg_id": null,
+      "tvg_chno": 3891,
+      "name_ar": "Koch'en pa toppen",
+      "name_en": "Koch'en pa toppen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KomalaTV.se",
+      "code": "KOM-SE-001",
+      "index": 3800,
+      "tvg_id": null,
+      "tvg_chno": 3900,
+      "name_ar": "Komala TV",
+      "name_en": "Komala TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://komhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kunskapskanalen.se",
+      "code": "KUN-SE-001",
+      "index": 3848,
+      "tvg_id": null,
+      "tvg_chno": 3948,
+      "name_ar": "Kunskapskanalen",
+      "name_en": "Kunskapskanalen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/manifest.mpd?format=dash&defaultSubLang=1",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LangtfraBryggen.se",
+      "code": "LAN-SE-001",
+      "index": 3914,
+      "tvg_id": null,
+      "tvg_chno": 4014,
+      "name_ar": "Langt fra Bryggen",
+      "name_en": "Langt fra Bryggen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-654a3fe6986ad20008a42add.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Luksusfaelden.se",
+      "code": "LUK-SE-001",
+      "index": 4112,
+      "tvg_id": null,
+      "tvg_chno": 4212,
+      "name_ar": "Luksusfaelden",
+      "name_en": "Luksusfaelden",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Luksusfellen.se",
+      "code": "LUK-SE-002",
+      "index": 4113,
+      "tvg_id": null,
+      "tvg_chno": 4213,
+      "name_ar": "Luksusfellen",
+      "name_en": "Luksusfellen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LuksusfellenSverige.se",
+      "code": "LUK-SE-003",
+      "index": 4114,
+      "tvg_id": null,
+      "tvg_chno": 4214,
+      "name_ar": "Luksusfellen Sverige",
+      "name_en": "Luksusfellen Sverige",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Lyxfallan.se",
+      "code": "LYX-SE-001",
+      "index": 4122,
+      "tvg_id": null,
+      "tvg_chno": 4222,
+      "name_ar": "Lyxfallan",
+      "name_en": "Lyxfallan",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LyxfallanDanmark.se",
+      "code": "LYX-SE-002",
+      "index": 4123,
+      "tvg_id": null,
+      "tvg_chno": 4223,
+      "name_ar": "Lyxfallan Danmark",
+      "name_en": "Lyxfallan Danmark",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LyxfallanNorge.se",
+      "code": "LYX-SE-003",
+      "index": 4124,
+      "tvg_id": null,
+      "tvg_chno": 4224,
+      "name_ar": "Lyxfallan Norge",
+      "name_en": "Lyxfallan Norge",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ManwithaPlan.se",
+      "code": "MAN-SE-001",
+      "index": 4209,
+      "tvg_id": null,
+      "tvg_chno": 4309,
+      "name_ar": "Man with a Plan",
+      "name_en": "Man with a Plan",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MasterChefDanmarksstorstemadtalenter.se",
+      "code": "MAS-SE-001",
+      "index": 4242,
+      "tvg_id": null,
+      "tvg_chno": 4342,
+      "name_ar": "MasterChef Danmarks storste madtalenter",
+      "name_en": "MasterChef Danmarks storste madtalenter",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Medknivenforstruben.se",
+      "code": "MED-SE-001",
+      "index": 4323,
+      "tvg_id": null,
+      "tvg_chno": 4423,
+      "name_ar": "Med kniven for struben",
+      "name_en": "Med kniven for struben",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MerryChristmasfromViafree.se",
+      "code": "MER-SE-001",
+      "index": 4354,
+      "tvg_id": null,
+      "tvg_chno": 4454,
+      "name_ar": "Merry Christmas from Viafree",
+      "name_en": "Merry Christmas from Viafree",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MiracleChannel.se",
+      "code": "MIR-SE-001",
+      "index": 4414,
+      "tvg_id": null,
+      "tvg_chno": 4514,
+      "name_ar": "Miracle Channel",
+      "name_en": "Miracle Channel",
+      "country": "SE",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.miracleonline.org/hls/miracle1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Mitplastikmareridt.se",
+      "code": "MIT-SE-001",
+      "index": 4432,
+      "tvg_id": null,
+      "tvg_chno": 4532,
+      "name_ar": "Mit plastikmareridt",
+      "name_en": "Mit plastikmareridt",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-643814ef479f6400086ff043.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MTVCatfish.se",
+      "code": "MTV-SE-001",
+      "index": 4576,
+      "tvg_id": null,
+      "tvg_chno": 4676,
+      "name_ar": "MTV Catfish",
+      "name_en": "MTV Catfish",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MTVExOnTheBeach.se",
+      "code": "MTV-SE-002",
+      "index": 4587,
+      "tvg_id": null,
+      "tvg_chno": 4687,
+      "name_ar": "MTV Ex On The Beach",
+      "name_en": "MTV Ex On The Beach",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MTVTheHills.se",
+      "code": "MTV-SE-003",
+      "index": 4606,
+      "tvg_id": null,
+      "tvg_chno": 4706,
+      "name_ar": "MTV The Hills",
+      "name_en": "MTV The Hills",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NCIS.se",
+      "code": "NCI-SE-001",
+      "index": 4756,
+      "tvg_id": null,
+      "tvg_chno": 4856,
+      "name_ar": "NCIS",
+      "name_en": "NCIS",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NCISDetbedstemedGibbs.se",
+      "code": "NCI-SE-002",
+      "index": 4757,
+      "tvg_id": null,
+      "tvg_chno": 4857,
+      "name_ar": "NCIS: Det bedste med Gibbs",
+      "name_en": "NCIS: Det bedste med Gibbs",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NCISDetbedstemedTonyZiva.se",
+      "code": "NCI-SE-003",
+      "index": 4758,
+      "tvg_id": null,
+      "tvg_chno": 4858,
+      "name_ar": "NCIS: Det bedste med Tony & Ziva",
+      "name_en": "NCIS: Det bedste med Tony & Ziva",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NCISLosAngeles.se",
+      "code": "NCI-SE-004",
+      "index": 4759,
+      "tvg_id": null,
+      "tvg_chno": 4859,
+      "name_ar": "NCIS: Los Angeles",
+      "name_en": "NCIS: Los Angeles",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NonStopKungFu.se",
+      "code": "NON-SE-001",
+      "index": 4917,
+      "tvg_id": null,
+      "tvg_chno": 5017,
+      "name_ar": "NonStop Kung Fu",
+      "name_en": "NonStop Kung Fu",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NordiskkrimfraViaplay.se",
+      "code": "NOR-SE-001",
+      "index": 4922,
+      "tvg_id": null,
+      "tvg_chno": 5022,
+      "name_ar": "Nordisk krim fra Viaplay",
+      "name_en": "Nordisk krim fra Viaplay",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Numb3rs.se",
+      "code": "NUM-SE-001",
+      "index": 5014,
+      "tvg_id": null,
+      "tvg_chno": 5114,
+      "name_ar": "Numb3rs",
+      "name_en": "Numb3rs",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Numbers.se",
+      "code": "NUM-SE-002",
+      "index": 5019,
+      "tvg_id": null,
+      "tvg_chno": 5119,
+      "name_ar": "Numbers",
+      "name_en": "Numbers",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Paradise.se",
+      "code": "PAR-SE-001",
+      "index": 5251,
+      "tvg_id": null,
+      "tvg_chno": 5351,
+      "name_ar": "Paradise",
+      "name_en": "Paradise",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ParadiseHotel.se",
+      "code": "PAR-SE-002",
+      "index": 5252,
+      "tvg_id": null,
+      "tvg_chno": 5352,
+      "name_ar": "Paradise Hotel",
+      "name_en": "Paradise Hotel",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ParadiseHotelUnderlagnerne.se",
+      "code": "PAR-SE-003",
+      "index": 5253,
+      "tvg_id": null,
+      "tvg_chno": 5353,
+      "name_ar": "Paradise Hotel: Under lagnerne",
+      "name_en": "Paradise Hotel: Under lagnerne",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PimpMyRide.se",
+      "code": "PIM-SE-001",
+      "index": 5372,
+      "tvg_id": null,
+      "tvg_chno": 5472,
+      "name_ar": "Pimp My Ride",
+      "name_en": "Pimp My Ride",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVBuskis.se",
+      "code": "PLU-SE-001",
+      "index": 5433,
+      "tvg_id": null,
+      "tvg_chno": 5533,
+      "name_ar": "Pluto TV Buskis",
+      "name_en": "Pluto TV Buskis",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVDanskeklassikere.se",
+      "code": "PLU-SE-002",
+      "index": 5477,
+      "tvg_id": null,
+      "tvg_chno": 5577,
+      "name_ar": "Pluto TV Danske klassikere",
+      "name_en": "Pluto TV Danske klassikere",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVDokumentar.se",
+      "code": "PLU-SE-003",
+      "index": 5486,
+      "tvg_id": null,
+      "tvg_chno": 5586,
+      "name_ar": "Pluto TV Dokumentar",
+      "name_en": "Pluto TV Dokumentar",
+      "country": "SE",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVFishing.se",
+      "code": "PLU-SE-004",
+      "index": 5514,
+      "tvg_id": null,
+      "tvg_chno": 5614,
+      "name_ar": "Pluto TV Fishing",
+      "name_en": "Pluto TV Fishing",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHandboldHighlights.se",
+      "code": "PLU-SE-005",
+      "index": 5523,
+      "tvg_id": null,
+      "tvg_chno": 5623,
+      "name_ar": "Pluto TV Handbold Highlights",
+      "name_en": "Pluto TV Handbold Highlights",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHandboldLive.se",
+      "code": "PLU-SE-006",
+      "index": 5524,
+      "tvg_id": null,
+      "tvg_chno": 5624,
+      "name_ar": "Pluto TV Handbold Live",
+      "name_en": "Pluto TV Handbold Live",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHandbollHighlights.se",
+      "code": "PLU-SE-007",
+      "index": 5525,
+      "tvg_id": null,
+      "tvg_chno": 5625,
+      "name_ar": "Pluto TV Handboll Highlights",
+      "name_en": "Pluto TV Handboll Highlights",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHandbollLive.se",
+      "code": "PLU-SE-008",
+      "index": 5526,
+      "tvg_id": null,
+      "tvg_chno": 5626,
+      "name_ar": "Pluto TV Handboll Live",
+      "name_en": "Pluto TV Handboll Live",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHarlequin.se",
+      "code": "PLU-SE-009",
+      "index": 5527,
+      "tvg_id": null,
+      "tvg_chno": 5627,
+      "name_ar": "Pluto TV Harlequin",
+      "name_en": "Pluto TV Harlequin",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVHumor.se",
+      "code": "PLU-SE-010",
+      "index": 5536,
+      "tvg_id": null,
+      "tvg_chno": 5636,
+      "name_ar": "Pluto TV Humor",
+      "name_en": "Pluto TV Humor",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVJohnWayne.se",
+      "code": "PLU-SE-011",
+      "index": 5543,
+      "tvg_id": null,
+      "tvg_chno": 5643,
+      "name_ar": "Pluto TV John Wayne",
+      "name_en": "Pluto TV John Wayne",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVJuniorklubben.se",
+      "code": "PLU-SE-012",
+      "index": 5545,
+      "tvg_id": null,
+      "tvg_chno": 5645,
+      "name_ar": "Pluto TV Juniorklubben",
+      "name_en": "Pluto TV Juniorklubben",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKlassisketegnefilm.se",
+      "code": "PLU-SE-013",
+      "index": 5552,
+      "tvg_id": null,
+      "tvg_chno": 5652,
+      "name_ar": "Pluto TV Klassiske tegnefilm",
+      "name_en": "Pluto TV Klassiske tegnefilm",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKlassisketegnefilmer.se",
+      "code": "PLU-SE-014",
+      "index": 5553,
+      "tvg_id": null,
+      "tvg_chno": 5653,
+      "name_ar": "Pluto TV Klassiske tegnefilmer",
+      "name_en": "Pluto TV Klassiske tegnefilmer",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKomedi.se",
+      "code": "PLU-SE-015",
+      "index": 5554,
+      "tvg_id": null,
+      "tvg_chno": 5654,
+      "name_ar": "Pluto TV Komedi",
+      "name_en": "Pluto TV Komedi",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKomedie.se",
+      "code": "PLU-SE-016",
+      "index": 5555,
+      "tvg_id": null,
+      "tvg_chno": 5655,
+      "name_ar": "Pluto TV Komedie",
+      "name_en": "Pluto TV Komedie",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKultfilm.se",
+      "code": "PLU-SE-017",
+      "index": 5557,
+      "tvg_id": null,
+      "tvg_chno": 5657,
+      "name_ar": "Pluto TV Kultfilm",
+      "name_en": "Pluto TV Kultfilm",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVKultfilmer.se",
+      "code": "PLU-SE-018",
+      "index": 5559,
+      "tvg_id": null,
+      "tvg_chno": 5659,
+      "name_ar": "Pluto TV Kultfilmer",
+      "name_en": "Pluto TV Kultfilmer",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVOvernaturlig.se",
+      "code": "PLU-SE-019",
+      "index": 5588,
+      "tvg_id": null,
+      "tvg_chno": 5688,
+      "name_ar": "Pluto TV Overnaturlig",
+      "name_en": "Pluto TV Overnaturlig",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVRomantik.se",
+      "code": "PLU-SE-020",
+      "index": 5610,
+      "tvg_id": null,
+      "tvg_chno": 5710,
+      "name_ar": "Pluto TV Romantik",
+      "name_en": "Pluto TV Romantik",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVRomantikk.se",
+      "code": "PLU-SE-021",
+      "index": 5611,
+      "tvg_id": null,
+      "tvg_chno": 5711,
+      "name_ar": "Pluto TV Romantikk",
+      "name_en": "Pluto TV Romantikk",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVTecknadeklassiker.se",
+      "code": "PLU-SE-022",
+      "index": 5651,
+      "tvg_id": null,
+      "tvg_chno": 5751,
+      "name_ar": "Pluto TV Tecknade klassiker",
+      "name_en": "Pluto TV Tecknade klassiker",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVTecknat.se",
+      "code": "PLU-SE-023",
+      "index": 5652,
+      "tvg_id": null,
+      "tvg_chno": 5752,
+      "name_ar": "Pluto TV Tecknat",
+      "name_en": "Pluto TV Tecknat",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVTegnefilm.se",
+      "code": "PLU-SE-024",
+      "index": 5654,
+      "tvg_id": null,
+      "tvg_chno": 5754,
+      "name_ar": "Pluto TV Tegnefilm",
+      "name_en": "Pluto TV Tegnefilm",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVUngdomsserier.se",
+      "code": "PLU-SE-025",
+      "index": 5665,
+      "tvg_id": null,
+      "tvg_chno": 5765,
+      "name_ar": "Pluto TV Ungdomsserier",
+      "name_en": "Pluto TV Ungdomsserier",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVVarldskrigen.se",
+      "code": "PLU-SE-026",
+      "index": 5666,
+      "tvg_id": null,
+      "tvg_chno": 5766,
+      "name_ar": "Pluto TV Varldskrigen",
+      "name_en": "Pluto TV Varldskrigen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVVerdenskrigene.se",
+      "code": "PLU-SE-027",
+      "index": 5668,
+      "tvg_id": null,
+      "tvg_chno": 5768,
+      "name_ar": "Pluto TV Verdenskrigene",
+      "name_en": "Pluto TV Verdenskrigene",
+      "country": "SE",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlutoTVWildWest.se",
+      "code": "PLU-SE-028",
+      "index": 5676,
+      "tvg_id": null,
+      "tvg_chno": 5776,
+      "name_ar": "Pluto TV Wild West",
+      "name_en": "Pluto TV Wild West",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PodRadiopaPlutoTV.se",
+      "code": "POD-SE-001",
+      "index": 5693,
+      "tvg_id": null,
+      "tvg_chno": 5793,
+      "name_ar": "PodRadio pa Pluto TV",
+      "name_en": "PodRadio pa Pluto TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "r8DioTV.se",
+      "code": "RDI-SE-001",
+      "index": 5917,
+      "tvg_id": null,
+      "tvg_chno": 6017,
+      "name_ar": "r8Dio TV",
+      "name_en": "r8Dio TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-698ddf5a8c21a5f2d64c14a8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Rawhide.se",
+      "code": "RAW-SE-001",
+      "index": 6121,
+      "tvg_id": null,
+      "tvg_chno": 6221,
+      "name_ar": "Rawhide",
+      "name_en": "Rawhide",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Reno911.se",
+      "code": "REN-SE-001",
+      "index": 6223,
+      "tvg_id": null,
+      "tvg_chno": 6323,
+      "name_ar": "Reno 911",
+      "name_en": "Reno 911",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RidiculousnessNyaavsnitt.se",
+      "code": "RID-SE-001",
+      "index": 6275,
+      "tvg_id": null,
+      "tvg_chno": 6375,
+      "name_ar": "Ridiculousness: Nya avsnitt",
+      "name_en": "Ridiculousness: Nya avsnitt",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RidiculousnessNyeafsnit.se",
+      "code": "RID-SE-002",
+      "index": 6276,
+      "tvg_id": null,
+      "tvg_chno": 6376,
+      "name_ar": "Ridiculousness: Nye afsnit",
+      "name_en": "Ridiculousness: Nye afsnit",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RidiculousnessNyeepisoder.se",
+      "code": "RID-SE-003",
+      "index": 6277,
+      "tvg_id": null,
+      "tvg_chno": 6377,
+      "name_ar": "Ridiculousness: Nye episoder",
+      "name_en": "Ridiculousness: Nye episoder",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RobinsonEkspeditionen.se",
+      "code": "ROB-SE-001",
+      "index": 6306,
+      "tvg_id": null,
+      "tvg_chno": 6406,
+      "name_ar": "Robinson Ekspeditionen",
+      "name_en": "Robinson Ekspeditionen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SkjonnhetsfellenDanmark.se",
+      "code": "SKJ-SE-001",
+      "index": 6837,
+      "tvg_id": null,
+      "tvg_chno": 6937,
+      "name_ar": "Skjonnhetsfellen Danmark",
+      "name_en": "Skjonnhetsfellen Danmark",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SkonhetsfallanDanmark.se",
+      "code": "SKO-SE-001",
+      "index": 6838,
+      "tvg_id": null,
+      "tvg_chno": 6938,
+      "name_ar": "Skonhetsfallan Danmark",
+      "name_en": "Skonhetsfallan Danmark",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Skonneombygninger.se",
+      "code": "SKO-SE-002",
+      "index": 6839,
+      "tvg_id": null,
+      "tvg_chno": 6939,
+      "name_ar": "Skonne ombygninger",
+      "name_en": "Skonne ombygninger",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SmithsonianChannelSelects.se",
+      "code": "SMI-SE-001",
+      "index": 6877,
+      "tvg_id": null,
+      "tvg_chno": 6977,
+      "name_ar": "Smithsonian Channel Selects",
+      "name_en": "Smithsonian Channel Selects",
+      "country": "SE",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SouthParkArmageddon.se",
+      "code": "SOU-SE-001",
+      "index": 6957,
+      "tvg_id": null,
+      "tvg_chno": 7057,
+      "name_ar": "South Park Armageddon",
+      "name_en": "South Park Armageddon",
+      "country": "SE",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-660bff28516d260008479e23.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SouthParkIntotheStars.se",
+      "code": "SOU-SE-002",
+      "index": 6969,
+      "tvg_id": null,
+      "tvg_chno": 7069,
+      "name_ar": "South Park: Into the Stars",
+      "name_en": "South Park: Into the Stars",
+      "country": "SE",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SouthParkRockinOut.se",
+      "code": "SOU-SE-003",
+      "index": 6973,
+      "tvg_id": null,
+      "tvg_chno": 7073,
+      "name_ar": "South Park Rockin' Out",
+      "name_en": "South Park Rockin' Out",
+      "country": "SE",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StarTrekMovies.se",
+      "code": "STA-SE-001",
+      "index": 7065,
+      "tvg_id": null,
+      "tvg_chno": 7165,
+      "name_ar": "Star Trek Movies",
+      "name_en": "Star Trek Movies",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StugfixarnaNorge.se",
+      "code": "STU-SE-001",
+      "index": 7138,
+      "tvg_id": null,
+      "tvg_chno": 7238,
+      "name_ar": "Stugfixarna Norge",
+      "name_en": "Stugfixarna Norge",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SvampBobFyrkant.se",
+      "code": "SVA-SE-001",
+      "index": 7207,
+      "tvg_id": null,
+      "tvg_chno": 7307,
+      "name_ar": "SvampBob Fyrkant",
+      "name_en": "SvampBob Fyrkant",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SvampeBobFirkant.se",
+      "code": "SVA-SE-002",
+      "index": 7208,
+      "tvg_id": null,
+      "tvg_chno": 7308,
+      "name_ar": "SvampeBob Firkant",
+      "name_en": "SvampeBob Firkant",
+      "country": "SE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SvenskaHollywoodfruar.se",
+      "code": "SVE-SE-001",
+      "index": 7214,
+      "tvg_id": null,
+      "tvg_chno": 7314,
+      "name_ar": "Svenska Hollywoodfruar",
+      "name_en": "Svenska Hollywoodfruar",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SvenskaTruckers.se",
+      "code": "SVE-SE-002",
+      "index": 7215,
+      "tvg_id": null,
+      "tvg_chno": 7315,
+      "name_ar": "Svenska Truckers",
+      "name_en": "Svenska Truckers",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SVT1.se",
+      "code": "SVT-SE-001",
+      "index": 7221,
+      "tvg_id": null,
+      "tvg_chno": 7321,
+      "name_ar": "SVT1",
+      "name_en": "SVT1",
+      "country": "SE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/manifest.mpd?format=dash&defaultSubLang=1",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SVT2.se",
+      "code": "SVT-SE-002",
+      "index": 7222,
+      "tvg_id": null,
+      "tvg_chno": 7322,
+      "name_ar": "SVT2",
+      "name_en": "SVT2",
+      "country": "SE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/manifest.mpd?format=dash&defaultSubLang=1",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SVTBarnSVT24.se",
+      "code": "SVT-SE-003",
+      "index": 7223,
+      "tvg_id": null,
+      "tvg_chno": 7323,
+      "name_ar": "SVT Barn/SVT24",
+      "name_en": "SVT Barn/SVT24",
+      "country": "SE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?defaultSubLang=1&format=hls",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TheDailyShow.se",
+      "code": "THE-SE-001",
+      "index": 7637,
+      "tvg_id": null,
+      "tvg_chno": 7737,
+      "name_ar": "The Daily Show",
+      "name_en": "The Daily Show",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TheLWord.se",
+      "code": "THE-SE-002",
+      "index": 7653,
+      "tvg_id": null,
+      "tvg_chno": 7753,
+      "name_ar": "The L Word",
+      "name_en": "The L Word",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TheMillers.se",
+      "code": "THE-SE-003",
+      "index": 7656,
+      "tvg_id": null,
+      "tvg_chno": 7756,
+      "name_ar": "The Millers",
+      "name_en": "The Millers",
+      "country": "SE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TheTwilightZone.se",
+      "code": "THE-SE-004",
+      "index": 7672,
+      "tvg_id": null,
+      "tvg_chno": 7772,
+      "name_ar": "The Twilight Zone",
+      "name_en": "The Twilight Zone",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TheWildWildWest.se",
+      "code": "THE-SE-005",
+      "index": 7678,
+      "tvg_id": null,
+      "tvg_chno": 7778,
+      "name_ar": "The Wild Wild West",
+      "name_en": "The Wild Wild West",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Tiljulefrokosthosr8Dio.se",
+      "code": "TIL-SE-001",
+      "index": 7701,
+      "tvg_id": null,
+      "tvg_chno": 7801,
+      "name_ar": "Til julefrokost hos r8Dio",
+      "name_en": "Til julefrokost hos r8Dio",
+      "country": "SE",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TilMiddagHos.se",
+      "code": "TIL-SE-002",
+      "index": 7702,
+      "tvg_id": null,
+      "tvg_chno": 7802,
+      "name_ar": "Til Middag Hos",
+      "name_en": "Til Middag Hos",
+      "country": "SE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Tosh0.se",
+      "code": "TOS-SE-001",
+      "index": 7792,
+      "tvg_id": null,
+      "tvg_chno": 7892,
+      "name_ar": "Tosh.0",
+      "name_en": "Tosh.0",
+      "country": "SE",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-65e977042873090008b48be9.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TruecrimefranViaplay.se",
+      "code": "TRU-SE-001",
+      "index": 7883,
+      "tvg_id": null,
+      "tvg_chno": 7983,
+      "name_ar": "True crime fran Viaplay",
+      "name_en": "True crime fran Viaplay",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UngaMammor.se",
+      "code": "UNG-SE-001",
+      "index": 8459,
+      "tvg_id": null,
+      "tvg_chno": 8559,
+      "name_ar": "Unga Mammor",
+      "name_en": "Unga Mammor",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1900995f417000731a002.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ViafreeMovies.se",
+      "code": "VIA-SE-001",
+      "index": 8614,
+      "tvg_id": null,
+      "tvg_chno": 8714,
+      "name_ar": "Viafree Movies",
+      "name_en": "Viafree Movies",
+      "country": "SE",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VSportGolf.se",
+      "code": "VSP-SE-001",
+      "index": 8732,
+      "tvg_id": null,
+      "tvg_chno": 8832,
+      "name_ar": "V Sport Golf",
+      "name_en": "V Sport Golf",
+      "country": "SE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Wildfire.se",
+      "code": "WIL-SE-001",
+      "index": 8826,
+      "tvg_id": null,
+      "tvg_chno": 8926,
+      "name_ar": "Wildfire",
+      "name_en": "Wildfire",
+      "country": "SE",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "kanal10sverige",
+      "code": "KAN-SE-002",
+      "index": 9772,
+      "tvg_id": null,
+      "tvg_chno": 9872,
+      "name_ar": "Kanal 10 Sverige",
+      "name_en": "Kanal 10 Sverige",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/vlh699v.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "svt24",
+      "code": "SVT-SE-004",
+      "index": 9773,
+      "tvg_id": null,
+      "tvg_chno": 9873,
+      "name_ar": "SVT 24 Ⓖ",
+      "name_en": "SVT 24 Ⓖ",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/o9M7Tiq.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/manifest.mpd?format=dash&defaultSubLang=1",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "vstmanlands",
+      "code": "VST-SE-001",
+      "index": 9774,
+      "tvg_id": null,
+      "tvg_chno": 9874,
+      "name_ar": "Västmanlands TV",
+      "name_en": "Västmanlands TV",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/EXBaQ88.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edg01-prd-se-dcs.solidtango.com/edge/lo9yf4l5/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "sundskanalen",
+      "code": "SUN-SE-001",
+      "index": 9775,
+      "tvg_id": null,
+      "tvg_chno": 9875,
+      "name_ar": "Sundskanalen",
+      "name_en": "Sundskanalen",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/8uT0p3q.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.sundskanalen.se/live/view/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ppnakanalenskvde",
+      "code": "PPN-SE-001",
+      "index": 9776,
+      "tvg_id": null,
+      "tvg_chno": 9876,
+      "name_ar": "Öppna Kanalen Skövde",
+      "name_en": "Öppna Kanalen Skövde",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/1LkYbaQ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edg01-prd-de-ixn.solidtango.com/edge/_c6697zkv_/c6697zkv/manifest.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "lokaluddevallafyrbodal",
+      "code": "LOK-SE-001",
+      "index": 9777,
+      "tvg_id": null,
+      "tvg_chno": 9877,
+      "name_ar": "Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ",
+      "name_en": "Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/cnLkbOT.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@LtvuSeTube/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "suryoyosat",
+      "code": "SUR-SE-001",
+      "index": 9778,
+      "tvg_id": null,
+      "tvg_chno": 9878,
+      "name_ar": "Suryoyo Sat",
+      "name_en": "Suryoyo Sat",
+      "country": "SE",
+      "language": "unknown",
+      "category": "Sweden",
+      "logo": "https://i.imgur.com/naCNjaB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

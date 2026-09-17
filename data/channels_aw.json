@@ -1,0 +1,310 @@
+{
+  "version": "1.0.0",
+  "country": "AW",
+  "total_channels": 10,
+  "channels": [
+    {
+      "id": "ArubaTV.aw",
+      "code": "ARU-AW-001",
+      "index": 672,
+      "tvg_id": null,
+      "tvg_chno": 772,
+      "name_ar": "Aruba.TV",
+      "name_en": "Aruba.TV",
+      "country": "AW",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BalchiTV.aw",
+      "code": "BAL-AW-001",
+      "index": 844,
+      "tvg_id": null,
+      "tvg_chno": 944,
+      "name_ar": "Balchi TV",
+      "name_en": "Balchi TV",
+      "country": "AW",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CoolFM989.aw",
+      "code": "COO-AW-001",
+      "index": 1927,
+      "tvg_id": null,
+      "tvg_chno": 2027,
+      "name_ar": "Cool FM 98.9",
+      "name_en": "Cool FM 98.9",
+      "country": "AW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HeartRadioAruba.aw",
+      "code": "HEA-AW-001",
+      "index": 3129,
+      "tvg_id": null,
+      "tvg_chno": 3229,
+      "name_ar": "Heart Radio Aruba",
+      "name_en": "Heart Radio Aruba",
+      "country": "AW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NosIslaTV.aw",
+      "code": "NOS-AW-001",
+      "index": 4929,
+      "tvg_id": null,
+      "tvg_chno": 5029,
+      "name_ar": "Nos Isla TV",
+      "name_en": "Nos Isla TV",
+      "country": "AW",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Power1017FM.aw",
+      "code": "POW-AW-001",
+      "index": 5728,
+      "tvg_id": null,
+      "tvg_chno": 5828,
+      "name_ar": "Power 101.7 FM",
+      "name_en": "Power 101.7 FM",
+      "country": "AW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Telearuba.aw",
+      "code": "TEL-AW-001",
+      "index": 7380,
+      "tvg_id": null,
+      "tvg_chno": 7480,
+      "name_ar": "Telearuba",
+      "name_en": "Telearuba",
+      "country": "AW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VIPTV.aw",
+      "code": "VIP-AW-001",
+      "index": 8670,
+      "tvg_id": null,
+      "tvg_chno": 8770,
+      "name_ar": "VIP TV",
+      "name_en": "VIP TV",
+      "country": "AW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WavezFM.aw",
+      "code": "WAV-AW-001",
+      "index": 8781,
+      "tvg_id": null,
+      "tvg_chno": 8881,
+      "name_ar": "Wavez FM",
+      "name_en": "Wavez FM",
+      "country": "AW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "X1027FM.aw",
+      "code": "XFM-AW-001",
+      "index": 8873,
+      "tvg_id": null,
+      "tvg_chno": 8973,
+      "name_ar": "X 102.7 FM",
+      "name_en": "X 102.7 FM",
+      "country": "AW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

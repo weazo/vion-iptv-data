@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "country": "GL",
+  "total_channels": 2,
+  "channels": [
+    {
+      "id": "knr1",
+      "code": "KNR-GL-001",
+      "index": 9282,
+      "tvg_id": null,
+      "tvg_chno": 9382,
+      "name_ar": "KNR1 Ⓨ Ⓖ",
+      "name_en": "KNR1 Ⓨ Ⓖ",
+      "country": "GL",
+      "language": "unknown",
+      "category": "Greenland",
+      "logo": "https://i.imgur.com/8Pf5SJb.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@KNRgreenland/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "knr2",
+      "code": "KNR-GL-002",
+      "index": 9283,
+      "tvg_id": null,
+      "tvg_chno": 9383,
+      "name_ar": "KNR2 Ⓨ",
+      "name_en": "KNR2 Ⓨ",
+      "country": "GL",
+      "language": "unknown",
+      "category": "Greenland",
+      "logo": "https://i.imgur.com/8Pf5SJb.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@nutaarsiassat/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

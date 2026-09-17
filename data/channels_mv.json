@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "country": "MV",
+  "total_channels": 6,
+  "channels": [
+    {
+      "id": "MaldivesTV.mv",
+      "code": "MAL-MV-001",
+      "index": 4185,
+      "tvg_id": null,
+      "tvg_chno": 4285,
+      "name_ar": "Maldives TV",
+      "name_en": "Maldives TV",
+      "country": "MV",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lana.psm.mv/live/mtv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MMTV.mv",
+      "code": "MMT-MV-001",
+      "index": 4445,
+      "tvg_id": null,
+      "tvg_chno": 4545,
+      "name_ar": "MMTV",
+      "name_en": "MMTV",
+      "country": "MV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sendlive.online/hls/mmtv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Munnaaru.mv",
+      "code": "MUN-MV-001",
+      "index": 4627,
+      "tvg_id": null,
+      "tvg_chno": 4727,
+      "name_ar": "Munnaaru",
+      "name_en": "Munnaaru",
+      "country": "MV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PSMNews.mv",
+      "code": "PSM-MV-001",
+      "index": 5817,
+      "tvg_id": null,
+      "tvg_chno": 5917,
+      "name_ar": "PSM News",
+      "name_en": "PSM News",
+      "country": "MV",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RaajjeTV.mv",
+      "code": "RAA-MV-001",
+      "index": 5919,
+      "tvg_id": null,
+      "tvg_chno": 6019,
+      "name_ar": "Raajje TV",
+      "name_en": "Raajje TV",
+      "country": "MV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "YES.mv",
+      "code": "YES-MV-001",
+      "index": 8925,
+      "tvg_id": null,
+      "tvg_chno": 9025,
+      "name_ar": "YES",
+      "name_en": "YES",
+      "country": "MV",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://lana.psm.mv/live/yes.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

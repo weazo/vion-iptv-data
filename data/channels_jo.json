@@ -1,0 +1,510 @@
+{
+  "version": "1.0.0",
+  "country": "JO",
+  "total_channels": 18,
+  "channels": [
+    {
+      "id": "AlerthAlnabawiChannel.jo",
+      "code": "ALE-JO-001",
+      "index": 375,
+      "tvg_id": null,
+      "tvg_chno": 475,
+      "name_ar": "Alerth Alnabawi Channel",
+      "name_en": "Alerth Alnabawi Channel",
+      "country": "JO",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://82.212.74.2:8000/live/7307.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AlhaqeqaAldawlia.jo",
+      "code": "ALH-JO-001",
+      "index": 386,
+      "tvg_id": null,
+      "tvg_chno": 486,
+      "name_ar": "Alhaqeqa Aldawlia",
+      "name_en": "Alhaqeqa Aldawlia",
+      "country": "JO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AltaghierTV.jo",
+      "code": "ALT-JO-001",
+      "index": 474,
+      "tvg_id": null,
+      "tvg_chno": 574,
+      "name_ar": "Altaghier TV",
+      "name_en": "Altaghier TV",
+      "country": "JO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmc-live.ercdn.net/altaghier/altaghier.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AmmanTV.jo",
+      "code": "AMM-JO-001",
+      "index": 533,
+      "tvg_id": null,
+      "tvg_chno": 633,
+      "name_ar": "Amman TV",
+      "name_en": "Amman TV",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanArchive.jo",
+      "code": "JOR-JO-001",
+      "index": 3580,
+      "tvg_id": null,
+      "tvg_chno": 3680,
+      "name_ar": "Jordan Archive",
+      "name_en": "Jordan Archive",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanComedy.jo",
+      "code": "JOR-JO-002",
+      "index": 3581,
+      "tvg_id": null,
+      "tvg_chno": 3681,
+      "name_ar": "Jordan Comedy",
+      "name_en": "Jordan Comedy",
+      "country": "JO",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanDrama.jo",
+      "code": "JOR-JO-003",
+      "index": 3582,
+      "tvg_id": null,
+      "tvg_chno": 3682,
+      "name_ar": "Jordan Drama",
+      "name_en": "Jordan Drama",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanKitchen.jo",
+      "code": "JOR-JO-004",
+      "index": 3583,
+      "tvg_id": null,
+      "tvg_chno": 3683,
+      "name_ar": "Jordan Kitchen",
+      "name_en": "Jordan Kitchen",
+      "country": "JO",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanSongs.jo",
+      "code": "JOR-JO-005",
+      "index": 3584,
+      "tvg_id": null,
+      "tvg_chno": 3684,
+      "name_ar": "Jordan Songs",
+      "name_en": "Jordan Songs",
+      "country": "JO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanSport.jo",
+      "code": "JOR-JO-006",
+      "index": 3585,
+      "tvg_id": null,
+      "tvg_chno": 3685,
+      "name_ar": "Jordan Sport",
+      "name_en": "Jordan Sport",
+      "country": "JO",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://93.184.10.248/JordanSport/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "JordanTourism.jo",
+      "code": "JOR-JO-007",
+      "index": 3586,
+      "tvg_id": null,
+      "tvg_chno": 3686,
+      "name_ar": "Jordan Tourism",
+      "name_en": "Jordan Tourism",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JordanTV.jo",
+      "code": "JOR-JO-008",
+      "index": 3587,
+      "tvg_id": null,
+      "tvg_chno": 3687,
+      "name_ar": "Jordan TV",
+      "name_en": "Jordan TV",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KaifaTV.jo",
+      "code": "KAI-JO-001",
+      "index": 3621,
+      "tvg_id": null,
+      "tvg_chno": 3721,
+      "name_ar": "Kaifa TV",
+      "name_en": "Kaifa TV",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://82.212.74.2:8000/live/7311.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MelodyFM.jo",
+      "code": "MEL-JO-001",
+      "index": 4343,
+      "tvg_id": null,
+      "tvg_chno": 4443,
+      "name_ar": "Melody FM",
+      "name_en": "Melody FM",
+      "country": "JO",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioFannJordanStudio.jo",
+      "code": "RAD-JO-001",
+      "index": 5967,
+      "tvg_id": null,
+      "tvg_chno": 6067,
+      "name_ar": "Radio Fann Jordan Studio",
+      "name_en": "Radio Fann Jordan Studio",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.63.116.205/hls2/stream1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioYaqeenJordanCityView.jo",
+      "code": "RAD-JO-002",
+      "index": 6064,
+      "tvg_id": null,
+      "tvg_chno": 6164,
+      "name_ar": "Radio Yaqeen Jordan City View",
+      "name_en": "Radio Yaqeen Jordan City View",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.63.116.205/hls4/stream1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RotanaRadioJordanStudio.jo",
+      "code": "ROT-JO-001",
+      "index": 6336,
+      "tvg_id": null,
+      "tvg_chno": 6436,
+      "name_ar": "Rotana Radio Jordan Studio",
+      "name_en": "Rotana Radio Jordan Studio",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.63.116.205/hls/stream1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RotanaTarabJordanCityView.jo",
+      "code": "ROT-JO-002",
+      "index": 6337,
+      "tvg_id": null,
+      "tvg_chno": 6437,
+      "name_ar": "Rotana Tarab Jordan City View",
+      "name_en": "Rotana Tarab Jordan City View",
+      "country": "JO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://45.63.116.205/hls3/stream1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

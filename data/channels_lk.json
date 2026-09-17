@@ -1,0 +1,367 @@
+{
+  "version": "1.0.0",
+  "country": "LK",
+  "total_channels": 13,
+  "channels": [
+    {
+      "id": "AsiaTV.lk",
+      "code": "ASI-LK-001",
+      "index": 695,
+      "tvg_id": null,
+      "tvg_chno": 795,
+      "name_ar": "Asia TV",
+      "name_en": "Asia TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CharanaTV.lk",
+      "code": "CHA-LK-001",
+      "index": 1653,
+      "tvg_id": null,
+      "tvg_chno": 1753,
+      "name_ar": "Charana TV",
+      "name_en": "Charana TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HiruTV.lk",
+      "code": "HIR-LK-001",
+      "index": 3165,
+      "tvg_id": null,
+      "tvg_chno": 3265,
+      "name_ar": "Hiru TV",
+      "name_en": "Hiru TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ImaiTV.lk",
+      "code": "IMA-LK-001",
+      "index": 3355,
+      "tvg_id": null,
+      "tvg_chno": 3455,
+      "name_ar": "Imai TV",
+      "name_en": "Imai TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MonaraTV.lk",
+      "code": "MON-LK-001",
+      "index": 4478,
+      "tvg_id": null,
+      "tvg_chno": 4578,
+      "name_ar": "Monara TV",
+      "name_en": "Monara TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NDTVLANKA.lk",
+      "code": "NDT-LK-001",
+      "index": 4770,
+      "tvg_id": null,
+      "tvg_chno": 4870,
+      "name_ar": "NDTV LANKA",
+      "name_en": "NDTV LANKA",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ShraddhaTV.lk",
+      "code": "SHR-LK-001",
+      "index": 6787,
+      "tvg_id": null,
+      "tvg_chno": 6887,
+      "name_ar": "Shraddha TV",
+      "name_en": "Shraddha TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SiyathaTV.lk",
+      "code": "SIY-LK-001",
+      "index": 6833,
+      "tvg_id": null,
+      "tvg_chno": 6933,
+      "name_ar": "Siyatha TV",
+      "name_en": "Siyatha TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StarTamilTelevision.lk",
+      "code": "STA-LK-001",
+      "index": 7062,
+      "tvg_id": null,
+      "tvg_chno": 7162,
+      "name_ar": "Star Tamil Television",
+      "name_en": "Star Tamil Television",
+      "country": "LK",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Swarnavahini.lk",
+      "code": "SWA-LK-001",
+      "index": 7229,
+      "tvg_id": null,
+      "tvg_chno": 7329,
+      "name_ar": "Swarnavahini",
+      "name_en": "Swarnavahini",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://teledrama.ebc.lk/TTT/proxy.php",
+          "quality": "480p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TalentTV.lk",
+      "code": "TAL-LK-001",
+      "index": 7288,
+      "tvg_id": null,
+      "tvg_chno": 7388,
+      "name_ar": "Talent TV",
+      "name_en": "Talent TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TheBuddhist.lk",
+      "code": "THE-LK-001",
+      "index": 7626,
+      "tvg_id": null,
+      "tvg_chno": 7726,
+      "name_ar": "The Buddhist",
+      "name_en": "The Buddhist",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "VerbumTV.lk",
+      "code": "VER-LK-001",
+      "index": 8593,
+      "tvg_id": null,
+      "tvg_chno": 8693,
+      "name_ar": "Verbum TV",
+      "name_en": "Verbum TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

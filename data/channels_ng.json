@@ -1,0 +1,1441 @@
+{
+  "version": "1.0.0",
+  "country": "NG",
+  "total_channels": 51,
+  "channels": [
+    {
+      "id": "ACNN.ng",
+      "code": "ACN-NG-001",
+      "index": 249,
+      "tvg_id": null,
+      "tvg_chno": 349,
+      "name_ar": "ACNN",
+      "name_en": "ACNN",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AdvocateBroadcastingNetwork.ng",
+      "code": "ADV-NG-001",
+      "index": 269,
+      "tvg_id": null,
+      "tvg_chno": 369,
+      "name_ar": "Advocate Broadcasting Network",
+      "name_en": "Advocate Broadcasting Network",
+      "country": "NG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "srt://105.113.54.98:4001",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AfricaTV3.ng",
+      "code": "AFR-NG-001",
+      "index": 292,
+      "tvg_id": null,
+      "tvg_chno": 392,
+      "name_ar": "Africa TV3",
+      "name_en": "Africa TV3",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AMusicChannel.ng",
+      "code": "AMU-NG-001",
+      "index": 540,
+      "tvg_id": null,
+      "tvg_chno": 640,
+      "name_ar": "AMusic Channel",
+      "name_en": "AMusic Channel",
+      "country": "NG",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ApprovalTV.ng",
+      "code": "APP-NG-001",
+      "index": 615,
+      "tvg_id": null,
+      "tvg_chno": 715,
+      "name_ar": "Approval TV",
+      "name_en": "Approval TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.approvaltv.com/approvaltv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BCSStarCrossTV.ng",
+      "code": "BCS-NG-001",
+      "index": 934,
+      "tvg_id": null,
+      "tvg_chno": 1034,
+      "name_ar": "BCS StarCross TV",
+      "name_en": "BCS StarCross TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BrideTV.ng",
+      "code": "BRI-NG-001",
+      "index": 1138,
+      "tvg_id": null,
+      "tvg_chno": 1238,
+      "name_ar": "Bride TV",
+      "name_en": "Bride TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CaughtUpTV.ng",
+      "code": "CAU-NG-001",
+      "index": 1518,
+      "tvg_id": null,
+      "tvg_chno": 1618,
+      "name_ar": "Caught-Up TV",
+      "name_en": "Caught-Up TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Channels24.ng",
+      "code": "CHA-NG-001",
+      "index": 1648,
+      "tvg_id": null,
+      "tvg_chno": 1748,
+      "name_ar": "Channels 24",
+      "name_en": "Channels 24",
+      "country": "NG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://www.youtube.com/channelstelevision/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ChosenTVEnglish.ng",
+      "code": "CHO-NG-001",
+      "index": 1690,
+      "tvg_id": null,
+      "tvg_chno": 1790,
+      "name_ar": "Chosen TV English",
+      "name_en": "Chosen TV English",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "cLoveworldTV.ng",
+      "code": "CLO-NG-001",
+      "index": 1819,
+      "tvg_id": null,
+      "tvg_chno": 1919,
+      "name_ar": "cLoveworld TV",
+      "name_en": "cLoveworld TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CozaTV.ng",
+      "code": "COZ-NG-001",
+      "index": 1948,
+      "tvg_id": null,
+      "tvg_chno": 2048,
+      "name_ar": "Coza TV",
+      "name_en": "Coza TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DunamisTV.ng",
+      "code": "DUN-NG-001",
+      "index": 2348,
+      "tvg_id": null,
+      "tvg_chno": 2448,
+      "name_ar": "Dunamis TV",
+      "name_en": "Dunamis TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://atechgroupuk.site/DTV.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FlameTV.ng",
+      "code": "FLA-NG-001",
+      "index": 2762,
+      "tvg_id": null,
+      "tvg_chno": 2862,
+      "name_ar": "Flame TV",
+      "name_en": "Flame TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FortisTV.ng",
+      "code": "FOR-NG-001",
+      "index": 2798,
+      "tvg_id": null,
+      "tvg_chno": 2898,
+      "name_ar": "Fortis TV",
+      "name_en": "Fortis TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.fortistv.com/hls/fortis-news/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FoursquareTV.ng",
+      "code": "FOU-NG-001",
+      "index": 2803,
+      "tvg_id": null,
+      "tvg_chno": 2903,
+      "name_ar": "Foursquare TV",
+      "name_en": "Foursquare TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ItageTV.ng",
+      "code": "ITA-NG-001",
+      "index": 3474,
+      "tvg_id": null,
+      "tvg_chno": 3574,
+      "name_ar": "Itage TV",
+      "name_en": "Itage TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KingsviewTV.ng",
+      "code": "KIN-NG-001",
+      "index": 3742,
+      "tvg_id": null,
+      "tvg_chno": 3842,
+      "name_ar": "Kingsview TV",
+      "name_en": "Kingsview TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LN247.ng",
+      "code": "LNX-NG-001",
+      "index": 4057,
+      "tvg_id": null,
+      "tvg_chno": 4157,
+      "name_ar": "LN247",
+      "name_en": "LN247",
+      "country": "NG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://go5lmb6oyawb-hls-live.5centscdn.com/station/3dfd3752af3d7aec5c53992c2da3a316.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LoveWorldArabic.ng",
+      "code": "LOV-NG-001",
+      "index": 4095,
+      "tvg_id": null,
+      "tvg_chno": 4195,
+      "name_ar": "LoveWorld Arabic",
+      "name_en": "LoveWorld Arabic",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LoveWorldPersia.ng",
+      "code": "LOV-NG-002",
+      "index": 4096,
+      "tvg_id": null,
+      "tvg_chno": 4196,
+      "name_ar": "LoveWorld Persia",
+      "name_en": "LoveWorld Persia",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LoveworldSAT.ng",
+      "code": "LOV-NG-003",
+      "index": 4097,
+      "tvg_id": null,
+      "tvg_chno": 4197,
+      "name_ar": "LoveworldSAT",
+      "name_en": "LoveworldSAT",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LoveWorldUK.ng",
+      "code": "LOV-NG-004",
+      "index": 4098,
+      "tvg_id": null,
+      "tvg_chno": 4198,
+      "name_ar": "LoveWorld UK",
+      "name_en": "LoveWorld UK",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/5/L1Uzd2FrbVlLRG1W/live/smil:lwukweb.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LoveWorldUSA.ng",
+      "code": "LOV-NG-005",
+      "index": 4099,
+      "tvg_id": null,
+      "tvg_chno": 4199,
+      "name_ar": "LoveWorld USA",
+      "name_en": "LoveWorld USA",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MastersTV.ng",
+      "code": "MAS-NG-001",
+      "index": 4244,
+      "tvg_id": null,
+      "tvg_chno": 4344,
+      "name_ar": "Master's TV",
+      "name_en": "Master's TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/commectv_live/masterstv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MoreGraceTV.ng",
+      "code": "MOR-NG-001",
+      "index": 4496,
+      "tvg_id": null,
+      "tvg_chno": 4596,
+      "name_ar": "More Grace TV",
+      "name_en": "More Grace TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://atechgroupuk.site/ETV.m3u8",
+          "quality": "410p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "NewsCentral.ng",
+      "code": "NEW-NG-001",
+      "index": 4828,
+      "tvg_id": null,
+      "tvg_chno": 4928,
+      "name_ar": "News Central",
+      "name_en": "News Central",
+      "country": "NG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NewVisionTV.ng",
+      "code": "NEW-NG-002",
+      "index": 4847,
+      "tvg_id": null,
+      "tvg_chno": 4947,
+      "name_ar": "New Vision TV",
+      "name_en": "New Vision TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Nigbati.ng",
+      "code": "NIG-NG-001",
+      "index": 4893,
+      "tvg_id": null,
+      "tvg_chno": 4993,
+      "name_ar": "Nigbati",
+      "name_en": "Nigbati",
+      "country": "NG",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NTAInternational.ng",
+      "code": "NTA-NG-001",
+      "index": 4984,
+      "tvg_id": null,
+      "tvg_chno": 5084,
+      "name_ar": "NTA International",
+      "name_en": "NTA International",
+      "country": "NG",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "OSBCTV.ng",
+      "code": "OSB-NG-001",
+      "index": 5186,
+      "tvg_id": null,
+      "tvg_chno": 5286,
+      "name_ar": "OSBC TV",
+      "name_en": "OSBC TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PhenomenalLifeTV.ng",
+      "code": "PHE-NG-001",
+      "index": 5361,
+      "tvg_id": null,
+      "tvg_chno": 5461,
+      "name_ar": "Phenomenal Life TV",
+      "name_en": "Phenomenal Life TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://5be80bd118c27.streamlock.net:433/phenomenaltv/phenomenal/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PlusTVAfrica.ng",
+      "code": "PLU-NG-001",
+      "index": 5403,
+      "tvg_id": null,
+      "tvg_chno": 5503,
+      "name_ar": "Plus TV Africa",
+      "name_en": "Plus TV Africa",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "QausainTV.ng",
+      "code": "QAU-NG-001",
+      "index": 5873,
+      "tvg_id": null,
+      "tvg_chno": 5973,
+      "name_ar": "Qausain TV",
+      "name_en": "Qausain TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "QuestTV.ng",
+      "code": "QUE-NG-001",
+      "index": 5901,
+      "tvg_id": null,
+      "tvg_chno": 6001,
+      "name_ar": "Quest TV",
+      "name_en": "Quest TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://media2.streambrothers.com:19360/8028/8028.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RapidTV.ng",
+      "code": "RAP-NG-001",
+      "index": 6114,
+      "tvg_id": null,
+      "tvg_chno": 6214,
+      "name_ar": "Rapid TV",
+      "name_en": "Rapid TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RaveTV.ng",
+      "code": "RAV-NG-001",
+      "index": 6120,
+      "tvg_id": null,
+      "tvg_chno": 6220,
+      "name_ar": "Rave TV",
+      "name_en": "Rave TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SilverbirdNews24.ng",
+      "code": "SIL-NG-001",
+      "index": 6808,
+      "tvg_id": null,
+      "tvg_chno": 6908,
+      "name_ar": "Silverbird News 24",
+      "name_en": "Silverbird News 24",
+      "country": "NG",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SoundcityTV.ng",
+      "code": "SOU-NG-001",
+      "index": 6954,
+      "tvg_id": null,
+      "tvg_chno": 7054,
+      "name_ar": "Soundcity TV",
+      "name_en": "Soundcity TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCGuIbAVY4_O-KOQmLkU0IKQ/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SunnaTV.ng",
+      "code": "SUN-NG-001",
+      "index": 7157,
+      "tvg_id": null,
+      "tvg_chno": 7257,
+      "name_ar": "Sunna TV",
+      "name_en": "Sunna TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SuperscreenTV.ng",
+      "code": "SUP-NG-001",
+      "index": 7176,
+      "tvg_id": null,
+      "tvg_chno": 7276,
+      "name_ar": "Superscreen TV",
+      "name_en": "Superscreen TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+          "quality": "412p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SynagogueTV.ng",
+      "code": "SYN-NG-001",
+      "index": 7260,
+      "tvg_id": null,
+      "tvg_chno": 7360,
+      "name_ar": "Synagogue TV",
+      "name_en": "Synagogue TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TeleRegencyTV.ng",
+      "code": "TEL-NG-001",
+      "index": 7504,
+      "tvg_id": null,
+      "tvg_chno": 7604,
+      "name_ar": "Tele Regency TV",
+      "name_en": "Tele Regency TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVWEST.ng",
+      "code": "TVW-NG-001",
+      "index": 8397,
+      "tvg_id": null,
+      "tvg_chno": 8497,
+      "name_ar": "TV-WEST",
+      "name_en": "TV-WEST",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "UTVAfrica.ng",
+      "code": "UTV-NG-001",
+      "index": 8518,
+      "tvg_id": null,
+      "tvg_chno": 8618,
+      "name_ar": "UTV Africa",
+      "name_en": "UTV Africa",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestreamUTV/8f263182c36c7e5c56a986bf770091e3.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WaffiTV.ng",
+      "code": "WAF-NG-001",
+      "index": 8761,
+      "tvg_id": null,
+      "tvg_chno": 8861,
+      "name_ar": "Waffi TV",
+      "name_en": "Waffi TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WapTV.ng",
+      "code": "WAP-NG-001",
+      "index": 8768,
+      "tvg_id": null,
+      "tvg_chno": 8868,
+      "name_ar": "Wap TV",
+      "name_en": "Wap TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://newproxy3.vidivu.tv/waptv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "WazobiaMaxTVNigeria.ng",
+      "code": "WAZ-NG-001",
+      "index": 8785,
+      "tvg_id": null,
+      "tvg_chno": 8885,
+      "name_ar": "Wazobia Max TV Nigeria",
+      "name_en": "Wazobia Max TV Nigeria",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://wazobia.live:8333/channel/wmax.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WazobiaMaxTVPortHarcourt.ng",
+      "code": "WAZ-NG-002",
+      "index": 8786,
+      "tvg_id": null,
+      "tvg_chno": 8886,
+      "name_ar": "Wazobia Max TV Port-Harcourt",
+      "name_en": "Wazobia Max TV Port-Harcourt",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "WholeWordTV.ng",
+      "code": "WHO-NG-001",
+      "index": 8822,
+      "tvg_id": null,
+      "tvg_chno": 8922,
+      "name_ar": "Whole Word TV",
+      "name_en": "Whole Word TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "YobeTV.ng",
+      "code": "YOB-NG-001",
+      "index": 8934,
+      "tvg_id": null,
+      "tvg_chno": 9034,
+      "name_ar": "Yobe TV",
+      "name_en": "Yobe TV",
+      "country": "NG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/tfmediacastlivestream24/60414fd886a863e5851f4559fb86e7f6.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

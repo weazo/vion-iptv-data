@@ -1,0 +1,359 @@
+{
+  "version": "1.0.0",
+  "country": "SN",
+  "total_channels": 13,
+  "channels": [
+    {
+      "id": "A2iMusic.sn",
+      "code": "AIM-SN-001",
+      "index": 164,
+      "tvg_id": null,
+      "tvg_chno": 264,
+      "name_ar": "A2i Music",
+      "name_en": "A2i Music",
+      "country": "SN",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "A2iNaija.sn",
+      "code": "AIN-SN-001",
+      "index": 165,
+      "tvg_id": null,
+      "tvg_chno": 265,
+      "name_ar": "A2i Naija",
+      "name_en": "A2i Naija",
+      "country": "SN",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "A2iReligion.sn",
+      "code": "AIR-SN-001",
+      "index": 166,
+      "tvg_id": null,
+      "tvg_chno": 266,
+      "name_ar": "A2i Religion",
+      "name_en": "A2i Religion",
+      "country": "SN",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AmaniTV.sn",
+      "code": "AMA-SN-001",
+      "index": 498,
+      "tvg_id": null,
+      "tvg_chno": 598,
+      "name_ar": "Amani TV",
+      "name_en": "Amani TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://goccn.cloud/hls/amanitv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ChabibaTV.sn",
+      "code": "CHA-SN-001",
+      "index": 1625,
+      "tvg_id": null,
+      "tvg_chno": 1725,
+      "name_ar": "Chabiba TV",
+      "name_en": "Chabiba TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CNMTV.sn",
+      "code": "CNM-SN-001",
+      "index": 1862,
+      "tvg_id": null,
+      "tvg_chno": 1962,
+      "name_ar": "CNM TV",
+      "name_en": "CNM TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Diaspora24.sn",
+      "code": "DIA-SN-001",
+      "index": 2197,
+      "tvg_id": null,
+      "tvg_chno": 2297,
+      "name_ar": "Diaspora 24",
+      "name_en": "Diaspora 24",
+      "country": "SN",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LougaTV.sn",
+      "code": "LOU-SN-001",
+      "index": 4086,
+      "tvg_id": null,
+      "tvg_chno": 4186,
+      "name_ar": "Louga TV",
+      "name_en": "Louga TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "OneNationTV.sn",
+      "code": "ONE-SN-001",
+      "index": 5140,
+      "tvg_id": null,
+      "tvg_chno": 5240,
+      "name_ar": "One Nation TV",
+      "name_en": "One Nation TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://endour.net/hls/One_nationtv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SenewebTV.sn",
+      "code": "SEN-SN-001",
+      "index": 6694,
+      "tvg_id": null,
+      "tvg_chno": 6794,
+      "name_ar": "Seneweb TV",
+      "name_en": "Seneweb TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo2.pro-fhi.net:3297/stream/play.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SenJeunesTV.sn",
+      "code": "SEN-SN-002",
+      "index": 6696,
+      "tvg_id": null,
+      "tvg_chno": 6796,
+      "name_ar": "SenJeunes TV",
+      "name_en": "SenJeunes TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SunuLabelTV.sn",
+      "code": "SUN-SN-001",
+      "index": 7160,
+      "tvg_id": null,
+      "tvg_chno": 7260,
+      "name_ar": "SunuLabel TV",
+      "name_en": "SunuLabel TV",
+      "country": "SN",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TeleMusikSenegal.sn",
+      "code": "TEL-SN-001",
+      "index": 7468,
+      "tvg_id": null,
+      "tvg_chno": 7568,
+      "name_ar": "TeleMusik Senegal",
+      "name_en": "TeleMusik Senegal",
+      "country": "SN",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

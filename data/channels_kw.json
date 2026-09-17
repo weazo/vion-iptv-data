@@ -1,0 +1,267 @@
+{
+  "version": "1.0.0",
+  "country": "KW",
+  "total_channels": 9,
+  "channels": [
+    {
+      "id": "Ch4TeenDocumentary.kw",
+      "code": "CHT-KW-001",
+      "index": 1624,
+      "tvg_id": null,
+      "tvg_chno": 1724,
+      "name_ar": "Ch4Teen Documentary",
+      "name_en": "Ch4Teen Documentary",
+      "country": "KW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://ch14.tv/live/ch4teendoc/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KTVAlQurain.kw",
+      "code": "KTV-KW-001",
+      "index": 3837,
+      "tvg_id": null,
+      "tvg_chno": 3937,
+      "name_ar": "KTV Al Qurain",
+      "name_en": "KTV Al Qurain",
+      "country": "KW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KTVArabe.kw",
+      "code": "KTV-KW-002",
+      "index": 3838,
+      "tvg_id": null,
+      "tvg_chno": 3938,
+      "name_ar": "KTV Arabe",
+      "name_en": "KTV Arabe",
+      "country": "KW",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KTVEthraa.kw",
+      "code": "KTV-KW-003",
+      "index": 3840,
+      "tvg_id": null,
+      "tvg_chno": 3940,
+      "name_ar": "KTV Ethraa",
+      "name_en": "KTV Ethraa",
+      "country": "KW",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KTVNews.kw",
+      "code": "KTV-KW-004",
+      "index": 3841,
+      "tvg_id": null,
+      "tvg_chno": 3941,
+      "name_ar": "KTV News",
+      "name_en": "KTV News",
+      "country": "KW",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KTVSport.kw",
+      "code": "KTV-KW-005",
+      "index": 3842,
+      "tvg_id": null,
+      "tvg_chno": 3942,
+      "name_ar": "KTV Sport",
+      "name_en": "KTV Sport",
+      "country": "KW",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KTVSportPlus.kw",
+      "code": "KTV-KW-006",
+      "index": 3843,
+      "tvg_id": null,
+      "tvg_chno": 3943,
+      "name_ar": "KTV Sport Plus",
+      "name_en": "KTV Sport Plus",
+      "country": "KW",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MarinaTV.kw",
+      "code": "MAR-KW-001",
+      "index": 4219,
+      "tvg_id": null,
+      "tvg_chno": 4319,
+      "name_ar": "Marina TV",
+      "name_en": "Marina TV",
+      "country": "KW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RitmuTV.kw",
+      "code": "RIT-KW-001",
+      "index": 6290,
+      "tvg_id": null,
+      "tvg_chno": 6390,
+      "name_ar": "Ritmu TV",
+      "name_en": "Ritmu TV",
+      "country": "KW",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,577 @@
+{
+  "version": "1.0.0",
+  "country": "EE",
+  "total_channels": 19,
+  "channels": [
+    {
+      "id": "BestofDanceTV.ee",
+      "code": "BES-EE-001",
+      "index": 983,
+      "tvg_id": null,
+      "tvg_chno": 1083,
+      "name_ar": "Best of Dance TV",
+      "name_en": "Best of Dance TV",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DanceTVAlgorhythm.ee",
+      "code": "DAN-EE-001",
+      "index": 2058,
+      "tvg_id": null,
+      "tvg_chno": 2158,
+      "name_ar": "DanceTV Algorhythm",
+      "name_en": "DanceTV Algorhythm",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DanceTVDeepHouseDistrict.ee",
+      "code": "DAN-EE-002",
+      "index": 2059,
+      "tvg_id": null,
+      "tvg_chno": 2159,
+      "name_ar": "DanceTV Deep House District",
+      "name_en": "DanceTV Deep House District",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DanceTVEDMMainstage.ee",
+      "code": "DAN-EE-003",
+      "index": 2060,
+      "tvg_id": null,
+      "tvg_chno": 2160,
+      "name_ar": "DanceTV EDM Mainstage",
+      "name_en": "DanceTV EDM Mainstage",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DanceTVHouseFloor.ee",
+      "code": "DAN-EE-004",
+      "index": 2061,
+      "tvg_id": null,
+      "tvg_chno": 2161,
+      "name_ar": "DanceTV House Floor",
+      "name_en": "DanceTV House Floor",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DanceTVMinimalTech.ee",
+      "code": "DAN-EE-005",
+      "index": 2062,
+      "tvg_id": null,
+      "tvg_chno": 2162,
+      "name_ar": "DanceTV Minimal Tech",
+      "name_en": "DanceTV Minimal Tech",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DanceTVTechnoWarehouse.ee",
+      "code": "DAN-EE-006",
+      "index": 2063,
+      "tvg_id": null,
+      "tvg_chno": 2163,
+      "name_ar": "DanceTV Techno Warehouse",
+      "name_en": "DanceTV Techno Warehouse",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ETV2.ee",
+      "code": "ETV-EE-001",
+      "index": 2569,
+      "tvg_id": null,
+      "tvg_chno": 2669,
+      "name_ar": "ETV 2",
+      "name_en": "ETV 2",
+      "country": "EE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sb.err.ee/live/etv2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://sb.err.ee/live/etv2.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Go3Sport1.ee",
+      "code": "GOS-EE-001",
+      "index": 2970,
+      "tvg_id": null,
+      "tvg_chno": 3070,
+      "name_ar": "Go3 Sport 1",
+      "name_en": "Go3 Sport 1",
+      "country": "EE",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/416/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KidZoneMax.ee",
+      "code": "KID-EE-001",
+      "index": 3735,
+      "tvg_id": null,
+      "tvg_chno": 3835,
+      "name_ar": "KidZone Max",
+      "name_en": "KidZone Max",
+      "country": "EE",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LifeTV.ee",
+      "code": "LIF-EE-001",
+      "index": 4019,
+      "tvg_id": null,
+      "tvg_chno": 4119,
+      "name_ar": "Life TV",
+      "name_en": "Life TV",
+      "country": "EE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://lifetv.bitflip.ee/live/stream1_1/index.m3u8",
+          "quality": "432p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+          "quality": "432p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Riigikogu.ee",
+      "code": "RII-EE-001",
+      "index": 6280,
+      "tvg_id": null,
+      "tvg_chno": 6380,
+      "name_ar": "Riigikogu",
+      "name_en": "Riigikogu",
+      "country": "EE",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TBNBaltia.ee",
+      "code": "TBN-EE-001",
+      "index": 7328,
+      "tvg_id": null,
+      "tvg_chno": 7428,
+      "name_ar": "TBN Baltia",
+      "name_en": "TBN Baltia",
+      "country": "EE",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VantageClassic.ee",
+      "code": "VAN-EE-001",
+      "index": 8552,
+      "tvg_id": null,
+      "tvg_chno": 8652,
+      "name_ar": "Vantage Classic",
+      "name_en": "Vantage Classic",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://hls.vantagetv.ee/vclassic_stream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "VantageDance.ee",
+      "code": "VAN-EE-002",
+      "index": 8553,
+      "tvg_id": null,
+      "tvg_chno": 8653,
+      "name_ar": "Vantage Dance",
+      "name_en": "Vantage Dance",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "VantageMusic.ee",
+      "code": "VAN-EE-003",
+      "index": 8554,
+      "tvg_id": null,
+      "tvg_chno": 8654,
+      "name_ar": "Vantage Music",
+      "name_en": "Vantage Music",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn-backup.lulzy.eu/vmusic_stream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn-backup.lulzy.eu/vrock_stream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "VantageRock.ee",
+      "code": "VAN-EE-004",
+      "index": 8555,
+      "tvg_id": null,
+      "tvg_chno": 8655,
+      "name_ar": "Vantage Rock",
+      "name_en": "Vantage Rock",
+      "country": "EE",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "lifeestonia",
+      "code": "LIF-EE-002",
+      "index": 9212,
+      "tvg_id": null,
+      "tvg_chno": 9312,
+      "name_ar": "Life TV Estonia",
+      "name_en": "Life TV Estonia",
+      "country": "EE",
+      "language": "unknown",
+      "category": "Estonia",
+      "logo": "https://i.imgur.com/JhrTB82.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lifetv.bitflip.ee/live/stream2.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "lifeeurope",
+      "code": "LIF-EE-003",
+      "index": 9213,
+      "tvg_id": null,
+      "tvg_chno": 9313,
+      "name_ar": "Life TV Europe",
+      "name_en": "Life TV Europe",
+      "country": "EE",
+      "language": "unknown",
+      "category": "Estonia",
+      "logo": "https://i.imgur.com/JhrTB82.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

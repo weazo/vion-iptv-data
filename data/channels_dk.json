@@ -1,0 +1,526 @@
+{
+  "version": "1.0.0",
+  "country": "DK",
+  "total_channels": 18,
+  "channels": [
+    {
+      "id": "DR1.dk",
+      "code": "DRX-DK-001",
+      "index": 2310,
+      "tvg_id": null,
+      "tvg_chno": 2410,
+      "name_ar": "DR1",
+      "name_en": "DR1",
+      "country": "DK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DR2.dk",
+      "code": "DRX-DK-002",
+      "index": 2311,
+      "tvg_id": null,
+      "tvg_chno": 2411,
+      "name_ar": "DR2",
+      "name_en": "DR2",
+      "country": "DK",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DRRamasjang.dk",
+      "code": "DRR-DK-001",
+      "index": 2325,
+      "tvg_id": null,
+      "tvg_chno": 2425,
+      "name_ar": "DR Ramasjang",
+      "name_en": "DR Ramasjang",
+      "country": "DK",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DRTV.dk",
+      "code": "DRT-DK-001",
+      "index": 2326,
+      "tvg_id": null,
+      "tvg_chno": 2426,
+      "name_ar": "DRTV",
+      "name_en": "DRTV",
+      "country": "DK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KanalHovedstaden.dk",
+      "code": "KAN-DK-001",
+      "index": 3659,
+      "tvg_id": null,
+      "tvg_chno": 3759,
+      "name_ar": "Kanal Hovedstaden",
+      "name_en": "Kanal Hovedstaden",
+      "country": "DK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://khkbh.dk:8080/hls/livestream/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KKRtv.dk",
+      "code": "KKR-DK-001",
+      "index": 3773,
+      "tvg_id": null,
+      "tvg_chno": 3873,
+      "name_ar": "KKRtv",
+      "name_en": "KKRtv",
+      "country": "DK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://stream.kkr.dk/live/kkr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TV2Bornholm.dk",
+      "code": "TVB-DK-001",
+      "index": 7939,
+      "tvg_id": null,
+      "tvg_chno": 8039,
+      "name_ar": "TV 2/Bornholm",
+      "name_en": "TV 2/Bornholm",
+      "country": "DK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TV2Sport.dk",
+      "code": "TVS-DK-001",
+      "index": 7943,
+      "tvg_id": null,
+      "tvg_chno": 8043,
+      "name_ar": "TV 2 Sport",
+      "name_en": "TV 2 Sport",
+      "country": "DK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVfromtheDanishParliament.dk",
+      "code": "TVF-DK-001",
+      "index": 8104,
+      "tvg_id": null,
+      "tvg_chno": 8204,
+      "name_ar": "TV from the Danish Parliament",
+      "name_en": "TV from the Danish Parliament",
+      "country": "DK",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVMarineret.dk",
+      "code": "TVM-DK-001",
+      "index": 8174,
+      "tvg_id": null,
+      "tvg_chno": 8274,
+      "name_ar": "TVMarineret",
+      "name_en": "TVMarineret",
+      "country": "DK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://sdream.info:8080/hls/livestream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVStorbyen.dk",
+      "code": "TVS-DK-002",
+      "index": 8356,
+      "tvg_id": null,
+      "tvg_chno": 8456,
+      "name_ar": "TV Storbyen",
+      "name_en": "TV Storbyen",
+      "country": "DK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "folketinget",
+      "code": "FOL-DK-001",
+      "index": 9200,
+      "tvg_id": null,
+      "tvg_chno": 9300,
+      "name_ar": "Folketinget TV",
+      "name_en": "Folketinget TV",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/RqQDUzX.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "syd",
+      "code": "TVS-DK-003",
+      "index": 9201,
+      "tvg_id": null,
+      "tvg_chno": 9301,
+      "name_ar": "TV Syd+",
+      "name_en": "TV Syd+",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/k2jf591.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2fyn",
+      "code": "TVF-DK-002",
+      "index": 9202,
+      "tvg_id": null,
+      "tvg_chno": 9302,
+      "name_ar": "TV 2/Fyn",
+      "name_en": "TV 2/Fyn",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/4L6AIMH.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2st",
+      "code": "TVS-DK-004",
+      "index": 9203,
+      "tvg_id": null,
+      "tvg_chno": 9303,
+      "name_ar": "TV 2/Øst",
+      "name_en": "TV 2/Øst",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/H9l6Ulw.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2nord",
+      "code": "TVN-DK-001",
+      "index": 9204,
+      "tvg_id": null,
+      "tvg_chno": 9304,
+      "name_ar": "TV 2/Nord",
+      "name_en": "TV 2/Nord",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/tEJ22UW.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "midtvest",
+      "code": "TVM-DK-002",
+      "index": 9205,
+      "tvg_id": null,
+      "tvg_chno": 9305,
+      "name_ar": "TV/Midt-Vest",
+      "name_en": "TV/Midt-Vest",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/OU7xIVa.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2stjylland",
+      "code": "TVS-DK-005",
+      "index": 9206,
+      "tvg_id": null,
+      "tvg_chno": 9306,
+      "name_ar": "TV 2/Østjylland",
+      "name_en": "TV 2/Østjylland",
+      "country": "DK",
+      "language": "unknown",
+      "category": "Denmark",
+      "logo": "https://i.imgur.com/qEUXjHp.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

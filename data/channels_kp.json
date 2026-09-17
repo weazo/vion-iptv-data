@@ -1,0 +1,148 @@
+{
+  "version": "1.0.0",
+  "country": "KP",
+  "total_channels": 4,
+  "channels": [
+    {
+      "id": "KoreanCentralTelevision.kp",
+      "code": "KOR-KP-001",
+      "index": 3816,
+      "tvg_id": null,
+      "tvg_chno": 3916,
+      "name_ar": "Korean Central Television",
+      "name_en": "Korean Central Television",
+      "country": "KP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kctv.koryofront.org/stream/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.intchoson.com/kctv/index.m3u8",
+          "quality": "1080i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+          "quality": "1080i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streamer.nknews.org/tvdash/stream.mpd",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://streamer.nknews.org/tvhls/stream.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RyongnamsanTelevision.kp",
+      "code": "RYO-KP-001",
+      "index": 6516,
+      "tvg_id": null,
+      "tvg_chno": 6616,
+      "name_ar": "Ryongnamsan Television",
+      "name_en": "Ryongnamsan Television",
+      "country": "KP",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SportsTelevision.kp",
+      "code": "SPO-KP-001",
+      "index": 7015,
+      "tvg_id": null,
+      "tvg_chno": 7115,
+      "name_ar": "Sports Television",
+      "name_en": "Sports Television",
+      "country": "KP",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kctv.koryofront.org/stream/sports/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ryongnamsan",
+      "code": "RYO-KP-002",
+      "index": 9681,
+      "tvg_id": null,
+      "tvg_chno": 9781,
+      "name_ar": "Ryongnamsan TV",
+      "name_en": "Ryongnamsan TV",
+      "country": "KP",
+      "language": "unknown",
+      "category": "North Korea",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

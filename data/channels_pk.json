@@ -1,0 +1,2583 @@
+{
+  "version": "1.0.0",
+  "country": "PK",
+  "total_channels": 85,
+  "channels": [
+    {
+      "id": "365News.pk",
+      "code": "NEW-PK-001",
+      "index": 76,
+      "tvg_id": null,
+      "tvg_chno": 176,
+      "name_ar": "365 News",
+      "name_en": "365 News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "7News.pk",
+      "code": "NEW-PK-002",
+      "index": 133,
+      "tvg_id": null,
+      "tvg_chno": 233,
+      "name_ar": "7 News",
+      "name_en": "7 News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sscsott.com/7news/live/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "8XM.pk",
+      "code": "XMX-PK-001",
+      "index": 144,
+      "tvg_id": null,
+      "tvg_chno": 244,
+      "name_ar": "8XM",
+      "name_en": "8XM",
+      "country": "PK",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "92NewsHD.pk",
+      "code": "NEW-PK-003",
+      "index": 149,
+      "tvg_id": null,
+      "tvg_chno": 249,
+      "name_ar": "92 News HD",
+      "name_en": "92 News HD",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AajEntertainment.pk",
+      "code": "AAJ-PK-001",
+      "index": 170,
+      "tvg_id": null,
+      "tvg_chno": 270,
+      "name_ar": "Aaj Entertainment",
+      "name_en": "Aaj Entertainment",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AajNews.pk",
+      "code": "AAJ-PK-002",
+      "index": 172,
+      "tvg_id": null,
+      "tvg_chno": 272,
+      "name_ar": "Aaj News",
+      "name_en": "Aaj News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/750987367",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AbbTakk.pk",
+      "code": "ABB-PK-001",
+      "index": 191,
+      "tvg_id": null,
+      "tvg_chno": 291,
+      "name_ar": "Abb Takk",
+      "name_en": "Abb Takk",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/852828604",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ABNNews.pk",
+      "code": "ABN-PK-001",
+      "index": 217,
+      "tvg_id": null,
+      "tvg_chno": 317,
+      "name_ar": "ABN News",
+      "name_en": "ABN News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/966869781",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AikNews.pk",
+      "code": "AIK-PK-001",
+      "index": 322,
+      "tvg_id": null,
+      "tvg_chno": 422,
+      "name_ar": "Aik News",
+      "name_en": "Aik News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "APlusTV.pk",
+      "code": "APL-PK-001",
+      "index": 609,
+      "tvg_id": null,
+      "tvg_chno": 709,
+      "name_ar": "A-Plus TV",
+      "name_en": "A-Plus TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ApnaChannel.pk",
+      "code": "APN-PK-001",
+      "index": 611,
+      "tvg_id": null,
+      "tvg_chno": 711,
+      "name_ar": "Apna Channel",
+      "name_en": "Apna Channel",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/1273966657",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ARYMusik.pk",
+      "code": "ARY-PK-001",
+      "index": 675,
+      "tvg_id": null,
+      "tvg_chno": 775,
+      "name_ar": "ARY Musik",
+      "name_en": "ARY Musik",
+      "country": "PK",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ARYNews.pk",
+      "code": "ARY-PK-002",
+      "index": 676,
+      "tvg_id": null,
+      "tvg_chno": 776,
+      "name_ar": "ARY News",
+      "name_en": "ARY News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "aurLifeHD.pk",
+      "code": "AUR-PK-001",
+      "index": 751,
+      "tvg_id": null,
+      "tvg_chno": 851,
+      "name_ar": "aurLife HD",
+      "name_en": "aurLife HD",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://124.109.47.101/hls/stream1.m3u8",
+          "quality": "614p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "AVTKhyber.pk",
+      "code": "AVT-PK-001",
+      "index": 774,
+      "tvg_id": null,
+      "tvg_chno": 874,
+      "name_ar": "AVT Khyber",
+      "name_en": "AVT Khyber",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://115.42.65.142:9981/stream/channelid/1380586642",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BolEntertainment.pk",
+      "code": "BOL-PK-001",
+      "index": 1094,
+      "tvg_id": null,
+      "tvg_chno": 1194,
+      "name_ar": "Bol Entertainment",
+      "name_en": "Bol Entertainment",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "BSFilm.pk",
+      "code": "BSF-PK-001",
+      "index": 1156,
+      "tvg_id": null,
+      "tvg_chno": 1256,
+      "name_ar": "BS Film",
+      "name_en": "BS Film",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "CapitalTV.pk",
+      "code": "CAP-PK-001",
+      "index": 1481,
+      "tvg_id": null,
+      "tvg_chno": 1581,
+      "name_ar": "Capital TV",
+      "name_en": "Capital TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "City41.pk",
+      "code": "CIT-PK-001",
+      "index": 1753,
+      "tvg_id": null,
+      "tvg_chno": 1853,
+      "name_ar": "City 41",
+      "name_en": "City 41",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DiscoverPakistan.pk",
+      "code": "DIS-PK-001",
+      "index": 2228,
+      "tvg_id": null,
+      "tvg_chno": 2328,
+      "name_ar": "Discover Pakistan",
+      "name_en": "Discover Pakistan",
+      "country": "PK",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DunyaNews.pk",
+      "code": "DUN-PK-001",
+      "index": 2353,
+      "tvg_id": null,
+      "tvg_chno": 2453,
+      "name_ar": "Dunya News",
+      "name_en": "Dunya News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ExpressEntertainment.pk",
+      "code": "EXP-PK-001",
+      "index": 2642,
+      "tvg_id": null,
+      "tvg_chno": 2742,
+      "name_ar": "Express Entertainment",
+      "name_en": "Express Entertainment",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "FazalTV.pk",
+      "code": "FAZ-PK-001",
+      "index": 2692,
+      "tvg_id": null,
+      "tvg_chno": 2792,
+      "name_ar": "Fazal TV",
+      "name_en": "Fazal TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Filmax.pk",
+      "code": "FIL-PK-001",
+      "index": 2729,
+      "tvg_id": null,
+      "tvg_chno": 2829,
+      "name_ar": "Filmax",
+      "name_en": "Filmax",
+      "country": "PK",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://s3.ideationtec.live/Filmax/Filmax.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Filmazia.pk",
+      "code": "FIL-PK-002",
+      "index": 2730,
+      "tvg_id": null,
+      "tvg_chno": 2830,
+      "name_ar": "Filmazia",
+      "name_en": "Filmazia",
+      "country": "PK",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a02k/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GodStandsKidsClubTV.pk",
+      "code": "GOD-PK-001",
+      "index": 2972,
+      "tvg_id": null,
+      "tvg_chno": 3072,
+      "name_ar": "God Stands Kids Club TV",
+      "name_en": "God Stands Kids Club TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GodStandsTV.pk",
+      "code": "GOD-PK-002",
+      "index": 2973,
+      "tvg_id": null,
+      "tvg_chno": 3073,
+      "name_ar": "God Stands TV",
+      "name_en": "God Stands TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "GraceNetwork.pk",
+      "code": "GRA-PK-001",
+      "index": 3012,
+      "tvg_id": null,
+      "tvg_chno": 3112,
+      "name_ar": "Grace Network",
+      "name_en": "Grace Network",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/grace/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HarPalGeo.pk",
+      "code": "HAR-PK-001",
+      "index": 3111,
+      "tvg_id": null,
+      "tvg_chno": 3211,
+      "name_ar": "HarPal Geo",
+      "name_en": "HarPal Geo",
+      "country": "PK",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HumNews.pk",
+      "code": "HUM-PK-001",
+      "index": 3285,
+      "tvg_id": null,
+      "tvg_chno": 3385,
+      "name_ar": "Hum News",
+      "name_en": "Hum News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HumTV.pk",
+      "code": "HUM-PK-002",
+      "index": 3287,
+      "tvg_id": null,
+      "tvg_chno": 3387,
+      "name_ar": "Hum TV",
+      "name_en": "Hum TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IsaacTV.pk",
+      "code": "ISA-PK-001",
+      "index": 3457,
+      "tvg_id": null,
+      "tvg_chno": 3557,
+      "name_ar": "Isaac TV",
+      "name_en": "Isaac TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JalwaTV.pk",
+      "code": "JAL-PK-001",
+      "index": 3504,
+      "tvg_id": null,
+      "tvg_chno": 3604,
+      "name_ar": "Jalwa TV",
+      "name_en": "Jalwa TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JeremiahTV.pk",
+      "code": "JER-PK-001",
+      "index": 3532,
+      "tvg_id": null,
+      "tvg_chno": 3632,
+      "name_ar": "Jeremiah TV",
+      "name_en": "Jeremiah TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JooMusic.pk",
+      "code": "JOO-PK-001",
+      "index": 3579,
+      "tvg_id": null,
+      "tvg_chno": 3679,
+      "name_ar": "JooMusic",
+      "name_en": "JooMusic",
+      "country": "PK",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "JoshuaTV.pk",
+      "code": "JOS-PK-001",
+      "index": 3591,
+      "tvg_id": null,
+      "tvg_chno": 3691,
+      "name_ar": "Joshua TV",
+      "name_en": "Joshua TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Kay2HD.pk",
+      "code": "KAY-PK-001",
+      "index": 3686,
+      "tvg_id": null,
+      "tvg_chno": 3786,
+      "name_ar": "Kay2 HD",
+      "name_en": "Kay2 HD",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a027/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KidsZone.pk",
+      "code": "KID-PK-001",
+      "index": 3734,
+      "tvg_id": null,
+      "tvg_chno": 3834,
+      "name_ar": "Kids Zone",
+      "name_en": "Kids Zone",
+      "country": "PK",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a04m/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KingTV.pk",
+      "code": "KIN-PK-001",
+      "index": 3743,
+      "tvg_id": null,
+      "tvg_chno": 3843,
+      "name_ar": "King TV",
+      "name_en": "King TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KohenoorNews.pk",
+      "code": "KOH-PK-001",
+      "index": 3795,
+      "tvg_id": null,
+      "tvg_chno": 3895,
+      "name_ar": "Kohenoor News",
+      "name_en": "Kohenoor News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00r/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "KTNNews.pk",
+      "code": "KTN-PK-001",
+      "index": 3833,
+      "tvg_id": null,
+      "tvg_chno": 3933,
+      "name_ar": "KTN News",
+      "name_en": "KTN News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://www.standardmedia.co.ke/ktnnews/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LahoreNews.pk",
+      "code": "LAH-PK-001",
+      "index": 3895,
+      "tvg_id": null,
+      "tvg_chno": 3995,
+      "name_ar": "Lahore News",
+      "name_en": "Lahore News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "LahoreRang.pk",
+      "code": "LAH-PK-002",
+      "index": 3896,
+      "tvg_id": null,
+      "tvg_chno": 3996,
+      "name_ar": "Lahore Rang",
+      "name_en": "Lahore Rang",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a01q/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LTNFamily.pk",
+      "code": "LTN-PK-001",
+      "index": 4107,
+      "tvg_id": null,
+      "tvg_chno": 4207,
+      "name_ar": "LTN Family",
+      "name_en": "LTN Family",
+      "country": "PK",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a02j/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MadaniChannelEnglish.pk",
+      "code": "MAD-PK-001",
+      "index": 4138,
+      "tvg_id": null,
+      "tvg_chno": 4238,
+      "name_ar": "Madani Channel English",
+      "name_en": "Madani Channel English",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://tvsen7.aynascope.net/MadaniTV/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MadaniChannelUrdu.pk",
+      "code": "MAD-PK-002",
+      "index": 4139,
+      "tvg_id": null,
+      "tvg_chno": 4239,
+      "name_ar": "Madani Channel Urdu",
+      "name_en": "Madani Channel Urdu",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MasalaTV.pk",
+      "code": "MAS-PK-001",
+      "index": 4232,
+      "tvg_id": null,
+      "tvg_chno": 4332,
+      "name_ar": "Masala TV",
+      "name_en": "Masala TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a02x/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MashriqTV.pk",
+      "code": "MAS-PK-002",
+      "index": 4235,
+      "tvg_id": null,
+      "tvg_chno": 4335,
+      "name_ar": "Mashriq TV",
+      "name_en": "Mashriq TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a02s/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MehranTV.pk",
+      "code": "MEH-PK-001",
+      "index": 4339,
+      "tvg_id": null,
+      "tvg_chno": 4439,
+      "name_ar": "Mehran TV",
+      "name_en": "Mehran TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00m/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Metro1News.pk",
+      "code": "MET-PK-001",
+      "index": 4362,
+      "tvg_id": null,
+      "tvg_chno": 4462,
+      "name_ar": "Metro1 News",
+      "name_en": "Metro1 News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a04u/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MNews.pk",
+      "code": "MNE-PK-001",
+      "index": 4456,
+      "tvg_id": null,
+      "tvg_chno": 4556,
+      "name_ar": "M News",
+      "name_en": "M News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.rabta.stream/M-News/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MSports.pk",
+      "code": "MSP-PK-001",
+      "index": 4552,
+      "tvg_id": null,
+      "tvg_chno": 4652,
+      "name_ar": "M Sports",
+      "name_en": "M Sports",
+      "country": "PK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.rabta.stream/M-Sports/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NeoNews.pk",
+      "code": "NEO-PK-001",
+      "index": 4782,
+      "tvg_id": null,
+      "tvg_chno": 4882,
+      "name_ar": "Neo News",
+      "name_en": "Neo News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a01p/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NewsOne.pk",
+      "code": "NEW-PK-004",
+      "index": 4840,
+      "tvg_id": null,
+      "tvg_chno": 4940,
+      "name_ar": "News One",
+      "name_en": "News One",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://103.250.28.74:8000/play/a04j/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "OneGolf.pk",
+      "code": "ONE-PK-001",
+      "index": 5138,
+      "tvg_id": null,
+      "tvg_chno": 5238,
+      "name_ar": "One Golf",
+      "name_en": "One Golf",
+      "country": "PK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ONNewsHD.pk",
+      "code": "ONN-PK-001",
+      "index": 5152,
+      "tvg_id": null,
+      "tvg_chno": 5252,
+      "name_ar": "ON News HD",
+      "name_en": "ON News HD",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a046/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PaighanTV.pk",
+      "code": "PAI-PK-001",
+      "index": 5228,
+      "tvg_id": null,
+      "tvg_chno": 5328,
+      "name_ar": "Paighan TV",
+      "name_en": "Paighan TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://116.90.120.151:8000/play/a00h/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Pashto1.pk",
+      "code": "PAS-PK-001",
+      "index": 5277,
+      "tvg_id": null,
+      "tvg_chno": 5377,
+      "name_ar": "Pashto 1",
+      "name_en": "Pashto 1",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00t/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PKSports.pk",
+      "code": "PKS-PK-001",
+      "index": 5382,
+      "tvg_id": null,
+      "tvg_chno": 5482,
+      "name_ar": "PK Sports",
+      "name_en": "PK Sports",
+      "country": "PK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PlayEntertainment.pk",
+      "code": "PLA-PK-001",
+      "index": 5391,
+      "tvg_id": null,
+      "tvg_chno": 5491,
+      "name_ar": "Play Entertainment",
+      "name_en": "Play Entertainment",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a050/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PMITV.pk",
+      "code": "PMI-PK-001",
+      "index": 5684,
+      "tvg_id": null,
+      "tvg_chno": 5784,
+      "name_ar": "PMI TV",
+      "name_en": "PMI TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn.live247stream.com/pmi/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PraiseTV.pk",
+      "code": "PRA-PK-001",
+      "index": 5740,
+      "tvg_id": null,
+      "tvg_chno": 5840,
+      "name_ar": "Praise TV",
+      "name_en": "Praise TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/praise/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://pixelsmedia.live/livepraisetv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PTVNews.pk",
+      "code": "PTV-PK-001",
+      "index": 5833,
+      "tvg_id": null,
+      "tvg_chno": 5933,
+      "name_ar": "PTV News",
+      "name_en": "PTV News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a017/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PTVSports.pk",
+      "code": "PTV-PK-002",
+      "index": 5835,
+      "tvg_id": null,
+      "tvg_chno": 5935,
+      "name_ar": "PTV Sports",
+      "name_en": "PTV Sports",
+      "country": "PK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a019/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PublicNews.pk",
+      "code": "PUB-PK-001",
+      "index": 5840,
+      "tvg_id": null,
+      "tvg_chno": 5940,
+      "name_ar": "Public News",
+      "name_en": "Public News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a04g/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RaaviTV.pk",
+      "code": "RAA-PK-001",
+      "index": 5920,
+      "tvg_id": null,
+      "tvg_chno": 6020,
+      "name_ar": "Raavi TV",
+      "name_en": "Raavi TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://116.90.120.149:8000/play/a01f/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Rohi.pk",
+      "code": "ROH-PK-001",
+      "index": 6318,
+      "tvg_id": null,
+      "tvg_chno": 6418,
+      "name_ar": "Rohi",
+      "name_en": "Rohi",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00d/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RozeNews.pk",
+      "code": "ROZ-PK-001",
+      "index": 6343,
+      "tvg_id": null,
+      "tvg_chno": 6443,
+      "name_ar": "Roze News",
+      "name_en": "Roze News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a01k/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SABTV.pk",
+      "code": "SAB-PK-001",
+      "index": 6533,
+      "tvg_id": null,
+      "tvg_chno": 6633,
+      "name_ar": "SAB TV",
+      "name_en": "SAB TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SamaaTV.pk",
+      "code": "SAM-PK-001",
+      "index": 6567,
+      "tvg_id": null,
+      "tvg_chno": 6667,
+      "name_ar": "Samaa TV",
+      "name_en": "Samaa TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a022/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ShineStarTV.pk",
+      "code": "SHI-PK-001",
+      "index": 6773,
+      "tvg_id": null,
+      "tvg_chno": 6873,
+      "name_ar": "Shine Star TV",
+      "name_en": "Shine Star TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SilverScreen.pk",
+      "code": "SIL-PK-001",
+      "index": 6809,
+      "tvg_id": null,
+      "tvg_chno": 6909,
+      "name_ar": "Silver Screen",
+      "name_en": "Silver Screen",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a044/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SindhTV.pk",
+      "code": "SIN-PK-001",
+      "index": 6815,
+      "tvg_id": null,
+      "tvg_chno": 6915,
+      "name_ar": "Sindh TV",
+      "name_en": "Sindh TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00u/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SindhTVNews.pk",
+      "code": "SIN-PK-002",
+      "index": 6816,
+      "tvg_id": null,
+      "tvg_chno": 6916,
+      "name_ar": "Sindh TV News",
+      "name_en": "Sindh TV News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00v/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SkyNewsUrdu.pk",
+      "code": "SKY-PK-001",
+      "index": 6851,
+      "tvg_id": null,
+      "tvg_chno": 6951,
+      "name_ar": "Sky News Urdu",
+      "name_en": "Sky News Urdu",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "StarAsia.pk",
+      "code": "STA-PK-001",
+      "index": 7035,
+      "tvg_id": null,
+      "tvg_chno": 7135,
+      "name_ar": "Star Asia",
+      "name_en": "Star Asia",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a010/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "SuchTV.pk",
+      "code": "SUC-PK-001",
+      "index": 7146,
+      "tvg_id": null,
+      "tvg_chno": 7246,
+      "name_ar": "Such TV",
+      "name_en": "Such TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://video.primexsports.com/suchnews/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SunoNewsHD.pk",
+      "code": "SUN-PK-001",
+      "index": 7158,
+      "tvg_id": null,
+      "tvg_chno": 7258,
+      "name_ar": "Suno News HD",
+      "name_en": "Suno News HD",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a02a/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TenSportsPakistan.pk",
+      "code": "TEN-PK-001",
+      "index": 7586,
+      "tvg_id": null,
+      "tvg_chno": 7686,
+      "name_ar": "Ten Sports Pakistan",
+      "name_en": "Ten Sports Pakistan",
+      "country": "PK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVOneGlobal.pk",
+      "code": "TVO-PK-001",
+      "index": 8225,
+      "tvg_id": null,
+      "tvg_chno": 8325,
+      "name_ar": "TV One Global",
+      "name_en": "TV One Global",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a04i/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVToday.pk",
+      "code": "TVT-PK-001",
+      "index": 8373,
+      "tvg_id": null,
+      "tvg_chno": 8473,
+      "name_ar": "TV Today",
+      "name_en": "TV Today",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a06e/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "VenusHD.pk",
+      "code": "VEN-PK-001",
+      "index": 8588,
+      "tvg_id": null,
+      "tvg_chno": 8688,
+      "name_ar": "Venus HD",
+      "name_en": "Venus HD",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a04x/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "VSHNews.pk",
+      "code": "VSH-PK-001",
+      "index": 8730,
+      "tvg_id": null,
+      "tvg_chno": 8830,
+      "name_ar": "VSH News",
+      "name_en": "VSH News",
+      "country": "PK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a00w/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "WasebTV.pk",
+      "code": "WAS-PK-001",
+      "index": 8770,
+      "tvg_id": null,
+      "tvg_chno": 8870,
+      "name_ar": "Waseb TV",
+      "name_en": "Waseb TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://103.250.28.74:8000/play/a04k/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ZindagiTV.pk",
+      "code": "ZIN-PK-001",
+      "index": 9032,
+      "tvg_id": null,
+      "tvg_chno": 9132,
+      "name_ar": "Zindagi TV",
+      "name_en": "Zindagi TV",
+      "country": "PK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

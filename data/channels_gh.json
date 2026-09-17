@@ -1,0 +1,259 @@
+{
+  "version": "1.0.0",
+  "country": "GH",
+  "total_channels": 9,
+  "channels": [
+    {
+      "id": "AdinkraTV.gh",
+      "code": "ADI-GH-001",
+      "index": 261,
+      "tvg_id": null,
+      "tvg_chno": 361,
+      "name_ar": "Adinkra TV",
+      "name_en": "Adinkra TV",
+      "country": "GH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "APTV.gh",
+      "code": "APT-GH-001",
+      "index": 618,
+      "tvg_id": null,
+      "tvg_chno": 718,
+      "name_ar": "AP TV",
+      "name_en": "AP TV",
+      "country": "GH",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "GTV.gh",
+      "code": "GTV-GH-001",
+      "index": 3041,
+      "tvg_id": null,
+      "tvg_chno": 3141,
+      "name_ar": "GTV",
+      "name_en": "GTV",
+      "country": "GH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "HopeChannelGhana.gh",
+      "code": "HOP-GH-001",
+      "index": 3241,
+      "tvg_id": null,
+      "tvg_chno": 3341,
+      "name_ar": "Hope Channel Ghana",
+      "name_en": "Hope Channel Ghana",
+      "country": "GH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MOGPATV.gh",
+      "code": "MOG-GH-001",
+      "index": 4464,
+      "tvg_id": null,
+      "tvg_chno": 4564,
+      "name_ar": "MOGPA TV",
+      "name_en": "MOGPA TV",
+      "country": "GH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "MOGPATVPlus.gh",
+      "code": "MOG-GH-002",
+      "index": 4465,
+      "tvg_id": null,
+      "tvg_chno": 4565,
+      "name_ar": "MOGPA TV Plus",
+      "name_en": "MOGPA TV Plus",
+      "country": "GH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PentTV.gh",
+      "code": "PEN-GH-001",
+      "index": 5319,
+      "tvg_id": null,
+      "tvg_chno": 5419,
+      "name_ar": "Pent TV",
+      "name_en": "Pent TV",
+      "country": "GH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ResurrectionTV.gh",
+      "code": "RES-GH-001",
+      "index": 6235,
+      "tvg_id": null,
+      "tvg_chno": 6335,
+      "name_ar": "Resurrection TV",
+      "name_en": "Resurrection TV",
+      "country": "GH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://1681360479.rsc.cdn77.org/1681360479/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "joynews",
+      "code": "JOY-GH-001",
+      "index": 9891,
+      "tvg_id": null,
+      "tvg_chno": 9991,
+      "name_ar": "Joy News Ⓨ",
+      "name_en": "Joy News Ⓨ",
+      "country": "GH",
+      "language": "unknown",
+      "category": "News",
+      "logo": "https://i.imgur.com/kGuMNmR.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

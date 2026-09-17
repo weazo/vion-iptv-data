@@ -1,0 +1,445 @@
+{
+  "version": "1.0.0",
+  "country": "CY",
+  "total_channels": 15,
+  "channels": [
+    {
+      "id": "AlfaSport.cy",
+      "code": "ALF-CY-001",
+      "index": 381,
+      "tvg_id": null,
+      "tvg_chno": 481,
+      "name_ar": "Alfa Sport",
+      "name_en": "Alfa Sport",
+      "country": "CY",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ANT1Cyprus.cy",
+      "code": "ANT-CY-001",
+      "index": 578,
+      "tvg_id": null,
+      "tvg_chno": 678,
+      "name_ar": "ANT1 Cyprus",
+      "name_en": "ANT1 Cyprus",
+      "country": "CY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MiddleEastTV.cy",
+      "code": "MID-CY-001",
+      "index": 4385,
+      "tvg_id": null,
+      "tvg_chno": 4485,
+      "name_ar": "Middle East TV",
+      "name_en": "Middle East TV",
+      "country": "CY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RIK1.cy",
+      "code": "RIK-CY-001",
+      "index": 6281,
+      "tvg_id": null,
+      "tvg_chno": 6381,
+      "name_ar": "RIK 1",
+      "name_en": "RIK 1",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.7.216.229:8888/udp/239.23.0.1:1234",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RIK2.cy",
+      "code": "RIK-CY-002",
+      "index": 6282,
+      "tvg_id": null,
+      "tvg_chno": 6382,
+      "name_ar": "RIK 2",
+      "name_en": "RIK 2",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.7.216.229:8888/udp/239.23.0.2:1234",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RIKHD.cy",
+      "code": "RIK-CY-003",
+      "index": 6284,
+      "tvg_id": null,
+      "tvg_chno": 6384,
+      "name_ar": "RIK HD",
+      "name_en": "RIK HD",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.7.216.229:8888/udp/239.23.0.5:1234",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RIKSat.cy",
+      "code": "RIK-CY-004",
+      "index": 6285,
+      "tvg_id": null,
+      "tvg_chno": 6385,
+      "name_ar": "RIK Sat",
+      "name_en": "RIK Sat",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sat7Arabic.cy",
+      "code": "SAT-CY-001",
+      "index": 6621,
+      "tvg_id": null,
+      "tvg_chno": 6721,
+      "name_ar": "Sat 7 Arabic",
+      "name_en": "Sat 7 Arabic",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sat7Kids.cy",
+      "code": "SAT-CY-002",
+      "index": 6622,
+      "tvg_id": null,
+      "tvg_chno": 6722,
+      "name_ar": "Sat 7 Kids",
+      "name_en": "Sat 7 Kids",
+      "country": "CY",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sat7Pars.cy",
+      "code": "SAT-CY-003",
+      "index": 6623,
+      "tvg_id": null,
+      "tvg_chno": 6723,
+      "name_ar": "Sat 7 Pars",
+      "name_en": "Sat 7 Pars",
+      "country": "CY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sat7phls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Sat7Turk.cy",
+      "code": "SAT-CY-004",
+      "index": 6624,
+      "tvg_id": null,
+      "tvg_chno": 6724,
+      "name_ar": "Sat 7 Turk",
+      "name_en": "Sat 7 Turk",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SigmaTV.cy",
+      "code": "SIG-CY-001",
+      "index": 6803,
+      "tvg_id": null,
+      "tvg_chno": 6903,
+      "name_ar": "Sigma TV",
+      "name_en": "Sigma TV",
+      "country": "CY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://sl2.sigmatv.com/hls/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VouliTV.cy",
+      "code": "VOU-CY-001",
+      "index": 8720,
+      "tvg_id": null,
+      "tvg_chno": 8820,
+      "name_ar": "Vouli TV",
+      "name_en": "Vouli TV",
+      "country": "CY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "kibris",
+      "code": "KIB-CY-001",
+      "index": 9176,
+      "tvg_id": null,
+      "tvg_chno": 9276,
+      "name_ar": "Kibris TV",
+      "name_en": "Kibris TV",
+      "country": "CY",
+      "language": "unknown",
+      "category": "Cyprus",
+      "logo": "https://i.imgur.com/5MJZPTo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://old.kuzeykibris.tv/m3u8/kktv.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "2020",
+      "code": "TVX-CY-001",
+      "index": 9177,
+      "tvg_id": null,
+      "tvg_chno": 9277,
+      "name_ar": "TV 2020 Ⓨ",
+      "name_en": "TV 2020 Ⓨ",
+      "country": "CY",
+      "language": "unknown",
+      "category": "Cyprus",
+      "logo": "https://i.imgur.com/rtfsNdd.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@TV2020KIBRIS/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,116 @@
+{
+  "version": "1.0.0",
+  "country": "GP",
+  "total_channels": 4,
+  "channels": [
+    {
+      "id": "MadrasFMTV.gp",
+      "code": "MAD-GP-001",
+      "index": 4147,
+      "tvg_id": null,
+      "tvg_chno": 4247,
+      "name_ar": "Madras FM TV",
+      "name_en": "Madras FM TV",
+      "country": "GP",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RadioTVBasseTerre.gp",
+      "code": "RAD-GP-001",
+      "index": 6048,
+      "tvg_id": null,
+      "tvg_chno": 6148,
+      "name_ar": "Radio TV Basse-Terre",
+      "name_en": "Radio TV Basse-Terre",
+      "country": "GP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RHTGuadeloupe.gp",
+      "code": "RHT-GP-001",
+      "index": 6268,
+      "tvg_id": null,
+      "tvg_chno": 6368,
+      "name_ar": "RHT Guadeloupe",
+      "name_en": "RHT Guadeloupe",
+      "country": "GP",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TMA.gp",
+      "code": "TMA-GP-001",
+      "index": 7733,
+      "tvg_id": null,
+      "tvg_chno": 7833,
+      "name_ar": "TMA",
+      "name_en": "TMA",
+      "country": "GP",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

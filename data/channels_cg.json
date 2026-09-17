@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "country": "CG",
+  "total_channels": 6,
+  "channels": [
+    {
+      "id": "BebTV.cg",
+      "code": "BEB-CG-001",
+      "index": 945,
+      "tvg_id": null,
+      "tvg_chno": 1045,
+      "name_ar": "Beb TV",
+      "name_en": "Beb TV",
+      "country": "CG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DRTVInternational.cg",
+      "code": "DRT-CG-001",
+      "index": 2327,
+      "tvg_id": null,
+      "tvg_chno": 2427,
+      "name_ar": "DRTV International",
+      "name_en": "DRTV International",
+      "country": "CG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://vps122407.serveur-vps.net/hls/drtv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Esaie45Tele.cg",
+      "code": "ESA-CG-001",
+      "index": 2534,
+      "tvg_id": null,
+      "tvg_chno": 2634,
+      "name_ar": "Esaie 45 Tele",
+      "name_en": "Esaie 45 Tele",
+      "country": "CG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Evtele.cg",
+      "code": "EVT-CG-001",
+      "index": 2627,
+      "tvg_id": null,
+      "tvg_chno": 2727,
+      "name_ar": "Ev-tele",
+      "name_en": "Ev-tele",
+      "country": "CG",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TeleCongo.cg",
+      "code": "TEL-CG-001",
+      "index": 7404,
+      "tvg_id": null,
+      "tvg_chno": 7504,
+      "name_ar": "Tele Congo",
+      "name_en": "Tele Congo",
+      "country": "CG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://51.254.199.122:8080/telecongo/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://trn03.bozztv.com/gin-telecongo/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "africanews",
+      "code": "AFR-CG-001",
+      "index": 9233,
+      "tvg_id": null,
+      "tvg_chno": 9333,
+      "name_ar": "Africanews Ⓨ",
+      "name_en": "Africanews Ⓨ",
+      "country": "CG",
+      "language": "unknown",
+      "category": "France",
+      "logo": "https://i.imgur.com/xocvePC.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/c/Africanewsfr/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://www.youtube.com/africanews/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

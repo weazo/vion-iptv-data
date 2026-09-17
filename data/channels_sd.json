@@ -1,0 +1,89 @@
+{
+  "version": "1.0.0",
+  "country": "SD",
+  "total_channels": 3,
+  "channels": [
+    {
+      "id": "AlAlamiya2.sd",
+      "code": "ALA-SD-001",
+      "index": 347,
+      "tvg_id": null,
+      "tvg_chno": 447,
+      "name_ar": "Al Alamiya 2",
+      "name_en": "Al Alamiya 2",
+      "country": "SD",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://82.212.74.98:8000/live/7815.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "DabangaTV.sd",
+      "code": "DAB-SD-001",
+      "index": 2042,
+      "tvg_id": null,
+      "tvg_chno": 2142,
+      "name_ar": "Dabanga TV",
+      "name_en": "Dabanga TV",
+      "country": "SD",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://hls.dabangasudan.org/hls/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SudanTV.sd",
+      "code": "SUD-SD-001",
+      "index": 7148,
+      "tvg_id": null,
+      "tvg_chno": 7248,
+      "name_ar": "Sudan TV",
+      "name_en": "Sudan TV",
+      "country": "SD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

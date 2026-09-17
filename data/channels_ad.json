@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "country": "AD",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "AndorraTV.ad",
+      "code": "AND-AD-001",
+      "index": 552,
+      "tvg_id": null,
+      "tvg_chno": 652,
+      "name_ar": "Andorra TV",
+      "name_en": "Andorra TV",
+      "country": "AD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

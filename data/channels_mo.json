@@ -1,0 +1,240 @@
+{
+  "version": "1.0.0",
+  "country": "MO",
+  "total_channels": 8,
+  "channels": [
+    {
+      "id": "CanalMacau.mo",
+      "code": "CAN-MO-001",
+      "index": 1408,
+      "tvg_id": null,
+      "tvg_chno": 1508,
+      "name_ar": "Canal Macau",
+      "name_en": "Canal Macau",
+      "country": "MO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "LotusTV.mo",
+      "code": "LOT-MO-001",
+      "index": 4085,
+      "tvg_id": null,
+      "tvg_chno": 4185,
+      "name_ar": "Lotus TV",
+      "name_en": "Lotus TV",
+      "country": "MO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://play-sh.quklive.com/live/1780907795235397.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TDMEntertainment.mo",
+      "code": "TDM-MO-001",
+      "index": 7341,
+      "tvg_id": null,
+      "tvg_chno": 7441,
+      "name_ar": "TDM Entertainment",
+      "name_en": "TDM Entertainment",
+      "country": "MO",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TDMInformation.mo",
+      "code": "TDM-MO-002",
+      "index": 7342,
+      "tvg_id": null,
+      "tvg_chno": 7442,
+      "name_ar": "TDM Information",
+      "name_en": "TDM Information",
+      "country": "MO",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TDMMacauSatellite.mo",
+      "code": "TDM-MO-003",
+      "index": 7343,
+      "tvg_id": null,
+      "tvg_chno": 7443,
+      "name_ar": "TDM-Macau Satellite",
+      "name_en": "TDM-Macau Satellite",
+      "country": "MO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TDMOuMun.mo",
+      "code": "TDM-MO-004",
+      "index": 7344,
+      "tvg_id": null,
+      "tvg_chno": 7444,
+      "name_ar": "TDM Ou Mun",
+      "name_en": "TDM Ou Mun",
+      "country": "MO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://61.244.22.4/ch1/ch1.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TDMSports.mo",
+      "code": "TDM-MO-005",
+      "index": 7345,
+      "tvg_id": null,
+      "tvg_chno": 7445,
+      "name_ar": "TDM Sports",
+      "name_en": "TDM Sports",
+      "country": "MO",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "tdmsport",
+      "code": "TDM-MO-006",
+      "index": 9652,
+      "tvg_id": null,
+      "tvg_chno": 9752,
+      "name_ar": "TDM Sport",
+      "name_en": "TDM Sport",
+      "country": "MO",
+      "language": "unknown",
+      "category": "Macau",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}

@@ -1,0 +1,1652 @@
+{
+  "version": "1.0.0",
+  "country": "SK",
+  "total_channels": 52,
+  "channels": [
+    {
+      "id": "24.sk",
+      "code": "XXX-SK-001",
+      "index": 35,
+      "tvg_id": null,
+      "tvg_chno": 135,
+      "name_ar": ":24",
+      "name_en": ":24",
+      "country": "SK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://vk.com/video-213370539_456239018",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://ok.ru/video/1166706155179",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://ok.ru/video/4157442498242",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://tv.gtrklnr.ru/hls/Lugansk24.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://saratov24.tv/online/playlist.php",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://tvtogliatti24.ru/hls/live1080/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AntikInfoTV.sk",
+      "code": "ANT-SK-001",
+      "index": 599,
+      "tvg_id": null,
+      "tvg_chno": 699,
+      "name_ar": "Antik Info TV",
+      "name_en": "Antik Info TV",
+      "country": "SK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ArenaSport1.sk",
+      "code": "ARE-SK-001",
+      "index": 637,
+      "tvg_id": null,
+      "tvg_chno": 737,
+      "name_ar": "Arena Sport 1",
+      "name_en": "Arena Sport 1",
+      "country": "SK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ArenaSport2.sk",
+      "code": "ARE-SK-002",
+      "index": 638,
+      "tvg_id": null,
+      "tvg_chno": 738,
+      "name_ar": "Arena Sport 2",
+      "name_en": "Arena Sport 2",
+      "country": "SK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ducktv.sk",
+      "code": "DUC-SK-001",
+      "index": 2340,
+      "tvg_id": null,
+      "tvg_chno": 2440,
+      "name_ar": "ducktv",
+      "name_en": "ducktv",
+      "country": "SK",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://dash3.antik.sk/live/duck_tv/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ducktvPLUS.sk",
+      "code": "DUC-SK-002",
+      "index": 2341,
+      "tvg_id": null,
+      "tvg_chno": 2441,
+      "name_ar": "ducktv PLUS",
+      "name_en": "ducktv PLUS",
+      "country": "SK",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HAHATV.sk",
+      "code": "HAH-SK-001",
+      "index": 3080,
+      "tvg_id": null,
+      "tvg_chno": 3180,
+      "name_ar": "HAHA TV",
+      "name_en": "HAHA TV",
+      "country": "SK",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Jednotka.sk",
+      "code": "JED-SK-001",
+      "index": 3527,
+      "tvg_id": null,
+      "tvg_chno": 3627,
+      "name_ar": "Jednotka",
+      "name_en": "Jednotka",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MTR.sk",
+      "code": "MTR-SK-001",
+      "index": 4568,
+      "tvg_id": null,
+      "tvg_chno": 4668,
+      "name_ar": "MTR",
+      "name_en": "MTR",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NZTV.sk",
+      "code": "NZT-SK-001",
+      "index": 5031,
+      "tvg_id": null,
+      "tvg_chno": 5131,
+      "name_ar": "NZTV",
+      "name_en": "NZTV",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8",
+          "quality": "486p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PrimaCoolSK.sk",
+      "code": "PRI-SK-001",
+      "index": 5763,
+      "tvg_id": null,
+      "tvg_chno": 5863,
+      "name_ar": "Prima Cool SK",
+      "name_en": "Prima Cool SK",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PrimaKrimiSK.sk",
+      "code": "PRI-SK-002",
+      "index": 5766,
+      "tvg_id": null,
+      "tvg_chno": 5866,
+      "name_ar": "Prima Krimi SK",
+      "name_en": "Prima Krimi SK",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PrimaloveSK.sk",
+      "code": "PRI-SK-003",
+      "index": 5768,
+      "tvg_id": null,
+      "tvg_chno": 5868,
+      "name_ar": "Prima love SK",
+      "name_en": "Prima love SK",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_love_avc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "PrimaSK.sk",
+      "code": "PRI-SK-004",
+      "index": 5773,
+      "tvg_id": null,
+      "tvg_chno": 5873,
+      "name_ar": "Prima SK",
+      "name_en": "Prima SK",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "RegioTV.sk",
+      "code": "REG-SK-001",
+      "index": 6212,
+      "tvg_id": null,
+      "tvg_chno": 6312,
+      "name_ar": "Regio TV",
+      "name_en": "Regio TV",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://tv.geniusnet.sk:8081/regiotv/pl.m3u8",
+          "quality": "406p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Senzi.sk",
+      "code": "SEN-SK-001",
+      "index": 6701,
+      "tvg_id": null,
+      "tvg_chno": 6801,
+      "name_ar": "Senzi",
+      "name_en": "Senzi",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://lb.streaming.sk/senzi/stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TeleviziaMocenok.sk",
+      "code": "TEL-SK-001",
+      "index": 7561,
+      "tvg_id": null,
+      "tvg_chno": 7661,
+      "name_ar": "Televizia Mocenok",
+      "name_en": "Televizia Mocenok",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVBrezova.sk",
+      "code": "TVB-SK-001",
+      "index": 8012,
+      "tvg_id": null,
+      "tvg_chno": 8112,
+      "name_ar": "TV Brezova",
+      "name_en": "TV Brezova",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.105.193.219:88/hls/tvb.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVDK.sk",
+      "code": "TVD-SK-001",
+      "index": 8085,
+      "tvg_id": null,
+      "tvg_chno": 8185,
+      "name_ar": "TV DK",
+      "name_en": "TV DK",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8",
+          "quality": "486p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8",
+          "quality": "486p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVLiptov.sk",
+      "code": "TVL-SK-001",
+      "index": 8156,
+      "tvg_id": null,
+      "tvg_chno": 8256,
+      "name_ar": "TV Liptov",
+      "name_en": "TV Liptov",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVLocAll.sk",
+      "code": "TVL-SK-002",
+      "index": 8158,
+      "tvg_id": null,
+      "tvg_chno": 8258,
+      "name_ar": "TV LocAll",
+      "name_en": "TV LocAll",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://tv.geniusnet.sk:8081/localltv/pl.m3u8",
+          "quality": "406p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://dash3.antik.sk/live/test_locall/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVMistral.sk",
+      "code": "TVM-SK-001",
+      "index": 8191,
+      "tvg_id": null,
+      "tvg_chno": 8291,
+      "name_ar": "TV Mistral",
+      "name_en": "TV Mistral",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVMyjava.sk",
+      "code": "TVM-SK-002",
+      "index": 8200,
+      "tvg_id": null,
+      "tvg_chno": 8300,
+      "name_ar": "TV Myjava",
+      "name_en": "TV Myjava",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.105.193.219:88/hls/tvm.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVNitricka.sk",
+      "code": "TVN-SK-001",
+      "index": 8208,
+      "tvg_id": null,
+      "tvg_chno": 8308,
+      "name_ar": "TV Nitricka",
+      "name_en": "TV Nitricka",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_nitricka/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVNRSR.sk",
+      "code": "TVN-SK-002",
+      "index": 8212,
+      "tvg_id": null,
+      "tvg_chno": 8312,
+      "name_ar": "TV NRSR",
+      "name_en": "TV NRSR",
+      "country": "SK",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVPoprad.sk",
+      "code": "TVP-SK-001",
+      "index": 8262,
+      "tvg_id": null,
+      "tvg_chno": 8362,
+      "name_ar": "TV Poprad",
+      "name_en": "TV Poprad",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://213.81.153.221:8080/poprad",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVPovazie.sk",
+      "code": "TVP-SK-002",
+      "index": 8263,
+      "tvg_id": null,
+      "tvg_chno": 8363,
+      "name_ar": "TV Povazie",
+      "name_en": "TV Povazie",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_povazie/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVRomana.sk",
+      "code": "TVR-SK-001",
+      "index": 8292,
+      "tvg_id": null,
+      "tvg_chno": 8392,
+      "name_ar": "TV Romana",
+      "name_en": "TV Romana",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVRuzinov.sk",
+      "code": "TVR-SK-002",
+      "index": 8299,
+      "tvg_id": null,
+      "tvg_chno": 8399,
+      "name_ar": "TV Ruzinov",
+      "name_en": "TV Ruzinov",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "TVSen.sk",
+      "code": "TVS-SK-001",
+      "index": 8317,
+      "tvg_id": null,
+      "tvg_chno": 8417,
+      "name_ar": "TV Sen",
+      "name_en": "TV Sen",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.105.193.219:88/hls/tvsen.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVSeverka.sk",
+      "code": "TVS-SK-002",
+      "index": 8320,
+      "tvg_id": null,
+      "tvg_chno": 8420,
+      "name_ar": "TV Severka",
+      "name_en": "TV Severka",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://88.212.7.11/live/test_severka_web_player/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVSkalica.sk",
+      "code": "TVS-SK-003",
+      "index": 8331,
+      "tvg_id": null,
+      "tvg_chno": 8431,
+      "name_ar": "TV Skalica",
+      "name_en": "TV Skalica",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.105.193.219:88/hls/tvs.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVStaraTura.sk",
+      "code": "TVS-SK-004",
+      "index": 8353,
+      "tvg_id": null,
+      "tvg_chno": 8453,
+      "name_ar": "TV Stara Tura",
+      "name_en": "TV Stara Tura",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://95.105.193.219:88/hls/tvst.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVVega.sk",
+      "code": "TVV-SK-001",
+      "index": 8390,
+      "tvg_id": null,
+      "tvg_chno": 8490,
+      "name_ar": "TV Vega",
+      "name_en": "TV Vega",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "TVVita.sk",
+      "code": "TVV-SK-002",
+      "index": 8394,
+      "tvg_id": null,
+      "tvg_chno": 8494,
+      "name_ar": "TV Vita",
+      "name_en": "TV Vita",
+      "country": "SK",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash3.antik.sk/live/test_vita/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VIOTV.sk",
+      "code": "VIO-SK-001",
+      "index": 8667,
+      "tvg_id": null,
+      "tvg_chno": 8767,
+      "name_ar": "VIO TV",
+      "name_en": "VIO TV",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ZapadoslovenskaTV.sk",
+      "code": "ZAP-SK-001",
+      "index": 8965,
+      "tvg_id": null,
+      "tvg_chno": 9065,
+      "name_ar": "Zapadoslovenska TV",
+      "name_en": "Zapadoslovenska TV",
+      "country": "SK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "jojfamily",
+      "code": "JOJ-SK-001",
+      "index": 9187,
+      "tvg_id": null,
+      "tvg_chno": 9287,
+      "name_ar": "JOJ Family Ⓢ",
+      "name_en": "JOJ Family Ⓢ",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-family-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "markza",
+      "code": "MAR-SK-001",
+      "index": 9718,
+      "tvg_id": null,
+      "tvg_chno": 9818,
+      "name_ar": "Markíza",
+      "name_en": "Markíza",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdnsk003.panaccess.com/local/Markiza/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "doma",
+      "code": "DOM-SK-001",
+      "index": 9719,
+      "tvg_id": null,
+      "tvg_chno": 9819,
+      "name_ar": "Doma",
+      "name_en": "Doma",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-doma-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Doma",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dajto",
+      "code": "DAJ-SK-001",
+      "index": 9720,
+      "tvg_id": null,
+      "tvg_chno": 9820,
+      "name_ar": "Dajto",
+      "name_en": "Dajto",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-dajto-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Dajto",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "krimi",
+      "code": "KRI-SK-001",
+      "index": 9721,
+      "tvg_id": null,
+      "tvg_chno": 9821,
+      "name_ar": "Krimi",
+      "name_en": "Krimi",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-krimi-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Krimi",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "joj",
+      "code": "JOJ-SK-002",
+      "index": 9723,
+      "tvg_id": null,
+      "tvg_chno": 9823,
+      "name_ar": "JOJ",
+      "name_en": "JOJ",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "jojplus",
+      "code": "JOJ-SK-003",
+      "index": 9724,
+      "tvg_id": null,
+      "tvg_chno": 9824,
+      "name_ar": "JOJ Plus",
+      "name_en": "JOJ Plus",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-plus-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "wau",
+      "code": "WAU-SK-001",
+      "index": 9725,
+      "tvg_id": null,
+      "tvg_chno": 9825,
+      "name_ar": "Wau",
+      "name_en": "Wau",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Wau",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "joj24",
+      "code": "JOJ-SK-004",
+      "index": 9726,
+      "tvg_id": null,
+      "tvg_chno": 9826,
+      "name_ar": "JOJ 24",
+      "name_en": "JOJ 24",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-24-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "jojport",
+      "code": "JOJ-SK-005",
+      "index": 9727,
+      "tvg_id": null,
+      "tvg_chno": 9827,
+      "name_ar": "JOJ Šport",
+      "name_en": "JOJ Šport",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-sport-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "jojko",
+      "code": "JOJ-SK-006",
+      "index": 9728,
+      "tvg_id": null,
+      "tvg_chno": 9828,
+      "name_ar": "Jojko",
+      "name_en": "Jojko",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/jojko-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Jojko",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "dvojka",
+      "code": "DVO-SK-001",
+      "index": 9729,
+      "tvg_id": null,
+      "tvg_chno": 9829,
+      "name_ar": "Dvojka",
+      "name_en": "Dvojka",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/dvojka-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_dvojka_25p/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "sr24",
+      "code": "STV-SK-001",
+      "index": 9730,
+      "tvg_id": null,
+      "tvg_chno": 9830,
+      "name_ar": "STVR :24",
+      "name_en": "STVR :24",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "port",
+      "code": "POR-SK-001",
+      "index": 9731,
+      "tvg_id": null,
+      "tvg_chno": 9831,
+      "name_ar": "Šport",
+      "name_en": "Šport",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ta3",
+      "code": "TAX-SK-001",
+      "index": 9733,
+      "tvg_id": null,
+      "tvg_chno": 9833,
+      "name_ar": "TA3",
+      "name_en": "TA3",
+      "country": "SK",
+      "language": "unknown",
+      "category": "Slovakia",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=TA3",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "is_working": false
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+}
