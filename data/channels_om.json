@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "OM",
-  "total_channels": 5,
+  "total_channels": 4,
   "channels": [
     {
       "id": "AlistiqamaTV.om",
       "code": "ALI-OM-001",
-      "index": 399,
+      "index": 392,
       "tvg_id": null,
-      "tvg_chno": 499,
+      "tvg_chno": 492,
       "name_ar": "Alistiqama TV",
       "name_en": "Alistiqama TV",
       "country": "OM",
@@ -33,9 +33,9 @@
     {
       "id": "OmanSportsTV.om",
       "code": "OMA-OM-001",
-      "index": 5076,
+      "index": 4917,
       "tvg_id": null,
-      "tvg_chno": 5176,
+      "tvg_chno": 5017,
       "name_ar": "Oman Sports TV",
       "name_en": "Oman Sports TV",
       "country": "OM",
@@ -60,9 +60,9 @@
     {
       "id": "OmanTV.om",
       "code": "OMA-OM-002",
-      "index": 5077,
+      "index": 4918,
       "tvg_id": null,
-      "tvg_chno": 5177,
+      "tvg_chno": 5018,
       "name_ar": "Oman TV",
       "name_en": "Oman TV",
       "country": "OM",
@@ -101,38 +101,11 @@
       ]
     },
     {
-      "id": "OmanTVCultural.om",
-      "code": "OMA-OM-003",
-      "index": 5078,
-      "tvg_id": null,
-      "tvg_chno": 5178,
-      "name_ar": "Oman TV Cultural",
-      "name_en": "Oman TV Cultural",
-      "country": "OM",
-      "language": "unknown",
-      "category": "culture",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": null,
-      "is_working": null,
-      "streams": [
-        {
-          "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": null,
-          "is_working": null
-        }
-      ]
-    },
-    {
       "id": "OmanTVMubashir.om",
-      "code": "OMA-OM-004",
-      "index": 5079,
+      "code": "OMA-OM-003",
+      "index": 4919,
       "tvg_id": null,
-      "tvg_chno": 5179,
+      "tvg_chno": 5019,
       "name_ar": "Oman TV Mubashir",
       "name_en": "Oman TV Mubashir",
       "country": "OM",

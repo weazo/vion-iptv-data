@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "CG",
-  "total_channels": 6,
+  "total_channels": 5,
   "channels": [
     {
       "id": "BebTV.cg",
       "code": "BEB-CG-001",
-      "index": 942,
+      "index": 921,
       "tvg_id": null,
-      "tvg_chno": 1042,
+      "tvg_chno": 1021,
       "name_ar": "Beb TV",
       "name_en": "Beb TV",
       "country": "CG",
@@ -33,9 +33,9 @@
     {
       "id": "DRTVInternational.cg",
       "code": "DRT-CG-001",
-      "index": 2319,
+      "index": 2252,
       "tvg_id": null,
-      "tvg_chno": 2419,
+      "tvg_chno": 2352,
       "name_ar": "DRTV International",
       "name_en": "DRTV International",
       "country": "CG",
@@ -60,9 +60,9 @@
     {
       "id": "Esaie45Tele.cg",
       "code": "ESA-CG-001",
-      "index": 2524,
+      "index": 2451,
       "tvg_id": null,
-      "tvg_chno": 2624,
+      "tvg_chno": 2551,
       "name_ar": "Esaie 45 Tele",
       "name_en": "Esaie 45 Tele",
       "country": "CG",
@@ -85,38 +85,11 @@
       ]
     },
     {
-      "id": "Evtele.cg",
-      "code": "EVT-CG-001",
-      "index": 2617,
-      "tvg_id": null,
-      "tvg_chno": 2717,
-      "name_ar": "Ev-tele",
-      "name_en": "Ev-tele",
-      "country": "CG",
-      "language": "unknown",
-      "category": "culture",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": null,
-      "is_working": null,
-      "streams": [
-        {
-          "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": null,
-          "is_working": null
-        }
-      ]
-    },
-    {
       "id": "TeleCongo.cg",
       "code": "TEL-CG-001",
-      "index": 7378,
+      "index": 7152,
       "tvg_id": null,
-      "tvg_chno": 7478,
+      "tvg_chno": 7252,
       "name_ar": "Tele Congo",
       "name_en": "Tele Congo",
       "country": "CG",
@@ -149,9 +122,9 @@
     {
       "id": "africanews",
       "code": "AFR-CG-001",
-      "index": 9194,
+      "index": 8928,
       "tvg_id": null,
-      "tvg_chno": 9294,
+      "tvg_chno": 9028,
       "name_ar": "Africanews Ⓨ",
       "name_en": "Africanews Ⓨ",
       "country": "CG",

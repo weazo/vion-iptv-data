@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "BF",
-  "total_channels": 5,
+  "total_channels": 4,
   "channels": [
     {
       "id": "Canal3.bf",
       "code": "CAN-BF-001",
-      "index": 1281,
+      "index": 1254,
       "tvg_id": null,
-      "tvg_chno": 1381,
+      "tvg_chno": 1354,
       "name_ar": "Canal 3",
       "name_en": "Canal 3",
       "country": "BF",
@@ -33,9 +33,9 @@
     {
       "id": "FilinfoTV.bf",
       "code": "FIL-BF-001",
-      "index": 2712,
+      "index": 2636,
       "tvg_id": null,
-      "tvg_chno": 2812,
+      "tvg_chno": 2736,
       "name_ar": "Filinfo TV",
       "name_en": "Filinfo TV",
       "country": "BF",
@@ -60,9 +60,9 @@
     {
       "id": "RTB.bf",
       "code": "RTB-BF-001",
-      "index": 6331,
+      "index": 6131,
       "tvg_id": null,
-      "tvg_chno": 6431,
+      "tvg_chno": 6231,
       "name_ar": "RTB",
       "name_en": "RTB",
       "country": "BF",
@@ -85,38 +85,11 @@
       ]
     },
     {
-      "id": "RTB3.bf",
-      "code": "RTB-BF-002",
-      "index": 6332,
-      "tvg_id": null,
-      "tvg_chno": 6432,
-      "name_ar": "RTB 3",
-      "name_en": "RTB 3",
-      "country": "BF",
-      "language": "unknown",
-      "category": "culture",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": null,
-      "is_working": null,
-      "streams": [
-        {
-          "url": "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8",
-          "quality": null,
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": null,
-          "is_working": null
-        }
-      ]
-    },
-    {
       "id": "SavaneTV.bf",
       "code": "SAV-BF-001",
-      "index": 6605,
+      "index": 6399,
       "tvg_id": null,
-      "tvg_chno": 6705,
+      "tvg_chno": 6499,
       "name_ar": "Savane TV",
       "name_en": "Savane TV",
       "country": "BF",

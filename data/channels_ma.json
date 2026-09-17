@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "MA",
-  "total_channels": 9,
+  "total_channels": 8,
   "channels": [
     {
       "id": "2M.ma",
       "code": "MXX-MA-001",
-      "index": 48,
+      "index": 47,
       "tvg_id": null,
-      "tvg_chno": 148,
+      "tvg_chno": 147,
       "name_ar": "2M",
       "name_en": "2M",
       "country": "MA",
@@ -33,9 +33,9 @@
     {
       "id": "2MMonde.ma",
       "code": "MMO-MA-001",
-      "index": 49,
+      "index": 48,
       "tvg_id": null,
-      "tvg_chno": 149,
+      "tvg_chno": 148,
       "name_ar": "2M Monde",
       "name_en": "2M Monde",
       "country": "MA",
@@ -68,9 +68,9 @@
     {
       "id": "AlMaghribia.ma",
       "code": "ALM-MA-001",
-      "index": 436,
+      "index": 429,
       "tvg_id": null,
-      "tvg_chno": 536,
+      "tvg_chno": 529,
       "name_ar": "Al Maghribia",
       "name_en": "Al Maghribia",
       "country": "MA",
@@ -95,9 +95,9 @@
     {
       "id": "Arryadia.ma",
       "code": "ARR-MA-001",
-      "index": 663,
+      "index": 652,
       "tvg_id": null,
-      "tvg_chno": 763,
+      "tvg_chno": 752,
       "name_ar": "Arryadia",
       "name_en": "Arryadia",
       "country": "MA",
@@ -122,9 +122,9 @@
     {
       "id": "ChadaTV.ma",
       "code": "CHA-MA-001",
-      "index": 1620,
+      "index": 1586,
       "tvg_id": null,
-      "tvg_chno": 1720,
+      "tvg_chno": 1686,
       "name_ar": "Chada TV",
       "name_en": "Chada TV",
       "country": "MA",
@@ -157,9 +157,9 @@
     {
       "id": "Medi1TVAfrique.ma",
       "code": "MED-MA-001",
-      "index": 4297,
+      "index": 4163,
       "tvg_id": null,
-      "tvg_chno": 4397,
+      "tvg_chno": 4263,
       "name_ar": "Medi1TV Afrique",
       "name_en": "Medi1TV Afrique",
       "country": "MA",
@@ -192,9 +192,9 @@
     {
       "id": "Medi1TVArabic.ma",
       "code": "MED-MA-002",
-      "index": 4298,
+      "index": 4164,
       "tvg_id": null,
-      "tvg_chno": 4398,
+      "tvg_chno": 4264,
       "name_ar": "Medi1TV Arabic",
       "name_en": "Medi1TV Arabic",
       "country": "MA",
@@ -227,9 +227,9 @@
     {
       "id": "Medi1TVMaghreb.ma",
       "code": "MED-MA-003",
-      "index": 4299,
+      "index": 4165,
       "tvg_id": null,
-      "tvg_chno": 4399,
+      "tvg_chno": 4265,
       "name_ar": "Medi1TV Maghreb",
       "name_en": "Medi1TV Maghreb",
       "country": "MA",
@@ -254,33 +254,6 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": null,
-          "is_working": null
-        }
-      ]
-    },
-    {
-      "id": "StoryChannelTV.ma",
-      "code": "STO-MA-001",
-      "index": 7090,
-      "tvg_id": null,
-      "tvg_chno": 7190,
-      "name_ar": "StoryChannel TV",
-      "name_en": "StoryChannel TV",
-      "country": "MA",
-      "language": "unknown",
-      "category": "culture",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": null,
-      "is_working": null,
-      "streams": [
-        {
-          "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
           "last_checked": null,
           "is_working": null
         }

@@ -4,30 +4,22 @@
   "total_channels": 1,
   "channels": [
     {
-      "id": "UCL.uy",
+      "id": "ucl",
       "code": "UCL-UY-001",
-      "index": 8395,
+      "index": 8849,
       "tvg_id": null,
-      "tvg_chno": 8495,
+      "tvg_chno": 8949,
       "name_ar": "UCL",
       "name_en": "UCL",
       "country": "UY",
       "language": "unknown",
-      "category": "culture",
-      "logo": null,
+      "category": "Chile",
+      "logo": "https://i.imgur.com/JxqVHPX.png",
       "website": null,
       "priority": 1,
       "last_checked": null,
       "is_working": null,
       "streams": [
-        {
-          "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": null,
-          "is_working": null
-        },
         {
           "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8",
           "quality": "unknown",

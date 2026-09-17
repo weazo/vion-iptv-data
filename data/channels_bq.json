@@ -1,41 +1,14 @@
 {
   "version": "1.0.0",
   "country": "BQ",
-  "total_channels": 6,
+  "total_channels": 5,
   "channels": [
-    {
-      "id": "Bonairetv.bq",
-      "code": "BON-BQ-001",
-      "index": 1098,
-      "tvg_id": null,
-      "tvg_chno": 1198,
-      "name_ar": "Bonaire.tv",
-      "name_en": "Bonaire.tv",
-      "country": "BQ",
-      "language": "unknown",
-      "category": "culture",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": null,
-      "is_working": null,
-      "streams": [
-        {
-          "url": "https://media.streambrothers.com:1936/8506/8506/playlist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": null,
-          "is_working": null
-        }
-      ]
-    },
     {
       "id": "EnergiaTV.bq",
       "code": "ENE-BQ-001",
-      "index": 2479,
+      "index": 2407,
       "tvg_id": null,
-      "tvg_chno": 2579,
+      "tvg_chno": 2507,
       "name_ar": "Energia TV",
       "name_en": "Energia TV",
       "country": "BQ",
@@ -60,9 +33,9 @@
     {
       "id": "Live99FM.bq",
       "code": "LIV-BQ-001",
-      "index": 4023,
+      "index": 3898,
       "tvg_id": null,
-      "tvg_chno": 4123,
+      "tvg_chno": 3998,
       "name_ar": "Live99FM",
       "name_en": "Live99FM",
       "country": "BQ",
@@ -87,9 +60,9 @@
     {
       "id": "NosTVBonaire.bq",
       "code": "NOS-BQ-001",
-      "index": 4915,
+      "index": 4762,
       "tvg_id": null,
-      "tvg_chno": 5015,
+      "tvg_chno": 4862,
       "name_ar": "NosTV Bonaire",
       "name_en": "NosTV Bonaire",
       "country": "BQ",
@@ -114,9 +87,9 @@
     {
       "id": "NosTVBonaire2.bq",
       "code": "NOS-BQ-002",
-      "index": 4916,
+      "index": 4763,
       "tvg_id": null,
-      "tvg_chno": 5016,
+      "tvg_chno": 4863,
       "name_ar": "NosTV Bonaire 2",
       "name_en": "NosTV Bonaire 2",
       "country": "BQ",
@@ -141,9 +114,9 @@
     {
       "id": "VozDiBonaireTV.bq",
       "code": "VOZ-BQ-001",
-      "index": 8688,
+      "index": 8420,
       "tvg_id": null,
-      "tvg_chno": 8788,
+      "tvg_chno": 8520,
       "name_ar": "Voz Di Bonaire TV",
       "name_en": "Voz Di Bonaire TV",
       "country": "BQ",

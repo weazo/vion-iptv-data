@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "total_channels": 9999,
+  "total_channels": 9742,
   "sources_used": [
     "iptv-org",
     "Free-TV",
@@ -8,8 +8,13 @@
     "joevess-IPTV"
   ],
   "filtering": {
-    "adult_gambling_keywords": 56,
-    "racism_hate_keywords": 36,
+    "total_blocked_keywords": 251,
+    "adult_keywords": 68,
+    "gambling_keywords": 54,
+    "racism_hate_keywords": 44,
+    "drugs_keywords": 32,
+    "violence_terrorism_keywords": 55,
+    "other_keywords": 17,
     "iptv_org_nsfw_blocklist": 1773
   },
   "countries": [
@@ -43,7 +48,7 @@
     },
     {
       "code": "AR",
-      "channel_count": 176
+      "channel_count": 171
     },
     {
       "code": "AT",
@@ -51,15 +56,15 @@
     },
     {
       "code": "AU",
-      "channel_count": 54
+      "channel_count": 53
     },
     {
       "code": "AW",
-      "channel_count": 10
+      "channel_count": 9
     },
     {
       "code": "AZ",
-      "channel_count": 21
+      "channel_count": 20
     },
     {
       "code": "BA",
@@ -71,19 +76,19 @@
     },
     {
       "code": "BD",
-      "channel_count": 22
+      "channel_count": 21
     },
     {
       "code": "BE",
-      "channel_count": 38
+      "channel_count": 36
     },
     {
       "code": "BF",
-      "channel_count": 5
+      "channel_count": 4
     },
     {
       "code": "BG",
-      "channel_count": 65
+      "channel_count": 63
     },
     {
       "code": "BH",
@@ -99,15 +104,15 @@
     },
     {
       "code": "BO",
-      "channel_count": 69
+      "channel_count": 67
     },
     {
       "code": "BQ",
-      "channel_count": 6
+      "channel_count": 5
     },
     {
       "code": "BR",
-      "channel_count": 267
+      "channel_count": 259
     },
     {
       "code": "BS",
@@ -115,7 +120,7 @@
     },
     {
       "code": "BY",
-      "channel_count": 18
+      "channel_count": 17
     },
     {
       "code": "BZ",
@@ -123,7 +128,7 @@
     },
     {
       "code": "CA",
-      "channel_count": 130
+      "channel_count": 119
     },
     {
       "code": "CD",
@@ -131,7 +136,7 @@
     },
     {
       "code": "CG",
-      "channel_count": 6
+      "channel_count": 5
     },
     {
       "code": "CH",
@@ -139,23 +144,23 @@
     },
     {
       "code": "CI",
-      "channel_count": 15
+      "channel_count": 13
     },
     {
       "code": "CL",
-      "channel_count": 229
+      "channel_count": 218
     },
     {
       "code": "CM",
-      "channel_count": 12
+      "channel_count": 11
     },
     {
       "code": "CN",
-      "channel_count": 154
+      "channel_count": 148
     },
     {
       "code": "CO",
-      "channel_count": 102
+      "channel_count": 101
     },
     {
       "code": "COM",
@@ -163,7 +168,7 @@
     },
     {
       "code": "CR",
-      "channel_count": 65
+      "channel_count": 64
     },
     {
       "code": "CU",
@@ -187,7 +192,7 @@
     },
     {
       "code": "DE",
-      "channel_count": 435
+      "channel_count": 412
     },
     {
       "code": "DK",
@@ -195,7 +200,7 @@
     },
     {
       "code": "DO",
-      "channel_count": 235
+      "channel_count": 232
     },
     {
       "code": "DZ",
@@ -203,11 +208,11 @@
     },
     {
       "code": "EC",
-      "channel_count": 77
+      "channel_count": 75
     },
     {
       "code": "EE",
-      "channel_count": 19
+      "channel_count": 18
     },
     {
       "code": "EG",
@@ -223,7 +228,7 @@
     },
     {
       "code": "ES",
-      "channel_count": 265
+      "channel_count": 260
     },
     {
       "code": "ET",
@@ -239,7 +244,7 @@
     },
     {
       "code": "FR",
-      "channel_count": 182
+      "channel_count": 178
     },
     {
       "code": "GE",
@@ -307,11 +312,11 @@
     },
     {
       "code": "HU",
-      "channel_count": 124
+      "channel_count": 123
     },
     {
       "code": "ID",
-      "channel_count": 119
+      "channel_count": 117
     },
     {
       "code": "IE",
@@ -319,15 +324,15 @@
     },
     {
       "code": "IL",
-      "channel_count": 26
+      "channel_count": 25
     },
     {
       "code": "IN",
-      "channel_count": 679
+      "channel_count": 669
     },
     {
       "code": "IQ",
-      "channel_count": 53
+      "channel_count": 51
     },
     {
       "code": "IR",
@@ -339,7 +344,7 @@
     },
     {
       "code": "IT",
-      "channel_count": 300
+      "channel_count": 294
     },
     {
       "code": "JM",
@@ -379,11 +384,11 @@
     },
     {
       "code": "KW",
-      "channel_count": 9
+      "channel_count": 7
     },
     {
       "code": "KZ",
-      "channel_count": 40
+      "channel_count": 39
     },
     {
       "code": "LA",
@@ -399,7 +404,7 @@
     },
     {
       "code": "LK",
-      "channel_count": 13
+      "channel_count": 12
     },
     {
       "code": "LT",
@@ -419,7 +424,7 @@
     },
     {
       "code": "MA",
-      "channel_count": 9
+      "channel_count": 8
     },
     {
       "code": "MC",
@@ -443,7 +448,7 @@
     },
     {
       "code": "MM",
-      "channel_count": 16
+      "channel_count": 15
     },
     {
       "code": "MN",
@@ -471,7 +476,7 @@
     },
     {
       "code": "MX",
-      "channel_count": 159
+      "channel_count": 151
     },
     {
       "code": "MY",
@@ -491,7 +496,7 @@
     },
     {
       "code": "NG",
-      "channel_count": 51
+      "channel_count": 49
     },
     {
       "code": "NI",
@@ -499,7 +504,7 @@
     },
     {
       "code": "NL",
-      "channel_count": 166
+      "channel_count": 150
     },
     {
       "code": "NO",
@@ -515,7 +520,7 @@
     },
     {
       "code": "OM",
-      "channel_count": 5
+      "channel_count": 4
     },
     {
       "code": "PA",
@@ -523,7 +528,7 @@
     },
     {
       "code": "PE",
-      "channel_count": 147
+      "channel_count": 143
     },
     {
       "code": "PH",
@@ -531,11 +536,11 @@
     },
     {
       "code": "PK",
-      "channel_count": 85
+      "channel_count": 83
     },
     {
       "code": "PL",
-      "channel_count": 90
+      "channel_count": 85
     },
     {
       "code": "PR",
@@ -547,7 +552,7 @@
     },
     {
       "code": "PT",
-      "channel_count": 52
+      "channel_count": 51
     },
     {
       "code": "PY",
@@ -559,7 +564,7 @@
     },
     {
       "code": "RO",
-      "channel_count": 88
+      "channel_count": 87
     },
     {
       "code": "RS",
@@ -567,7 +572,7 @@
     },
     {
       "code": "RU",
-      "channel_count": 416
+      "channel_count": 412
     },
     {
       "code": "RW",
@@ -575,7 +580,7 @@
     },
     {
       "code": "SA",
-      "channel_count": 58
+      "channel_count": 57
     },
     {
       "code": "SD",
@@ -583,11 +588,11 @@
     },
     {
       "code": "SE",
-      "channel_count": 153
+      "channel_count": 149
     },
     {
       "code": "SG",
-      "channel_count": 21
+      "channel_count": 20
     },
     {
       "code": "SI",
@@ -595,7 +600,7 @@
     },
     {
       "code": "SK",
-      "channel_count": 51
+      "channel_count": 50
     },
     {
       "code": "SM",
@@ -603,15 +608,11 @@
     },
     {
       "code": "SN",
-      "channel_count": 13
+      "channel_count": 11
     },
     {
       "code": "SO",
       "channel_count": 13
-    },
-    {
-      "code": "SR",
-      "channel_count": 1
     },
     {
       "code": "SV",
@@ -619,7 +620,7 @@
     },
     {
       "code": "SX",
-      "channel_count": 6
+      "channel_count": 5
     },
     {
       "code": "SY",
@@ -643,7 +644,7 @@
     },
     {
       "code": "TM",
-      "channel_count": 8
+      "channel_count": 7
     },
     {
       "code": "TN",
@@ -651,7 +652,7 @@
     },
     {
       "code": "TR",
-      "channel_count": 170
+      "channel_count": 167
     },
     {
       "code": "TT",
@@ -659,7 +660,7 @@
     },
     {
       "code": "TW",
-      "channel_count": 30
+      "channel_count": 28
     },
     {
       "code": "TZ",
@@ -667,7 +668,7 @@
     },
     {
       "code": "UA",
-      "channel_count": 152
+      "channel_count": 151
     },
     {
       "code": "UG",
@@ -675,11 +676,11 @@
     },
     {
       "code": "UK",
-      "channel_count": 200
+      "channel_count": 193
     },
     {
       "code": "US",
-      "channel_count": 1428
+      "channel_count": 1372
     },
     {
       "code": "UY",
@@ -695,7 +696,7 @@
     },
     {
       "code": "VE",
-      "channel_count": 61
+      "channel_count": 59
     },
     {
       "code": "VG",
@@ -703,7 +704,7 @@
     },
     {
       "code": "VN",
-      "channel_count": 78
+      "channel_count": 75
     },
     {
       "code": "XK",
@@ -719,7 +720,7 @@
     },
     {
       "code": "ZA",
-      "channel_count": 23
+      "channel_count": 22
     },
     {
       "code": "ZW",
