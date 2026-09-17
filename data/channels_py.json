@@ -1,0 +1,1513 @@
+{
+  "version": "1.0.0",
+  "country": "PY",
+  "total_channels": 54,
+  "channels": [
+    {
+      "id": "4DmasNoticiasTV.py",
+      "code": "DMA-PY-001",
+      "index": 101,
+      "tvg_id": null,
+      "tvg_chno": 201,
+      "name_ar": "4Dmas Noticias TV",
+      "name_en": "4Dmas Noticias TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AGRFMTV.py",
+      "code": "AGR-PY-001",
+      "index": 308,
+      "tvg_id": null,
+      "tvg_chno": 408,
+      "name_ar": "AGR FM TV",
+      "name_en": "AGR FM TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlcanceFMPLAYTV.py",
+      "code": "ALC-PY-001",
+      "index": 364,
+      "tvg_id": null,
+      "tvg_chno": 464,
+      "name_ar": "Alcance FM PLAY TV",
+      "name_en": "Alcance FM PLAY TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AltMediaTV.py",
+      "code": "ALT-PY-001",
+      "index": 483,
+      "tvg_id": null,
+      "tvg_chno": 583,
+      "name_ar": "Alt Media TV",
+      "name_en": "Alt Media TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AmericaParaguay.py",
+      "code": "AME-PY-001",
+      "index": 520,
+      "tvg_id": null,
+      "tvg_chno": 620,
+      "name_ar": "America Paraguay",
+      "name_en": "America Paraguay",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BrunoMasiTV.py",
+      "code": "BRU-PY-001",
+      "index": 1147,
+      "tvg_id": null,
+      "tvg_chno": 1247,
+      "name_ar": "Bruno Masi TV",
+      "name_en": "Bruno Masi TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "C9N.py",
+      "code": "CNX-PY-001",
+      "index": 1199,
+      "tvg_id": null,
+      "tvg_chno": 1299,
+      "name_ar": "C9N",
+      "name_en": "C9N",
+      "country": "PY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CADTV.py",
+      "code": "CAD-PY-001",
+      "index": 1206,
+      "tvg_id": null,
+      "tvg_chno": 1306,
+      "name_ar": "CAD TV",
+      "name_en": "CAD TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal5TVMax.py",
+      "code": "CAN-PY-001",
+      "index": 1320,
+      "tvg_id": null,
+      "tvg_chno": 1420,
+      "name_ar": "Canal 5 TV Max",
+      "name_en": "Canal 5 TV Max",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal8CCProducciones.py",
+      "code": "CAN-PY-002",
+      "index": 1342,
+      "tvg_id": null,
+      "tvg_chno": 1442,
+      "name_ar": "Canal 8 C&C Producciones",
+      "name_en": "Canal 8 C&C Producciones",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal8VisionTV.py",
+      "code": "CAN-PY-003",
+      "index": 1345,
+      "tvg_id": null,
+      "tvg_chno": 1445,
+      "name_ar": "Canal 8 Vision TV",
+      "name_en": "Canal 8 Vision TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CanalPro.py",
+      "code": "CAN-PY-004",
+      "index": 1421,
+      "tvg_id": null,
+      "tvg_chno": 1521,
+      "name_ar": "Canal Pro",
+      "name_en": "Canal Pro",
+      "country": "PY",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.desde-paraguay.com/pro.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CaritasTV.py",
+      "code": "CAR-PY-001",
+      "index": 1491,
+      "tvg_id": null,
+      "tvg_chno": 1591,
+      "name_ar": "Caritas TV",
+      "name_en": "Caritas TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DelReyTV.py",
+      "code": "DEL-PY-001",
+      "index": 2135,
+      "tvg_id": null,
+      "tvg_chno": 2235,
+      "name_ar": "Del Rey TV",
+      "name_en": "Del Rey TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DismarRadioTV.py",
+      "code": "DIS-PY-001",
+      "index": 2222,
+      "tvg_id": null,
+      "tvg_chno": 2322,
+      "name_ar": "Dismar Radio TV",
+      "name_en": "Dismar Radio TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "E40.py",
+      "code": "EXX-PY-001",
+      "index": 2364,
+      "tvg_id": null,
+      "tvg_chno": 2464,
+      "name_ar": "E40",
+      "name_en": "E40",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FarraPlay.py",
+      "code": "FAR-PY-001",
+      "index": 2667,
+      "tvg_id": null,
+      "tvg_chno": 2767,
+      "name_ar": "Farra Play",
+      "name_en": "Farra Play",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://159.203.148.226/live/farra.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GOTV.py",
+      "code": "GOT-PY-001",
+      "index": 2996,
+      "tvg_id": null,
+      "tvg_chno": 3096,
+      "name_ar": "GO TV",
+      "name_en": "GO TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HEiNow.py",
+      "code": "HEI-PY-001",
+      "index": 3126,
+      "tvg_id": null,
+      "tvg_chno": 3226,
+      "name_ar": "HEi Now",
+      "name_en": "HEi Now",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "InvasivaTV.py",
+      "code": "INV-PY-001",
+      "index": 3409,
+      "tvg_id": null,
+      "tvg_chno": 3509,
+      "name_ar": "Invasiva TV",
+      "name_en": "Invasiva TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LosAngelesTVRadio.py",
+      "code": "LOS-PY-001",
+      "index": 4063,
+      "tvg_id": null,
+      "tvg_chno": 4163,
+      "name_ar": "Los Angeles TV Radio",
+      "name_en": "Los Angeles TV Radio",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MiTV.py",
+      "code": "MIT-PY-001",
+      "index": 4417,
+      "tvg_id": null,
+      "tvg_chno": 4517,
+      "name_ar": "MiTV",
+      "name_en": "MiTV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MonumentalTV.py",
+      "code": "MON-PY-001",
+      "index": 4474,
+      "tvg_id": null,
+      "tvg_chno": 4574,
+      "name_ar": "Monumental TV",
+      "name_en": "Monumental TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NandejaraNeeTV.py",
+      "code": "NAN-PY-001",
+      "index": 4677,
+      "tvg_id": null,
+      "tvg_chno": 4777,
+      "name_ar": "Nandejara Ne'e TV",
+      "name_en": "Nandejara Ne'e TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NandePortetepeTV.py",
+      "code": "NAN-PY-002",
+      "index": 4678,
+      "tvg_id": null,
+      "tvg_chno": 4778,
+      "name_ar": "Nande Portetepe TV",
+      "name_en": "Nande Portetepe TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Nanduti.py",
+      "code": "NAN-PY-003",
+      "index": 4680,
+      "tvg_id": null,
+      "tvg_chno": 4780,
+      "name_ar": "Nanduti",
+      "name_en": "Nanduti",
+      "country": "PY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nanduti.b-cdn.net/Source.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://nanduti.b-cdn.net/720p.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NextHD.py",
+      "code": "NEX-PY-001",
+      "index": 4831,
+      "tvg_id": null,
+      "tvg_chno": 4931,
+      "name_ar": "Next HD",
+      "name_en": "Next HD",
+      "country": "PY",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NPY.py",
+      "code": "NPY-PY-001",
+      "index": 4950,
+      "tvg_id": null,
+      "tvg_chno": 5050,
+      "name_ar": "NPY",
+      "name_en": "NPY",
+      "country": "PY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OccidentalTV.py",
+      "code": "OCC-PY-001",
+      "index": 5023,
+      "tvg_id": null,
+      "tvg_chno": 5123,
+      "name_ar": "Occidental TV",
+      "name_en": "Occidental TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OviedoTV.py",
+      "code": "OVI-PY-001",
+      "index": 5189,
+      "tvg_id": null,
+      "tvg_chno": 5289,
+      "name_ar": "Oviedo TV",
+      "name_en": "Oviedo TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ParaguayTV.py",
+      "code": "PAR-PY-001",
+      "index": 5231,
+      "tvg_id": null,
+      "tvg_chno": 5331,
+      "name_ar": "Paraguay TV",
+      "name_en": "Paraguay TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Paravision.py",
+      "code": "PAR-PY-002",
+      "index": 5239,
+      "tvg_id": null,
+      "tvg_chno": 5339,
+      "name_ar": "Paravision",
+      "name_en": "Paravision",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PopuTV.py",
+      "code": "POP-PY-001",
+      "index": 5698,
+      "tvg_id": null,
+      "tvg_chno": 5798,
+      "name_ar": "Popu TV",
+      "name_en": "Popu TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ProductivaTV.py",
+      "code": "PRO-PY-001",
+      "index": 5771,
+      "tvg_id": null,
+      "tvg_chno": 5871,
+      "name_ar": "Productiva TV",
+      "name_en": "Productiva TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioColmenar925FM.py",
+      "code": "RAD-PY-001",
+      "index": 5935,
+      "tvg_id": null,
+      "tvg_chno": 6035,
+      "name_ar": "Radio Colmenar 92.5 FM",
+      "name_en": "Radio Colmenar 92.5 FM",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioGuairaTV.py",
+      "code": "RAD-PY-002",
+      "index": 5952,
+      "tvg_id": null,
+      "tvg_chno": 6052,
+      "name_ar": "Radio Guaira TV",
+      "name_en": "Radio Guaira TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioSanCristobal887FM.py",
+      "code": "RAD-PY-003",
+      "index": 5996,
+      "tvg_id": null,
+      "tvg_chno": 6096,
+      "name_ar": "Radio San Cristobal 88.7 FM",
+      "name_en": "Radio San Cristobal 88.7 FM",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTVElArcadelPacto.py",
+      "code": "RAD-PY-004",
+      "index": 6026,
+      "tvg_id": null,
+      "tvg_chno": 6126,
+      "name_ar": "Radio TV El Arca del Pacto",
+      "name_en": "Radio TV El Arca del Pacto",
+      "country": "PY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RBTV.py",
+      "code": "RBT-PY-001",
+      "index": 6108,
+      "tvg_id": null,
+      "tvg_chno": 6208,
+      "name_ar": "RB TV",
+      "name_en": "RB TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RCCTV.py",
+      "code": "RCC-PY-001",
+      "index": 6110,
+      "tvg_id": null,
+      "tvg_chno": 6210,
+      "name_ar": "RCC TV",
+      "name_en": "RCC TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RedDigital.py",
+      "code": "RED-PY-001",
+      "index": 6153,
+      "tvg_id": null,
+      "tvg_chno": 6253,
+      "name_ar": "Red Digital",
+      "name_en": "Red Digital",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RedInteriorTV.py",
+      "code": "RED-PY-002",
+      "index": 6173,
+      "tvg_id": null,
+      "tvg_chno": 6273,
+      "name_ar": "Red Interior TV",
+      "name_en": "Red Interior TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RegionalTVYaguaron.py",
+      "code": "REG-PY-001",
+      "index": 6186,
+      "tvg_id": null,
+      "tvg_chno": 6286,
+      "name_ar": "Regional TV Yaguaron",
+      "name_en": "Regional TV Yaguaron",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RepublicaTV.py",
+      "code": "REP-PY-001",
+      "index": 6206,
+      "tvg_id": null,
+      "tvg_chno": 6306,
+      "name_ar": "Republica TV",
+      "name_en": "Republica TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SNT.py",
+      "code": "SNT-PY-001",
+      "index": 6865,
+      "tvg_id": null,
+      "tvg_chno": 6965,
+      "name_ar": "SNT",
+      "name_en": "SNT",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SucesoTV.py",
+      "code": "SUC-PY-001",
+      "index": 7119,
+      "tvg_id": null,
+      "tvg_chno": 7219,
+      "name_ar": "Suceso TV",
+      "name_en": "Suceso TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SURTVItapua.py",
+      "code": "SUR-PY-001",
+      "index": 7169,
+      "tvg_id": null,
+      "tvg_chno": 7269,
+      "name_ar": "SUR TV Itapua",
+      "name_en": "SUR TV Itapua",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVAire.py",
+      "code": "TVA-PY-001",
+      "index": 7957,
+      "tvg_id": null,
+      "tvg_chno": 8057,
+      "name_ar": "TV Aire",
+      "name_en": "TV Aire",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCanindeyu.py",
+      "code": "TVC-PY-001",
+      "index": 8003,
+      "tvg_id": null,
+      "tvg_chno": 8103,
+      "name_ar": "TV Canindeyu",
+      "name_en": "TV Canindeyu",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Unicanal.py",
+      "code": "UNI-PY-001",
+      "index": 8427,
+      "tvg_id": null,
+      "tvg_chno": 8527,
+      "name_ar": "Unicanal",
+      "name_en": "Unicanal",
+      "country": "PY",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/@unicanalpy/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UnionTV.py",
+      "code": "UNI-PY-002",
+      "index": 8436,
+      "tvg_id": null,
+      "tvg_chno": 8536,
+      "name_ar": "Union TV",
+      "name_en": "Union TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UniRadioTV.py",
+      "code": "UNI-PY-003",
+      "index": 8439,
+      "tvg_id": null,
+      "tvg_chno": 8539,
+      "name_ar": "UniRadio TV",
+      "name_en": "UniRadio TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VenusMedia.py",
+      "code": "VEN-PY-001",
+      "index": 8554,
+      "tvg_id": null,
+      "tvg_chno": 8654,
+      "name_ar": "Venus Media",
+      "name_en": "Venus Media",
+      "country": "PY",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VillaElisaRadioTV.py",
+      "code": "VIL-PY-001",
+      "index": 8624,
+      "tvg_id": null,
+      "tvg_chno": 8724,
+      "name_ar": "Villa Elisa Radio TV",
+      "name_en": "Villa Elisa Radio TV",
+      "country": "PY",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

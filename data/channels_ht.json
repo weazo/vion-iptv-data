@@ -1,0 +1,366 @@
+{
+  "version": "1.0.0",
+  "country": "HT",
+  "total_channels": 13,
+  "channels": [
+    {
+      "id": "HaitiNewsChannel.ht",
+      "code": "HAI-HT-001",
+      "index": 3071,
+      "tvg_id": null,
+      "tvg_chno": 3171,
+      "name_ar": "Haiti News Channel",
+      "name_en": "Haiti News Channel",
+      "country": "HT",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.haititivi.com/website/haitinews/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://haititivi.com/website/haitinews/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NetalkoleTV.ht",
+      "code": "NET-HT-001",
+      "index": 4769,
+      "tvg_id": null,
+      "tvg_chno": 4869,
+      "name_ar": "Netalkole TV",
+      "name_en": "Netalkole TV",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://watch.haitilive.net/naktvhd/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTele4VEH.ht",
+      "code": "RAD-HT-001",
+      "index": 6007,
+      "tvg_id": null,
+      "tvg_chno": 6107,
+      "name_ar": "Radio Tele 4VEH",
+      "name_en": "Radio Tele 4VEH",
+      "country": "HT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTeleAmenFM.ht",
+      "code": "RAD-HT-002",
+      "index": 6008,
+      "tvg_id": null,
+      "tvg_chno": 6108,
+      "name_ar": "Radio Tele Amen FM",
+      "name_en": "Radio Tele Amen FM",
+      "country": "HT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://184.173.179.163:1935/daniel/daniel/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTeleFullGospel.ht",
+      "code": "RAD-HT-003",
+      "index": 6010,
+      "tvg_id": null,
+      "tvg_chno": 6110,
+      "name_ar": "Radio Tele Full Gospel",
+      "name_en": "Radio Tele Full Gospel",
+      "country": "HT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTeleGinen.ht",
+      "code": "RAD-HT-004",
+      "index": 6011,
+      "tvg_id": null,
+      "tvg_chno": 6111,
+      "name_ar": "Radio Tele Ginen",
+      "name_en": "Radio Tele Ginen",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTeleHit.ht",
+      "code": "RAD-HT-005",
+      "index": 6012,
+      "tvg_id": null,
+      "tvg_chno": 6112,
+      "name_ar": "Radio Tele Hit",
+      "name_en": "Radio Tele Hit",
+      "country": "HT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTelePlanetCompas.ht",
+      "code": "RAD-HT-006",
+      "index": 6014,
+      "tvg_id": null,
+      "tvg_chno": 6114,
+      "name_ar": "Radio Tele Planet Compas",
+      "name_en": "Radio Tele Planet Compas",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTelevisionShilo.ht",
+      "code": "RAD-HT-007",
+      "index": 6018,
+      "tvg_id": null,
+      "tvg_chno": 6118,
+      "name_ar": "Radio Television Shilo",
+      "name_en": "Radio Television Shilo",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://watch.haitilive.net/freehb/rtvs/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TeleHaiti.ht",
+      "code": "TEL-HT-001",
+      "index": 7402,
+      "tvg_id": null,
+      "tvg_chno": 7502,
+      "name_ar": "Tele Haiti",
+      "name_en": "Tele Haiti",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://66.175.238.147:1935/live/myStream/playlist.m3u8",
+          "quality": "1088p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TeleLouange.ht",
+      "code": "TEL-HT-002",
+      "index": 7414,
+      "tvg_id": null,
+      "tvg_chno": 7514,
+      "name_ar": "Tele Louange",
+      "name_en": "Tele Louange",
+      "country": "HT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TNH.ht",
+      "code": "TNH-HT-001",
+      "index": 7718,
+      "tvg_id": null,
+      "tvg_chno": 7818,
+      "name_ar": "TNH",
+      "name_en": "TNH",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVPanou.ht",
+      "code": "TVP-HT-001",
+      "index": 8205,
+      "tvg_id": null,
+      "tvg_chno": 8305,
+      "name_ar": "TV Panou",
+      "name_en": "TV Panou",
+      "country": "HT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

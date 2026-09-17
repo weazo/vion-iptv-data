@@ -1,0 +1,142 @@
+{
+  "version": "1.0.0",
+  "country": "BH",
+  "total_channels": 5,
+  "channels": [
+    {
+      "id": "BahrainInternational.bh",
+      "code": "BAH-BH-001",
+      "index": 827,
+      "tvg_id": null,
+      "tvg_chno": 927,
+      "name_ar": "Bahrain International",
+      "name_en": "Bahrain International",
+      "country": "BH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BahrainQuran.bh",
+      "code": "BAH-BH-002",
+      "index": 828,
+      "tvg_id": null,
+      "tvg_chno": 928,
+      "name_ar": "Bahrain Quran",
+      "name_en": "Bahrain Quran",
+      "country": "BH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BahrainSports1.bh",
+      "code": "BAH-BH-003",
+      "index": 829,
+      "tvg_id": null,
+      "tvg_chno": 929,
+      "name_ar": "Bahrain Sports 1",
+      "name_en": "Bahrain Sports 1",
+      "country": "BH",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BahrainSports2.bh",
+      "code": "BAH-BH-004",
+      "index": 830,
+      "tvg_id": null,
+      "tvg_chno": 930,
+      "name_ar": "Bahrain Sports 2",
+      "name_en": "Bahrain Sports 2",
+      "country": "BH",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BahrainTV.bh",
+      "code": "BAH-BH-005",
+      "index": 831,
+      "tvg_id": null,
+      "tvg_chno": 931,
+      "name_ar": "Bahrain TV",
+      "name_en": "Bahrain TV",
+      "country": "BH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

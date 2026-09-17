@@ -1,0 +1,1239 @@
+{
+  "version": "1.0.0",
+  "country": "KZ",
+  "total_channels": 40,
+  "channels": [
+    {
+      "id": "24KZ.kz",
+      "code": "KZX-KZ-001",
+      "index": 43,
+      "tvg_id": null,
+      "tvg_chno": 143,
+      "name_ar": "24KZ",
+      "name_en": "24KZ",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "31Kanal.kz",
+      "code": "KAN-KZ-001",
+      "index": 70,
+      "tvg_id": null,
+      "tvg_chno": 170,
+      "name_ar": "31 Kanal",
+      "name_en": "31 Kanal",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/388/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AbaiTV.kz",
+      "code": "ABA-KZ-001",
+      "index": 188,
+      "tvg_id": null,
+      "tvg_chno": 288,
+      "name_ar": "Abai TV",
+      "name_en": "Abai TV",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlauTV.kz",
+      "code": "ALA-KZ-001",
+      "index": 357,
+      "tvg_id": null,
+      "tvg_chno": 457,
+      "name_ar": "Alau TV",
+      "name_en": "Alau TV",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://otv.wotom.net/alau/stream.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlmatyTV.kz",
+      "code": "ALM-KZ-001",
+      "index": 445,
+      "tvg_id": null,
+      "tvg_chno": 545,
+      "name_ar": "Almaty TV",
+      "name_en": "Almaty TV",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Aqjaiyq.kz",
+      "code": "AQJ-KZ-001",
+      "index": 620,
+      "tvg_id": null,
+      "tvg_chno": 720,
+      "name_ar": "Aqjaiyq",
+      "name_en": "Aqjaiyq",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/oraltv/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Aqtobe.kz",
+      "code": "AQT-KZ-001",
+      "index": 622,
+      "tvg_id": null,
+      "tvg_chno": 722,
+      "name_ar": "Aqtobe",
+      "name_en": "Aqtobe",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/aktobetv/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AstanaTV.kz",
+      "code": "AST-KZ-001",
+      "index": 704,
+      "tvg_id": null,
+      "tvg_chno": 804,
+      "name_ar": "Astana TV",
+      "name_en": "Astana TV",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/28/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AtamekenBusiness.kz",
+      "code": "ATA-KZ-001",
+      "index": 716,
+      "tvg_id": null,
+      "tvg_chno": 816,
+      "name_ar": "Atameken Business",
+      "name_en": "Atameken Business",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Atyray.kz",
+      "code": "ATY-KZ-001",
+      "index": 741,
+      "tvg_id": null,
+      "tvg_chno": 841,
+      "name_ar": "Atyray",
+      "name_en": "Atyray",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/atyrautv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Balapan.kz",
+      "code": "BAL-KZ-001",
+      "index": 838,
+      "tvg_id": null,
+      "tvg_chno": 938,
+      "name_ar": "Balapan",
+      "name_en": "Balapan",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BalapanInternational.kz",
+      "code": "BAL-KZ-002",
+      "index": 839,
+      "tvg_id": null,
+      "tvg_chno": 939,
+      "name_ar": "Balapan International",
+      "name_en": "Balapan International",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-3.otcnet.ru/Balapan/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ertis.kz",
+      "code": "ERT-KZ-001",
+      "index": 2516,
+      "tvg_id": null,
+      "tvg_chno": 2616,
+      "name_ar": "Ertis",
+      "name_en": "Ertis",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Jambyl.kz",
+      "code": "JAM-KZ-001",
+      "index": 3494,
+      "tvg_id": null,
+      "tvg_chno": 3594,
+      "name_ar": "Jambyl",
+      "name_en": "Jambyl",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/taraztv/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JibekJoly.kz",
+      "code": "JIB-KZ-001",
+      "index": 3538,
+      "tvg_id": null,
+      "tvg_chno": 3638,
+      "name_ar": "Jibek Joly",
+      "name_en": "Jibek Joly",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Khabar.kz",
+      "code": "KHA-KZ-001",
+      "index": 3702,
+      "tvg_id": null,
+      "tvg_chno": 3802,
+      "name_ar": "Khabar",
+      "name_en": "Khabar",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kokshe.kz",
+      "code": "KOK-KZ-001",
+      "index": 3782,
+      "tvg_id": null,
+      "tvg_chno": 3882,
+      "name_ar": "Kokshe",
+      "name_en": "Kokshe",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KTK.kz",
+      "code": "KTK-KZ-001",
+      "index": 3818,
+      "tvg_id": null,
+      "tvg_chno": 3918,
+      "name_ar": "KTK",
+      "name_en": "KTK",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/26/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Mangystay.kz",
+      "code": "MAN-KZ-001",
+      "index": 4185,
+      "tvg_id": null,
+      "tvg_chno": 4285,
+      "name_ar": "Mangystay",
+      "name_en": "Mangystay",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/mangystautv/index.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MTRK.kz",
+      "code": "MTR-KZ-001",
+      "index": 4552,
+      "tvg_id": null,
+      "tvg_chno": 4652,
+      "name_ar": "MTRK",
+      "name_en": "MTRK",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MuzzOne.kz",
+      "code": "MUZ-KZ-001",
+      "index": 4639,
+      "tvg_id": null,
+      "tvg_chno": 4739,
+      "name_ar": "MuzzOne",
+      "name_en": "MuzzOne",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NickelodeonCIS.kz",
+      "code": "NIC-KZ-001",
+      "index": 4850,
+      "tvg_id": null,
+      "tvg_chno": 4950,
+      "name_ar": "Nickelodeon CIS",
+      "name_en": "Nickelodeon CIS",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Novoetelevidenie.kz",
+      "code": "NOV-KZ-001",
+      "index": 4937,
+      "tvg_id": null,
+      "tvg_chno": 5037,
+      "name_ar": "Novoe televidenie",
+      "name_en": "Novoe televidenie",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NTK.kz",
+      "code": "NTK-KZ-001",
+      "index": 4973,
+      "tvg_id": null,
+      "tvg_chno": 5073,
+      "name_ar": "NTK",
+      "name_en": "NTK",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/389/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.ntktv.ua/s/ntk/ntk.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ontustik.kz",
+      "code": "ONT-KZ-001",
+      "index": 5136,
+      "tvg_id": null,
+      "tvg_chno": 5236,
+      "name_ar": "Ontustik",
+      "name_en": "Ontustik",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Qazaqstan.kz",
+      "code": "QAZ-KZ-001",
+      "index": 5851,
+      "tvg_id": null,
+      "tvg_chno": 5951,
+      "name_ar": "Qazaqstan",
+      "name_en": "Qazaqstan",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/71/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QazaqstanInternational.kz",
+      "code": "QAZ-KZ-002",
+      "index": 5852,
+      "tvg_id": null,
+      "tvg_chno": 5952,
+      "name_ar": "Qazaqstan International",
+      "name_en": "Qazaqstan International",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QazSport.kz",
+      "code": "QAZ-KZ-003",
+      "index": 5853,
+      "tvg_id": null,
+      "tvg_chno": 5953,
+      "name_ar": "QazSport",
+      "name_en": "QazSport",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/72/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QonaevMedia.kz",
+      "code": "QON-KZ-001",
+      "index": 5861,
+      "tvg_id": null,
+      "tvg_chno": 5961,
+      "name_ar": "Qonaev Media",
+      "name_en": "Qonaev Media",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://s.qonaevtv.kz/live/qonaev/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Qostanai.kz",
+      "code": "QOS-KZ-001",
+      "index": 5863,
+      "tvg_id": null,
+      "tvg_chno": 5963,
+      "name_ar": "Qostanai",
+      "name_en": "Qostanai",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Qyzyljar.kz",
+      "code": "QYZ-KZ-001",
+      "index": 5892,
+      "tvg_id": null,
+      "tvg_chno": 5992,
+      "name_ar": "Qyzyljar",
+      "name_en": "Qyzyljar",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/petropavltv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Qyzylorda.kz",
+      "code": "QYZ-KZ-002",
+      "index": 5893,
+      "tvg_id": null,
+      "tvg_chno": 5993,
+      "name_ar": "Qyzylorda",
+      "name_en": "Qyzylorda",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RikaTV.kz",
+      "code": "RIK-KZ-001",
+      "index": 6259,
+      "tvg_id": null,
+      "tvg_chno": 6359,
+      "name_ar": "Rika TV",
+      "name_en": "Rika TV",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Saryarqa.kz",
+      "code": "SAR-KZ-001",
+      "index": 6594,
+      "tvg_id": null,
+      "tvg_chno": 6694,
+      "name_ar": "Saryarqa",
+      "name_en": "Saryarqa",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/karagandytv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Semei.kz",
+      "code": "SEM-KZ-001",
+      "index": 6659,
+      "tvg_id": null,
+      "tvg_chno": 6759,
+      "name_ar": "Semei",
+      "name_en": "Semei",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SilkWay.kz",
+      "code": "SIL-KZ-001",
+      "index": 6780,
+      "tvg_id": null,
+      "tvg_chno": 6880,
+      "name_ar": "Silk Way",
+      "name_en": "Silk Way",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SilkWayCinema.kz",
+      "code": "SIL-KZ-002",
+      "index": 6781,
+      "tvg_id": null,
+      "tvg_chno": 6881,
+      "name_ar": "Silk Way Cinema",
+      "name_en": "Silk Way Cinema",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TDK42.kz",
+      "code": "TDK-KZ-001",
+      "index": 7314,
+      "tvg_id": null,
+      "tvg_chno": 7414,
+      "name_ar": "TDK 42",
+      "name_en": "TDK 42",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TuranTV.kz",
+      "code": "TUR-KZ-001",
+      "index": 7878,
+      "tvg_id": null,
+      "tvg_chno": 7978,
+      "name_ar": "Turan TV",
+      "name_en": "Turan TV",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ulytau.kz",
+      "code": "ULY-KZ-001",
+      "index": 8407,
+      "tvg_id": null,
+      "tvg_chno": 8507,
+      "name_ar": "Ulytau",
+      "name_en": "Ulytau",
+      "country": "KZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ulytau.tv/hls/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

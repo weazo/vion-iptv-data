@@ -1,0 +1,2246 @@
+{
+  "version": "1.0.0",
+  "country": "GR",
+  "total_channels": 77,
+  "channels": [
+    {
+      "id": "4E.gr",
+      "code": "EXX-GR-001",
+      "index": 102,
+      "tvg_id": null,
+      "tvg_chno": 202,
+      "name_ar": "4E",
+      "name_en": "4E",
+      "country": "GR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AcheloosTV.gr",
+      "code": "ACH-GR-001",
+      "index": 247,
+      "tvg_id": null,
+      "tvg_chno": 347,
+      "name_ar": "Acheloos TV",
+      "name_en": "Acheloos TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://acheloostv.streamings.gr/live/stream/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Action24.gr",
+      "code": "ACT-GR-001",
+      "index": 250,
+      "tvg_id": null,
+      "tvg_chno": 350,
+      "name_ar": "Action 24",
+      "name_en": "Action 24",
+      "country": "GR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AeolosTV.gr",
+      "code": "AEO-GR-001",
+      "index": 272,
+      "tvg_id": null,
+      "tvg_chno": 372,
+      "name_ar": "Aeolos TV",
+      "name_en": "Aeolos TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AigaioTV.gr",
+      "code": "AIG-GR-001",
+      "index": 321,
+      "tvg_id": null,
+      "tvg_chno": 421,
+      "name_ar": "Aigaio TV",
+      "name_en": "Aigaio TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlertTV.gr",
+      "code": "ALE-GR-001",
+      "index": 376,
+      "tvg_id": null,
+      "tvg_chno": 476,
+      "name_ar": "Alert TV",
+      "name_en": "Alert TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ANT1.gr",
+      "code": "ANT-GR-001",
+      "index": 577,
+      "tvg_id": null,
+      "tvg_chno": 677,
+      "name_ar": "ANT1",
+      "name_en": "ANT1",
+      "country": "GR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ART.gr",
+      "code": "ART-GR-001",
+      "index": 665,
+      "tvg_id": null,
+      "tvg_chno": 765,
+      "name_ar": "ART",
+      "name_en": "ART",
+      "country": "GR",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rtmp.win:3696/live/arttvgrlive.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AstraTV.gr",
+      "code": "AST-GR-001",
+      "index": 709,
+      "tvg_id": null,
+      "tvg_chno": 809,
+      "name_ar": "Astra TV",
+      "name_en": "Astra TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://server.gointernet.gr/live/livestream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BarazaTV.gr",
+      "code": "BAR-GR-001",
+      "index": 862,
+      "tvg_id": null,
+      "tvg_chno": 962,
+      "name_ar": "Baraza TV",
+      "name_en": "Baraza TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BarazaTVDeepHouse.gr",
+      "code": "BAR-GR-002",
+      "index": 863,
+      "tvg_id": null,
+      "tvg_chno": 963,
+      "name_ar": "Baraza TV Deep House",
+      "name_en": "Baraza TV Deep House",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BarazaTVRelaxing.gr",
+      "code": "BAR-GR-003",
+      "index": 864,
+      "tvg_id": null,
+      "tvg_chno": 964,
+      "name_ar": "Baraza TV Relaxing",
+      "name_en": "Baraza TV Relaxing",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BestTV.gr",
+      "code": "BES-GR-001",
+      "index": 984,
+      "tvg_id": null,
+      "tvg_chno": 1084,
+      "name_ar": "Best TV",
+      "name_en": "Best TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BlueSkyTV.gr",
+      "code": "BLU-GR-001",
+      "index": 1062,
+      "tvg_id": null,
+      "tvg_chno": 1162,
+      "name_ar": "Blue Sky TV",
+      "name_en": "Blue Sky TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CenterTV.gr",
+      "code": "CEN-GR-001",
+      "index": 1598,
+      "tvg_id": null,
+      "tvg_chno": 1698,
+      "name_ar": "Center TV",
+      "name_en": "Center TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eu1.streams.gr:8081/centertv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CorfuChannel.gr",
+      "code": "COR-GR-001",
+      "index": 1924,
+      "tvg_id": null,
+      "tvg_chno": 2024,
+      "name_ar": "Corfu Channel",
+      "name_en": "Corfu Channel",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DionTV.gr",
+      "code": "DIO-GR-001",
+      "index": 2215,
+      "tvg_id": null,
+      "tvg_chno": 2315,
+      "name_ar": "Dion TV",
+      "name_en": "Dion TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.win:3650/live/diontvlive.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/@diontileorash/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EgnatiaTV.gr",
+      "code": "EGN-GR-001",
+      "index": 2405,
+      "tvg_id": null,
+      "tvg_chno": 2505,
+      "name_ar": "Egnatia TV",
+      "name_en": "Egnatia TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EllinikosFM.gr",
+      "code": "ELL-GR-001",
+      "index": 2441,
+      "tvg_id": null,
+      "tvg_chno": 2541,
+      "name_ar": "Ellinikos FM",
+      "name_en": "Ellinikos FM",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EpilogesTV.gr",
+      "code": "EPI-GR-001",
+      "index": 2506,
+      "tvg_id": null,
+      "tvg_chno": 2606,
+      "name_ar": "Epiloges TV",
+      "name_en": "Epiloges TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EpirusTV1.gr",
+      "code": "EPI-GR-002",
+      "index": 2507,
+      "tvg_id": null,
+      "tvg_chno": 2607,
+      "name_ar": "Epirus TV1",
+      "name_en": "Epirus TV1",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.win:3929/live/epiruslive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ERT3.gr",
+      "code": "ERT-GR-001",
+      "index": 2514,
+      "tvg_id": null,
+      "tvg_chno": 2614,
+      "name_ar": "ERT3",
+      "name_en": "ERT3",
+      "country": "GR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ERTCosmos.gr",
+      "code": "ERT-GR-002",
+      "index": 2515,
+      "tvg_id": null,
+      "tvg_chno": 2615,
+      "name_ar": "ERT Cosmos",
+      "name_en": "ERT Cosmos",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ERTNews.gr",
+      "code": "ERT-GR-003",
+      "index": 2517,
+      "tvg_id": null,
+      "tvg_chno": 2617,
+      "name_ar": "ERT News",
+      "name_en": "ERT News",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ERTSports1.gr",
+      "code": "ERT-GR-004",
+      "index": 2518,
+      "tvg_id": null,
+      "tvg_chno": 2618,
+      "name_ar": "ERT Sports 1",
+      "name_en": "ERT Sports 1",
+      "country": "GR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ERTSports2.gr",
+      "code": "ERT-GR-005",
+      "index": 2519,
+      "tvg_id": null,
+      "tvg_chno": 2619,
+      "name_ar": "ERT Sports 2",
+      "name_en": "ERT Sports 2",
+      "country": "GR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ExtraProNews.gr",
+      "code": "EXT-GR-001",
+      "index": 2635,
+      "tvg_id": null,
+      "tvg_chno": 2735,
+      "name_ar": "Extra ProNews",
+      "name_en": "Extra ProNews",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://62.1.176.18:8888/extra/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FarosTV2.gr",
+      "code": "FAR-GR-001",
+      "index": 2665,
+      "tvg_id": null,
+      "tvg_chno": 2765,
+      "name_ar": "Faros TV2",
+      "name_en": "Faros TV2",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GnomiTV.gr",
+      "code": "GNO-GR-001",
+      "index": 2958,
+      "tvg_id": null,
+      "tvg_chno": 3058,
+      "name_ar": "Gnomi TV",
+      "name_en": "Gnomi TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GroovyTV.gr",
+      "code": "GRO-GR-001",
+      "index": 3019,
+      "tvg_id": null,
+      "tvg_chno": 3119,
+      "name_ar": "Groovy TV",
+      "name_en": "Groovy TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HellenicParliamentTV.gr",
+      "code": "HEL-GR-001",
+      "index": 3129,
+      "tvg_id": null,
+      "tvg_chno": 3229,
+      "name_ar": "Hellenic Parliament TV",
+      "name_en": "Hellenic Parliament TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IonianTV.gr",
+      "code": "ION-GR-001",
+      "index": 3414,
+      "tvg_id": null,
+      "tvg_chno": 3514,
+      "name_ar": "Ionian TV",
+      "name_en": "Ionian TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KontraChannel.gr",
+      "code": "KON-GR-001",
+      "index": 3795,
+      "tvg_id": null,
+      "tvg_chno": 3895,
+      "name_ar": "Kontra Channel",
+      "name_en": "Kontra Channel",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KosTV.gr",
+      "code": "KOS-GR-001",
+      "index": 3803,
+      "tvg_id": null,
+      "tvg_chno": 3903,
+      "name_ar": "Kos TV",
+      "name_en": "Kos TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eu1.streams.gr:8081/kostv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KritiTV.gr",
+      "code": "KRI-GR-001",
+      "index": 3812,
+      "tvg_id": null,
+      "tvg_chno": 3912,
+      "name_ar": "Kriti TV",
+      "name_en": "Kriti TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LepantoTV.gr",
+      "code": "LEP-GR-001",
+      "index": 3984,
+      "tvg_id": null,
+      "tvg_chno": 4084,
+      "name_ar": "Lepanto TV",
+      "name_en": "Lepanto TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MesogeiosTV.gr",
+      "code": "MES-GR-001",
+      "index": 4341,
+      "tvg_id": null,
+      "tvg_chno": 4441,
+      "name_ar": "Mesogeios TV",
+      "name_en": "Mesogeios TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MessatidaTV.gr",
+      "code": "MES-GR-002",
+      "index": 4342,
+      "tvg_id": null,
+      "tvg_chno": 4442,
+      "name_ar": "Messatida TV",
+      "name_en": "Messatida TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.streams.ovh:8081/mtv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NaftemporikiTV.gr",
+      "code": "NAF-GR-001",
+      "index": 4671,
+      "tvg_id": null,
+      "tvg_chno": 4771,
+      "name_ar": "Naftemporiki TV",
+      "name_en": "Naftemporiki TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NeaTV.gr",
+      "code": "NEA-GR-001",
+      "index": 4758,
+      "tvg_id": null,
+      "tvg_chno": 4858,
+      "name_ar": "Nea TV",
+      "name_en": "Nea TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NetmaxTV.gr",
+      "code": "NET-GR-001",
+      "index": 4770,
+      "tvg_id": null,
+      "tvg_chno": 4870,
+      "name_ar": "Netmax TV",
+      "name_en": "Netmax TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NotioiTV.gr",
+      "code": "NOT-GR-001",
+      "index": 4921,
+      "tvg_id": null,
+      "tvg_chno": 5021,
+      "name_ar": "Notioi TV",
+      "name_en": "Notioi TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://srv.streamserver.gr:3451/stream/play.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NRG91.gr",
+      "code": "NRG-GR-001",
+      "index": 4952,
+      "tvg_id": null,
+      "tvg_chno": 5052,
+      "name_ar": "NRG 91",
+      "name_en": "NRG 91",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PanikTV.gr",
+      "code": "PAN-GR-001",
+      "index": 5224,
+      "tvg_id": null,
+      "tvg_chno": 5324,
+      "name_ar": "Panik TV",
+      "name_en": "Panik TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PellaTV.gr",
+      "code": "PEL-GR-001",
+      "index": 5291,
+      "tvg_id": null,
+      "tvg_chno": 5391,
+      "name_ar": "Pella TV",
+      "name_en": "Pella TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ReloadPlay.gr",
+      "code": "REL-GR-001",
+      "index": 6196,
+      "tvg_id": null,
+      "tvg_chno": 6296,
+      "name_ar": "Reload Play",
+      "name_en": "Reload Play",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SamiakiTV.gr",
+      "code": "SAM-GR-001",
+      "index": 6549,
+      "tvg_id": null,
+      "tvg_chno": 6649,
+      "name_ar": "Samiaki TV",
+      "name_en": "Samiaki TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StarChannelInternational.gr",
+      "code": "STA-GR-001",
+      "index": 7013,
+      "tvg_id": null,
+      "tvg_chno": 7113,
+      "name_ar": "Star Channel International",
+      "name_en": "Star Channel International",
+      "country": "GR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StarKentrikisElladas.gr",
+      "code": "STA-GR-002",
+      "index": 7022,
+      "tvg_id": null,
+      "tvg_chno": 7122,
+      "name_ar": "Star Kentrikis Elladas",
+      "name_en": "Star Kentrikis Elladas",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StartTV.gr",
+      "code": "STA-GR-003",
+      "index": 7045,
+      "tvg_id": null,
+      "tvg_chno": 7145,
+      "name_ar": "Start TV",
+      "name_en": "Start TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SyrosTV1.gr",
+      "code": "SYR-GR-001",
+      "index": 7237,
+      "tvg_id": null,
+      "tvg_chno": 7337,
+      "name_ar": "Syros TV1",
+      "name_en": "Syros TV1",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Telekriti.gr",
+      "code": "TEL-GR-001",
+      "index": 7409,
+      "tvg_id": null,
+      "tvg_chno": 7509,
+      "name_ar": "Telekriti",
+      "name_en": "Telekriti",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://neon.streams.gr:8081/telekriti/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ThrakiNetTV.gr",
+      "code": "THR-GR-001",
+      "index": 7660,
+      "tvg_id": null,
+      "tvg_chno": 7760,
+      "name_ar": "Thraki Net TV",
+      "name_en": "Thraki Net TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRT.gr",
+      "code": "TRT-GR-001",
+      "index": 7833,
+      "tvg_id": null,
+      "tvg_chno": 7933,
+      "name_ar": "TRT",
+      "name_en": "TRT",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://av.hellasnet.tv/rst/trt/main_stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://av.hellasnet.tv/rst/trt/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV100.gr",
+      "code": "TVX-GR-001",
+      "index": 7895,
+      "tvg_id": null,
+      "tvg_chno": 7995,
+      "name_ar": "TV 100",
+      "name_en": "TV 100",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gwebstream.net/hls/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCreta.gr",
+      "code": "TVC-GR-001",
+      "index": 8035,
+      "tvg_id": null,
+      "tvg_chno": 8135,
+      "name_ar": "TV Creta",
+      "name_en": "TV Creta",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VerginaTV.gr",
+      "code": "VER-GR-001",
+      "index": 8559,
+      "tvg_id": null,
+      "tvg_chno": 8659,
+      "name_ar": "Vergina TV",
+      "name_en": "Vergina TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://verginanews.gr:8443/hls_live/stream1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Xplore.gr",
+      "code": "XPL-GR-001",
+      "index": 8866,
+      "tvg_id": null,
+      "tvg_chno": 8966,
+      "name_ar": "Xplore",
+      "name_en": "Xplore",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8",
+          "quality": "714p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZouglaTV.gr",
+      "code": "ZOU-GR-001",
+      "index": 9018,
+      "tvg_id": null,
+      "tvg_chno": 9118,
+      "name_ar": "Zougla TV",
+      "name_en": "Zougla TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ert1",
+      "code": "ERT-GR-006",
+      "index": 9225,
+      "tvg_id": null,
+      "tvg_chno": 9325,
+      "name_ar": "ERT 1 Ⓖ",
+      "name_en": "ERT 1 Ⓖ",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/WWMe8IY.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ert2",
+      "code": "ERT-GR-007",
+      "index": 9226,
+      "tvg_id": null,
+      "tvg_chno": 9326,
+      "name_ar": "ERT 2 Ⓖ",
+      "name_en": "ERT 2 Ⓖ",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/pcusPFl.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ertsports3",
+      "code": "ERT-GR-008",
+      "index": 9227,
+      "tvg_id": null,
+      "tvg_chno": 9327,
+      "name_ar": "ERT Sports 3",
+      "name_en": "ERT Sports 3",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/gebWmAB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ertsports4",
+      "code": "ERT-GR-009",
+      "index": 9228,
+      "tvg_id": null,
+      "tvg_chno": 9328,
+      "name_ar": "ERT Sports 4",
+      "name_en": "ERT Sports 4",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/gebWmAB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ertkids",
+      "code": "ERT-GR-010",
+      "index": 9229,
+      "tvg_id": null,
+      "tvg_chno": 9329,
+      "name_ar": "ERT Kids Ⓖ",
+      "name_en": "ERT Kids Ⓖ",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/XkSR66q.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.mpd",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "meganews",
+      "code": "MEG-GR-001",
+      "index": 9230,
+      "tvg_id": null,
+      "tvg_chno": 9330,
+      "name_ar": "Mega News",
+      "name_en": "Mega News",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/Z3k7iA0.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "skai",
+      "code": "SKA-GR-001",
+      "index": 9231,
+      "tvg_id": null,
+      "tvg_chno": 9331,
+      "name_ar": "Skai TV",
+      "name_en": "Skai TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/TSg7B8X.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://skai-live.siliconweb.com/media/cambria4/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "op",
+      "code": "OPE-GR-001",
+      "index": 9232,
+      "tvg_id": null,
+      "tvg_chno": 9332,
+      "name_ar": "Open TV",
+      "name_en": "Open TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/HzBmvPT.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "mak",
+      "code": "MAK-GR-001",
+      "index": 9233,
+      "tvg_id": null,
+      "tvg_chno": 9333,
+      "name_ar": "MAK TV",
+      "name_en": "MAK TV",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/90iDHbQ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "mad",
+      "code": "MAD-GR-001",
+      "index": 9234,
+      "tvg_id": null,
+      "tvg_chno": 9334,
+      "name_ar": "Mad Ⓨ",
+      "name_en": "Mad Ⓨ",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/OTTxxGe.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/c/madtvgreece/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "pontos",
+      "code": "PON-GR-001",
+      "index": 9235,
+      "tvg_id": null,
+      "tvg_chno": 9335,
+      "name_ar": "Pontos",
+      "name_en": "Pontos",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/sbTxP6o.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@PontosTV/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "hlektra",
+      "code": "HLE-GR-001",
+      "index": 9236,
+      "tvg_id": null,
+      "tvg_chno": 9336,
+      "name_ar": "Hlektra",
+      "name_en": "Hlektra",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/LbogUPS.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "lychnos",
+      "code": "LYC-GR-001",
+      "index": 9237,
+      "tvg_id": null,
+      "tvg_chno": 9337,
+      "name_ar": "Lychnos",
+      "name_en": "Lychnos",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "hhttps://i.imgur.com/JYSlBfY.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://thor.mental-media.gr:19360/imp/imp.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "epsilon",
+      "code": "EPS-GR-001",
+      "index": 9238,
+      "tvg_id": null,
+      "tvg_chno": 9338,
+      "name_ar": "Epsilon",
+      "name_en": "Epsilon",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/vUQSDvZ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://neon.streams.gr:8081/epsilontv/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "91nrg",
+      "code": "NRG-GR-002",
+      "index": 9239,
+      "tvg_id": null,
+      "tvg_chno": 9339,
+      "name_ar": "91NRG",
+      "name_en": "91NRG",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/g1pCRRG.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "thessalia",
+      "code": "THE-GR-001",
+      "index": 9240,
+      "tvg_id": null,
+      "tvg_chno": 9340,
+      "name_ar": "Thessalia",
+      "name_en": "Thessalia",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/KXz67LY.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/c/thessaliatv1/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "deltaevros",
+      "code": "DEL-GR-001",
+      "index": 9241,
+      "tvg_id": null,
+      "tvg_chno": 9341,
+      "name_ar": "Delta Evros",
+      "name_en": "Delta Evros",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/PDfSkRF.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "kriti1",
+      "code": "KRI-GR-002",
+      "index": 9242,
+      "tvg_id": null,
+      "tvg_chno": 9342,
+      "name_ar": "Kriti 1",
+      "name_en": "Kriti 1",
+      "country": "GR",
+      "language": "unknown",
+      "category": "Greece",
+      "logo": "https://i.imgur.com/C1ucQeC.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.streams.ovh:8081/kriti/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "version": "1.0.0",
+  "country": "KH",
+  "total_channels": 20,
+  "channels": [
+    {
+      "id": "ApsaraTV11.kh",
+      "code": "APS-KH-001",
+      "index": 616,
+      "tvg_id": null,
+      "tvg_chno": 716,
+      "name_ar": "Apsara TV11",
+      "name_en": "Apsara TV11",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ARDBTV.kh",
+      "code": "ARD-KH-001",
+      "index": 635,
+      "tvg_id": null,
+      "tvg_chno": 735,
+      "name_ar": "ARDB TV",
+      "name_en": "ARDB TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BayonTV.kh",
+      "code": "BAY-KH-001",
+      "index": 877,
+      "tvg_id": null,
+      "tvg_chno": 977,
+      "name_ar": "Bayon TV",
+      "name_en": "Bayon TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BTVNews.kh",
+      "code": "BTV-KH-001",
+      "index": 1167,
+      "tvg_id": null,
+      "tvg_chno": 1267,
+      "name_ar": "BTV News",
+      "name_en": "BTV News",
+      "country": "KH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tvp22.sky4k.top/index1.php",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTN.kh",
+      "code": "CTN-KH-001",
+      "index": 1986,
+      "tvg_id": null,
+      "tvg_chno": 2086,
+      "name_ar": "CTN",
+      "name_en": "CTN",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTV8HD.kh",
+      "code": "CTV-KH-001",
+      "index": 1998,
+      "tvg_id": null,
+      "tvg_chno": 2098,
+      "name_ar": "CTV8 HD",
+      "name_en": "CTV8 HD",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTV9.kh",
+      "code": "CTV-KH-002",
+      "index": 1999,
+      "tvg_id": null,
+      "tvg_chno": 2099,
+      "name_ar": "CTV 9",
+      "name_en": "CTV 9",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DMusic.kh",
+      "code": "DMU-KH-001",
+      "index": 2262,
+      "tvg_id": null,
+      "tvg_chno": 2362,
+      "name_ar": "D Music",
+      "name_en": "D Music",
+      "country": "KH",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8",
+          "quality": "1280p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EACNewsTV.kh",
+      "code": "EAC-KH-001",
+      "index": 2365,
+      "tvg_id": null,
+      "tvg_chno": 2465,
+      "name_ar": "EAC News TV",
+      "name_en": "EAC News TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EBCGeneralEducation.kh",
+      "code": "EBC-KH-001",
+      "index": 2369,
+      "tvg_id": null,
+      "tvg_chno": 2469,
+      "name_ar": "EBC General Education",
+      "name_en": "EBC General Education",
+      "country": "KH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://iptv.ebc.edu.kh/iptv/channel/1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FreshNews.kh",
+      "code": "FRE-KH-001",
+      "index": 2821,
+      "tvg_id": null,
+      "tvg_chno": 2921,
+      "name_ar": "Fresh News",
+      "name_en": "Fresh News",
+      "country": "KH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HangMeasHDTV.kh",
+      "code": "HAN-KH-001",
+      "index": 3087,
+      "tvg_id": null,
+      "tvg_chno": 3187,
+      "name_ar": "Hang Meas HDTV",
+      "name_en": "Hang Meas HDTV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KomsanTV.kh",
+      "code": "KOM-KH-001",
+      "index": 3792,
+      "tvg_id": null,
+      "tvg_chno": 3892,
+      "name_ar": "Komsan TV",
+      "name_en": "Komsan TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MSJTV.kh",
+      "code": "MSJ-KH-001",
+      "index": 4533,
+      "tvg_id": null,
+      "tvg_chno": 4633,
+      "name_ar": "MSJ TV",
+      "name_en": "MSJ TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OneTVESchoolCambodia.kh",
+      "code": "ONE-KH-001",
+      "index": 5123,
+      "tvg_id": null,
+      "tvg_chno": 5223,
+      "name_ar": "One TV E-School Cambodia",
+      "name_en": "One TV E-School Cambodia",
+      "country": "KH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RasmeyHangMeasHDTV.kh",
+      "code": "RAS-KH-001",
+      "index": 6095,
+      "tvg_id": null,
+      "tvg_chno": 6195,
+      "name_ar": "Rasmey Hang Meas HDTV",
+      "name_en": "Rasmey Hang Meas HDTV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SangkemTV.kh",
+      "code": "SAN-KH-001",
+      "index": 6561,
+      "tvg_id": null,
+      "tvg_chno": 6661,
+      "name_ar": "Sangkem TV",
+      "name_en": "Sangkem TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.sangkemtv.com/memfs/sangkem.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SEATV.kh",
+      "code": "SEA-KH-001",
+      "index": 6653,
+      "tvg_id": null,
+      "tvg_chno": 6753,
+      "name_ar": "SEA TV",
+      "name_en": "SEA TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://seatv.netlinkbroadcaster.com/hls/test.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV5Cambodia.kh",
+      "code": "TVC-KH-001",
+      "index": 7926,
+      "tvg_id": null,
+      "tvg_chno": 8026,
+      "name_ar": "TV5 Cambodia",
+      "name_en": "TV5 Cambodia",
+      "country": "KH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WikiTV.kh",
+      "code": "WIK-KH-001",
+      "index": 8787,
+      "tvg_id": null,
+      "tvg_chno": 8887,
+      "name_ar": "Wiki TV",
+      "name_en": "Wiki TV",
+      "country": "KH",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

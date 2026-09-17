@@ -1,0 +1,266 @@
+{
+  "version": "1.0.0",
+  "country": "TT",
+  "total_channels": 9,
+  "channels": [
+    {
+      "id": "BizzTV.tt",
+      "code": "BIZ-TT-001",
+      "index": 1046,
+      "tvg_id": null,
+      "tvg_chno": 1146,
+      "name_ar": "Bizz TV",
+      "name_en": "Bizz TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RiddimHopeTV.tt",
+      "code": "RID-TT-001",
+      "index": 6249,
+      "tvg_id": null,
+      "tvg_chno": 6349,
+      "name_ar": "Riddim & Hope TV",
+      "name_en": "Riddim & Hope TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SankhyaTV.tt",
+      "code": "SAN-TT-001",
+      "index": 6566,
+      "tvg_id": null,
+      "tvg_chno": 6666,
+      "name_ar": "Sankhya TV",
+      "name_en": "Sankhya TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ScorchTV.tt",
+      "code": "SCO-TT-001",
+      "index": 6630,
+      "tvg_id": null,
+      "tvg_chno": 6730,
+      "name_ar": "Scorch TV",
+      "name_en": "Scorch TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TheIslamicNetwork.tt",
+      "code": "THE-TT-001",
+      "index": 7621,
+      "tvg_id": null,
+      "tvg_chno": 7721,
+      "name_ar": "The Islamic Network",
+      "name_en": "The Islamic Network",
+      "country": "TT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TrinityTV.tt",
+      "code": "TRI-TT-001",
+      "index": 7820,
+      "tvg_id": null,
+      "tvg_chno": 7920,
+      "name_ar": "Trinity TV",
+      "name_en": "Trinity TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "cnc3",
+      "code": "CNC-TT-001",
+      "index": 9748,
+      "tvg_id": null,
+      "tvg_chno": 9848,
+      "name_ar": "CNC3",
+      "name_en": "CNC3",
+      "country": "TT",
+      "language": "unknown",
+      "category": "Trinidad",
+      "logo": "https://i.imgur.com/1E73l2j.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv-forwarders.7m.pl/get.php?x=CNC3",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "synergy",
+      "code": "SYN-TT-001",
+      "index": 9750,
+      "tvg_id": null,
+      "tvg_chno": 9850,
+      "name_ar": "Synergy TV",
+      "name_en": "Synergy TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "Trinidad",
+      "logo": "https://i.imgur.com/ugAy0UG.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv-forwarders.7m.pl/get.php?x=Synergy_TV",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ttt",
+      "code": "TTT-TT-001",
+      "index": 9751,
+      "tvg_id": null,
+      "tvg_chno": 9851,
+      "name_ar": "TTT",
+      "name_en": "TTT",
+      "country": "TT",
+      "language": "unknown",
+      "category": "Trinidad",
+      "logo": "https://i.imgur.com/rxf4x8J.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv-forwarders.7m.pl/get.php?x=TTT",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

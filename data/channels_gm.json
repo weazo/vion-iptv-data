@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "country": "GM",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "QTVGambia.gm",
+      "code": "QTV-GM-001",
+      "index": 5872,
+      "tvg_id": null,
+      "tvg_chno": 5972,
+      "name_ar": "QTV Gambia",
+      "name_en": "QTV Gambia",
+      "country": "GM",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://player.qtv.gm/hls/live.stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

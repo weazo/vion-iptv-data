@@ -1,0 +1,366 @@
+{
+  "version": "1.0.0",
+  "country": "LK",
+  "total_channels": 13,
+  "channels": [
+    {
+      "id": "AsiaTV.lk",
+      "code": "ASI-LK-001",
+      "index": 693,
+      "tvg_id": null,
+      "tvg_chno": 793,
+      "name_ar": "Asia TV",
+      "name_en": "Asia TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.asiatvnet.com/1/live/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CharanaTV.lk",
+      "code": "CHA-LK-001",
+      "index": 1644,
+      "tvg_id": null,
+      "tvg_chno": 1744,
+      "name_ar": "Charana TV",
+      "name_en": "Charana TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HiruTV.lk",
+      "code": "HIR-LK-001",
+      "index": 3154,
+      "tvg_id": null,
+      "tvg_chno": 3254,
+      "name_ar": "Hiru TV",
+      "name_en": "Hiru TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ImaiTV.lk",
+      "code": "IMA-LK-001",
+      "index": 3341,
+      "tvg_id": null,
+      "tvg_chno": 3441,
+      "name_ar": "Imai TV",
+      "name_en": "Imai TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MonaraTV.lk",
+      "code": "MON-LK-001",
+      "index": 4461,
+      "tvg_id": null,
+      "tvg_chno": 4561,
+      "name_ar": "Monara TV",
+      "name_en": "Monara TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NDTVLANKA.lk",
+      "code": "NDT-LK-001",
+      "index": 4752,
+      "tvg_id": null,
+      "tvg_chno": 4852,
+      "name_ar": "NDTV LANKA",
+      "name_en": "NDTV LANKA",
+      "country": "LK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ShraddhaTV.lk",
+      "code": "SHR-LK-001",
+      "index": 6762,
+      "tvg_id": null,
+      "tvg_chno": 6862,
+      "name_ar": "Shraddha TV",
+      "name_en": "Shraddha TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SiyathaTV.lk",
+      "code": "SIY-LK-001",
+      "index": 6808,
+      "tvg_id": null,
+      "tvg_chno": 6908,
+      "name_ar": "Siyatha TV",
+      "name_en": "Siyatha TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StarTamilTelevision.lk",
+      "code": "STA-LK-001",
+      "index": 7037,
+      "tvg_id": null,
+      "tvg_chno": 7137,
+      "name_ar": "Star Tamil Television",
+      "name_en": "Star Tamil Television",
+      "country": "LK",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Swarnavahini.lk",
+      "code": "SWA-LK-001",
+      "index": 7203,
+      "tvg_id": null,
+      "tvg_chno": 7303,
+      "name_ar": "Swarnavahini",
+      "name_en": "Swarnavahini",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://teledrama.ebc.lk/TTT/proxy.php",
+          "quality": "480p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TalentTV.lk",
+      "code": "TAL-LK-001",
+      "index": 7262,
+      "tvg_id": null,
+      "tvg_chno": 7362,
+      "name_ar": "Talent TV",
+      "name_en": "Talent TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TheBuddhist.lk",
+      "code": "THE-LK-001",
+      "index": 7600,
+      "tvg_id": null,
+      "tvg_chno": 7700,
+      "name_ar": "The Buddhist",
+      "name_en": "The Buddhist",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VerbumTV.lk",
+      "code": "VER-LK-001",
+      "index": 8558,
+      "tvg_id": null,
+      "tvg_chno": 8658,
+      "name_ar": "Verbum TV",
+      "name_en": "Verbum TV",
+      "country": "LK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

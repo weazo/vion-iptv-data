@@ -1,0 +1,4269 @@
+{
+  "version": "1.0.0",
+  "country": "CA",
+  "total_channels": 130,
+  "channels": [
+    {
+      "id": "3ABNCanada.ca",
+      "code": "ABN-CA-001",
+      "index": 79,
+      "tvg_id": null,
+      "tvg_chno": 179,
+      "name_ar": "3ABN Canada",
+      "name_en": "3ABN Canada",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "5AABTV.ca",
+      "code": "AAB-CA-001",
+      "index": 117,
+      "tvg_id": null,
+      "tvg_chno": 217,
+      "name_ar": "5AAB TV",
+      "name_en": "5AAB TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AfghanNobelMovies.ca",
+      "code": "AFG-CA-001",
+      "index": 279,
+      "tvg_id": null,
+      "tvg_chno": 379,
+      "name_ar": "Afghan Nobel Movies",
+      "name_en": "Afghan Nobel Movies",
+      "country": "CA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AfghanNobelTV.ca",
+      "code": "AFG-CA-002",
+      "index": 280,
+      "tvg_id": null,
+      "tvg_chno": 380,
+      "name_ar": "Afghan Nobel TV",
+      "name_en": "Afghan Nobel TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AmazingDiscoveriesTV.ca",
+      "code": "AMA-CA-001",
+      "index": 501,
+      "tvg_id": null,
+      "tvg_chno": 601,
+      "name_ar": "Amazing Discoveries TV",
+      "name_en": "Amazing Discoveries TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8",
+          "quality": "270p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ApnaPunjabTV.ca",
+      "code": "APN-CA-001",
+      "index": 612,
+      "tvg_id": null,
+      "tvg_chno": 712,
+      "name_ar": "Apna Punjab TV",
+      "name_en": "Apna Punjab TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AzanTV.ca",
+      "code": "AZA-CA-001",
+      "index": 799,
+      "tvg_id": null,
+      "tvg_chno": 899,
+      "name_ar": "Azan TV",
+      "name_en": "Azan TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AzStarTV.ca",
+      "code": "AZS-CA-001",
+      "index": 803,
+      "tvg_id": null,
+      "tvg_chno": 903,
+      "name_ar": "Az Star TV",
+      "name_en": "Az Star TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BNNBloomberg.ca",
+      "code": "BNN-CA-001",
+      "index": 1070,
+      "tvg_id": null,
+      "tvg_chno": 1170,
+      "name_ar": "BNN Bloomberg",
+      "name_en": "BNN Bloomberg",
+      "country": "CA",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CanadaOne.ca",
+      "code": "CAN-CA-001",
+      "index": 1226,
+      "tvg_id": null,
+      "tvg_chno": 1326,
+      "name_ar": "Canada One",
+      "name_en": "Canada One",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CBCNewsNetwork.ca",
+      "code": "CBC-CA-001",
+      "index": 1517,
+      "tvg_id": null,
+      "tvg_chno": 1617,
+      "name_ar": "CBC News Network",
+      "name_en": "CBC News Network",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CBCTelevision.ca",
+      "code": "CBC-CA-002",
+      "index": 1520,
+      "tvg_id": null,
+      "tvg_chno": 1620,
+      "name_ar": "CBC Television",
+      "name_en": "CBC Television",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CHCHDT.ca",
+      "code": "CHC-CA-001",
+      "index": 1654,
+      "tvg_id": null,
+      "tvg_chno": 1754,
+      "name_ar": "CHCH-DT",
+      "name_en": "CHCH-DT",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.246.209.113/CHCHHD/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CHCOTV.ca",
+      "code": "CHC-CA-002",
+      "index": 1656,
+      "tvg_id": null,
+      "tvg_chno": 1756,
+      "name_ar": "CHCO-TV",
+      "name_en": "CHCO-TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CityNewsCalgary.ca",
+      "code": "CIT-CA-001",
+      "index": 1766,
+      "tvg_id": null,
+      "tvg_chno": 1866,
+      "name_ar": "CityNews Calgary",
+      "name_en": "CityNews Calgary",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CityNewsEdmonton.ca",
+      "code": "CIT-CA-002",
+      "index": 1767,
+      "tvg_id": null,
+      "tvg_chno": 1867,
+      "name_ar": "CityNews Edmonton",
+      "name_en": "CityNews Edmonton",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CityNewsToronto.ca",
+      "code": "CIT-CA-003",
+      "index": 1768,
+      "tvg_id": null,
+      "tvg_chno": 1868,
+      "name_ar": "CityNews Toronto",
+      "name_en": "CityNews Toronto",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CityNewsVancouver.ca",
+      "code": "CIT-CA-004",
+      "index": 1769,
+      "tvg_id": null,
+      "tvg_chno": 1869,
+      "name_ar": "CityNews Vancouver",
+      "name_en": "CityNews Vancouver",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CKNOFM.ca",
+      "code": "CKN-CA-001",
+      "index": 1788,
+      "tvg_id": null,
+      "tvg_chno": 1888,
+      "name_ar": "CKNO-FM",
+      "name_en": "CKNO-FM",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
+          "quality": "616p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CMalayalamTV.ca",
+      "code": "CMA-CA-001",
+      "index": 1818,
+      "tvg_id": null,
+      "tvg_chno": 1918,
+      "name_ar": "C Malayalam TV",
+      "name_en": "C Malayalam TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CottageLife.ca",
+      "code": "COT-CA-001",
+      "index": 1935,
+      "tvg_id": null,
+      "tvg_chno": 2035,
+      "name_ar": "Cottage Life",
+      "name_en": "Cottage Life",
+      "country": "CA",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.246.209.113/CottageLife/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CP24.ca",
+      "code": "CPX-CA-001",
+      "index": 1941,
+      "tvg_id": null,
+      "tvg_chno": 2041,
+      "name_ar": "CP24",
+      "name_en": "CP24",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://107.167.16.138/cp24/index.m3u8?token=test",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/cp24/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CPACEnglish.ca",
+      "code": "CPA-CA-001",
+      "index": 1942,
+      "tvg_id": null,
+      "tvg_chno": 2042,
+      "name_ar": "CPAC English",
+      "name_en": "CPAC English",
+      "country": "CA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTV2Atlantic.ca",
+      "code": "CTV-CA-001",
+      "index": 1996,
+      "tvg_id": null,
+      "tvg_chno": 2096,
+      "name_ar": "CTV 2 Atlantic",
+      "name_en": "CTV 2 Atlantic",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.cammonitorplus.net/1731/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTVLifeChannel.ca",
+      "code": "CTV-CA-002",
+      "index": 2000,
+      "tvg_id": null,
+      "tvg_chno": 2100,
+      "name_ar": "CTV Life Channel",
+      "name_en": "CTV Life Channel",
+      "country": "CA",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.246.209.113/ANIMALPLANETHD/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DesheBidesheTV.ca",
+      "code": "DES-CA-001",
+      "index": 2161,
+      "tvg_id": null,
+      "tvg_chno": 2261,
+      "name_ar": "DesheBideshe TV",
+      "name_en": "DesheBideshe TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DeshiTV.ca",
+      "code": "DES-CA-002",
+      "index": 2162,
+      "tvg_id": null,
+      "tvg_chno": 2262,
+      "name_ar": "Deshi TV",
+      "name_en": "Deshi TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DoyelTV.ca",
+      "code": "DOY-CA-001",
+      "index": 2301,
+      "tvg_id": null,
+      "tvg_chno": 2401,
+      "name_ar": "Doyel TV",
+      "name_en": "Doyel TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DukhNivaran.ca",
+      "code": "DUK-CA-001",
+      "index": 2336,
+      "tvg_id": null,
+      "tvg_chno": 2436,
+      "name_ar": "Dukh Nivaran",
+      "name_en": "Dukh Nivaran",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EawazTV.ca",
+      "code": "EAW-CA-001",
+      "index": 2367,
+      "tvg_id": null,
+      "tvg_chno": 2467,
+      "name_ar": "Eawaz TV",
+      "name_en": "Eawaz TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EETTV.ca",
+      "code": "EET-CA-001",
+      "index": 2402,
+      "tvg_id": null,
+      "tvg_chno": 2502,
+      "name_ar": "EET TV",
+      "name_en": "EET TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eu.streamjo.com/eetlive/eettv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ErfanHalghehTV.ca",
+      "code": "ERF-CA-001",
+      "index": 2512,
+      "tvg_id": null,
+      "tvg_chno": 2612,
+      "name_ar": "Erfan Halgheh TV",
+      "name_en": "Erfan Halgheh TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FEVATV.ca",
+      "code": "FEV-CA-001",
+      "index": 2699,
+      "tvg_id": null,
+      "tvg_chno": 2799,
+      "name_ar": "FEVA TV",
+      "name_en": "FEVA TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FightNetwork.ca",
+      "code": "FIG-CA-001",
+      "index": 2710,
+      "tvg_id": null,
+      "tvg_chno": 2810,
+      "name_ar": "Fight Network",
+      "name_en": "Fight Network",
+      "country": "CA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GamePlus.ca",
+      "code": "GAM-CA-001",
+      "index": 2863,
+      "tvg_id": null,
+      "tvg_chno": 2963,
+      "name_ar": "Game+",
+      "name_en": "Game+",
+      "country": "CA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GaundaPunjabTV.ca",
+      "code": "GAU-CA-001",
+      "index": 2876,
+      "tvg_id": null,
+      "tvg_chno": 2976,
+      "name_ar": "Gaunda Punjab TV",
+      "name_en": "Gaunda Punjab TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GTNCanada.ca",
+      "code": "GTN-CA-001",
+      "index": 3028,
+      "tvg_id": null,
+      "tvg_chno": 3128,
+      "name_ar": "GTN Canada",
+      "name_en": "GTN Canada",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8",
+          "quality": "1080i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GurSikhSabhaTV.ca",
+      "code": "GUR-CA-001",
+      "index": 3056,
+      "tvg_id": null,
+      "tvg_chno": 3156,
+      "name_ar": "GurSikh Sabha TV",
+      "name_en": "GurSikh Sabha TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GustoTV.ca",
+      "code": "GUS-CA-001",
+      "index": 3058,
+      "tvg_id": null,
+      "tvg_chno": 3158,
+      "name_ar": "Gusto TV",
+      "name_en": "Gusto TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://gusto-xumo.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HamdardTV.ca",
+      "code": "HAM-CA-001",
+      "index": 3082,
+      "tvg_id": null,
+      "tvg_chno": 3182,
+      "name_ar": "Hamdard TV",
+      "name_en": "Hamdard TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.hamdardtv.com/hamdard/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HardKnocks.ca",
+      "code": "HAR-CA-001",
+      "index": 3096,
+      "tvg_id": null,
+      "tvg_chno": 3196,
+      "name_ar": "Hard Knocks",
+      "name_en": "Hard Knocks",
+      "country": "CA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HauntTV.ca",
+      "code": "HAU-CA-001",
+      "index": 3107,
+      "tvg_id": null,
+      "tvg_chno": 3207,
+      "name_ar": "HauntTV",
+      "name_en": "HauntTV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg01446-blueantmediacan-haunttvaus-samsungnz-xo5xf.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaus-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Homeful.ca",
+      "code": "HOM-CA-001",
+      "index": 3218,
+      "tvg_id": null,
+      "tvg_chno": 3318,
+      "name_ar": "Homeful",
+      "name_en": "Homeful",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-67603668f433320008760af1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-62e92967cd663f0007e604fd.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HyderTV.ca",
+      "code": "HYD-CA-001",
+      "index": 3283,
+      "tvg_id": null,
+      "tvg_chno": 3383,
+      "name_ar": "Hyder TV",
+      "name_en": "Hyder TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.live247stream.com/hyder/tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IciRadioCanadaTele.ca",
+      "code": "ICI-CA-001",
+      "index": 3303,
+      "tvg_id": null,
+      "tvg_chno": 3403,
+      "name_ar": "Ici Radio-Canada Tele",
+      "name_en": "Ici Radio-Canada Tele",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IciRDI.ca",
+      "code": "ICI-CA-002",
+      "index": 3304,
+      "tvg_id": null,
+      "tvg_chno": 3404,
+      "name_ar": "Ici RDI",
+      "name_en": "Ici RDI",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ICnet1.ca",
+      "code": "ICN-CA-001",
+      "index": 3306,
+      "tvg_id": null,
+      "tvg_chno": 3406,
+      "name_ar": "ICnet 1",
+      "name_en": "ICnet 1",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://icnet1hls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ICnet2.ca",
+      "code": "ICN-CA-002",
+      "index": 3307,
+      "tvg_id": null,
+      "tvg_chno": 3407,
+      "name_ar": "ICnet 2",
+      "name_en": "ICnet 2",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://icnet2hls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "icnet3.ca",
+      "code": "ICN-CA-003",
+      "index": 3308,
+      "tvg_id": null,
+      "tvg_chno": 3408,
+      "name_ar": "icnet 3",
+      "name_en": "icnet 3",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ic3hls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IIPCTV.ca",
+      "code": "IIP-CA-001",
+      "index": 3328,
+      "tvg_id": null,
+      "tvg_chno": 3428,
+      "name_ar": "IIPC TV",
+      "name_en": "IIPC TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KidoodleTV.ca",
+      "code": "KID-CA-001",
+      "index": 3716,
+      "tvg_id": null,
+      "tvg_chno": 3816,
+      "name_ar": "Kidoodle.TV",
+      "name_en": "Kidoodle.TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KnowledgeNetwork.ca",
+      "code": "KNO-CA-001",
+      "index": 3774,
+      "tvg_id": null,
+      "tvg_chno": 3874,
+      "name_ar": "Knowledge Network",
+      "name_en": "Knowledge Network",
+      "country": "CA",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LCN.ca",
+      "code": "LCN-CA-001",
+      "index": 3960,
+      "tvg_id": null,
+      "tvg_chno": 4060,
+      "name_ar": "LCN",
+      "name_en": "LCN",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LegislativeAssemblyofBritishColumbia.ca",
+      "code": "LEG-CA-001",
+      "index": 3965,
+      "tvg_id": null,
+      "tvg_chno": 4065,
+      "name_ar": "Legislative Assembly of British Columbia",
+      "name_en": "Legislative Assembly of British Columbia",
+      "country": "CA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LegislativeAssemblyofBritishColumbiaCommitteeA.ca",
+      "code": "LEG-CA-002",
+      "index": 3966,
+      "tvg_id": null,
+      "tvg_chno": 4066,
+      "name_ar": "Legislative Assembly of British Columbia Committee A",
+      "name_en": "Legislative Assembly of British Columbia Committee A",
+      "country": "CA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LegislativeAssemblyofOntario.ca",
+      "code": "LEG-CA-003",
+      "index": 3968,
+      "tvg_id": null,
+      "tvg_chno": 4068,
+      "name_ar": "Legislative Assembly of Ontario",
+      "name_en": "Legislative Assembly of Ontario",
+      "country": "CA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LegislativeAssemblyTVNunavut.ca",
+      "code": "LEG-CA-004",
+      "index": 3969,
+      "tvg_id": null,
+      "tvg_chno": 4069,
+      "name_ar": "Legislative Assembly TV Nunavut",
+      "name_en": "Legislative Assembly TV Nunavut",
+      "country": "CA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LoveNature.ca",
+      "code": "LOV-CA-001",
+      "index": 4074,
+      "tvg_id": null,
+      "tvg_chno": 4174,
+      "name_ar": "Love Nature",
+      "name_en": "Love Nature",
+      "country": "CA",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+          "quality": "2160p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LovePets.ca",
+      "code": "LOV-CA-002",
+      "index": 4076,
+      "tvg_id": null,
+      "tvg_chno": 4176,
+      "name_ar": "Love Pets",
+      "name_en": "Love Pets",
+      "country": "CA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MHZ.ca",
+      "code": "MHZ-CA-001",
+      "index": 4366,
+      "tvg_id": null,
+      "tvg_chno": 4466,
+      "name_ar": "MHZ",
+      "name_en": "MHZ",
+      "country": "CA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MontrealGreekTV.ca",
+      "code": "MON-CA-001",
+      "index": 4473,
+      "tvg_id": null,
+      "tvg_chno": 4573,
+      "name_ar": "Montreal Greek TV",
+      "name_en": "Montreal Greek TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://live.greektv.ca/hls1/greektv.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MovieMusicbyStingray.ca",
+      "code": "MOV-CA-001",
+      "index": 4500,
+      "tvg_id": null,
+      "tvg_chno": 4600,
+      "name_ar": "Movie Music by Stingray",
+      "name_en": "Movie Music by Stingray",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NACTV.ca",
+      "code": "NAC-CA-001",
+      "index": 4669,
+      "tvg_id": null,
+      "tvg_chno": 4769,
+      "name_ar": "NACTV",
+      "name_en": "NACTV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NatureTime.ca",
+      "code": "NAT-CA-001",
+      "index": 4717,
+      "tvg_id": null,
+      "tvg_chno": 4817,
+      "name_ar": "NatureTime",
+      "name_en": "NatureTime",
+      "country": "CA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8",
+          "quality": "684p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OntarioParliamentaryNetwork.ca",
+      "code": "ONT-CA-001",
+      "index": 5133,
+      "tvg_id": null,
+      "tvg_chno": 5233,
+      "name_ar": "Ontario Parliamentary Network",
+      "name_en": "Ontario Parliamentary Network",
+      "country": "CA",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PamirTV.ca",
+      "code": "PAM-CA-001",
+      "index": 5218,
+      "tvg_id": null,
+      "tvg_chno": 5318,
+      "name_ar": "Pamir TV",
+      "name_en": "Pamir TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PardesiTV.ca",
+      "code": "PAR-CA-001",
+      "index": 5240,
+      "tvg_id": null,
+      "tvg_chno": 5340,
+      "name_ar": "Pardesi TV",
+      "name_en": "Pardesi TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.pardesitv.online/pardesi/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimeAsiaTV.ca",
+      "code": "PRI-CA-001",
+      "index": 5757,
+      "tvg_id": null,
+      "tvg_chno": 5857,
+      "name_ar": "Prime Asia TV",
+      "name_en": "Prime Asia TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://primeasia.selfip.net/Samsung/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimeCanadaTV.ca",
+      "code": "PRI-CA-002",
+      "index": 5758,
+      "tvg_id": null,
+      "tvg_chno": 5858,
+      "name_ar": "Prime Canada TV",
+      "name_en": "Prime Canada TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ProbashiTVNews.ca",
+      "code": "PRO-CA-001",
+      "index": 5767,
+      "tvg_id": null,
+      "tvg_chno": 5867,
+      "name_ar": "Probashi TV News",
+      "name_en": "Probashi TV News",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PTCPunjabiCanada.ca",
+      "code": "PTC-CA-001",
+      "index": 5802,
+      "tvg_id": null,
+      "tvg_chno": 5902,
+      "name_ar": "PTC Punjabi Canada",
+      "name_en": "PTC Punjabi Canada",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.ottlive.co.in/ptccanada/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QelloConcertsbyStingray.ca",
+      "code": "QEL-CA-001",
+      "index": 5856,
+      "tvg_id": null,
+      "tvg_chno": 5956,
+      "name_ar": "Qello Concerts by Stingray",
+      "name_en": "Qello Concerts by Stingray",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QuoVadisTV.ca",
+      "code": "QUO-CA-001",
+      "index": 5881,
+      "tvg_id": null,
+      "tvg_chno": 5981,
+      "name_ar": "Quo Vadis TV",
+      "name_en": "Quo Vadis TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTeleEvangileSansLimite.ca",
+      "code": "RAD-CA-001",
+      "index": 6009,
+      "tvg_id": null,
+      "tvg_chno": 6109,
+      "name_ar": "Radio Tele Evangile Sans Limite",
+      "name_en": "Radio Tele Evangile Sans Limite",
+      "country": "CA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SardariTV.ca",
+      "code": "SAR-CA-001",
+      "index": 6592,
+      "tvg_id": null,
+      "tvg_chno": 6692,
+      "name_ar": "Sardari TV",
+      "name_en": "Sardari TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Savoirmedia.ca",
+      "code": "SAV-CA-001",
+      "index": 6606,
+      "tvg_id": null,
+      "tvg_chno": 6706,
+      "name_ar": "Savoir media",
+      "name_en": "Savoir media",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.savoir.media/live/stream.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SikhSpiritualCentreRexdale.ca",
+      "code": "SIK-CA-001",
+      "index": 6779,
+      "tvg_id": null,
+      "tvg_chno": 6879,
+      "name_ar": "Sikh Spiritual Centre Rexdale",
+      "name_en": "Sikh Spiritual Centre Rexdale",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn12.henico.net:8443/live/ssct/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SohailTV.ca",
+      "code": "SOH-CA-001",
+      "index": 6869,
+      "tvg_id": null,
+      "tvg_chno": 6969,
+      "name_ar": "Sohail TV",
+      "name_en": "Sohail TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SooriyanTV.ca",
+      "code": "SOO-CA-001",
+      "index": 6919,
+      "tvg_id": null,
+      "tvg_chno": 7019,
+      "name_ar": "Sooriyan TV",
+      "name_en": "Sooriyan TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayCityscapes.ca",
+      "code": "STI-CA-001",
+      "index": 7058,
+      "tvg_id": null,
+      "tvg_chno": 7158,
+      "name_ar": "Stingray Cityscapes",
+      "name_en": "Stingray Cityscapes",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayClassica.ca",
+      "code": "STI-CA-002",
+      "index": 7059,
+      "tvg_id": null,
+      "tvg_chno": 7159,
+      "name_ar": "Stingray Classica",
+      "name_en": "Stingray Classica",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayClassicRock.ca",
+      "code": "STI-CA-003",
+      "index": 7060,
+      "tvg_id": null,
+      "tvg_chno": 7160,
+      "name_ar": "Stingray Classic Rock",
+      "name_en": "Stingray Classic Rock",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayCozyCafe.ca",
+      "code": "STI-CA-004",
+      "index": 7061,
+      "tvg_id": null,
+      "tvg_chno": 7161,
+      "name_ar": "Stingray Cozy Cafe",
+      "name_en": "Stingray Cozy Cafe",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayDJAZZ.ca",
+      "code": "STI-CA-005",
+      "index": 7062,
+      "tvg_id": null,
+      "tvg_chno": 7162,
+      "name_ar": "Stingray DJAZZ",
+      "name_en": "Stingray DJAZZ",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayEasyListening.ca",
+      "code": "STI-CA-006",
+      "index": 7063,
+      "tvg_id": null,
+      "tvg_chno": 7163,
+      "name_ar": "Stingray Easy Listening",
+      "name_en": "Stingray Easy Listening",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayEverything80s.ca",
+      "code": "STI-CA-007",
+      "index": 7064,
+      "tvg_id": null,
+      "tvg_chno": 7164,
+      "name_ar": "Stingray Everything '80s",
+      "name_en": "Stingray Everything '80s",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayFlashback70s.ca",
+      "code": "STI-CA-008",
+      "index": 7065,
+      "tvg_id": null,
+      "tvg_chno": 7165,
+      "name_ar": "Stingray Flashback 70's",
+      "name_en": "Stingray Flashback 70's",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayGreatestHits.ca",
+      "code": "STI-CA-009",
+      "index": 7066,
+      "tvg_id": null,
+      "tvg_chno": 7166,
+      "name_ar": "Stingray Greatest Hits",
+      "name_en": "Stingray Greatest Hits",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayHitList.ca",
+      "code": "STI-CA-010",
+      "index": 7068,
+      "tvg_id": null,
+      "tvg_chno": 7168,
+      "name_ar": "Stingray Hit List",
+      "name_en": "Stingray Hit List",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayHolidayHits.ca",
+      "code": "STI-CA-011",
+      "index": 7069,
+      "tvg_id": null,
+      "tvg_chno": 7169,
+      "name_ar": "Stingray Holiday Hits",
+      "name_en": "Stingray Holiday Hits",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayHolidayscapes.ca",
+      "code": "STI-CA-012",
+      "index": 7070,
+      "tvg_id": null,
+      "tvg_chno": 7170,
+      "name_ar": "Stingray Holidayscapes",
+      "name_en": "Stingray Holidayscapes",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d10cyxntpn0bwm.cloudfront.net/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayiConcerts.ca",
+      "code": "STI-CA-013",
+      "index": 7071,
+      "tvg_id": null,
+      "tvg_chno": 7171,
+      "name_ar": "Stingray iConcerts",
+      "name_en": "Stingray iConcerts",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayJukeboxOldies.ca",
+      "code": "STI-CA-014",
+      "index": 7072,
+      "tvg_id": null,
+      "tvg_chno": 7172,
+      "name_ar": "Stingray Jukebox Oldies",
+      "name_en": "Stingray Jukebox Oldies",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayKaraoke.ca",
+      "code": "STI-CA-015",
+      "index": 7073,
+      "tvg_id": null,
+      "tvg_chno": 7173,
+      "name_ar": "Stingray Karaoke",
+      "name_en": "Stingray Karaoke",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayNaturescape.ca",
+      "code": "STI-CA-016",
+      "index": 7074,
+      "tvg_id": null,
+      "tvg_chno": 7174,
+      "name_ar": "Stingray Naturescape",
+      "name_en": "Stingray Naturescape",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayNothinBut90s.ca",
+      "code": "STI-CA-017",
+      "index": 7075,
+      "tvg_id": null,
+      "tvg_chno": 7175,
+      "name_ar": "Stingray Nothin' But 90s",
+      "name_en": "Stingray Nothin' But 90s",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayRememberthe80s.ca",
+      "code": "STI-CA-018",
+      "index": 7076,
+      "tvg_id": null,
+      "tvg_chno": 7176,
+      "name_ar": "Stingray Remember the 80s",
+      "name_en": "Stingray Remember the 80s",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayRockAlternative.ca",
+      "code": "STI-CA-019",
+      "index": 7077,
+      "tvg_id": null,
+      "tvg_chno": 7177,
+      "name_ar": "Stingray Rock Alternative",
+      "name_en": "Stingray Rock Alternative",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayRomanceLatino.ca",
+      "code": "STI-CA-020",
+      "index": 7078,
+      "tvg_id": null,
+      "tvg_chno": 7178,
+      "name_ar": "Stingray Romance Latino",
+      "name_en": "Stingray Romance Latino",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingraySmoothJazz.ca",
+      "code": "STI-CA-021",
+      "index": 7079,
+      "tvg_id": null,
+      "tvg_chno": 7179,
+      "name_ar": "Stingray Smooth Jazz",
+      "name_en": "Stingray Smooth Jazz",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingraySoulStorm.ca",
+      "code": "STI-CA-022",
+      "index": 7080,
+      "tvg_id": null,
+      "tvg_chno": 7180,
+      "name_ar": "Stingray Soul Storm",
+      "name_en": "Stingray Soul Storm",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayTheSpa.ca",
+      "code": "STI-CA-023",
+      "index": 7081,
+      "tvg_id": null,
+      "tvg_chno": 7181,
+      "name_ar": "Stingray The Spa",
+      "name_en": "Stingray The Spa",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayTodaysKPop.ca",
+      "code": "STI-CA-024",
+      "index": 7082,
+      "tvg_id": null,
+      "tvg_chno": 7182,
+      "name_ar": "Stingray Today's K-Pop",
+      "name_en": "Stingray Today's K-Pop",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "StingrayTodaysLatinPop.ca",
+      "code": "STI-CA-025",
+      "index": 7083,
+      "tvg_id": null,
+      "tvg_chno": 7183,
+      "name_ar": "Stingray Today's Latin Pop",
+      "name_en": "Stingray Today's Latin Pop",
+      "country": "CA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TAGTV.ca",
+      "code": "TAG-CA-001",
+      "index": 7254,
+      "tvg_id": null,
+      "tvg_chno": 7354,
+      "name_ar": "TAG TV",
+      "name_en": "TAG TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TamilVisionTV.ca",
+      "code": "TAM-CA-001",
+      "index": 7272,
+      "tvg_id": null,
+      "tvg_chno": 7372,
+      "name_ar": "TamilVision-TV",
+      "name_en": "TamilVision-TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.cmr24.fm/TVI/HD/chunks.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TheCowboyChannelCanada.ca",
+      "code": "THE-CA-001",
+      "index": 7609,
+      "tvg_id": null,
+      "tvg_chno": 7709,
+      "name_ar": "The Cowboy Channel Canada",
+      "name_en": "The Cowboy Channel Canada",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TheWeatherNetwork.ca",
+      "code": "THE-CA-002",
+      "index": 7651,
+      "tvg_id": null,
+      "tvg_chno": 7751,
+      "name_ar": "The Weather Network",
+      "name_en": "The Weather Network",
+      "country": "CA",
+      "language": "unknown",
+      "category": "weather",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TLN.ca",
+      "code": "TLN-CA-001",
+      "index": 7701,
+      "tvg_id": null,
+      "tvg_chno": 7801,
+      "name_ar": "TLN",
+      "name_en": "TLN",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Toronto360TV.ca",
+      "code": "TOR-CA-001",
+      "index": 7763,
+      "tvg_id": null,
+      "tvg_chno": 7863,
+      "name_ar": "Toronto 360 TV",
+      "name_en": "Toronto 360 TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TotalCrime.ca",
+      "code": "TOT-CA-001",
+      "index": 7768,
+      "tvg_id": null,
+      "tvg_chno": 7868,
+      "name_ar": "Total Crime",
+      "name_en": "Total Crime",
+      "country": "CA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TSC.ca",
+      "code": "TSC-CA-001",
+      "index": 7866,
+      "tvg_id": null,
+      "tvg_chno": 7966,
+      "name_ar": "TSC",
+      "name_en": "TSC",
+      "country": "CA",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TSNTheOcho.ca",
+      "code": "TSN-CA-001",
+      "index": 7870,
+      "tvg_id": null,
+      "tvg_chno": 7970,
+      "name_ar": "TSN The Ocho",
+      "name_en": "TSN The Ocho",
+      "country": "CA",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV16Toronto.ca",
+      "code": "TVT-CA-001",
+      "index": 7900,
+      "tvg_id": null,
+      "tvg_chno": 8000,
+      "name_ar": "TV 16 Toronto",
+      "name_en": "TV 16 Toronto",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV5QuebecCanada.ca",
+      "code": "TVQ-CA-001",
+      "index": 7939,
+      "tvg_id": null,
+      "tvg_chno": 8039,
+      "name_ar": "TV5 Quebec Canada",
+      "name_en": "TV5 Quebec Canada",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://23.133.220.149/TV5/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV5Unis.ca",
+      "code": "TVU-CA-001",
+      "index": 7940,
+      "tvg_id": null,
+      "tvg_chno": 8040,
+      "name_ar": "TV5 Unis",
+      "name_en": "TV5 Unis",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://23.133.220.149/Unis_TV/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVOKids.ca",
+      "code": "TVO-CA-001",
+      "index": 8190,
+      "tvg_id": null,
+      "tvg_chno": 8290,
+      "name_ar": "TVOKids",
+      "name_en": "TVOKids",
+      "country": "CA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVPunjab.ca",
+      "code": "TVP-CA-001",
+      "index": 8237,
+      "tvg_id": null,
+      "tvg_chno": 8337,
+      "name_ar": "TV Punjab",
+      "name_en": "TV Punjab",
+      "country": "CA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UvagutTV.ca",
+      "code": "UVA-CA-001",
+      "index": 8485,
+      "tvg_id": null,
+      "tvg_chno": 8585,
+      "name_ar": "Uvagut TV",
+      "name_en": "Uvagut TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.uvagut.tv/hls/uvagut/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WildTV.ca",
+      "code": "WIL-CA-001",
+      "index": 8792,
+      "tvg_id": null,
+      "tvg_chno": 8892,
+      "name_ar": "Wild TV",
+      "name_en": "Wild TV",
+      "country": "CA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZenLIFEbyStingray.ca",
+      "code": "ZEN-CA-001",
+      "index": 8984,
+      "tvg_id": null,
+      "tvg_chno": 9084,
+      "name_ar": "ZenLIFE by Stingray",
+      "name_en": "ZenLIFE by Stingray",
+      "country": "CA",
+      "language": "unknown",
+      "category": "relax",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-696998dfa2b623e8b20125a3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "cbctoronto",
+      "code": "CBC-CA-003",
+      "index": 9093,
+      "tvg_id": null,
+      "tvg_chno": 9193,
+      "name_ar": "CBC Toronto Ⓖ",
+      "name_en": "CBC Toronto Ⓖ",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/H5yEbxf.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "cbcnews",
+      "code": "CBC-CA-004",
+      "index": 9097,
+      "tvg_id": null,
+      "tvg_chno": 9197,
+      "name_ar": "CBC News",
+      "name_en": "CBC News",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/1EqQGKS.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "globalnewssaskatoon",
+      "code": "GLO-CA-001",
+      "index": 9099,
+      "tvg_id": null,
+      "tvg_chno": 9199,
+      "name_ar": "Global News Saskatoon",
+      "name_en": "Global News Saskatoon",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/IpfmG93.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "globalnewswinnipeg",
+      "code": "GLO-CA-002",
+      "index": 9100,
+      "tvg_id": null,
+      "tvg_chno": 9200,
+      "name_ar": "Global News Winnipeg",
+      "name_en": "Global News Winnipeg",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/IpfmG93.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jmp2.uk/plu-62cc0120880c890007191016.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "cpac",
+      "code": "CPA-CA-002",
+      "index": 9101,
+      "tvg_id": null,
+      "tvg_chno": 9201,
+      "name_ar": "CPAC (EN)",
+      "name_en": "CPAC (EN)",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/AbdFD0S.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tlqubec",
+      "code": "TLQ-CA-001",
+      "index": 9104,
+      "tvg_id": null,
+      "tvg_chno": 9204,
+      "name_ar": "Télé Québec",
+      "name_en": "Télé Québec",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/8grBWK9.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "savoirmdia",
+      "code": "SAV-CA-002",
+      "index": 9105,
+      "tvg_id": null,
+      "tvg_chno": 9205,
+      "name_ar": "Savoir Média",
+      "name_en": "Savoir Média",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/pa4wOVY.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.savoir.media/live/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "cpacfr",
+      "code": "CPA-CA-003",
+      "index": 9106,
+      "tvg_id": null,
+      "tvg_chno": 9206,
+      "name_ar": "CPAC (FR)",
+      "name_en": "CPAC (FR)",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/AbdFD0S.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "icimontreal",
+      "code": "ICI-CA-003",
+      "index": 9107,
+      "tvg_id": null,
+      "tvg_chno": 9207,
+      "name_ar": "ICI Montreal",
+      "name_en": "ICI Montreal",
+      "country": "CA",
+      "language": "unknown",
+      "category": "Canada",
+      "logo": "https://i.imgur.com/Z1b2TJD.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

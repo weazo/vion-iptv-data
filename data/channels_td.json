@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "country": "TD",
+  "total_channels": 3,
+  "channels": [
+    {
+      "id": "TeleTchad.td",
+      "code": "TEL-TD-001",
+      "index": 7499,
+      "tvg_id": null,
+      "tvg_chno": 7599,
+      "name_ar": "Tele Tchad",
+      "name_en": "Tele Tchad",
+      "country": "TD",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://176.65.153.84:7013/play/a069/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tchad24",
+      "code": "TCH-TD-001",
+      "index": 9108,
+      "tvg_id": null,
+      "tvg_chno": 9208,
+      "name_ar": "Tchad 24",
+      "name_en": "Tchad 24",
+      "country": "TD",
+      "language": "unknown",
+      "category": "Chad",
+      "logo": "https://www.lyngsat.com/logo/tv/tt/tchad-24-td.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://102.131.58.110/out_1/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tltchad",
+      "code": "TLT-TD-001",
+      "index": 9109,
+      "tvg_id": null,
+      "tvg_chno": 9209,
+      "name_ar": "Télé Tchad Ⓢ",
+      "name_en": "Télé Tchad Ⓢ",
+      "country": "TD",
+      "language": "unknown",
+      "category": "Chad",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "country": "GF",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "TelePeyi.gf",
+      "code": "TEL-GF-001",
+      "index": 7465,
+      "tvg_id": null,
+      "tvg_chno": 7565,
+      "name_ar": "Tele Peyi",
+      "name_en": "Tele Peyi",
+      "country": "GF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

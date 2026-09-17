@@ -1,0 +1,814 @@
+{
+  "version": "1.0.0",
+  "country": "UZ",
+  "total_channels": 29,
+  "channels": [
+    {
+      "id": "Aqlvoy.uz",
+      "code": "AQL-UZ-001",
+      "index": 621,
+      "tvg_id": null,
+      "tvg_chno": 721,
+      "name_ar": "Aqlvoy",
+      "name_en": "Aqlvoy",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BIZCinema.uz",
+      "code": "BIZ-UZ-001",
+      "index": 1040,
+      "tvg_id": null,
+      "tvg_chno": 1140,
+      "name_ar": "BIZ Cinema",
+      "name_en": "BIZ Cinema",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BIZMusic.uz",
+      "code": "BIZ-UZ-002",
+      "index": 1041,
+      "tvg_id": null,
+      "tvg_chno": 1141,
+      "name_ar": "BIZ Music",
+      "name_en": "BIZ Music",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Bolajon.uz",
+      "code": "BOL-UZ-001",
+      "index": 1086,
+      "tvg_id": null,
+      "tvg_chno": 1186,
+      "name_ar": "Bolajon",
+      "name_en": "Bolajon",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1007/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CheksizTV.uz",
+      "code": "CHE-UZ-001",
+      "index": 1664,
+      "tvg_id": null,
+      "tvg_chno": 1764,
+      "name_ar": "Cheksiz TV",
+      "name_en": "Cheksiz TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DasturxonTV.uz",
+      "code": "DAS-UZ-001",
+      "index": 2068,
+      "tvg_id": null,
+      "tvg_chno": 2168,
+      "name_ar": "Dasturxon TV",
+      "name_en": "Dasturxon TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Dunyoboylab.uz",
+      "code": "DUN-UZ-001",
+      "index": 2347,
+      "tvg_id": null,
+      "tvg_chno": 2447,
+      "name_ar": "Dunyo bo'ylab",
+      "name_en": "Dunyo bo'ylab",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FargonaMTRK.uz",
+      "code": "FAR-UZ-001",
+      "index": 2662,
+      "tvg_id": null,
+      "tvg_chno": 2762,
+      "name_ar": "Farg'ona MTRK",
+      "name_en": "Farg'ona MTRK",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kinoteatr.uz",
+      "code": "KIN-UZ-001",
+      "index": 3746,
+      "tvg_id": null,
+      "tvg_chno": 3846,
+      "name_ar": "Kinoteatr",
+      "name_en": "Kinoteatr",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Madaniyatvamarifat.uz",
+      "code": "MAD-UZ-001",
+      "index": 4126,
+      "tvg_id": null,
+      "tvg_chno": 4226,
+      "name_ar": "Madaniyat va ma'rifat",
+      "name_en": "Madaniyat va ma'rifat",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Mahalla.uz",
+      "code": "MAH-UZ-001",
+      "index": 4149,
+      "tvg_id": null,
+      "tvg_chno": 4249,
+      "name_ar": "Mahalla",
+      "name_en": "Mahalla",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MakonTV.uz",
+      "code": "MAK-UZ-001",
+      "index": 4165,
+      "tvg_id": null,
+      "tvg_chno": 4265,
+      "name_ar": "Makon TV",
+      "name_en": "Makon TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8",
+          "quality": "576i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Milliy.uz",
+      "code": "MIL-UZ-001",
+      "index": 4386,
+      "tvg_id": null,
+      "tvg_chno": 4486,
+      "name_ar": "Milliy",
+      "name_en": "Milliy",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://milliy.tv/hls/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MuzTVUzbekistan.uz",
+      "code": "MUZ-UZ-001",
+      "index": 4633,
+      "tvg_id": null,
+      "tvg_chno": 4733,
+      "name_ar": "Muz TV Uzbekistan",
+      "name_en": "Muz TV Uzbekistan",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MY5.uz",
+      "code": "MYX-UZ-001",
+      "index": 4646,
+      "tvg_id": null,
+      "tvg_chno": 4746,
+      "name_ar": "MY5",
+      "name_en": "MY5",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Navo.uz",
+      "code": "NAV-UZ-001",
+      "index": 4722,
+      "tvg_id": null,
+      "tvg_chno": 4822,
+      "name_ar": "Navo",
+      "name_en": "Navo",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NavoiyMTRK.uz",
+      "code": "NAV-UZ-002",
+      "index": 4723,
+      "tvg_id": null,
+      "tvg_chno": 4823,
+      "name_ar": "Navoiy MTRK",
+      "name_en": "Navoiy MTRK",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8",
+          "quality": "576i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NurafshonTV.uz",
+      "code": "NUR-UZ-001",
+      "index": 5002,
+      "tvg_id": null,
+      "tvg_chno": 5102,
+      "name_ar": "Nurafshon TV",
+      "name_en": "Nurafshon TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ozbekiston.uz",
+      "code": "OZB-UZ-001",
+      "index": 5195,
+      "tvg_id": null,
+      "tvg_chno": 5295,
+      "name_ar": "O'zbekiston",
+      "name_en": "O'zbekiston",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ozbekiston24.uz",
+      "code": "OZB-UZ-002",
+      "index": 5196,
+      "tvg_id": null,
+      "tvg_chno": 5296,
+      "name_ar": "O'zbekiston 24",
+      "name_en": "O'zbekiston 24",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OzbekistonTarixi.uz",
+      "code": "OZB-UZ-003",
+      "index": 5197,
+      "tvg_id": null,
+      "tvg_chno": 5297,
+      "name_ar": "O'zbekiston Tarixi",
+      "name_en": "O'zbekiston Tarixi",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Qaraqalpaqstan.uz",
+      "code": "QAR-UZ-001",
+      "index": 5846,
+      "tvg_id": null,
+      "tvg_chno": 5946,
+      "name_ar": "Qaraqalpaqstan",
+      "name_en": "Qaraqalpaqstan",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1467/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RenessansTV.uz",
+      "code": "REN-UZ-001",
+      "index": 6198,
+      "tvg_id": null,
+      "tvg_chno": 6298,
+      "name_ar": "Renessans TV",
+      "name_en": "Renessans TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SevimliTV.uz",
+      "code": "SEV-UZ-001",
+      "index": 6701,
+      "tvg_id": null,
+      "tvg_chno": 6801,
+      "name_ar": "Sevimli TV",
+      "name_en": "Sevimli TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TaraqqiyotTV.uz",
+      "code": "TAR-UZ-001",
+      "index": 7284,
+      "tvg_id": null,
+      "tvg_chno": 7384,
+      "name_ar": "Taraqqiyot TV",
+      "name_en": "Taraqqiyot TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Toshkent.uz",
+      "code": "TOS-UZ-001",
+      "index": 7766,
+      "tvg_id": null,
+      "tvg_chno": 7866,
+      "name_ar": "Toshkent",
+      "name_en": "Toshkent",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UzReportTV.uz",
+      "code": "UZR-UZ-001",
+      "index": 8488,
+      "tvg_id": null,
+      "tvg_chno": 8588,
+      "name_ar": "UzReport TV",
+      "name_en": "UzReport TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Yoshlar.uz",
+      "code": "YOS-UZ-001",
+      "index": 8902,
+      "tvg_id": null,
+      "tvg_chno": 9002,
+      "name_ar": "Yoshlar",
+      "name_en": "Yoshlar",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZorTV.uz",
+      "code": "ZOR-UZ-001",
+      "index": 9017,
+      "tvg_id": null,
+      "tvg_chno": 9117,
+      "name_ar": "Zo'r TV",
+      "name_en": "Zo'r TV",
+      "country": "UZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

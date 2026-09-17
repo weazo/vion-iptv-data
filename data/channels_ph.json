@@ -1,0 +1,331 @@
+{
+  "version": "1.0.0",
+  "country": "PH",
+  "total_channels": 12,
+  "channels": [
+    {
+      "id": "AbanteTV.ph",
+      "code": "ABA-PH-001",
+      "index": 189,
+      "tvg_id": null,
+      "tvg_chno": 289,
+      "name_ar": "Abante TV",
+      "name_en": "Abante TV",
+      "country": "PH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BilyonaryoNewsChannel.ph",
+      "code": "BIL-PH-001",
+      "index": 1032,
+      "tvg_id": null,
+      "tvg_chno": 1132,
+      "name_ar": "Bilyonaryo News Channel",
+      "name_en": "Bilyonaryo News Channel",
+      "country": "PH",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CCTN47.ph",
+      "code": "CCT-PH-001",
+      "index": 1550,
+      "tvg_id": null,
+      "tvg_chno": 1650,
+      "name_ar": "CCTN 47",
+      "name_en": "CCTN 47",
+      "country": "PH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CLTV36.ph",
+      "code": "CLT-PH-001",
+      "index": 1812,
+      "tvg_id": null,
+      "tvg_chno": 1912,
+      "name_ar": "CLTV 36",
+      "name_en": "CLTV 36",
+      "country": "PH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HopeChannelPhilippines.ph",
+      "code": "HOP-PH-001",
+      "index": 3236,
+      "tvg_id": null,
+      "tvg_chno": 3336,
+      "name_ar": "Hope Channel Philippines",
+      "name_en": "Hope Channel Philippines",
+      "country": "PH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "INCRadio.ph",
+      "code": "INC-PH-001",
+      "index": 3363,
+      "tvg_id": null,
+      "tvg_chno": 3463,
+      "name_ar": "INC Radio",
+      "name_en": "INC Radio",
+      "country": "PH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "INCTV.ph",
+      "code": "INC-PH-002",
+      "index": 3364,
+      "tvg_id": null,
+      "tvg_chno": 3464,
+      "name_ar": "INC TV",
+      "name_en": "INC TV",
+      "country": "PH",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KoolTV.ph",
+      "code": "KOO-PH-001",
+      "index": 3798,
+      "tvg_id": null,
+      "tvg_chno": 3898,
+      "name_ar": "Kool TV",
+      "name_en": "Kool TV",
+      "country": "PH",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LivingAsiaChannel.ph",
+      "code": "LIV-PH-001",
+      "index": 4028,
+      "tvg_id": null,
+      "tvg_chno": 4128,
+      "name_ar": "Living Asia Channel",
+      "name_en": "Living Asia Channel",
+      "country": "PH",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MindanowNetworkTV.ph",
+      "code": "MIN-PH-001",
+      "index": 4387,
+      "tvg_id": null,
+      "tvg_chno": 4487,
+      "name_ar": "Mindanow Network TV",
+      "name_en": "Mindanow Network TV",
+      "country": "PH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PremierSports.ph",
+      "code": "PRE-PH-001",
+      "index": 5729,
+      "tvg_id": null,
+      "tvg_chno": 5829,
+      "name_ar": "Premier Sports",
+      "name_en": "Premier Sports",
+      "country": "PH",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SMNI.ph",
+      "code": "SMN-PH-001",
+      "index": 6853,
+      "tvg_id": null,
+      "tvg_chno": 6953,
+      "name_ar": "SMNI",
+      "name_en": "SMNI",
+      "country": "PH",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.kdlc.click/hls/0/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

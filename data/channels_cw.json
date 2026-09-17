@@ -1,0 +1,115 @@
+{
+  "version": "1.0.0",
+  "country": "CW",
+  "total_channels": 4,
+  "channels": [
+    {
+      "id": "BonceTV.cw",
+      "code": "BON-CW-001",
+      "index": 1102,
+      "tvg_id": null,
+      "tvg_chno": 1202,
+      "name_ar": "Bonce TV",
+      "name_en": "Bonce TV",
+      "country": "CW",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://seswa.bonce.tv/hls/bonceswa.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NosPais.cw",
+      "code": "NOS-CW-001",
+      "index": 4912,
+      "tvg_id": null,
+      "tvg_chno": 5012,
+      "name_ar": "Nos Pais",
+      "name_en": "Nos Pais",
+      "country": "CW",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVDirect13.cw",
+      "code": "TVD-CW-001",
+      "index": 8052,
+      "tvg_id": null,
+      "tvg_chno": 8152,
+      "name_ar": "TV Direct 13",
+      "name_en": "TV Direct 13",
+      "country": "CW",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VAMTV.cw",
+      "code": "VAM-CW-001",
+      "index": 8498,
+      "tvg_id": null,
+      "tvg_chno": 8598,
+      "name_ar": "VAM TV",
+      "name_en": "VAM TV",
+      "country": "CW",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

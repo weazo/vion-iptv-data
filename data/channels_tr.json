@@ -1,0 +1,4893 @@
+{
+  "version": "1.0.0",
+  "country": "TR",
+  "total_channels": 170,
+  "channels": [
+    {
+      "id": "4UTV.tr",
+      "code": "UTV-TR-001",
+      "index": 112,
+      "tvg_id": null,
+      "tvg_chno": 212,
+      "name_ar": "4U TV",
+      "name_en": "4U TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.4utv.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AfroturkTV.tr",
+      "code": "AFR-TR-001",
+      "index": 300,
+      "tvg_id": null,
+      "tvg_chno": 400,
+      "name_ar": "Afroturk TV",
+      "name_en": "Afroturk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AHaber.tr",
+      "code": "AHA-TR-001",
+      "index": 317,
+      "tvg_id": null,
+      "tvg_chno": 417,
+      "name_ar": "A Haber",
+      "name_en": "A Haber",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AksuTV.tr",
+      "code": "AKS-TR-001",
+      "index": 338,
+      "tvg_id": null,
+      "tvg_chno": 438,
+      "name_ar": "Aksu TV",
+      "name_en": "Aksu TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlanyaPostaTV.tr",
+      "code": "ALA-TR-001",
+      "index": 349,
+      "tvg_id": null,
+      "tvg_chno": 449,
+      "name_ar": "Alanya Posta TV",
+      "name_en": "Alanya Posta TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlmahriahTV.tr",
+      "code": "ALM-TR-001",
+      "index": 438,
+      "tvg_id": null,
+      "tvg_chno": 538,
+      "name_ar": "Almahriah TV",
+      "name_en": "Almahriah TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlRafidainTV.tr",
+      "code": "ALR-TR-001",
+      "index": 457,
+      "tvg_id": null,
+      "tvg_chno": 557,
+      "name_ar": "Al-Rafidain TV",
+      "name_en": "Al-Rafidain TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AltasTV.tr",
+      "code": "ALT-TR-001",
+      "index": 476,
+      "tvg_id": null,
+      "tvg_chno": 576,
+      "name_ar": "Altas TV",
+      "name_en": "Altas TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlZahraTVTurkic.tr",
+      "code": "ALZ-TR-001",
+      "index": 496,
+      "tvg_id": null,
+      "tvg_chno": 596,
+      "name_ar": "Al-Zahra TV Turkic",
+      "name_en": "Al-Zahra TV Turkic",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.al-zahratv.com/live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AnadoluNetTV.tr",
+      "code": "ANA-TR-001",
+      "index": 543,
+      "tvg_id": null,
+      "tvg_chno": 643,
+      "name_ar": "Anadolu Net TV",
+      "name_en": "Anadolu Net TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ArasTV.tr",
+      "code": "ARA-TR-001",
+      "index": 628,
+      "tvg_id": null,
+      "tvg_chno": 728,
+      "name_ar": "Aras TV",
+      "name_en": "Aras TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ASpor.tr",
+      "code": "ASP-TR-001",
+      "index": 700,
+      "tvg_id": null,
+      "tvg_chno": 800,
+      "name_ar": "A Spor",
+      "name_en": "A Spor",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ATVAlanya.tr",
+      "code": "ATV-TR-001",
+      "index": 733,
+      "tvg_id": null,
+      "tvg_chno": 833,
+      "name_ar": "ATV Alanya",
+      "name_en": "ATV Alanya",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ATVAvrupa.tr",
+      "code": "ATV-TR-002",
+      "index": 734,
+      "tvg_id": null,
+      "tvg_chno": 834,
+      "name_ar": "ATV Avrupa",
+      "name_en": "ATV Avrupa",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "beINBoxOffice1.tr",
+      "code": "BEI-TR-001",
+      "index": 945,
+      "tvg_id": null,
+      "tvg_chno": 1045,
+      "name_ar": "beIN Box Office 1",
+      "name_en": "beIN Box Office 1",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "beINBoxOffice2.tr",
+      "code": "BEI-TR-002",
+      "index": 946,
+      "tvg_id": null,
+      "tvg_chno": 1046,
+      "name_ar": "beIN Box Office 2",
+      "name_en": "beIN Box Office 2",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "beINBoxOffice3.tr",
+      "code": "BEI-TR-003",
+      "index": 947,
+      "tvg_id": null,
+      "tvg_chno": 1047,
+      "name_ar": "beIN Box Office 3",
+      "name_en": "beIN Box Office 3",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "beINMoviesStars.tr",
+      "code": "BEI-TR-004",
+      "index": 948,
+      "tvg_id": null,
+      "tvg_chno": 1048,
+      "name_ar": "beIN Movies Stars",
+      "name_en": "beIN Movies Stars",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "beINMoviesTurk.tr",
+      "code": "BEI-TR-005",
+      "index": 949,
+      "tvg_id": null,
+      "tvg_chno": 1049,
+      "name_ar": "beIN Movies Turk",
+      "name_en": "beIN Movies Turk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BenguturkTV.tr",
+      "code": "BEN-TR-001",
+      "index": 970,
+      "tvg_id": null,
+      "tvg_chno": 1070,
+      "name_ar": "Benguturk TV",
+      "name_en": "Benguturk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.234.111.229:8000/play/a05u",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BeyazTV.tr",
+      "code": "BEY-TR-001",
+      "index": 987,
+      "tvg_id": null,
+      "tvg_chno": 1087,
+      "name_ar": "Beyaz TV",
+      "name_en": "Beyaz TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BirTV.tr",
+      "code": "BIR-TR-001",
+      "index": 1037,
+      "tvg_id": null,
+      "tvg_chno": 1137,
+      "name_ar": "Bir TV",
+      "name_en": "Bir TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BloombergHT.tr",
+      "code": "BLO-TR-001",
+      "index": 1056,
+      "tvg_id": null,
+      "tvg_chno": 1156,
+      "name_ar": "Bloomberg HT",
+      "name_en": "Bloomberg HT",
+      "country": "TR",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BricveSatrancTV.tr",
+      "code": "BRI-TR-001",
+      "index": 1130,
+      "tvg_id": null,
+      "tvg_chno": 1230,
+      "name_ar": "Bric ve Satranc TV",
+      "name_en": "Bric ve Satranc TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://139.162.182.79/live/test/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BursaTV.tr",
+      "code": "BUR-TR-001",
+      "index": 1181,
+      "tvg_id": null,
+      "tvg_chno": 1281,
+      "name_ar": "Bursa TV",
+      "name_en": "Bursa TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CayTV.tr",
+      "code": "CAY-TR-001",
+      "index": 1511,
+      "tvg_id": null,
+      "tvg_chno": 1611,
+      "name_ar": "Cay TV",
+      "name_en": "Cay TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CekmekoyTV.tr",
+      "code": "CEK-TR-001",
+      "index": 1592,
+      "tvg_id": null,
+      "tvg_chno": 1692,
+      "name_ar": "Cekmekoy TV",
+      "name_en": "Cekmekoy TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CiftciTV.tr",
+      "code": "CIF-TR-001",
+      "index": 1692,
+      "tvg_id": null,
+      "tvg_chno": 1792,
+      "name_ar": "Ciftci TV",
+      "name_en": "Ciftci TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CNBCe.tr",
+      "code": "CNB-TR-001",
+      "index": 1839,
+      "tvg_id": null,
+      "tvg_chno": 1939,
+      "name_ar": "CNBC-e",
+      "name_en": "CNBC-e",
+      "country": "TR",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DenizPostasiTV.tr",
+      "code": "DEN-TR-001",
+      "index": 2147,
+      "tvg_id": null,
+      "tvg_chno": 2247,
+      "name_ar": "Deniz Postasi TV",
+      "name_en": "Deniz Postasi TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DHA.tr",
+      "code": "DHA-TR-001",
+      "index": 2178,
+      "tvg_id": null,
+      "tvg_chno": 2278,
+      "name_ar": "DHA",
+      "name_en": "DHA",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DisneyJr.tr",
+      "code": "DIS-TR-001",
+      "index": 2226,
+      "tvg_id": null,
+      "tvg_chno": 2326,
+      "name_ar": "Disney Jr.",
+      "name_en": "Disney Jr.",
+      "country": "TR",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DiyanetTV.tr",
+      "code": "DIY-TR-001",
+      "index": 2239,
+      "tvg_id": null,
+      "tvg_chno": 2339,
+      "name_ar": "Diyanet TV",
+      "name_en": "Diyanet TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DiyarTV.tr",
+      "code": "DIY-TR-002",
+      "index": 2240,
+      "tvg_id": null,
+      "tvg_chno": 2340,
+      "name_ar": "Diyar TV",
+      "name_en": "Diyar TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DostTV.tr",
+      "code": "DOS-TR-001",
+      "index": 2297,
+      "tvg_id": null,
+      "tvg_chno": 2397,
+      "name_ar": "Dost TV",
+      "name_en": "Dost TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DreamTurk.tr",
+      "code": "DRE-TR-001",
+      "index": 2308,
+      "tvg_id": null,
+      "tvg_chno": 2408,
+      "name_ar": "Dream Turk",
+      "name_en": "Dream Turk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EdessaTV.tr",
+      "code": "EDE-TR-001",
+      "index": 2396,
+      "tvg_id": null,
+      "tvg_chno": 2496,
+      "name_ar": "Edessa TV",
+      "name_en": "Edessa TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://canli.edessatv.com/hls/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ekoturk.tr",
+      "code": "EKO-TR-001",
+      "index": 2412,
+      "tvg_id": null,
+      "tvg_chno": 2512,
+      "name_ar": "Ekoturk",
+      "name_en": "Ekoturk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.ekoturk.net/hls/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ElsharqTV.tr",
+      "code": "ELS-TR-001",
+      "index": 2456,
+      "tvg_id": null,
+      "tvg_chno": 2556,
+      "name_ar": "Elsharq TV",
+      "name_en": "Elsharq TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ERTV.tr",
+      "code": "ERT-TR-001",
+      "index": 2521,
+      "tvg_id": null,
+      "tvg_chno": 2621,
+      "name_ar": "ERTV",
+      "name_en": "ERTV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ErzurumWebTV.tr",
+      "code": "ERZ-TR-001",
+      "index": 2523,
+      "tvg_id": null,
+      "tvg_chno": 2623,
+      "name_ar": "Erzurum Web TV",
+      "name_en": "Erzurum Web TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ETVKayseri.tr",
+      "code": "ETV-TR-001",
+      "index": 2566,
+      "tvg_id": null,
+      "tvg_chno": 2666,
+      "name_ar": "ETV Kayseri",
+      "name_en": "ETV Kayseri",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ETVManisa.tr",
+      "code": "ETV-TR-002",
+      "index": 2567,
+      "tvg_id": null,
+      "tvg_chno": 2667,
+      "name_ar": "ETV Manisa",
+      "name_en": "ETV Manisa",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EuroD.tr",
+      "code": "EUR-TR-001",
+      "index": 2581,
+      "tvg_id": null,
+      "tvg_chno": 2681,
+      "name_ar": "Euro D",
+      "name_en": "Euro D",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FBTV.tr",
+      "code": "FBT-TR-001",
+      "index": 2685,
+      "tvg_id": null,
+      "tvg_chno": 2785,
+      "name_ar": "FB TV",
+      "name_en": "FB TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FinansTurkTV.tr",
+      "code": "FIN-TR-001",
+      "index": 2741,
+      "tvg_id": null,
+      "tvg_chno": 2841,
+      "name_ar": "Finans Turk TV",
+      "name_en": "Finans Turk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FlashHaberTV.tr",
+      "code": "FLA-TR-001",
+      "index": 2753,
+      "tvg_id": null,
+      "tvg_chno": 2853,
+      "name_ar": "Flash Haber TV",
+      "name_en": "Flash Haber TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FortunaTV.tr",
+      "code": "FOR-TR-001",
+      "index": 2790,
+      "tvg_id": null,
+      "tvg_chno": 2890,
+      "name_ar": "Fortuna TV",
+      "name_en": "Fortuna TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEM24B.tr",
+      "code": "GEM-TR-001",
+      "index": 2888,
+      "tvg_id": null,
+      "tvg_chno": 2988,
+      "name_ar": "GEM 24B",
+      "name_en": "GEM 24B",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMBollywood.tr",
+      "code": "GEM-TR-002",
+      "index": 2889,
+      "tvg_id": null,
+      "tvg_chno": 2989,
+      "name_ar": "GEM Bollywood",
+      "name_en": "GEM Bollywood",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMClassic.tr",
+      "code": "GEM-TR-003",
+      "index": 2890,
+      "tvg_id": null,
+      "tvg_chno": 2990,
+      "name_ar": "GEM Classic",
+      "name_en": "GEM Classic",
+      "country": "TR",
+      "language": "unknown",
+      "category": "classic",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMComedy.tr",
+      "code": "GEM-TR-004",
+      "index": 2891,
+      "tvg_id": null,
+      "tvg_chno": 2991,
+      "name_ar": "GEM Comedy",
+      "name_en": "GEM Comedy",
+      "country": "TR",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMDrama.tr",
+      "code": "GEM-TR-005",
+      "index": 2892,
+      "tvg_id": null,
+      "tvg_chno": 2992,
+      "name_ar": "GEM Drama",
+      "name_en": "GEM Drama",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMEntertainment.tr",
+      "code": "GEM-TR-006",
+      "index": 2893,
+      "tvg_id": null,
+      "tvg_chno": 2993,
+      "name_ar": "GEM Entertainment",
+      "name_en": "GEM Entertainment",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMFilm.tr",
+      "code": "GEM-TR-007",
+      "index": 2894,
+      "tvg_id": null,
+      "tvg_chno": 2994,
+      "name_ar": "GEM Film",
+      "name_en": "GEM Film",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMFit.tr",
+      "code": "GEM-TR-008",
+      "index": 2895,
+      "tvg_id": null,
+      "tvg_chno": 2995,
+      "name_ar": "GEM Fit",
+      "name_en": "GEM Fit",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMFood.tr",
+      "code": "GEM-TR-009",
+      "index": 2896,
+      "tvg_id": null,
+      "tvg_chno": 2996,
+      "name_ar": "GEM Food",
+      "name_en": "GEM Food",
+      "country": "TR",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMJunior.tr",
+      "code": "GEM-TR-010",
+      "index": 2897,
+      "tvg_id": null,
+      "tvg_chno": 2997,
+      "name_ar": "GEM Junior",
+      "name_en": "GEM Junior",
+      "country": "TR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMKids.tr",
+      "code": "GEM-TR-011",
+      "index": 2898,
+      "tvg_id": null,
+      "tvg_chno": 2998,
+      "name_ar": "GEM Kids",
+      "name_en": "GEM Kids",
+      "country": "TR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMLife.tr",
+      "code": "GEM-TR-012",
+      "index": 2899,
+      "tvg_id": null,
+      "tvg_chno": 2999,
+      "name_ar": "GEM Life",
+      "name_en": "GEM Life",
+      "country": "TR",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMMifa.tr",
+      "code": "GEM-TR-013",
+      "index": 2900,
+      "tvg_id": null,
+      "tvg_chno": 3000,
+      "name_ar": "GEM Mifa",
+      "name_en": "GEM Mifa",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMNature.tr",
+      "code": "GEM-TR-014",
+      "index": 2901,
+      "tvg_id": null,
+      "tvg_chno": 3001,
+      "name_ar": "GEM Nature",
+      "name_en": "GEM Nature",
+      "country": "TR",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMOnyx.tr",
+      "code": "GEM-TR-015",
+      "index": 2902,
+      "tvg_id": null,
+      "tvg_chno": 3002,
+      "name_ar": "GEM Onyx",
+      "name_en": "GEM Onyx",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMPixel.tr",
+      "code": "GEM-TR-016",
+      "index": 2903,
+      "tvg_id": null,
+      "tvg_chno": 3003,
+      "name_ar": "GEM Pixel",
+      "name_en": "GEM Pixel",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMRiver.tr",
+      "code": "GEM-TR-017",
+      "index": 2904,
+      "tvg_id": null,
+      "tvg_chno": 3004,
+      "name_ar": "GEM River",
+      "name_en": "GEM River",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMRubix.tr",
+      "code": "GEM-TR-018",
+      "index": 2905,
+      "tvg_id": null,
+      "tvg_chno": 3005,
+      "name_ar": "GEM Rubix",
+      "name_en": "GEM Rubix",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMSeriesPlus.tr",
+      "code": "GEM-TR-019",
+      "index": 2906,
+      "tvg_id": null,
+      "tvg_chno": 3006,
+      "name_ar": "GEM Series +",
+      "name_en": "GEM Series +",
+      "country": "TR",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMSport.tr",
+      "code": "GEM-TR-020",
+      "index": 2908,
+      "tvg_id": null,
+      "tvg_chno": 3008,
+      "name_ar": "GEM Sport",
+      "name_en": "GEM Sport",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GEMTV.tr",
+      "code": "GEM-TR-021",
+      "index": 2909,
+      "tvg_id": null,
+      "tvg_chno": 3009,
+      "name_ar": "GEM TV",
+      "name_en": "GEM TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GrandCinema.tr",
+      "code": "GRA-TR-001",
+      "index": 3002,
+      "tvg_id": null,
+      "tvg_chno": 3102,
+      "name_ar": "Grand Cinema",
+      "name_en": "Grand Cinema",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GuneydoguTV.tr",
+      "code": "GUN-TR-001",
+      "index": 3054,
+      "tvg_id": null,
+      "tvg_chno": 3154,
+      "name_ar": "Guneydogu TV",
+      "name_en": "Guneydogu TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GZT.tr",
+      "code": "GZT-TR-001",
+      "index": 3062,
+      "tvg_id": null,
+      "tvg_chno": 3162,
+      "name_ar": "GZT",
+      "name_en": "GZT",
+      "country": "TR",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Haber61TV.tr",
+      "code": "HAB-TR-001",
+      "index": 3065,
+      "tvg_id": null,
+      "tvg_chno": 3165,
+      "name_ar": "Haber61 TV",
+      "name_en": "Haber61 TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HaberGlobal.tr",
+      "code": "HAB-TR-002",
+      "index": 3066,
+      "tvg_id": null,
+      "tvg_chno": 3166,
+      "name_ar": "Haber Global",
+      "name_en": "Haber Global",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HaberturkTV.tr",
+      "code": "HAB-TR-003",
+      "index": 3067,
+      "tvg_id": null,
+      "tvg_chno": 3167,
+      "name_ar": "Haberturk TV",
+      "name_en": "Haberturk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.ensonhaber.com/haberturk/haberturk.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HalkTV.tr",
+      "code": "HAL-TR-001",
+      "index": 3077,
+      "tvg_id": null,
+      "tvg_chno": 3177,
+      "name_ar": "Halk TV",
+      "name_en": "Halk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HTSporTV.tr",
+      "code": "HTS-TR-001",
+      "index": 3257,
+      "tvg_id": null,
+      "tvg_chno": 3357,
+      "name_ar": "HTSpor TV",
+      "name_en": "HTSpor TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HunatTV.tr",
+      "code": "HUN-TR-001",
+      "index": 3278,
+      "tvg_id": null,
+      "tvg_chno": 3378,
+      "name_ar": "Hunat TV",
+      "name_en": "Hunat TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IcelTV.tr",
+      "code": "ICE-TR-001",
+      "index": 3301,
+      "tvg_id": null,
+      "tvg_chno": 3401,
+      "name_ar": "Icel TV",
+      "name_en": "Icel TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IlkeTV.tr",
+      "code": "ILK-TR-001",
+      "index": 3332,
+      "tvg_id": null,
+      "tvg_chno": 3432,
+      "name_ar": "Ilke TV",
+      "name_en": "Ilke TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.ilketv.com.tr/hls/ilkecanli.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal12.tr",
+      "code": "KAN-TR-001",
+      "index": 3625,
+      "tvg_id": null,
+      "tvg_chno": 3725,
+      "name_ar": "Kanal 12",
+      "name_en": "Kanal 12",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal15.tr",
+      "code": "KAN-TR-002",
+      "index": 3627,
+      "tvg_id": null,
+      "tvg_chno": 3727,
+      "name_ar": "Kanal 15",
+      "name_en": "Kanal 15",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal23.tr",
+      "code": "KAN-TR-003",
+      "index": 3628,
+      "tvg_id": null,
+      "tvg_chno": 3728,
+      "name_ar": "Kanal 23",
+      "name_en": "Kanal 23",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal26.tr",
+      "code": "KAN-TR-004",
+      "index": 3629,
+      "tvg_id": null,
+      "tvg_chno": 3729,
+      "name_ar": "Kanal 26",
+      "name_en": "Kanal 26",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal3.tr",
+      "code": "KAN-TR-005",
+      "index": 3630,
+      "tvg_id": null,
+      "tvg_chno": 3730,
+      "name_ar": "Kanal 3",
+      "name_en": "Kanal 3",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal32.tr",
+      "code": "KAN-TR-006",
+      "index": 3631,
+      "tvg_id": null,
+      "tvg_chno": 3731,
+      "name_ar": "Kanal 32",
+      "name_en": "Kanal 32",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal33.tr",
+      "code": "KAN-TR-007",
+      "index": 3632,
+      "tvg_id": null,
+      "tvg_chno": 3732,
+      "name_ar": "Kanal 33",
+      "name_en": "Kanal 33",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal34.tr",
+      "code": "KAN-TR-008",
+      "index": 3633,
+      "tvg_id": null,
+      "tvg_chno": 3733,
+      "name_ar": "Kanal 34",
+      "name_en": "Kanal 34",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal58.tr",
+      "code": "KAN-TR-009",
+      "index": 3636,
+      "tvg_id": null,
+      "tvg_chno": 3736,
+      "name_ar": "Kanal 58",
+      "name_en": "Kanal 58",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal7.tr",
+      "code": "KAN-TR-010",
+      "index": 3638,
+      "tvg_id": null,
+      "tvg_chno": 3738,
+      "name_ar": "Kanal 7",
+      "name_en": "Kanal 7",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal7Avrupa.tr",
+      "code": "KAN-TR-011",
+      "index": 3639,
+      "tvg_id": null,
+      "tvg_chno": 3739,
+      "name_ar": "Kanal 7 Avrupa",
+      "name_en": "Kanal 7 Avrupa",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KanalDDrama.tr",
+      "code": "KAN-TR-012",
+      "index": 3643,
+      "tvg_id": null,
+      "tvg_chno": 3743,
+      "name_ar": "Kanal D Drama",
+      "name_en": "Kanal D Drama",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KanalFirat.tr",
+      "code": "KAN-TR-013",
+      "index": 3644,
+      "tvg_id": null,
+      "tvg_chno": 3744,
+      "name_ar": "Kanal Firat",
+      "name_en": "Kanal Firat",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KanalV.tr",
+      "code": "KAN-TR-014",
+      "index": 3648,
+      "tvg_id": null,
+      "tvg_chno": 3748,
+      "name_ar": "Kanal V",
+      "name_en": "Kanal V",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KayTV.tr",
+      "code": "KAY-TR-001",
+      "index": 3674,
+      "tvg_id": null,
+      "tvg_chno": 3774,
+      "name_ar": "Kay TV",
+      "name_en": "Kay TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KentTurk.tr",
+      "code": "KEN-TR-001",
+      "index": 3692,
+      "tvg_id": null,
+      "tvg_chno": 3792,
+      "name_ar": "Kent Turk",
+      "name_en": "Kent Turk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KocaeliTV.tr",
+      "code": "KOC-TR-001",
+      "index": 3776,
+      "tvg_id": null,
+      "tvg_chno": 3876,
+      "name_ar": "Kocaeli TV",
+      "name_en": "Kocaeli TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KonyaOlayTV.tr",
+      "code": "KON-TR-001",
+      "index": 3796,
+      "tvg_id": null,
+      "tvg_chno": 3896,
+      "name_ar": "Konya Olay TV",
+      "name_en": "Konya Olay TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KralPopTV.tr",
+      "code": "KRA-TR-001",
+      "index": 3808,
+      "tvg_id": null,
+      "tvg_chno": 3908,
+      "name_ar": "Kral Pop TV",
+      "name_en": "Kral Pop TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LalegulTV.tr",
+      "code": "LAL-TR-001",
+      "index": 3888,
+      "tvg_id": null,
+      "tvg_chno": 3988,
+      "name_ar": "Lalegul TV",
+      "name_en": "Lalegul TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LineTV.tr",
+      "code": "LIN-TR-001",
+      "index": 4011,
+      "tvg_id": null,
+      "tvg_chno": 4111,
+      "name_ar": "Line TV",
+      "name_en": "Line TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LuysTV.tr",
+      "code": "LUY-TR-001",
+      "index": 4104,
+      "tvg_id": null,
+      "tvg_chno": 4204,
+      "name_ar": "Luys TV",
+      "name_en": "Luys TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MaviKaradenizTV.tr",
+      "code": "MAV-TR-001",
+      "index": 4244,
+      "tvg_id": null,
+      "tvg_chno": 4344,
+      "name_ar": "MaviKaradeniz TV",
+      "name_en": "MaviKaradeniz TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MedMuzik.tr",
+      "code": "MED-TR-001",
+      "index": 4308,
+      "tvg_id": null,
+      "tvg_chno": 4408,
+      "name_ar": "Med Muzik",
+      "name_en": "Med Muzik",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://54.36.110.140/live3/live3.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MekameleenTV.tr",
+      "code": "MEK-TR-001",
+      "index": 4326,
+      "tvg_id": null,
+      "tvg_chno": 4426,
+      "name_ar": "Mekameleen TV",
+      "name_en": "Mekameleen TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MeltemTV.tr",
+      "code": "MEL-TR-001",
+      "index": 4329,
+      "tvg_id": null,
+      "tvg_chno": 4429,
+      "name_ar": "Meltem TV",
+      "name_en": "Meltem TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MercanTV.tr",
+      "code": "MER-TR-001",
+      "index": 4331,
+      "tvg_id": null,
+      "tvg_chno": 4431,
+      "name_ar": "Mercan TV",
+      "name_en": "Mercan TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MinikaCocuk.tr",
+      "code": "MIN-TR-001",
+      "index": 4390,
+      "tvg_id": null,
+      "tvg_chno": 4490,
+      "name_ar": "Minika Cocuk",
+      "name_en": "Minika Cocuk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MinikaGo.tr",
+      "code": "MIN-TR-002",
+      "index": 4391,
+      "tvg_id": null,
+      "tvg_chno": 4491,
+      "name_ar": "Minika Go",
+      "name_en": "Minika Go",
+      "country": "TR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MovieSmartTurk.tr",
+      "code": "MOV-TR-001",
+      "index": 4504,
+      "tvg_id": null,
+      "tvg_chno": 4604,
+      "name_ar": "MovieSmart Turk",
+      "name_en": "MovieSmart Turk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MTurkTV.tr",
+      "code": "MTU-TR-001",
+      "index": 4553,
+      "tvg_id": null,
+      "tvg_chno": 4653,
+      "name_ar": "MTurk TV",
+      "name_en": "MTurk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NaturalTV.tr",
+      "code": "NAT-TR-001",
+      "index": 4716,
+      "tvg_id": null,
+      "tvg_chno": 4816,
+      "name_ar": "Natural TV",
+      "name_en": "Natural TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NOWTV.tr",
+      "code": "NOW-TR-001",
+      "index": 4947,
+      "tvg_id": null,
+      "tvg_chno": 5047,
+      "name_ar": "NOW TV",
+      "name_en": "NOW TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://116.202.238.88/FOXTV_TR/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Number1Ask.tr",
+      "code": "NUM-TR-001",
+      "index": 4996,
+      "tvg_id": null,
+      "tvg_chno": 5096,
+      "name_ar": "Number 1 Ask",
+      "name_en": "Number 1 Ask",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Number1Damar.tr",
+      "code": "NUM-TR-002",
+      "index": 4997,
+      "tvg_id": null,
+      "tvg_chno": 5097,
+      "name_ar": "Number 1 Damar",
+      "name_en": "Number 1 Damar",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Number1Dance.tr",
+      "code": "NUM-TR-003",
+      "index": 4998,
+      "tvg_id": null,
+      "tvg_chno": 5098,
+      "name_ar": "Number 1 Dance",
+      "name_en": "Number 1 Dance",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Number1TV.tr",
+      "code": "NUM-TR-004",
+      "index": 4999,
+      "tvg_id": null,
+      "tvg_chno": 5099,
+      "name_ar": "Number 1 TV",
+      "name_en": "Number 1 TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "On4TV.tr",
+      "code": "ONT-TR-001",
+      "index": 5103,
+      "tvg_id": null,
+      "tvg_chno": 5203,
+      "name_ar": "On4 TV",
+      "name_en": "On4 TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerDance.tr",
+      "code": "POW-TR-001",
+      "index": 5707,
+      "tvg_id": null,
+      "tvg_chno": 5807,
+      "name_ar": "Power Dance",
+      "name_en": "Power Dance",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerLove.tr",
+      "code": "POW-TR-002",
+      "index": 5710,
+      "tvg_id": null,
+      "tvg_chno": 5810,
+      "name_ar": "Power Love",
+      "name_en": "Power Love",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerTurkAkustik.tr",
+      "code": "POW-TR-003",
+      "index": 5713,
+      "tvg_id": null,
+      "tvg_chno": 5813,
+      "name_ar": "PowerTurk Akustik",
+      "name_en": "PowerTurk Akustik",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerTurkSlow.tr",
+      "code": "POW-TR-004",
+      "index": 5714,
+      "tvg_id": null,
+      "tvg_chno": 5814,
+      "name_ar": "PowerTurk Slow",
+      "name_en": "PowerTurk Slow",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerTurkTaptaze.tr",
+      "code": "POW-TR-005",
+      "index": 5715,
+      "tvg_id": null,
+      "tvg_chno": 5815,
+      "name_ar": "PowerTurk Taptaze",
+      "name_en": "PowerTurk Taptaze",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerTurkTV.tr",
+      "code": "POW-TR-006",
+      "index": 5716,
+      "tvg_id": null,
+      "tvg_chno": 5816,
+      "name_ar": "PowerTurk TV",
+      "name_en": "PowerTurk TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QafTV.tr",
+      "code": "QAF-TR-001",
+      "index": 5845,
+      "tvg_id": null,
+      "tvg_chno": 5945,
+      "name_ar": "Qaf TV",
+      "name_en": "Qaf TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SemerkandTV.tr",
+      "code": "SEM-TR-001",
+      "index": 6660,
+      "tvg_id": null,
+      "tvg_chno": 6760,
+      "name_ar": "Semerkand TV",
+      "name_en": "Semerkand TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SercemTV.tr",
+      "code": "SER-TR-001",
+      "index": 6682,
+      "tvg_id": null,
+      "tvg_chno": 6782,
+      "name_ar": "Sercem TV",
+      "name_en": "Sercem TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ShowTurk.tr",
+      "code": "SHO-TR-001",
+      "index": 6760,
+      "tvg_id": null,
+      "tvg_chno": 6860,
+      "name_ar": "Show Turk",
+      "name_en": "Show Turk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SSport.tr",
+      "code": "SSP-TR-001",
+      "index": 7006,
+      "tvg_id": null,
+      "tvg_chno": 7106,
+      "name_ar": "S Sport",
+      "name_en": "S Sport",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://corestream.siteyaptim.live/s-sport/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SSport2.tr",
+      "code": "SSP-TR-002",
+      "index": 7007,
+      "tvg_id": null,
+      "tvg_chno": 7107,
+      "name_ar": "S Sport 2",
+      "name_en": "S Sport 2",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://corestream.siteyaptim.live/s-sport2/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SunRTV.tr",
+      "code": "SUN-TR-001",
+      "index": 7133,
+      "tvg_id": null,
+      "tvg_chno": 7233,
+      "name_ar": "Sun RTV",
+      "name_en": "Sun RTV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TBMMTV.tr",
+      "code": "TBM-TR-001",
+      "index": 7299,
+      "tvg_id": null,
+      "tvg_chno": 7399,
+      "name_ar": "TBMM TV",
+      "name_en": "TBMM TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Tele1.tr",
+      "code": "TEL-TR-001",
+      "index": 7337,
+      "tvg_id": null,
+      "tvg_chno": 7437,
+      "name_ar": "Tele 1",
+      "name_en": "Tele 1",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tele1-live.ercdn.net/tele1/tele1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TempoTV.tr",
+      "code": "TEM-TR-001",
+      "index": 7554,
+      "tvg_id": null,
+      "tvg_chno": 7654,
+      "name_ar": "Tempo TV",
+      "name_en": "Tempo TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TGRTBelgesel.tr",
+      "code": "TGR-TR-001",
+      "index": 7579,
+      "tvg_id": null,
+      "tvg_chno": 7679,
+      "name_ar": "TGRT Belgesel",
+      "name_en": "TGRT Belgesel",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TGRTHaber.tr",
+      "code": "TGR-TR-002",
+      "index": 7580,
+      "tvg_id": null,
+      "tvg_chno": 7680,
+      "name_ar": "TGRT Haber",
+      "name_en": "TGRT Haber",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://canli.tgrthaber.com/tgrt.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Tivi6.tr",
+      "code": "TIV-TR-001",
+      "index": 7692,
+      "tvg_id": null,
+      "tvg_chno": 7792,
+      "name_ar": "Tivi 6",
+      "name_en": "Tivi 6",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TJKTV.tr",
+      "code": "TJK-TR-001",
+      "index": 7696,
+      "tvg_id": null,
+      "tvg_chno": 7796,
+      "name_ar": "TJK TV",
+      "name_en": "TJK TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TJKTV2.tr",
+      "code": "TJK-TR-002",
+      "index": 7697,
+      "tvg_id": null,
+      "tvg_chno": 7797,
+      "name_ar": "TJK TV 2",
+      "name_en": "TJK TV 2",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TonTV.tr",
+      "code": "TON-TR-001",
+      "index": 7745,
+      "tvg_id": null,
+      "tvg_chno": 7845,
+      "name_ar": "Ton TV",
+      "name_en": "Ton TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRT1.tr",
+      "code": "TRT-TR-001",
+      "index": 7834,
+      "tvg_id": null,
+      "tvg_chno": 7934,
+      "name_ar": "TRT 1",
+      "name_en": "TRT 1",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+          "quality": "1440p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRT2.tr",
+      "code": "TRT-TR-002",
+      "index": 7835,
+      "tvg_id": null,
+      "tvg_chno": 7935,
+      "name_ar": "TRT 2",
+      "name_en": "TRT 2",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "quality": "1440p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRT3.tr",
+      "code": "TRT-TR-003",
+      "index": 7836,
+      "tvg_id": null,
+      "tvg_chno": 7936,
+      "name_ar": "TRT 3",
+      "name_en": "TRT 3",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTArabi.tr",
+      "code": "TRT-TR-004",
+      "index": 7837,
+      "tvg_id": null,
+      "tvg_chno": 7937,
+      "name_ar": "TRT Arabi",
+      "name_en": "TRT Arabi",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTAvaz.tr",
+      "code": "TRT-TR-005",
+      "index": 7838,
+      "tvg_id": null,
+      "tvg_chno": 7938,
+      "name_ar": "TRT Avaz",
+      "name_en": "TRT Avaz",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTBelgesel.tr",
+      "code": "TRT-TR-006",
+      "index": 7839,
+      "tvg_id": null,
+      "tvg_chno": 7939,
+      "name_ar": "TRT Belgesel",
+      "name_en": "TRT Belgesel",
+      "country": "TR",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTCocuk.tr",
+      "code": "TRT-TR-007",
+      "index": 7840,
+      "tvg_id": null,
+      "tvg_chno": 7940,
+      "name_ar": "TRT Cocuk",
+      "name_en": "TRT Cocuk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+          "quality": "1440p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTDiyanetCocuk.tr",
+      "code": "TRT-TR-008",
+      "index": 7841,
+      "tvg_id": null,
+      "tvg_chno": 7941,
+      "name_ar": "TRT Diyanet Cocuk",
+      "name_en": "TRT Diyanet Cocuk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTEBA.tr",
+      "code": "TRT-TR-009",
+      "index": 7842,
+      "tvg_id": null,
+      "tvg_chno": 7942,
+      "name_ar": "TRT EBA",
+      "name_en": "TRT EBA",
+      "country": "TR",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTGenc.tr",
+      "code": "TRT-TR-010",
+      "index": 7843,
+      "tvg_id": null,
+      "tvg_chno": 7943,
+      "name_ar": "TRT Genc",
+      "name_en": "TRT Genc",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8",
+          "quality": "1440p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTHaber.tr",
+      "code": "TRT-TR-011",
+      "index": 7844,
+      "tvg_id": null,
+      "tvg_chno": 7944,
+      "name_ar": "TRT Haber",
+      "name_en": "TRT Haber",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTKurdi.tr",
+      "code": "TRT-TR-012",
+      "index": 7845,
+      "tvg_id": null,
+      "tvg_chno": 7945,
+      "name_ar": "TRT Kurdi",
+      "name_en": "TRT Kurdi",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTMuzik.tr",
+      "code": "TRT-TR-013",
+      "index": 7846,
+      "tvg_id": null,
+      "tvg_chno": 7946,
+      "name_ar": "TRT Muzik",
+      "name_en": "TRT Muzik",
+      "country": "TR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTSpor.tr",
+      "code": "TRT-TR-014",
+      "index": 7847,
+      "tvg_id": null,
+      "tvg_chno": 7947,
+      "name_ar": "TRT Spor",
+      "name_en": "TRT Spor",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTSporYildiz.tr",
+      "code": "TRT-TR-015",
+      "index": 7848,
+      "tvg_id": null,
+      "tvg_chno": 7948,
+      "name_ar": "TRT Spor Yildiz",
+      "name_en": "TRT Spor Yildiz",
+      "country": "TR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor",
+          "quality": "1440p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTTurk.tr",
+      "code": "TRT-TR-016",
+      "index": 7849,
+      "tvg_id": null,
+      "tvg_chno": 7949,
+      "name_ar": "TRT Turk",
+      "name_en": "TRT Turk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TRTWorld.tr",
+      "code": "TRT-TR-017",
+      "index": 7850,
+      "tvg_id": null,
+      "tvg_chno": 7950,
+      "name_ar": "TRT World",
+      "name_en": "TRT World",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TurkHaberTV.tr",
+      "code": "TUR-TR-001",
+      "index": 7886,
+      "tvg_id": null,
+      "tvg_chno": 7986,
+      "name_ar": "TurkHaber TV",
+      "name_en": "TurkHaber TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV264.tr",
+      "code": "TVX-TR-001",
+      "index": 7907,
+      "tvg_id": null,
+      "tvg_chno": 8007,
+      "name_ar": "TV 264",
+      "name_en": "TV 264",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV41.tr",
+      "code": "TVX-TR-002",
+      "index": 7922,
+      "tvg_id": null,
+      "tvg_chno": 8022,
+      "name_ar": "TV 41",
+      "name_en": "TV 41",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV42.tr",
+      "code": "TVX-TR-003",
+      "index": 7923,
+      "tvg_id": null,
+      "tvg_chno": 8023,
+      "name_ar": "TV 42",
+      "name_en": "TV 42",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV52.tr",
+      "code": "TVX-TR-004",
+      "index": 7925,
+      "tvg_id": null,
+      "tvg_chno": 8025,
+      "name_ar": "TV 52",
+      "name_en": "TV 52",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UlkeTV.tr",
+      "code": "ULK-TR-001",
+      "index": 8402,
+      "tvg_id": null,
+      "tvg_chno": 8502,
+      "name_ar": "Ulke TV",
+      "name_en": "Ulke TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://217.174.229.138:8000/play/a0el",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UrfaNatikTV.tr",
+      "code": "URF-TR-001",
+      "index": 8472,
+      "tvg_id": null,
+      "tvg_chno": 8572,
+      "name_ar": "Urfa Natik TV",
+      "name_en": "Urfa Natik TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Van65TV.tr",
+      "code": "VAN-TR-001",
+      "index": 8499,
+      "tvg_id": null,
+      "tvg_chno": 8599,
+      "name_ar": "Van 65 TV",
+      "name_en": "Van 65 TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VavTV.tr",
+      "code": "VAV-TR-001",
+      "index": 8525,
+      "tvg_id": null,
+      "tvg_chno": 8625,
+      "name_ar": "Vav TV",
+      "name_en": "Vav TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZarokTV.tr",
+      "code": "ZAR-TR-001",
+      "index": 8933,
+      "tvg_id": null,
+      "tvg_chno": 9033,
+      "name_ar": "Zarok TV",
+      "name_en": "Zarok TV",
+      "country": "TR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "trtocuk",
+      "code": "TRT-TR-018",
+      "index": 9753,
+      "tvg_id": null,
+      "tvg_chno": 9853,
+      "name_ar": "TRT Çocuk",
+      "name_en": "TRT Çocuk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "Turkey",
+      "logo": "https://i.imgur.com/QLFmD6d.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "trtkurd",
+      "code": "TRT-TR-019",
+      "index": 9755,
+      "tvg_id": null,
+      "tvg_chno": 9855,
+      "name_ar": "TRT Kurdî",
+      "name_en": "TRT Kurdî",
+      "country": "TR",
+      "language": "unknown",
+      "category": "Turkey",
+      "logo": "https://i.imgur.com/6BpymfB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "trttrk",
+      "code": "TRT-TR-020",
+      "index": 9756,
+      "tvg_id": null,
+      "tvg_chno": 9856,
+      "name_ar": "TRT Türk",
+      "name_en": "TRT Türk",
+      "country": "TR",
+      "language": "unknown",
+      "category": "Turkey",
+      "logo": "https://i.imgur.com/OSTOQNw.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

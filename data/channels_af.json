@@ -1,0 +1,385 @@
+{
+  "version": "1.0.0",
+  "country": "AF",
+  "total_channels": 14,
+  "channels": [
+    {
+      "id": "AMC.af",
+      "code": "AMC-AF-001",
+      "index": 506,
+      "tvg_id": null,
+      "tvg_chno": 606,
+      "name_ar": "AMC",
+      "name_en": "AMC",
+      "country": "AF",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://amchls.wns.live/hls/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BaharTV.af",
+      "code": "BAH-AF-001",
+      "index": 826,
+      "tvg_id": null,
+      "tvg_chno": 926,
+      "name_ar": "Bahar TV",
+      "name_en": "Bahar TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DunyaNawTV.af",
+      "code": "DUN-AF-001",
+      "index": 2344,
+      "tvg_id": null,
+      "tvg_chno": 2444,
+      "name_ar": "Dunya Naw TV",
+      "name_en": "Dunya Naw TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dunyanhls.wns.live/hls/stream.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EslahTV.af",
+      "code": "ESL-AF-001",
+      "index": 2528,
+      "tvg_id": null,
+      "tvg_chno": 2628,
+      "name_ar": "Eslah TV",
+      "name_en": "Eslah TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HewadTV.af",
+      "code": "HEW-AF-001",
+      "index": 3137,
+      "tvg_id": null,
+      "tvg_chno": 3237,
+      "name_ar": "Hewad TV",
+      "name_en": "Hewad TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://51.210.199.58/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KayhanTV.af",
+      "code": "KAY-AF-001",
+      "index": 3673,
+      "tvg_id": null,
+      "tvg_chno": 3773,
+      "name_ar": "Kayhan TV",
+      "name_en": "Kayhan TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LemarTV.af",
+      "code": "LEM-AF-001",
+      "index": 3973,
+      "tvg_id": null,
+      "tvg_chno": 4073,
+      "name_ar": "Lemar TV",
+      "name_en": "Lemar TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTA.af",
+      "code": "RTA-AF-001",
+      "index": 6329,
+      "tvg_id": null,
+      "tvg_chno": 6429,
+      "name_ar": "RTA",
+      "name_en": "RTA",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ShamshadTV.af",
+      "code": "SHA-AF-001",
+      "index": 6716,
+      "tvg_id": null,
+      "tvg_chno": 6816,
+      "name_ar": "Shamshad TV",
+      "name_en": "Shamshad TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ShamsTV.af",
+      "code": "SHA-AF-002",
+      "index": 6717,
+      "tvg_id": null,
+      "tvg_chno": 6817,
+      "name_ar": "Shams TV",
+      "name_en": "Shams TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fflive-darya-educationtv.b-cdn.net/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SharqRadioTV.af",
+      "code": "SHA-AF-003",
+      "index": 6734,
+      "tvg_id": null,
+      "tvg_chno": 6834,
+      "name_ar": "Sharq Radio TV",
+      "name_en": "Sharq Radio TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TamadonTV.af",
+      "code": "TAM-AF-001",
+      "index": 7268,
+      "tvg_id": null,
+      "tvg_chno": 7368,
+      "name_ar": "Tamadon TV",
+      "name_en": "Tamadon TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.tamadon.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TOLOnews.af",
+      "code": "TOL-AF-001",
+      "index": 7741,
+      "tvg_id": null,
+      "tvg_chno": 7841,
+      "name_ar": "TOLOnews",
+      "name_en": "TOLOnews",
+      "country": "AF",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ToloTV.af",
+      "code": "TOL-AF-002",
+      "index": 7742,
+      "tvg_id": null,
+      "tvg_chno": 7842,
+      "name_ar": "Tolo TV",
+      "name_en": "Tolo TV",
+      "country": "AF",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

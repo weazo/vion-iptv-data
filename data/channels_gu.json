@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "country": "GU",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "Star101FM.gu",
+      "code": "STA-GU-001",
+      "index": 7009,
+      "tvg_id": null,
+      "tvg_chno": 7109,
+      "name_ar": "Star 101 FM",
+      "name_en": "Star 101 FM",
+      "country": "GU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

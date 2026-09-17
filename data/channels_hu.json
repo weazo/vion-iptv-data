@@ -1,0 +1,3523 @@
+{
+  "version": "1.0.0",
+  "country": "HU",
+  "total_channels": 124,
+  "channels": [
+    {
+      "id": "16tvBudapest.hu",
+      "code": "TVB-HU-001",
+      "index": 23,
+      "tvg_id": null,
+      "tvg_chno": 123,
+      "name_ar": "16tv Budapest",
+      "name_en": "16tv Budapest",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "7TV.hu",
+      "code": "TVX-HU-001",
+      "index": 137,
+      "tvg_id": null,
+      "tvg_chno": 237,
+      "name_ar": "7.TV",
+      "name_en": "7.TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tv7plus.com/hls/tv7_site.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlfoldTV.hu",
+      "code": "ALF-HU-001",
+      "index": 382,
+      "tvg_id": null,
+      "tvg_chno": 482,
+      "name_ar": "Alfold TV",
+      "name_en": "Alfold TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ApostolTV.hu",
+      "code": "APO-HU-001",
+      "index": 613,
+      "tvg_id": null,
+      "tvg_chno": 713,
+      "name_ar": "Apostol TV",
+      "name_en": "Apostol TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.apostoltv.hu/live/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ATVSpirit.hu",
+      "code": "ATV-HU-001",
+      "index": 736,
+      "tvg_id": null,
+      "tvg_chno": 836,
+      "name_ar": "ATV Spirit",
+      "name_en": "ATV Spirit",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/test_atv_spirit/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AXNSpin.hu",
+      "code": "AXN-HU-001",
+      "index": 791,
+      "tvg_id": null,
+      "tvg_chno": 891,
+      "name_ar": "AXN Spin",
+      "name_en": "AXN Spin",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://polska.hach.workers.dev/14847.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BajaiTV.hu",
+      "code": "BAJ-HU-001",
+      "index": 834,
+      "tvg_id": null,
+      "tvg_chno": 934,
+      "name_ar": "Bajai TV",
+      "name_en": "Bajai TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BalatonTV.hu",
+      "code": "BAL-HU-001",
+      "index": 840,
+      "tvg_id": null,
+      "tvg_chno": 940,
+      "name_ar": "Balaton TV",
+      "name_en": "Balaton TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
+          "quality": "432p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BerenteTV.hu",
+      "code": "BER-HU-001",
+      "index": 973,
+      "tvg_id": null,
+      "tvg_chno": 1073,
+      "name_ar": "Berente TV",
+      "name_en": "Berente TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/BerenteTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BudapestEuropaTelevizio.hu",
+      "code": "BUD-HU-001",
+      "index": 1170,
+      "tvg_id": null,
+      "tvg_chno": 1270,
+      "name_ar": "Budapest Europa Televizio",
+      "name_en": "Budapest Europa Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CsurgoTV.hu",
+      "code": "CSU-HU-001",
+      "index": 1978,
+      "tvg_id": null,
+      "tvg_chno": 2078,
+      "name_ar": "Csurgo TV",
+      "name_en": "Csurgo TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DaruTV.hu",
+      "code": "DAR-HU-001",
+      "index": 2065,
+      "tvg_id": null,
+      "tvg_chno": 2165,
+      "name_ar": "Daru TV",
+      "name_en": "Daru TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DikhTV.hu",
+      "code": "DIK-HU-001",
+      "index": 2212,
+      "tvg_id": null,
+      "tvg_chno": 2312,
+      "name_ar": "Dikh TV",
+      "name_en": "Dikh TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/dikh/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/c/DikhTvGipsyTv/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DTV.hu",
+      "code": "DTV-HU-001",
+      "index": 2324,
+      "tvg_id": null,
+      "tvg_chno": 2424,
+      "name_ar": "DTV",
+      "name_en": "DTV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Duna.hu",
+      "code": "DUN-HU-001",
+      "index": 2339,
+      "tvg_id": null,
+      "tvg_chno": 2439,
+      "name_ar": "Duna",
+      "name_en": "Duna",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/duna_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DunaWorld.hu",
+      "code": "DUN-HU-002",
+      "index": 2341,
+      "tvg_id": null,
+      "tvg_chno": 2441,
+      "name_ar": "Duna World",
+      "name_en": "Duna World",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/duna_world_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EgykerTV.hu",
+      "code": "EGY-HU-001",
+      "index": 2406,
+      "tvg_id": null,
+      "tvg_chno": 2506,
+      "name_ar": "Egyker TV",
+      "name_en": "Egyker TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ESTV.hu",
+      "code": "EST-HU-001",
+      "index": 2550,
+      "tvg_id": null,
+      "tvg_chno": 2650,
+      "name_ar": "ESTV",
+      "name_en": "ESTV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+          "quality": "420p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EWTNBonumTV.hu",
+      "code": "EWT-HU-001",
+      "index": 2619,
+      "tvg_id": null,
+      "tvg_chno": 2719,
+      "name_ar": "EWTN/Bonum TV",
+      "name_en": "EWTN/Bonum TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/ewtn_bonum/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FehervarTV.hu",
+      "code": "FEH-HU-001",
+      "index": 2693,
+      "tvg_id": null,
+      "tvg_chno": 2793,
+      "name_ar": "Fehervar TV",
+      "name_en": "Fehervar TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FEM3.hu",
+      "code": "FEM-HU-001",
+      "index": 2694,
+      "tvg_id": null,
+      "tvg_chno": 2794,
+      "name_ar": "FEM3",
+      "name_en": "FEM3",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Film4.hu",
+      "code": "FIL-HU-001",
+      "index": 2717,
+      "tvg_id": null,
+      "tvg_chno": 2817,
+      "name_ar": "Film4",
+      "name_en": "Film4",
+      "country": "HU",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/film4_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FilmCafe.hu",
+      "code": "FIL-HU-002",
+      "index": 2728,
+      "tvg_id": null,
+      "tvg_chno": 2828,
+      "name_ar": "Film Cafe",
+      "name_en": "Film Cafe",
+      "country": "HU",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FIXTV.hu",
+      "code": "FIX-HU-001",
+      "index": 2751,
+      "tvg_id": null,
+      "tvg_chno": 2851,
+      "name_ar": "FIX TV",
+      "name_en": "FIX TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fixhd.tv:8082/fix/1080i/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Galaxy4.hu",
+      "code": "GAL-HU-001",
+      "index": 2856,
+      "tvg_id": null,
+      "tvg_chno": 2956,
+      "name_ar": "Galaxy4",
+      "name_en": "Galaxy4",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GolyaTV.hu",
+      "code": "GOL-HU-001",
+      "index": 2980,
+      "tvg_id": null,
+      "tvg_chno": 3080,
+      "name_ar": "Golya TV",
+      "name_en": "Golya TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/GolyaTV/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GranTV.hu",
+      "code": "GRA-HU-001",
+      "index": 3004,
+      "tvg_id": null,
+      "tvg_chno": 3104,
+      "name_ar": "Gran TV",
+      "name_en": "Gran TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.medialive.hu/gran/grantvlive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GyongyosiTV.hu",
+      "code": "GYO-HU-001",
+      "index": 3061,
+      "tvg_id": null,
+      "tvg_chno": 3161,
+      "name_ar": "Gyongyosi TV",
+      "name_en": "Gyongyosi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HangulatTV.hu",
+      "code": "HAN-HU-001",
+      "index": 3088,
+      "tvg_id": null,
+      "tvg_chno": 3188,
+      "name_ar": "Hangulat TV",
+      "name_en": "Hangulat TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Hatoscsatorna.hu",
+      "code": "HAT-HU-001",
+      "index": 3106,
+      "tvg_id": null,
+      "tvg_chno": 3206,
+      "name_ar": "Hatoscsatorna",
+      "name_en": "Hatoscsatorna",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HegyvidekTV.hu",
+      "code": "HEG-HU-001",
+      "index": 3124,
+      "tvg_id": null,
+      "tvg_chno": 3224,
+      "name_ar": "Hegyvidek TV",
+      "name_en": "Hegyvidek TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tv.hegyvidek.hu/stream_mpeg.flv",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HeviziTV.hu",
+      "code": "HEV-HU-001",
+      "index": 3136,
+      "tvg_id": null,
+      "tvg_chno": 3236,
+      "name_ar": "Hevizi TV",
+      "name_en": "Hevizi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IzauraTV.hu",
+      "code": "IZA-HU-001",
+      "index": 3476,
+      "tvg_id": null,
+      "tvg_chno": 3576,
+      "name_ar": "Izaura TV",
+      "name_en": "Izaura TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/izaura/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JaszsagiTersegiTV.hu",
+      "code": "JAS-HU-001",
+      "index": 3502,
+      "tvg_id": null,
+      "tvg_chno": 3602,
+      "name_ar": "Jaszsagi Tersegi TV",
+      "name_en": "Jaszsagi Tersegi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8",
+          "quality": "440p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JimJam.hu",
+      "code": "JIM-HU-001",
+      "index": 3546,
+      "tvg_id": null,
+      "tvg_chno": 3646,
+      "name_ar": "JimJam",
+      "name_en": "JimJam",
+      "country": "HU",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/jim_jam_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JockyTV.hu",
+      "code": "JOC-HU-001",
+      "index": 3556,
+      "tvg_id": null,
+      "tvg_chno": 3656,
+      "name_ar": "Jocky TV",
+      "name_en": "Jocky TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/jocky/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KanizsaTV.hu",
+      "code": "KAN-HU-001",
+      "index": 3652,
+      "tvg_id": null,
+      "tvg_chno": 3752,
+      "name_ar": "Kanizsa TV",
+      "name_en": "Kanizsa TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8",
+          "quality": "400p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KaposTV.hu",
+      "code": "KAP-HU-001",
+      "index": 3659,
+      "tvg_id": null,
+      "tvg_chno": 3759,
+      "name_ar": "Kapos TV",
+      "name_en": "Kapos TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KarcagTV.hu",
+      "code": "KAR-HU-001",
+      "index": 3662,
+      "tvg_id": null,
+      "tvg_chno": 3762,
+      "name_ar": "Karcag TV",
+      "name_en": "Karcag TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KecskemetiTV.hu",
+      "code": "KEC-HU-001",
+      "index": 3687,
+      "tvg_id": null,
+      "tvg_chno": 3787,
+      "name_ar": "Kecskemeti TV",
+      "name_en": "Kecskemeti TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+          "quality": "416p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://eurobioinvest.hu:444/live/ktv.m3u8",
+          "quality": "416p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KiskorosTV.hu",
+      "code": "KIS-HU-001",
+      "index": 3751,
+      "tvg_id": null,
+      "tvg_chno": 3851,
+      "name_ar": "Kiskoros TV",
+      "name_en": "Kiskoros TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kolyokklub.hu",
+      "code": "KOL-HU-001",
+      "index": 3785,
+      "tvg_id": null,
+      "tvg_chno": 3885,
+      "name_ar": "Kolyokklub",
+      "name_en": "Kolyokklub",
+      "country": "HU",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/kolyokklub_atk/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KomaromiTelevizio.hu",
+      "code": "KOM-HU-001",
+      "index": 3787,
+      "tvg_id": null,
+      "tvg_chno": 3887,
+      "name_ar": "Komaromi Televizio",
+      "name_en": "Komaromi Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+          "quality": "400p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KomlosTV.hu",
+      "code": "KOM-HU-002",
+      "index": 3790,
+      "tvg_id": null,
+      "tvg_chno": 3890,
+      "name_ar": "Komlos TV",
+      "name_en": "Komlos TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LiceumTV.hu",
+      "code": "LIC-HU-001",
+      "index": 3997,
+      "tvg_id": null,
+      "tvg_chno": 4097,
+      "name_ar": "Liceum TV",
+      "name_en": "Liceum TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://193.225.32.62:8890/live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Loversenykozvetites.hu",
+      "code": "LOV-HU-001",
+      "index": 4077,
+      "tvg_id": null,
+      "tvg_chno": 4177,
+      "name_ar": "Loverseny kozvetites",
+      "name_en": "Loverseny kozvetites",
+      "country": "HU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8",
+          "quality": "420p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "M1.hu",
+      "code": "MXX-HU-001",
+      "index": 4110,
+      "tvg_id": null,
+      "tvg_chno": 4210,
+      "name_ar": "M1",
+      "name_en": "M1",
+      "country": "HU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/218/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "M2.hu",
+      "code": "MXX-HU-002",
+      "index": 4111,
+      "tvg_id": null,
+      "tvg_chno": 4211,
+      "name_ar": "M2",
+      "name_en": "M2",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/330/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "M4Sport.hu",
+      "code": "MSP-HU-001",
+      "index": 4113,
+      "tvg_id": null,
+      "tvg_chno": 4213,
+      "name_ar": "M4 Sport",
+      "name_en": "M4 Sport",
+      "country": "HU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/uatlmvixrr/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/m4_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "M5.hu",
+      "code": "MXX-HU-003",
+      "index": 4114,
+      "tvg_id": null,
+      "tvg_chno": 4214,
+      "name_ar": "M5",
+      "name_en": "M5",
+      "country": "HU",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MagyarMoziTV.hu",
+      "code": "MAG-HU-001",
+      "index": 4143,
+      "tvg_id": null,
+      "tvg_chno": 4243,
+      "name_ar": "Magyar Mozi TV",
+      "name_en": "Magyar Mozi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/mozi/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MakoiVarosiTelevizio.hu",
+      "code": "MAK-HU-001",
+      "index": 4164,
+      "tvg_id": null,
+      "tvg_chno": 4264,
+      "name_ar": "Makoi Varosi Televizio",
+      "name_en": "Makoi Varosi Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://makomedia.mikrohalo.hu/hls/makotv.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MezokovesdiTelevizio.hu",
+      "code": "MEZ-HU-001",
+      "index": 4355,
+      "tvg_id": null,
+      "tvg_chno": 4455,
+      "name_ar": "Mezokovesdi Televizio",
+      "name_en": "Mezokovesdi Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Minimax.hu",
+      "code": "MIN-HU-001",
+      "index": 4392,
+      "tvg_id": null,
+      "tvg_chno": 4492,
+      "name_ar": "Minimax",
+      "name_en": "Minimax",
+      "country": "HU",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/minimax_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MoraNetTV.hu",
+      "code": "MOR-HU-001",
+      "index": 4477,
+      "tvg_id": null,
+      "tvg_chno": 4577,
+      "name_ar": "Mora-Net TV",
+      "name_en": "Mora-Net TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.moranettv.hu/live/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Moziklub.hu",
+      "code": "MOZ-HU-001",
+      "index": 4515,
+      "tvg_id": null,
+      "tvg_chno": 4615,
+      "name_ar": "Moziklub",
+      "name_en": "Moziklub",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/moziklub_atk/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MoziPlus.hu",
+      "code": "MOZ-HU-002",
+      "index": 4516,
+      "tvg_id": null,
+      "tvg_chno": 4616,
+      "name_ar": "Mozi+",
+      "name_en": "Mozi+",
+      "country": "HU",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Moziverzum.hu",
+      "code": "MOZ-HU-003",
+      "index": 4517,
+      "tvg_id": null,
+      "tvg_chno": 4617,
+      "name_ar": "Moziverzum",
+      "name_en": "Moziverzum",
+      "country": "HU",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MuzsikaTV.hu",
+      "code": "MUZ-HU-001",
+      "index": 4630,
+      "tvg_id": null,
+      "tvg_chno": 4730,
+      "name_ar": "Muzsika TV",
+      "name_en": "Muzsika TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OroszlanyiVarosiTelevizio.hu",
+      "code": "ORO-HU-001",
+      "index": 5158,
+      "tvg_id": null,
+      "tvg_chno": 5258,
+      "name_ar": "Oroszlanyi Varosi Televizio",
+      "name_en": "Oroszlanyi Varosi Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OrszaggyulesOGYplenaris.hu",
+      "code": "ORS-HU-001",
+      "index": 5159,
+      "tvg_id": null,
+      "tvg_chno": 5259,
+      "name_ar": "Orszaggyules: OGY plenaris",
+      "name_en": "Orszaggyules: OGY plenaris",
+      "country": "HU",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OrszaggyulesOGYTAB.hu",
+      "code": "ORS-HU-002",
+      "index": 5160,
+      "tvg_id": null,
+      "tvg_chno": 5260,
+      "name_ar": "Orszaggyules: OGY TAB",
+      "name_en": "Orszaggyules: OGY TAB",
+      "country": "HU",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OxygenMusic.hu",
+      "code": "OXY-HU-001",
+      "index": 5194,
+      "tvg_id": null,
+      "tvg_chno": 5294,
+      "name_ar": "Oxygen Music",
+      "name_en": "Oxygen Music",
+      "country": "HU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OzdiVarosiTV.hu",
+      "code": "OZD-HU-001",
+      "index": 5198,
+      "tvg_id": null,
+      "tvg_chno": 5298,
+      "name_ar": "Ozdi Varosi TV",
+      "name_en": "Ozdi Varosi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.nmih.hu:7980/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OzoneTV.hu",
+      "code": "OZO-HU-001",
+      "index": 5199,
+      "tvg_id": null,
+      "tvg_chno": 5299,
+      "name_ar": "Ozone TV",
+      "name_en": "Ozone TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "science",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/ozone/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PilisTV.hu",
+      "code": "PIL-HU-001",
+      "index": 5347,
+      "tvg_id": null,
+      "tvg_chno": 5447,
+      "name_ar": "PilisTV",
+      "name_en": "PilisTV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/PilisTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Prime.hu",
+      "code": "PRI-HU-001",
+      "index": 5755,
+      "tvg_id": null,
+      "tvg_chno": 5855,
+      "name_ar": "Prime",
+      "name_en": "Prime",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prime/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PVTV.hu",
+      "code": "PVT-HU-001",
+      "index": 5844,
+      "tvg_id": null,
+      "tvg_chno": 5944,
+      "name_ar": "PVTV",
+      "name_en": "PVTV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RakosmenteTV.hu",
+      "code": "RAK-HU-001",
+      "index": 6077,
+      "tvg_id": null,
+      "tvg_chno": 6177,
+      "name_ar": "Rakosmente TV",
+      "name_en": "Rakosmente TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RegioPluszTV.hu",
+      "code": "REG-HU-001",
+      "index": 6188,
+      "tvg_id": null,
+      "tvg_chno": 6288,
+      "name_ar": "RegioPlusz TV",
+      "name_en": "RegioPlusz TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/RegioPluszTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTLGold.hu",
+      "code": "RTL-HU-001",
+      "index": 6367,
+      "tvg_id": null,
+      "tvg_chno": 6467,
+      "name_ar": "RTL Gold",
+      "name_en": "RTL Gold",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTLHarom.hu",
+      "code": "RTL-HU-002",
+      "index": 6368,
+      "tvg_id": null,
+      "tvg_chno": 6468,
+      "name_ar": "RTL Harom",
+      "name_en": "RTL Harom",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTLKetto.hu",
+      "code": "RTL-HU-003",
+      "index": 6369,
+      "tvg_id": null,
+      "tvg_chno": 6469,
+      "name_ar": "RTL Ketto",
+      "name_en": "RTL Ketto",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTLOtthon.hu",
+      "code": "RTL-HU-004",
+      "index": 6370,
+      "tvg_id": null,
+      "tvg_chno": 6470,
+      "name_ar": "RTL Otthon",
+      "name_en": "RTL Otthon",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/rtl_otthon_atk/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SIXOTV.hu",
+      "code": "SIX-HU-001",
+      "index": 6806,
+      "tvg_id": null,
+      "tvg_chno": 6906,
+      "name_ar": "SIXO TV",
+      "name_en": "SIXO TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SlagerTV.hu",
+      "code": "SLA-HU-001",
+      "index": 6841,
+      "tvg_id": null,
+      "tvg_chno": 6941,
+      "name_ar": "Slager TV",
+      "name_en": "Slager TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SoltvadkertiTelevizio.hu",
+      "code": "SOL-HU-001",
+      "index": 6881,
+      "tvg_id": null,
+      "tvg_chno": 6981,
+      "name_ar": "Soltvadkerti Televizio",
+      "name_en": "Soltvadkerti Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Sorozatklub.hu",
+      "code": "SOR-HU-001",
+      "index": 6924,
+      "tvg_id": null,
+      "tvg_chno": 7024,
+      "name_ar": "Sorozatklub",
+      "name_en": "Sorozatklub",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/sorozatklub_atk/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SorozatPlus.hu",
+      "code": "SOR-HU-002",
+      "index": 6925,
+      "tvg_id": null,
+      "tvg_chno": 7025,
+      "name_ar": "Sorozat+",
+      "name_en": "Sorozat+",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Spiler1.hu",
+      "code": "SPI-HU-001",
+      "index": 6971,
+      "tvg_id": null,
+      "tvg_chno": 7071,
+      "name_ar": "Spiler 1",
+      "name_en": "Spiler 1",
+      "country": "HU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/spiler1/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Spiler2.hu",
+      "code": "SPI-HU-002",
+      "index": 6972,
+      "tvg_id": null,
+      "tvg_chno": 7072,
+      "name_ar": "Spiler 2",
+      "name_en": "Spiler 2",
+      "country": "HU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/spiler2/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Story4.hu",
+      "code": "STO-HU-001",
+      "index": 7089,
+      "tvg_id": null,
+      "tvg_chno": 7189,
+      "name_ar": "Story4",
+      "name_en": "Story4",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/story_4_cze_atk/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SuperTV2.hu",
+      "code": "SUP-HU-001",
+      "index": 7155,
+      "tvg_id": null,
+      "tvg_chno": 7255,
+      "name_ar": "Super TV2",
+      "name_en": "Super TV2",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SzecsenyTV.hu",
+      "code": "SZE-HU-001",
+      "index": 7238,
+      "tvg_id": null,
+      "tvg_chno": 7338,
+      "name_ar": "Szecseny TV",
+      "name_en": "Szecseny TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SzolnokTV.hu",
+      "code": "SZO-HU-001",
+      "index": 7239,
+      "tvg_id": null,
+      "tvg_chno": 7339,
+      "name_ar": "Szolnok TV",
+      "name_en": "Szolnok TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TataiTV.hu",
+      "code": "TAT-HU-001",
+      "index": 7290,
+      "tvg_id": null,
+      "tvg_chno": 7390,
+      "name_ar": "Tatai TV",
+      "name_en": "Tatai TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TelePaks.hu",
+      "code": "TEL-HU-001",
+      "index": 7461,
+      "tvg_id": null,
+      "tvg_chno": 7561,
+      "name_ar": "TelePaks",
+      "name_en": "TelePaks",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8",
+          "quality": "396p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TheFishingHuntingChannel.hu",
+      "code": "THE-HU-001",
+      "index": 7617,
+      "tvg_id": null,
+      "tvg_chno": 7717,
+      "name_ar": "The Fishing & Hunting Channel",
+      "name_en": "The Fishing & Hunting Channel",
+      "country": "HU",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/fishing_hun/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TiszaTV.hu",
+      "code": "TIS-HU-001",
+      "index": 7689,
+      "tvg_id": null,
+      "tvg_chno": 7789,
+      "name_ar": "Tisza TV",
+      "name_en": "Tisza TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TrimedioTV.hu",
+      "code": "TRI-HU-001",
+      "index": 7817,
+      "tvg_id": null,
+      "tvg_chno": 7917,
+      "name_ar": "Trimedio TV",
+      "name_en": "Trimedio TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/TriMedioTV/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV2Comedy.hu",
+      "code": "TVC-HU-001",
+      "index": 7910,
+      "tvg_id": null,
+      "tvg_chno": 8010,
+      "name_ar": "TV2 Comedy",
+      "name_en": "TV2 Comedy",
+      "country": "HU",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/tv2_comedy/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV2Kids.hu",
+      "code": "TVK-HU-001",
+      "index": 7911,
+      "tvg_id": null,
+      "tvg_chno": 8011,
+      "name_ar": "TV2 Kids",
+      "name_en": "TV2 Kids",
+      "country": "HU",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/tv2_kids/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV2Sef.hu",
+      "code": "TVS-HU-001",
+      "index": 7912,
+      "tvg_id": null,
+      "tvg_chno": 8012,
+      "name_ar": "TV2 Sef",
+      "name_en": "TV2 Sef",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV4.hu",
+      "code": "TVX-HU-002",
+      "index": 7921,
+      "tvg_id": null,
+      "tvg_chno": 8021,
+      "name_ar": "TV4",
+      "name_en": "TV4",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVBudakalasz.hu",
+      "code": "TVB-HU-002",
+      "index": 7993,
+      "tvg_id": null,
+      "tvg_chno": 8093,
+      "name_ar": "TV Budakalasz",
+      "name_en": "TV Budakalasz",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVEger.hu",
+      "code": "TVE-HU-001",
+      "index": 8056,
+      "tvg_id": null,
+      "tvg_chno": 8156,
+      "name_ar": "TV Eger",
+      "name_en": "TV Eger",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.tveger.hu:8010/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVKeszthely.hu",
+      "code": "TVK-HU-002",
+      "index": 8109,
+      "tvg_id": null,
+      "tvg_chno": 8209,
+      "name_ar": "TV Keszthely",
+      "name_en": "TV Keszthely",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVSzentendre.hu",
+      "code": "TVS-HU-002",
+      "index": 8333,
+      "tvg_id": null,
+      "tvg_chno": 8433,
+      "name_ar": "TV Szentendre",
+      "name_en": "TV Szentendre",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.streaming4u.hu/TVSzentendre/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VasarhelyiTelevizio.hu",
+      "code": "VAS-HU-001",
+      "index": 8523,
+      "tvg_id": null,
+      "tvg_chno": 8623,
+      "name_ar": "Vasarhelyi Televizio",
+      "name_en": "Vasarhelyi Televizio",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Viasat2.hu",
+      "code": "VIA-HU-001",
+      "index": 8583,
+      "tvg_id": null,
+      "tvg_chno": 8683,
+      "name_ar": "Viasat2",
+      "name_en": "Viasat2",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/viasat2/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Viasat3.hu",
+      "code": "VIA-HU-002",
+      "index": 8584,
+      "tvg_id": null,
+      "tvg_chno": 8684,
+      "name_ar": "Viasat 3",
+      "name_en": "Viasat 3",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/viasat3/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Viasat6.hu",
+      "code": "VIA-HU-003",
+      "index": 8585,
+      "tvg_id": null,
+      "tvg_chno": 8685,
+      "name_ar": "Viasat 6",
+      "name_en": "Viasat 6",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/viasat6/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VolgyhidTV.hu",
+      "code": "VOL-HU-001",
+      "index": 8676,
+      "tvg_id": null,
+      "tvg_chno": 8776,
+      "name_ar": "Volgyhid TV",
+      "name_en": "Volgyhid TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VTVFuzesabony.hu",
+      "code": "VTV-HU-001",
+      "index": 8714,
+      "tvg_id": null,
+      "tvg_chno": 8814,
+      "name_ar": "VTV Fuzesabony",
+      "name_en": "VTV Fuzesabony",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.nmih.hu:7962/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VTVMor.hu",
+      "code": "VTV-HU-002",
+      "index": 8715,
+      "tvg_id": null,
+      "tvg_chno": 8815,
+      "name_ar": "VTV Mor",
+      "name_en": "VTV Mor",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WilliamsTV.hu",
+      "code": "WIL-HU-001",
+      "index": 8794,
+      "tvg_id": null,
+      "tvg_chno": 8894,
+      "name_ar": "Williams TV",
+      "name_en": "Williams TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "XVTV.hu",
+      "code": "XVT-HU-001",
+      "index": 8878,
+      "tvg_id": null,
+      "tvg_chno": 8978,
+      "name_ar": "XV TV",
+      "name_en": "XV TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZalaegerszegiTV.hu",
+      "code": "ZAL-HU-001",
+      "index": 8928,
+      "tvg_id": null,
+      "tvg_chno": 9028,
+      "name_ar": "Zalaegerszegi TV",
+      "name_en": "Zalaegerszegi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Zenebutik.hu",
+      "code": "ZEN-HU-001",
+      "index": 8982,
+      "tvg_id": null,
+      "tvg_chno": 9082,
+      "name_ar": "Zenebutik",
+      "name_en": "Zenebutik",
+      "country": "HU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/zenebutik/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZugloTV.hu",
+      "code": "ZUG-HU-001",
+      "index": 9019,
+      "tvg_id": null,
+      "tvg_chno": 9119,
+      "name_ar": "Zuglo TV",
+      "name_en": "Zuglo TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "m2petfi",
+      "code": "MPE-HU-001",
+      "index": 9248,
+      "tvg_id": null,
+      "tvg_chno": 9348,
+      "name_ar": "M2 / Petőfi TV Ⓖ",
+      "name_en": "M2 / Petőfi TV Ⓖ",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/CzaDhmA.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/m2_hun/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "m5hungy",
+      "code": "MHU-HU-001",
+      "index": 9249,
+      "tvg_id": null,
+      "tvg_chno": 9349,
+      "name_ar": "M5 Hungary Ⓖ",
+      "name_en": "M5 Hungary Ⓖ",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/qLQz2V6.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rtlklub",
+      "code": "RTL-HU-005",
+      "index": 9250,
+      "tvg_id": null,
+      "tvg_chno": 9350,
+      "name_ar": "RTL Klub",
+      "name_en": "RTL Klub",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/ruRshE1.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "fem32klub",
+      "code": "FEM-HU-002",
+      "index": 9252,
+      "tvg_id": null,
+      "tvg_chno": 9352,
+      "name_ar": "FEM3 (TV2 Klub)",
+      "name_en": "FEM3 (TV2 Klub)",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/AF4Sz8Z.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "zdivrosi",
+      "code": "ZDI-HU-001",
+      "index": 9255,
+      "tvg_id": null,
+      "tvg_chno": 9355,
+      "name_ar": "Ózdi Városi TV",
+      "name_en": "Ózdi Városi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/5cOpdRp.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.nmih.hu:7980/live.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "gyngys",
+      "code": "GYN-HU-001",
+      "index": 9259,
+      "tvg_id": null,
+      "tvg_chno": 9359,
+      "name_ar": "Gyöngyös TV",
+      "name_en": "Gyöngyös TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/RHgaPCk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "kecskemt",
+      "code": "KEC-HU-002",
+      "index": 9260,
+      "tvg_id": null,
+      "tvg_chno": 9360,
+      "name_ar": "Kecskemét TV",
+      "name_en": "Kecskemét TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://rtmp1.40e.hu:8000/live/ktv.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "zalaegerszeg",
+      "code": "ZAL-HU-002",
+      "index": 9261,
+      "tvg_id": null,
+      "tvg_chno": 9361,
+      "name_ar": "Zalaegerszeg TV",
+      "name_en": "Zalaegerszeg TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "vsrhelyitelevzi",
+      "code": "VSR-HU-001",
+      "index": 9262,
+      "tvg_id": null,
+      "tvg_chno": 9362,
+      "name_ar": "Vásárhelyi Televízió",
+      "name_en": "Vásárhelyi Televízió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/WOEqdmx.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "oroszlnyivrositelevzi",
+      "code": "ORO-HU-002",
+      "index": 9263,
+      "tvg_id": null,
+      "tvg_chno": 9363,
+      "name_ar": "Oroszlányi Városi Televízió",
+      "name_en": "Oroszlányi Városi Televízió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/P0fxUH5.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "esesztergom",
+      "code": "EST-HU-002",
+      "index": 9270,
+      "tvg_id": null,
+      "tvg_chno": 9370,
+      "name_ar": "ES TV (Esztergom)",
+      "name_en": "ES TV (Esztergom)",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "komromitelevzi",
+      "code": "KOM-HU-003",
+      "index": 9271,
+      "tvg_id": null,
+      "tvg_chno": 9371,
+      "name_ar": "Komáromi Televízió",
+      "name_en": "Komáromi Televízió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "dunaworldm4sport",
+      "code": "DUN-HU-003",
+      "index": 9272,
+      "tvg_id": null,
+      "tvg_chno": 9372,
+      "name_ar": "Duna World / M4+ Sport",
+      "name_en": "Duna World / M4+ Sport",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/DciAdFF.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/duna_world_hun/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "putnokvrosi",
+      "code": "PUT-HU-001",
+      "index": 9273,
+      "tvg_id": null,
+      "tvg_chno": 9373,
+      "name_ar": "Putnok Városi TV",
+      "name_en": "Putnok Városi TV",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/eKXPBFb.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

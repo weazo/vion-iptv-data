@@ -1,0 +1,231 @@
+{
+  "version": "1.0.0",
+  "country": "IS",
+  "total_channels": 8,
+  "channels": [
+    {
+      "id": "Althingi.is",
+      "code": "ALT-IS-001",
+      "index": 482,
+      "tvg_id": null,
+      "tvg_chno": 582,
+      "name_ar": "Althingi",
+      "name_en": "Althingi",
+      "country": "IS",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "K100.is",
+      "code": "KXX-IS-001",
+      "index": 3600,
+      "tvg_id": null,
+      "tvg_chno": 3700,
+      "name_ar": "K100",
+      "name_en": "K100",
+      "country": "IS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://k100streymi.mbl.is/beint/k100/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Omega.is",
+      "code": "OME-IS-001",
+      "index": 5080,
+      "tvg_id": null,
+      "tvg_chno": 5180,
+      "name_ar": "Omega",
+      "name_en": "Omega",
+      "country": "IS",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RUV.is",
+      "code": "RUV-IS-001",
+      "index": 6480,
+      "tvg_id": null,
+      "tvg_chno": 6580,
+      "name_ar": "RUV",
+      "name_en": "RUV",
+      "country": "IS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RUV2.is",
+      "code": "RUV-IS-002",
+      "index": 6481,
+      "tvg_id": null,
+      "tvg_chno": 6581,
+      "name_ar": "RUV 2",
+      "name_en": "RUV 2",
+      "country": "IS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Visir.is",
+      "code": "VIS-IS-001",
+      "index": 8645,
+      "tvg_id": null,
+      "tvg_chno": 8745,
+      "name_ar": "Visir",
+      "name_en": "Visir",
+      "country": "IS",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rv2",
+      "code": "RVX-IS-001",
+      "index": 9274,
+      "tvg_id": null,
+      "tvg_chno": 9374,
+      "name_ar": "RÚV 2",
+      "name_en": "RÚV 2",
+      "country": "IS",
+      "language": "unknown",
+      "category": "Iceland",
+      "logo": "https://i.imgur.com/yDKRuXQ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "alingi",
+      "code": "ALI-IS-001",
+      "index": 9275,
+      "tvg_id": null,
+      "tvg_chno": 9375,
+      "name_ar": "Alþingi",
+      "name_en": "Alþingi",
+      "country": "IS",
+      "language": "unknown",
+      "category": "Iceland",
+      "logo": "https://i.imgur.com/n170HMm.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

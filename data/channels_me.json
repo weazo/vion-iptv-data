@@ -1,0 +1,196 @@
+{
+  "version": "1.0.0",
+  "country": "ME",
+  "total_channels": 7,
+  "channels": [
+    {
+      "id": "RadiotelevizijaRozaje.me",
+      "code": "RAD-ME-001",
+      "index": 6020,
+      "tvg_id": null,
+      "tvg_chno": 6120,
+      "name_ar": "Radio televizija Rozaje",
+      "name_en": "Radio televizija Rozaje",
+      "country": "ME",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8",
+          "quality": "614p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCG1.me",
+      "code": "TVC-ME-001",
+      "index": 8015,
+      "tvg_id": null,
+      "tvg_chno": 8115,
+      "name_ar": "TVCG 1",
+      "name_en": "TVCG 1",
+      "country": "ME",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCG2.me",
+      "code": "TVC-ME-002",
+      "index": 8016,
+      "tvg_id": null,
+      "tvg_chno": 8116,
+      "name_ar": "TVCG 2",
+      "name_en": "TVCG 2",
+      "country": "ME",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCG3.me",
+      "code": "TVC-ME-003",
+      "index": 8017,
+      "tvg_id": null,
+      "tvg_chno": 8117,
+      "name_ar": "TVCG 3",
+      "name_en": "TVCG 3",
+      "country": "ME",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCGMNE.me",
+      "code": "TVC-ME-004",
+      "index": 8018,
+      "tvg_id": null,
+      "tvg_chno": 8118,
+      "name_ar": "TVCG MNE",
+      "name_en": "TVCG MNE",
+      "country": "ME",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVNiksic.me",
+      "code": "TVN-ME-001",
+      "index": 8174,
+      "tvg_id": null,
+      "tvg_chno": 8274,
+      "name_ar": "TV Niksic",
+      "name_en": "TV Niksic",
+      "country": "ME",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.rtv-niksic.me/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVTeuta.me",
+      "code": "TVT-ME-001",
+      "index": 8336,
+      "tvg_id": null,
+      "tvg_chno": 8436,
+      "name_ar": "TV Teuta",
+      "name_en": "TV Teuta",
+      "country": "ME",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1176 @@
+{
+  "version": "1.0.0",
+  "country": "FI",
+  "total_channels": 35,
+  "channels": [
+    {
+      "id": "Eveo.fi",
+      "code": "EVE-FI-001",
+      "index": 2604,
+      "tvg_id": null,
+      "tvg_chno": 2704,
+      "name_ar": "Eveo",
+      "name_en": "Eveo",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Hero.fi",
+      "code": "HER-FI-001",
+      "index": 3134,
+      "tvg_id": null,
+      "tvg_chno": 3234,
+      "name_ar": "Hero",
+      "name_en": "Hero",
+      "country": "FI",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HimlenTV7.fi",
+      "code": "HIM-FI-001",
+      "index": 3150,
+      "tvg_id": null,
+      "tvg_chno": 3250,
+      "name_ar": "Himlen TV7",
+      "name_en": "Himlen TV7",
+      "country": "FI",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Jim.fi",
+      "code": "JIM-FI-001",
+      "index": 3544,
+      "tvg_id": null,
+      "tvg_chno": 3644,
+      "name_ar": "Jim",
+      "name_en": "Jim",
+      "country": "FI",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JRTVJarviradio.fi",
+      "code": "JRT-FI-001",
+      "index": 3584,
+      "tvg_id": null,
+      "tvg_chno": 3684,
+      "name_ar": "JRTV Jarviradio",
+      "name_en": "JRTV Jarviradio",
+      "country": "FI",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Liv.fi",
+      "code": "LIV-FI-001",
+      "index": 4022,
+      "tvg_id": null,
+      "tvg_chno": 4122,
+      "name_ar": "Liv",
+      "name_en": "Liv",
+      "country": "FI",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MTV3.fi",
+      "code": "MTV-FI-001",
+      "index": 4555,
+      "tvg_id": null,
+      "tvg_chno": 4655,
+      "name_ar": "MTV3",
+      "name_en": "MTV3",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://195.222.7.17:8002/ch352",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MTVAva.fi",
+      "code": "MTV-FI-002",
+      "index": 4557,
+      "tvg_id": null,
+      "tvg_chno": 4657,
+      "name_ar": "MTV Ava",
+      "name_en": "MTV Ava",
+      "country": "FI",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MTVSub.fi",
+      "code": "MTV-FI-003",
+      "index": 4587,
+      "tvg_id": null,
+      "tvg_chno": 4687,
+      "name_ar": "MTV Sub",
+      "name_en": "MTV Sub",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/sub/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MTVUutiset.fi",
+      "code": "MTV-FI-004",
+      "index": 4590,
+      "tvg_id": null,
+      "tvg_chno": 4690,
+      "name_ar": "MTV Uutiset",
+      "name_en": "MTV Uutiset",
+      "country": "FI",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NarTV.fi",
+      "code": "NAR-FI-001",
+      "index": 4685,
+      "tvg_id": null,
+      "tvg_chno": 4785,
+      "name_ar": "Nar-TV",
+      "name_en": "Nar-TV",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NavahangTV.fi",
+      "code": "NAV-FI-001",
+      "index": 4720,
+      "tvg_id": null,
+      "tvg_chno": 4820,
+      "name_ar": "Navahang TV",
+      "name_en": "Navahang TV",
+      "country": "FI",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.navahang.live/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://simahls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Nelonen.fi",
+      "code": "NEL-FI-001",
+      "index": 4762,
+      "tvg_id": null,
+      "tvg_chno": 4862,
+      "name_ar": "Nelonen",
+      "name_en": "Nelonen",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NopolaNews.fi",
+      "code": "NOP-FI-001",
+      "index": 4902,
+      "tvg_id": null,
+      "tvg_chno": 5002,
+      "name_ar": "Nopola News",
+      "name_en": "Nopola News",
+      "country": "FI",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OnniTV.fi",
+      "code": "ONN-FI-001",
+      "index": 5132,
+      "tvg_id": null,
+      "tvg_chno": 5232,
+      "name_ar": "Onni TV",
+      "name_en": "Onni TV",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TaevasTV7.fi",
+      "code": "TAE-FI-001",
+      "index": 7252,
+      "tvg_id": null,
+      "tvg_chno": 7352,
+      "name_ar": "Taevas TV7",
+      "name_en": "Taevas TV7",
+      "country": "FI",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TaivasTV7.fi",
+      "code": "TAI-FI-001",
+      "index": 7256,
+      "tvg_id": null,
+      "tvg_chno": 7356,
+      "name_ar": "Taivas TV7",
+      "name_en": "Taivas TV7",
+      "country": "FI",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ViaplayTV.fi",
+      "code": "VIA-FI-001",
+      "index": 8582,
+      "tvg_id": null,
+      "tvg_chno": 8682,
+      "name_ar": "Viaplay TV",
+      "name_en": "Viaplay TV",
+      "country": "FI",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YleTeemaFem.fi",
+      "code": "YLE-FI-001",
+      "index": 8895,
+      "tvg_id": null,
+      "tvg_chno": 8995,
+      "name_ar": "Yle Teema & Fem",
+      "name_en": "Yle Teema & Fem",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/yle-teema-fem/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://yletv.akamaized.net/hls/live/622367/yletvteemafemfin/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YleTV1.fi",
+      "code": "YLE-FI-002",
+      "index": 8896,
+      "tvg_id": null,
+      "tvg_chno": 8996,
+      "name_ar": "Yle TV1",
+      "name_en": "Yle TV1",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/yle-tv1/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YleTV2.fi",
+      "code": "YLE-FI-003",
+      "index": 8897,
+      "tvg_id": null,
+      "tvg_chno": 8997,
+      "name_ar": "Yle TV2",
+      "name_en": "Yle TV2",
+      "country": "FI",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live-fi.tvkaista.net/yle-tv2/live.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://yletv.akamaized.net/hls/live/622366/yletv2fin/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YleX.fi",
+      "code": "YLE-FI-004",
+      "index": 8898,
+      "tvg_id": null,
+      "tvg_chno": 8998,
+      "name_ar": "YleX",
+      "name_en": "YleX",
+      "country": "FI",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "5finland",
+      "code": "TVF-FI-001",
+      "index": 9177,
+      "tvg_id": null,
+      "tvg_chno": 9277,
+      "name_ar": "TV5 Finland",
+      "name_en": "TV5 Finland",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/MoukyGs.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "kuton",
+      "code": "KUT-FI-001",
+      "index": 9178,
+      "tvg_id": null,
+      "tvg_chno": 9278,
+      "name_ar": "Kutonen",
+      "name_en": "Kutonen",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/4giVyxb.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tlcfinland",
+      "code": "TLC-FI-001",
+      "index": 9179,
+      "tvg_id": null,
+      "tvg_chno": 9279,
+      "name_ar": "TLC Finland",
+      "name_en": "TLC Finland",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/0d5hP3A.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "stfinland",
+      "code": "STA-FI-001",
+      "index": 9180,
+      "tvg_id": null,
+      "tvg_chno": 9280,
+      "name_ar": "Star Channel Finland",
+      "name_en": "Star Channel Finland",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/500px-Star_Channel_2020.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "frii",
+      "code": "FRI-FI-001",
+      "index": 9181,
+      "tvg_id": null,
+      "tvg_chno": 9281,
+      "name_ar": "Frii",
+      "name_en": "Frii",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/ljKoG9I.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "alfa",
+      "code": "ALF-FI-001",
+      "index": 9182,
+      "tvg_id": null,
+      "tvg_chno": 9282,
+      "name_ar": "Alfa Ⓢ",
+      "name_en": "Alfa Ⓢ",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tapahtumaeveo",
+      "code": "TAP-FI-001",
+      "index": 9183,
+      "tvg_id": null,
+      "tvg_chno": 9283,
+      "name_ar": "TapahtumaTV Eveo",
+      "name_en": "TapahtumaTV Eveo",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/sR8nA8w.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nationalgeographicfinland",
+      "code": "NAT-FI-001",
+      "index": 9184,
+      "tvg_id": null,
+      "tvg_chno": 9284,
+      "name_ar": "National Geographic Finland Ⓖ",
+      "name_en": "National Geographic Finland Ⓖ",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=freetv",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nr",
+      "code": "NRT-FI-001",
+      "index": 9185,
+      "tvg_id": null,
+      "tvg_chno": 9285,
+      "name_ar": "När-TV Ⓢ",
+      "name_en": "När-TV Ⓢ",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/Ht5yePq.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sundom",
+      "code": "SUN-FI-001",
+      "index": 9186,
+      "tvg_id": null,
+      "tvg_chno": 9286,
+      "name_ar": "Sundom TV Ⓨ",
+      "name_en": "Sundom TV Ⓨ",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/WgwR7nJ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@SundomTV/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "wr",
+      "code": "WRT-FI-001",
+      "index": 9187,
+      "tvg_id": null,
+      "tvg_chno": 9287,
+      "name_ar": "Wör TV Ⓨ",
+      "name_en": "Wör TV Ⓨ",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://i.imgur.com/P9O1jo0.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@wor-tvr.f.4461/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ylexstudio",
+      "code": "YLE-FI-005",
+      "index": 9188,
+      "tvg_id": null,
+      "tvg_chno": 9288,
+      "name_ar": "YleX Studio Live",
+      "name_en": "YleX Studio Live",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/500px-YleX.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "jrviradio",
+      "code": "JRV-FI-001",
+      "index": 9189,
+      "tvg_id": null,
+      "tvg_chno": 9289,
+      "name_ar": "Järviradio TV",
+      "name_en": "Järviradio TV",
+      "country": "FI",
+      "language": "unknown",
+      "category": "Finland",
+      "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

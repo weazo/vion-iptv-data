@@ -1,0 +1,838 @@
+{
+  "version": "1.0.0",
+  "country": "SV",
+  "total_channels": 29,
+  "channels": [
+    {
+      "id": "AgapeTV.sv",
+      "code": "AGA-SV-001",
+      "index": 305,
+      "tvg_id": null,
+      "tvg_chno": 405,
+      "name_ar": "Agape TV",
+      "name_en": "Agape TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ArboldeVidaTV.sv",
+      "code": "ARB-SV-001",
+      "index": 631,
+      "tvg_id": null,
+      "tvg_chno": 731,
+      "name_ar": "Arbol de Vida TV",
+      "name_en": "Arbol de Vida TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AwapaSportsTV.sv",
+      "code": "AWA-SV-001",
+      "index": 775,
+      "tvg_id": null,
+      "tvg_chno": 875,
+      "name_ar": "Awapa Sports TV",
+      "name_en": "Awapa Sports TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal11TuTV.sv",
+      "code": "CAN-SV-001",
+      "index": 1237,
+      "tvg_id": null,
+      "tvg_chno": 1337,
+      "name_ar": "Canal 11 TuTV",
+      "name_en": "Canal 11 TuTV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.giostreaming.app/canal11/canal11.m3u8",
+          "quality": "349p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal12.sv",
+      "code": "CAN-SV-002",
+      "index": 1238,
+      "tvg_id": null,
+      "tvg_chno": 1338,
+      "name_ar": "Canal 12",
+      "name_en": "Canal 12",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8",
+          "quality": "480i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://186.33.26.18:8000/play/a0nw/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal15ElZamorano.sv",
+      "code": "CAN-SV-003",
+      "index": 1256,
+      "tvg_id": null,
+      "tvg_chno": 1356,
+      "name_ar": "Canal 15 El Zamorano",
+      "name_en": "Canal 15 El Zamorano",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal3Impresionante.sv",
+      "code": "CAN-SV-004",
+      "index": 1289,
+      "tvg_id": null,
+      "tvg_chno": 1389,
+      "name_ar": "Canal 3 Impresionante",
+      "name_en": "Canal 3 Impresionante",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Canal65.sv",
+      "code": "CAN-SV-005",
+      "index": 1322,
+      "tvg_id": null,
+      "tvg_chno": 1422,
+      "name_ar": "Canal 65",
+      "name_en": "Canal 65",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://panel.streamingtv-mediacp.online:1936/tv65/tv65/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CanalTRV.sv",
+      "code": "CAN-SV-006",
+      "index": 1446,
+      "tvg_id": null,
+      "tvg_chno": 1546,
+      "name_ar": "Canal TRV",
+      "name_en": "Canal TRV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "El15TV.sv",
+      "code": "ELT-SV-001",
+      "index": 2416,
+      "tvg_id": null,
+      "tvg_chno": 2516,
+      "name_ar": "El 15 TV",
+      "name_en": "El 15 TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ElCaminoTV.sv",
+      "code": "ELC-SV-001",
+      "index": 2422,
+      "tvg_id": null,
+      "tvg_chno": 2522,
+      "name_ar": "El Camino TV",
+      "name_en": "El Camino TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ElimTV.sv",
+      "code": "ELI-SV-001",
+      "index": 2439,
+      "tvg_id": null,
+      "tvg_chno": 2539,
+      "name_ar": "Elim TV",
+      "name_en": "Elim TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GSGTV.sv",
+      "code": "GSG-SV-001",
+      "index": 3022,
+      "tvg_id": null,
+      "tvg_chno": 3122,
+      "name_ar": "GSG TV",
+      "name_en": "GSG TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://schurch1.bozztv.com/livecdn69/live/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JFVTV.sv",
+      "code": "JFV-SV-001",
+      "index": 3524,
+      "tvg_id": null,
+      "tvg_chno": 3624,
+      "name_ar": "JFV TV",
+      "name_en": "JFV TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JosueTV.sv",
+      "code": "JOS-SV-001",
+      "index": 3578,
+      "tvg_id": null,
+      "tvg_chno": 3678,
+      "name_ar": "Josue TV",
+      "name_en": "Josue TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LegislativeAssemblyofElSalvador.sv",
+      "code": "LEG-SV-001",
+      "index": 3967,
+      "tvg_id": null,
+      "tvg_chno": 4067,
+      "name_ar": "Legislative Assembly of El Salvador",
+      "name_en": "Legislative Assembly of El Salvador",
+      "country": "SV",
+      "language": "unknown",
+      "category": "legislative",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MegavisionCanal19.sv",
+      "code": "MEG-SV-001",
+      "index": 4320,
+      "tvg_id": null,
+      "tvg_chno": 4420,
+      "name_ar": "Megavision Canal 19",
+      "name_en": "Megavision Canal 19",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MegavisionCanal21.sv",
+      "code": "MEG-SV-002",
+      "index": 4321,
+      "tvg_id": null,
+      "tvg_chno": 4421,
+      "name_ar": "Megavision Canal 21",
+      "name_en": "Megavision Canal 21",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MorazanTV.sv",
+      "code": "MOR-SV-001",
+      "index": 4478,
+      "tvg_id": null,
+      "tvg_chno": 4578,
+      "name_ar": "Morazan TV",
+      "name_en": "Morazan TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://45.167.2.138:8000/play/a0o4/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTVCanal57.sv",
+      "code": "RTV-SV-001",
+      "index": 6421,
+      "tvg_id": null,
+      "tvg_chno": 6521,
+      "name_ar": "RTV Canal 57",
+      "name_en": "RTV Canal 57",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SVPlus.sv",
+      "code": "SVX-SV-001",
+      "index": 7194,
+      "tvg_id": null,
+      "tvg_chno": 7294,
+      "name_ar": "SV+",
+      "name_en": "SV+",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://45.167.2.101:8000/play/a0qx/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://186.33.26.18:8000/play/a0qx/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TribunaTV.sv",
+      "code": "TRI-SV-001",
+      "index": 7815,
+      "tvg_id": null,
+      "tvg_chno": 7915,
+      "name_ar": "Tribuna TV",
+      "name_en": "Tribuna TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudflare.streamgato.us:3300/live/tribunatvlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCNetwork.sv",
+      "code": "TVC-SV-001",
+      "index": 8026,
+      "tvg_id": null,
+      "tvg_chno": 8126,
+      "name_ar": "TVC Network",
+      "name_en": "TVC Network",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVCRET.sv",
+      "code": "TVC-SV-002",
+      "index": 8034,
+      "tvg_id": null,
+      "tvg_chno": 8134,
+      "name_ar": "TV CRET",
+      "name_en": "TV CRET",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://radiocret.net:8082/hls/tvcret.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVGetsemani.sv",
+      "code": "TVG-SV-001",
+      "index": 8079,
+      "tvg_id": null,
+      "tvg_chno": 8179,
+      "name_ar": "TV Getsemani",
+      "name_en": "TV Getsemani",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://serversv.com:8080/hls/tvgetsemani.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVLeondeJuda.sv",
+      "code": "TVL-SV-001",
+      "index": 8119,
+      "tvg_id": null,
+      "tvg_chno": 8219,
+      "name_ar": "TV Leon de Juda",
+      "name_en": "TV Leon de Juda",
+      "country": "SV",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVMElSalvador.sv",
+      "code": "TVM-SV-001",
+      "index": 8154,
+      "tvg_id": null,
+      "tvg_chno": 8254,
+      "name_ar": "TVM El Salvador",
+      "name_en": "TVM El Salvador",
+      "country": "SV",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://twitch-m3u8.bastypro112.workers.dev/tvm_esa/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVOCanal23.sv",
+      "code": "TVO-SV-001",
+      "index": 8185,
+      "tvg_id": null,
+      "tvg_chno": 8285,
+      "name_ar": "TVO Canal 23",
+      "name_en": "TVO Canal 23",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://45.167.2.101:8000/play/a0qo/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WOWTV.sv",
+      "code": "WOW-SV-001",
+      "index": 8822,
+      "tvg_id": null,
+      "tvg_chno": 8922,
+      "name_ar": "WOW TV",
+      "name_en": "WOW TV",
+      "country": "SV",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://service.cdn-stream.com/wow/wow_tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

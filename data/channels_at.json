@@ -1,0 +1,1033 @@
+{
+  "version": "1.0.0",
+  "country": "AT",
+  "total_channels": 30,
+  "channels": [
+    {
+      "id": "AntenneKaernten.at",
+      "code": "ANT-AT-001",
+      "index": 594,
+      "tvg_id": null,
+      "tvg_chno": 694,
+      "name_ar": "Antenne Kaernten",
+      "name_en": "Antenne Kaernten",
+      "country": "AT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AntenneSteiermark.at",
+      "code": "ANT-AT-002",
+      "index": 596,
+      "tvg_id": null,
+      "tvg_chno": 696,
+      "name_ar": "Antenne Steiermark",
+      "name_en": "Antenne Steiermark",
+      "country": "AT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AntenneVorarlberg.at",
+      "code": "ANT-AT-003",
+      "index": 597,
+      "tvg_id": null,
+      "tvg_chno": 697,
+      "name_ar": "Antenne Vorarlberg",
+      "name_en": "Antenne Vorarlberg",
+      "country": "AT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FS1Salzburg.at",
+      "code": "FSS-AT-001",
+      "index": 2826,
+      "tvg_id": null,
+      "tvg_chno": 2926,
+      "name_ar": "FS1 Salzburg",
+      "name_en": "FS1 Salzburg",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream.fs1.tv/hls/webstream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HitradioO3.at",
+      "code": "HIT-AT-001",
+      "index": 3172,
+      "tvg_id": null,
+      "tvg_chno": 3272,
+      "name_ar": "Hitradio O3",
+      "name_en": "Hitradio O3",
+      "country": "AT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "K19.at",
+      "code": "KXX-AT-001",
+      "index": 3601,
+      "tvg_id": null,
+      "tvg_chno": 3701,
+      "name_ar": "K19",
+      "name_en": "K19",
+      "country": "AT",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KITTV.at",
+      "code": "KIT-AT-001",
+      "index": 3757,
+      "tvg_id": null,
+      "tvg_chno": 3857,
+      "name_ar": "KIT-TV",
+      "name_en": "KIT-TV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kronehit.at",
+      "code": "KRO-AT-001",
+      "index": 3813,
+      "tvg_id": null,
+      "tvg_chno": 3913,
+      "name_ar": "Kronehit",
+      "name_en": "Kronehit",
+      "country": "AT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LandleTV.at",
+      "code": "LAN-AT-001",
+      "index": 3898,
+      "tvg_id": null,
+      "tvg_chno": 3998,
+      "name_ar": "Landle TV",
+      "name_en": "Landle TV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Okto.at",
+      "code": "OKT-AT-001",
+      "index": 5064,
+      "tvg_id": null,
+      "tvg_chno": 5164,
+      "name_ar": "Okto",
+      "name_en": "Okto",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ORF1.at",
+      "code": "ORF-AT-001",
+      "index": 5152,
+      "tvg_id": null,
+      "tvg_chno": 5252,
+      "name_ar": "ORF 1",
+      "name_en": "ORF 1",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ORF2.at",
+      "code": "ORF-AT-002",
+      "index": 5153,
+      "tvg_id": null,
+      "tvg_chno": 5253,
+      "name_ar": "ORF 2",
+      "name_en": "ORF 2",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ORFIII.at",
+      "code": "ORF-AT-003",
+      "index": 5154,
+      "tvg_id": null,
+      "tvg_chno": 5254,
+      "name_ar": "ORF III",
+      "name_en": "ORF III",
+      "country": "AT",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ORFKids.at",
+      "code": "ORF-AT-004",
+      "index": 5155,
+      "tvg_id": null,
+      "tvg_chno": 5255,
+      "name_ar": "ORF Kids",
+      "name_en": "ORF Kids",
+      "country": "AT",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "P3tv.at",
+      "code": "PTV-AT-001",
+      "index": 5202,
+      "tvg_id": null,
+      "tvg_chno": 5302,
+      "name_ar": "P3tv",
+      "name_en": "P3tv",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://p3-6.mov.at:1935/live/weekstream/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "R9.at",
+      "code": "RXX-AT-001",
+      "index": 5895,
+      "tvg_id": null,
+      "tvg_chno": 5995,
+      "name_ar": "R9",
+      "name_en": "R9",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RedBullTV.at",
+      "code": "RED-AT-001",
+      "index": 6150,
+      "tvg_id": null,
+      "tvg_chno": 6250,
+      "name_ar": "Red Bull TV",
+      "name_en": "Red Bull TV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://jmp2.uk/plu-67813f893886aa863497733d.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SchladmingDachsteinTV.at",
+      "code": "SCH-AT-001",
+      "index": 6626,
+      "tvg_id": null,
+      "tvg_chno": 6726,
+      "name_ar": "Schladming-Dachstein TV",
+      "name_en": "Schladming-Dachstein TV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ServusTV.at",
+      "code": "SER-AT-001",
+      "index": 6688,
+      "tvg_id": null,
+      "tvg_chno": 6788,
+      "name_ar": "ServusTV",
+      "name_en": "ServusTV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SteiermarkTV.at",
+      "code": "STE-AT-001",
+      "index": 7055,
+      "tvg_id": null,
+      "tvg_chno": 7155,
+      "name_ar": "Steiermark TV",
+      "name_en": "Steiermark TV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SwamijiTVAmerican.at",
+      "code": "SWA-AT-001",
+      "index": 7199,
+      "tvg_id": null,
+      "tvg_chno": 7299,
+      "name_ar": "Swamiji TV American",
+      "name_en": "Swamiji TV American",
+      "country": "AT",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SwamijiTVAustralian.at",
+      "code": "SWA-AT-002",
+      "index": 7200,
+      "tvg_id": null,
+      "tvg_chno": 7300,
+      "name_ar": "Swamiji TV Australian",
+      "name_en": "Swamiji TV Australian",
+      "country": "AT",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SwamijiTVEuropean.at",
+      "code": "SWA-AT-003",
+      "index": 7201,
+      "tvg_id": null,
+      "tvg_chno": 7301,
+      "name_ar": "Swamiji TV European",
+      "name_en": "Swamiji TV European",
+      "country": "AT",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TheCyclingChannel.at",
+      "code": "THE-AT-001",
+      "index": 7610,
+      "tvg_id": null,
+      "tvg_chno": 7710,
+      "name_ar": "The Cycling Channel",
+      "name_en": "The Cycling Channel",
+      "country": "AT",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TirolTV.at",
+      "code": "TIR-AT-001",
+      "index": 7687,
+      "tvg_id": null,
+      "tvg_chno": 7787,
+      "name_ar": "Tirol TV",
+      "name_en": "Tirol TV",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV1Oberosterreich.at",
+      "code": "TVO-AT-001",
+      "index": 7902,
+      "tvg_id": null,
+      "tvg_chno": 8002,
+      "name_ar": "TV 1 Oberosterreich",
+      "name_en": "TV 1 Oberosterreich",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UpperaBalkan.at",
+      "code": "UPP-AT-001",
+      "index": 8466,
+      "tvg_id": null,
+      "tvg_chno": 8566,
+      "name_ar": "Uppera Balkan",
+      "name_en": "Uppera Balkan",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "W24.at",
+      "code": "WXX-AT-001",
+      "index": 8722,
+      "tvg_id": null,
+      "tvg_chno": 8822,
+      "name_ar": "W24",
+      "name_en": "W24",
+      "country": "AT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "orfsport",
+      "code": "ORF-AT-005",
+      "index": 9064,
+      "tvg_id": null,
+      "tvg_chno": 9164,
+      "name_ar": "ORF Sport + Ⓖ",
+      "name_en": "ORF Sport + Ⓖ",
+      "country": "AT",
+      "language": "unknown",
+      "category": "Austria",
+      "logo": "https://i.imgur.com/MVNZ4gf.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "oe24",
+      "code": "OEX-AT-001",
+      "index": 9065,
+      "tvg_id": null,
+      "tvg_chno": 9165,
+      "name_ar": "oe24",
+      "name_en": "oe24",
+      "country": "AT",
+      "language": "unknown",
+      "category": "Austria",
+      "logo": "https://i.imgur.com/8UTkcPn.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

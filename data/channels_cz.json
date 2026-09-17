@@ -1,0 +1,2201 @@
+{
+  "version": "1.0.0",
+  "country": "CZ",
+  "total_channels": 78,
+  "channels": [
+    {
+      "id": "Ballcasterz.cz",
+      "code": "BAL-CZ-001",
+      "index": 843,
+      "tvg_id": null,
+      "tvg_chno": 943,
+      "name_ar": "Ballcasterz",
+      "name_en": "Ballcasterz",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://antik.streaming.tivio.studio/channels/yXDwkH0CbFfkhU7ZnHlT/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BarrandovKrimi.cz",
+      "code": "BAR-CZ-001",
+      "index": 868,
+      "tvg_id": null,
+      "tvg_chno": 968,
+      "name_ar": "Barrandov Krimi",
+      "name_en": "Barrandov Krimi",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CNNPrimaNews.cz",
+      "code": "CNN-CZ-001",
+      "index": 1855,
+      "tvg_id": null,
+      "tvg_chno": 1955,
+      "name_ar": "CNN Prima News",
+      "name_en": "CNN Prima News",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CT1.cz",
+      "code": "CTX-CZ-001",
+      "index": 1979,
+      "tvg_id": null,
+      "tvg_chno": 2079,
+      "name_ar": "CT1",
+      "name_en": "CT1",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CT2.cz",
+      "code": "CTX-CZ-002",
+      "index": 1980,
+      "tvg_id": null,
+      "tvg_chno": 2080,
+      "name_ar": "CT2",
+      "name_en": "CT2",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CT24.cz",
+      "code": "CTX-CZ-003",
+      "index": 1981,
+      "tvg_id": null,
+      "tvg_chno": 2081,
+      "name_ar": "CT24",
+      "name_en": "CT24",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTDecko.cz",
+      "code": "CTD-CZ-001",
+      "index": 1984,
+      "tvg_id": null,
+      "tvg_chno": 2084,
+      "name_ar": "CT Decko",
+      "name_en": "CT Decko",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTSport.cz",
+      "code": "CTS-CZ-001",
+      "index": 1992,
+      "tvg_id": null,
+      "tvg_chno": 2092,
+      "name_ar": "CT Sport",
+      "name_en": "CT Sport",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CurrentTimeTV.cz",
+      "code": "CUR-CZ-001",
+      "index": 2013,
+      "tvg_id": null,
+      "tvg_chno": 2113,
+      "name_ar": "Current Time TV",
+      "name_en": "Current Time TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/384/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DisneyJunior.cz",
+      "code": "DIS-CZ-001",
+      "index": 2228,
+      "tvg_id": null,
+      "tvg_chno": 2328,
+      "name_ar": "Disney Junior",
+      "name_en": "Disney Junior",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_disney_junior/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DVTVExtra.cz",
+      "code": "DVT-CZ-001",
+      "index": 2356,
+      "tvg_id": null,
+      "tvg_chno": 2456,
+      "name_ar": "DVTV Extra",
+      "name_en": "DVTV Extra",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ElektrikaTV.cz",
+      "code": "ELE-CZ-001",
+      "index": 2431,
+      "tvg_id": null,
+      "tvg_chno": 2531,
+      "name_ar": "Elektrika TV",
+      "name_en": "Elektrika TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Eurosport4KCzechia.cz",
+      "code": "EUR-CZ-001",
+      "index": 2598,
+      "tvg_id": null,
+      "tvg_chno": 2698,
+      "name_ar": "Eurosport 4K Czechia",
+      "name_en": "Eurosport 4K Czechia",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FilmPlus.cz",
+      "code": "FIL-CZ-001",
+      "index": 2733,
+      "tvg_id": null,
+      "tvg_chno": 2833,
+      "name_ar": "Film+",
+      "name_en": "Film+",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GolfChannel.cz",
+      "code": "GOL-CZ-001",
+      "index": 2977,
+      "tvg_id": null,
+      "tvg_chno": 3077,
+      "name_ar": "Golf Channel",
+      "name_en": "Golf Channel",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "History2.cz",
+      "code": "HIS-CZ-001",
+      "index": 3161,
+      "tvg_id": null,
+      "tvg_chno": 3261,
+      "name_ar": "History2",
+      "name_en": "History2",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_h2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JC1.cz",
+      "code": "JCX-CZ-001",
+      "index": 3510,
+      "tvg_id": null,
+      "tvg_chno": 3610,
+      "name_ar": "JC1",
+      "name_en": "JC1",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.jc1.cz/hls/jc1.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Jihoceskatelevize.cz",
+      "code": "JIH-CZ-001",
+      "index": 3539,
+      "tvg_id": null,
+      "tvg_chno": 3639,
+      "name_ar": "Jihoceska televize",
+      "name_en": "Jihoceska televize",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KinoBarrandov.cz",
+      "code": "KIN-CZ-001",
+      "index": 3733,
+      "tvg_id": null,
+      "tvg_chno": 3833,
+      "name_ar": "Kino Barrandov",
+      "name_en": "Kino Barrandov",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KVIFFTV.cz",
+      "code": "KVI-CZ-001",
+      "index": 3846,
+      "tvg_id": null,
+      "tvg_chno": 3946,
+      "name_ar": "KVIFF TV",
+      "name_en": "KVIFF TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://antik.streaming.tivio.studio/channels/HC7JIqyyvQMl0mnqbbnI/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MinimaxCEE.cz",
+      "code": "MIN-CZ-001",
+      "index": 4393,
+      "tvg_id": null,
+      "tvg_chno": 4493,
+      "name_ar": "Minimax CEE",
+      "name_en": "Minimax CEE",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MnauTV.cz",
+      "code": "MNA-CZ-001",
+      "index": 4429,
+      "tvg_id": null,
+      "tvg_chno": 4529,
+      "name_ar": "Mnau TV",
+      "name_en": "Mnau TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MusicBoxClassic.cz",
+      "code": "MUS-CZ-001",
+      "index": 4617,
+      "tvg_id": null,
+      "tvg_chno": 4717,
+      "name_ar": "Music Box Classic",
+      "name_en": "Music Box Classic",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MusicBoxDance.cz",
+      "code": "MUS-CZ-002",
+      "index": 4618,
+      "tvg_id": null,
+      "tvg_chno": 4718,
+      "name_ar": "Music Box Dance",
+      "name_en": "Music Box Dance",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MusicBoxHits.cz",
+      "code": "MUS-CZ-003",
+      "index": 4619,
+      "tvg_id": null,
+      "tvg_chno": 4719,
+      "name_ar": "Music Box Hits",
+      "name_en": "Music Box Hits",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NickJr.cz",
+      "code": "NIC-CZ-001",
+      "index": 4861,
+      "tvg_id": null,
+      "tvg_chno": 4961,
+      "name_ar": "Nick Jr.",
+      "name_en": "Nick Jr.",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Nicktoons.cz",
+      "code": "NIC-CZ-002",
+      "index": 4867,
+      "tvg_id": null,
+      "tvg_chno": 4967,
+      "name_ar": "Nicktoons",
+      "name_en": "Nicktoons",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Ocko.cz",
+      "code": "OCK-CZ-001",
+      "index": 5025,
+      "tvg_id": null,
+      "tvg_chno": 5125,
+      "name_ar": "Ocko",
+      "name_en": "Ocko",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OckoBlack.cz",
+      "code": "OCK-CZ-002",
+      "index": 5026,
+      "tvg_id": null,
+      "tvg_chno": 5126,
+      "name_ar": "Ocko Black",
+      "name_en": "Ocko Black",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OckoExpres.cz",
+      "code": "OCK-CZ-003",
+      "index": 5027,
+      "tvg_id": null,
+      "tvg_chno": 5127,
+      "name_ar": "Ocko Expres",
+      "name_en": "Ocko Expres",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OckoGold.cz",
+      "code": "OCK-CZ-004",
+      "index": 5028,
+      "tvg_id": null,
+      "tvg_chno": 5128,
+      "name_ar": "Ocko Gold",
+      "name_en": "Ocko Gold",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OckoStar.cz",
+      "code": "OCK-CZ-005",
+      "index": 5029,
+      "tvg_id": null,
+      "tvg_chno": 5129,
+      "name_ar": "Ocko Star",
+      "name_en": "Ocko Star",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PlzenTV.cz",
+      "code": "PLZ-CZ-001",
+      "index": 5658,
+      "tvg_id": null,
+      "tvg_chno": 5758,
+      "name_ar": "Plzen TV",
+      "name_en": "Plzen TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Prima.cz",
+      "code": "PRI-CZ-001",
+      "index": 5739,
+      "tvg_id": null,
+      "tvg_chno": 5839,
+      "name_ar": "Prima",
+      "name_en": "Prima",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaCool.cz",
+      "code": "PRI-CZ-002",
+      "index": 5740,
+      "tvg_id": null,
+      "tvg_chno": 5840,
+      "name_ar": "Prima Cool",
+      "name_en": "Prima Cool",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaKrimi.cz",
+      "code": "PRI-CZ-003",
+      "index": 5743,
+      "tvg_id": null,
+      "tvg_chno": 5843,
+      "name_ar": "Prima Krimi",
+      "name_en": "Prima Krimi",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaLove.cz",
+      "code": "PRI-CZ-004",
+      "index": 5745,
+      "tvg_id": null,
+      "tvg_chno": 5845,
+      "name_ar": "Prima Love",
+      "name_en": "Prima Love",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_love_cz_avc/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaMax.cz",
+      "code": "PRI-CZ-005",
+      "index": 5747,
+      "tvg_id": null,
+      "tvg_chno": 5847,
+      "name_ar": "Prima Max",
+      "name_en": "Prima Max",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaShow.cz",
+      "code": "PRI-CZ-006",
+      "index": 5750,
+      "tvg_id": null,
+      "tvg_chno": 5850,
+      "name_ar": "Prima Show",
+      "name_en": "Prima Show",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaStar.cz",
+      "code": "PRI-CZ-007",
+      "index": 5752,
+      "tvg_id": null,
+      "tvg_chno": 5852,
+      "name_ar": "Prima Star",
+      "name_en": "Prima Star",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrimaZoom.cz",
+      "code": "PRI-CZ-008",
+      "index": 5754,
+      "tvg_id": null,
+      "tvg_chno": 5854,
+      "name_ar": "Prima Zoom",
+      "name_en": "Prima Zoom",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RetroMusicTV.cz",
+      "code": "RET-CZ-001",
+      "index": 6223,
+      "tvg_id": null,
+      "tvg_chno": 6323,
+      "name_ar": "Retro Music TV",
+      "name_en": "Retro Music TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTMPlus.cz",
+      "code": "RTM-CZ-001",
+      "index": 6379,
+      "tvg_id": null,
+      "tvg_chno": 6479,
+      "name_ar": "RTM+",
+      "name_en": "RTM+",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.rtmplus.cz/live/1-playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SlagerMuzika.cz",
+      "code": "SLA-CZ-001",
+      "index": 6839,
+      "tvg_id": null,
+      "tvg_chno": 6939,
+      "name_ar": "Slager Muzika",
+      "name_en": "Slager Muzika",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SlagerOriginal.cz",
+      "code": "SLA-CZ-002",
+      "index": 6840,
+      "tvg_id": null,
+      "tvg_chno": 6940,
+      "name_ar": "Slager Original",
+      "name_en": "Slager Original",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Spektrum.cz",
+      "code": "SPE-CZ-001",
+      "index": 6966,
+      "tvg_id": null,
+      "tvg_chno": 7066,
+      "name_ar": "Spektrum",
+      "name_en": "Spektrum",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_spektrum/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SpektrumHome.cz",
+      "code": "SPE-CZ-002",
+      "index": 6967,
+      "tvg_id": null,
+      "tvg_chno": 7067,
+      "name_ar": "Spektrum Home",
+      "name_en": "Spektrum Home",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_home_hevc/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Sport1.cz",
+      "code": "SPO-CZ-001",
+      "index": 6978,
+      "tvg_id": null,
+      "tvg_chno": 7078,
+      "name_ar": "Sport1",
+      "name_en": "Sport1",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_sport1_25p/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Sport2.cz",
+      "code": "SPO-CZ-002",
+      "index": 6980,
+      "tvg_id": null,
+      "tvg_chno": 7080,
+      "name_ar": "Sport2",
+      "name_en": "Sport2",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_sport_2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SportyTV.cz",
+      "code": "SPO-CZ-003",
+      "index": 6994,
+      "tvg_id": null,
+      "tvg_chno": 7094,
+      "name_ar": "Sporty TV",
+      "name_en": "Sporty TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash2.antik.sk/live/sporty_tv/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TelevizePrerov.cz",
+      "code": "TEL-CZ-001",
+      "index": 7533,
+      "tvg_id": null,
+      "tvg_chno": 7633,
+      "name_ar": "Televize Prerov",
+      "name_en": "Televize Prerov",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://173.212.247.21/live/tvprerov.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TelevizeSeznam.cz",
+      "code": "TEL-CZ-002",
+      "index": 7534,
+      "tvg_id": null,
+      "tvg_chno": 7634,
+      "name_ar": "Televize Seznam",
+      "name_en": "Televize Seznam",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVBarrandov.cz",
+      "code": "TVB-CZ-001",
+      "index": 7974,
+      "tvg_id": null,
+      "tvg_chno": 8074,
+      "name_ar": "TV Barrandov",
+      "name_en": "TV Barrandov",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_barrandov/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVBrno1.cz",
+      "code": "TVB-CZ-002",
+      "index": 7988,
+      "tvg_id": null,
+      "tvg_chno": 8088,
+      "name_ar": "TV Brno 1",
+      "name_en": "TV Brno 1",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVNoe.cz",
+      "code": "TVN-CZ-001",
+      "index": 8176,
+      "tvg_id": null,
+      "tvg_chno": 8276,
+      "name_ar": "TV Noe",
+      "name_en": "TV Noe",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVPaprika.cz",
+      "code": "TVP-CZ-001",
+      "index": 8207,
+      "tvg_id": null,
+      "tvg_chno": 8307,
+      "name_ar": "TV Paprika",
+      "name_en": "TV Paprika",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "UpNetwork.cz",
+      "code": "UPN-CZ-001",
+      "index": 8465,
+      "tvg_id": null,
+      "tvg_chno": 8565,
+      "name_ar": "Up Network",
+      "name_en": "Up Network",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dash.antik.sk/live/test_upnetwork/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VychodoceskaTV.cz",
+      "code": "VYC-CZ-001",
+      "index": 8719,
+      "tvg_id": null,
+      "tvg_chno": 8819,
+      "name_ar": "Vychodoceska TV",
+      "name_en": "Vychodoceska TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YachtingTV.cz",
+      "code": "YAC-CZ-001",
+      "index": 8880,
+      "tvg_id": null,
+      "tvg_chno": 8980,
+      "name_ar": "Yachting TV",
+      "name_en": "Yachting TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streams2.sofast.tv/vglive-sk-461164/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "t1",
+      "code": "TXX-CZ-001",
+      "index": 9140,
+      "tvg_id": null,
+      "tvg_chno": 9240,
+      "name_ar": "ČT1",
+      "name_en": "ČT1",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tsport",
+      "code": "TSP-CZ-001",
+      "index": 9141,
+      "tvg_id": null,
+      "tvg_chno": 9241,
+      "name_ar": "ČT sport",
+      "name_en": "ČT sport",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tt",
+      "code": "TAR-CZ-001",
+      "index": 9142,
+      "tvg_id": null,
+      "tvg_chno": 9242,
+      "name_ar": "ČT art",
+      "name_en": "ČT art",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "novacinema",
+      "code": "NOV-CZ-001",
+      "index": 9144,
+      "tvg_id": null,
+      "tvg_chno": 9244,
+      "name_ar": "Nova Cinema",
+      "name_en": "Nova Cinema",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "novaaction",
+      "code": "NOV-CZ-002",
+      "index": 9145,
+      "tvg_id": null,
+      "tvg_chno": 9245,
+      "name_ar": "Nova Action",
+      "name_en": "Nova Action",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "novafun",
+      "code": "NOV-CZ-003",
+      "index": 9146,
+      "tvg_id": null,
+      "tvg_chno": 9246,
+      "name_ar": "Nova Fun",
+      "name_en": "Nova Fun",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "novagold",
+      "code": "NOV-CZ-004",
+      "index": 9147,
+      "tvg_id": null,
+      "tvg_chno": 9247,
+      "name_ar": "Nova Gold",
+      "name_en": "Nova Gold",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "novalady",
+      "code": "NOV-CZ-005",
+      "index": 9148,
+      "tvg_id": null,
+      "tvg_chno": 9248,
+      "name_ar": "Nova Lady",
+      "name_en": "Nova Lady",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "jojcinema",
+      "code": "JOJ-CZ-001",
+      "index": 9150,
+      "tvg_id": null,
+      "tvg_chno": 9250,
+      "name_ar": "JOJ Cinema",
+      "name_en": "JOJ Cinema",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "csfilm",
+      "code": "CSF-CZ-001",
+      "index": 9151,
+      "tvg_id": null,
+      "tvg_chno": 9251,
+      "name_ar": "CS Film",
+      "name_en": "CS Film",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "cshistory",
+      "code": "CSH-CZ-001",
+      "index": 9152,
+      "tvg_id": null,
+      "tvg_chno": 9252,
+      "name_ar": "CS History",
+      "name_en": "CS History",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "csmystery",
+      "code": "CSM-CZ-001",
+      "index": 9153,
+      "tvg_id": null,
+      "tvg_chno": 9253,
+      "name_ar": "CS Mystery",
+      "name_en": "CS Mystery",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Mystery",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "kost",
+      "code": "KOS-CZ-001",
+      "index": 9154,
+      "tvg_id": null,
+      "tvg_chno": 9254,
+      "name_ar": "Óčko Star Ⓢ",
+      "name_en": "Óčko Star Ⓢ",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "koexpres",
+      "code": "KOE-CZ-001",
+      "index": 9155,
+      "tvg_id": null,
+      "tvg_chno": 9255,
+      "name_ar": "Óčko Expres Ⓢ",
+      "name_en": "Óčko Expres Ⓢ",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "lgroriginl",
+      "code": "LGR-CZ-001",
+      "index": 9156,
+      "tvg_id": null,
+      "tvg_chno": 9256,
+      "name_ar": "Šlágr Originál Ⓢ",
+      "name_en": "Šlágr Originál Ⓢ",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-13.mazana.tv/slagroriginal.m3u8s",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "lgrmuzika",
+      "code": "LGR-CZ-002",
+      "index": 9157,
+      "tvg_id": null,
+      "tvg_chno": 9257,
+      "name_ar": "Šlágr Muzika Ⓢ",
+      "name_en": "Šlágr Muzika Ⓢ",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-23.mazana.tv/slagrmuzika.m3u8s",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "lgrpremium",
+      "code": "LGR-CZ-003",
+      "index": 9158,
+      "tvg_id": null,
+      "tvg_chno": 9258,
+      "name_ar": "Šlágr Premium Ⓢ",
+      "name_en": "Šlágr Premium Ⓢ",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-15.mazana.tv/slagrpremium.m3u",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "praha",
+      "code": "PRA-CZ-001",
+      "index": 9159,
+      "tvg_id": null,
+      "tvg_chno": 9259,
+      "name_ar": "Praha TV",
+      "name_en": "Praha TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://1977134029.rsc.cdn77.org/1977134029/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "vchodocesk",
+      "code": "VCH-CZ-001",
+      "index": 9160,
+      "tvg_id": null,
+      "tvg_chno": 9260,
+      "name_ar": "Východoceská TV",
+      "name_en": "Východoceská TV",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "Czech Republic",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

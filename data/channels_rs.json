@@ -1,0 +1,1278 @@
+{
+  "version": "1.0.0",
+  "country": "RS",
+  "total_channels": 45,
+  "channels": [
+    {
+      "id": "ArenaSport5Premium.rs",
+      "code": "ARE-RS-001",
+      "index": 638,
+      "tvg_id": null,
+      "tvg_chno": 738,
+      "name_ar": "Arena Sport 5 Premium",
+      "name_en": "Arena Sport 5 Premium",
+      "country": "RS",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nl1.nghk.ai/SK2SRHD/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BelleAmie.rs",
+      "code": "BEL-RS-001",
+      "index": 965,
+      "tvg_id": null,
+      "tvg_chno": 1065,
+      "name_ar": "Belle Amie",
+      "name_en": "Belle Amie",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DMSat.rs",
+      "code": "DMS-RS-001",
+      "index": 2261,
+      "tvg_id": null,
+      "tvg_chno": 2361,
+      "name_ar": "DM Sat",
+      "name_en": "DM Sat",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shift03.isp.bg/DMSat/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://85.14.32.26:8800/udp/239.100.10.40:5000",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EDUTV.rs",
+      "code": "EDU-RS-001",
+      "index": 2400,
+      "tvg_id": null,
+      "tvg_chno": 2500,
+      "name_ar": "EDU TV",
+      "name_en": "EDU TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IDJTV.rs",
+      "code": "IDJ-RS-001",
+      "index": 3317,
+      "tvg_id": null,
+      "tvg_chno": 3417,
+      "name_ar": "IDJTV",
+      "name_en": "IDJTV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KitchenTV.rs",
+      "code": "KIT-RS-001",
+      "index": 3755,
+      "tvg_id": null,
+      "tvg_chno": 3855,
+      "name_ar": "Kitchen TV",
+      "name_en": "Kitchen TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://213.91.179.28:8000/play/a03n",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NarodnaTV.rs",
+      "code": "NAR-RS-001",
+      "index": 4684,
+      "tvg_id": null,
+      "tvg_chno": 4784,
+      "name_ar": "Narodna TV",
+      "name_en": "Narodna TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PannonTV.rs",
+      "code": "PAN-RS-001",
+      "index": 5226,
+      "tvg_id": null,
+      "tvg_chno": 5326,
+      "name_ar": "Pannon TV",
+      "name_en": "Pannon TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.nmih.hu:4102/live.m3u8",
+          "quality": "648p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Pink.rs",
+      "code": "PIN-RS-001",
+      "index": 5353,
+      "tvg_id": null,
+      "tvg_chno": 5453,
+      "name_ar": "Pink",
+      "name_en": "Pink",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge8.pink.rs/pinktv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Prva.rs",
+      "code": "PRV-RS-001",
+      "index": 5786,
+      "tvg_id": null,
+      "tvg_chno": 5886,
+      "name_ar": "Prva",
+      "name_en": "Prva",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaTVHD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrvaFiles.rs",
+      "code": "PRV-RS-002",
+      "index": 5787,
+      "tvg_id": null,
+      "tvg_chno": 5887,
+      "name_ar": "Prva Files",
+      "name_en": "Prva Files",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaFiles/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrvaKick.rs",
+      "code": "PRV-RS-003",
+      "index": 5788,
+      "tvg_id": null,
+      "tvg_chno": 5888,
+      "name_ar": "Prva Kick",
+      "name_en": "Prva Kick",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaKick/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrvaLife.rs",
+      "code": "PRV-RS-004",
+      "index": 5789,
+      "tvg_id": null,
+      "tvg_chno": 5889,
+      "name_ar": "Prva Life",
+      "name_en": "Prva Life",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaLife/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrvaMax.rs",
+      "code": "PRV-RS-005",
+      "index": 5790,
+      "tvg_id": null,
+      "tvg_chno": 5890,
+      "name_ar": "Prva Max",
+      "name_en": "Prva Max",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaMax/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrvaPlus.rs",
+      "code": "PRV-RS-006",
+      "index": 5791,
+      "tvg_id": null,
+      "tvg_chno": 5891,
+      "name_ar": "Prva Plus",
+      "name_en": "Prva Plus",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaPlus/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PrvaWorld.rs",
+      "code": "PRV-RS-007",
+      "index": 5792,
+      "tvg_id": null,
+      "tvg_chno": 5892,
+      "name_ar": "Prva World",
+      "name_en": "Prva World",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/PrvaWorld/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioHitFMTV.rs",
+      "code": "RAD-RS-001",
+      "index": 5953,
+      "tvg_id": null,
+      "tvg_chno": 6053,
+      "name_ar": "Radio Hit FM TV",
+      "name_en": "Radio Hit FM TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioKarolinaTV.rs",
+      "code": "RAD-RS-002",
+      "index": 5963,
+      "tvg_id": null,
+      "tvg_chno": 6063,
+      "name_ar": "Radio Karolina TV",
+      "name_en": "Radio Karolina TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioLolaTV.rs",
+      "code": "RAD-RS-003",
+      "index": 5967,
+      "tvg_id": null,
+      "tvg_chno": 6067,
+      "name_ar": "Radio Lola TV",
+      "name_en": "Radio Lola TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTS1.rs",
+      "code": "RTS-RS-001",
+      "index": 6397,
+      "tvg_id": null,
+      "tvg_chno": 6497,
+      "name_ar": "RTS 1",
+      "name_en": "RTS 1",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://webtvstream.bhtelecom.ba/rts1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://de1.dstv.cx/RTS1HD/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTS2.rs",
+      "code": "RTS-RS-002",
+      "index": 6398,
+      "tvg_id": null,
+      "tvg_chno": 6498,
+      "name_ar": "RTS 2",
+      "name_en": "RTS 2",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTS2HD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/rts2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTS3.rs",
+      "code": "RTS-RS-003",
+      "index": 6399,
+      "tvg_id": null,
+      "tvg_chno": 6499,
+      "name_ar": "RTS 3",
+      "name_en": "RTS 3",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.81.240.65:15000/udp/233.233.233.36:12000",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/rts_sat.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSDrama.rs",
+      "code": "RTS-RS-004",
+      "index": 6400,
+      "tvg_id": null,
+      "tvg_chno": 6500,
+      "name_ar": "RTS Drama",
+      "name_en": "RTS Drama",
+      "country": "RS",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSDrama/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSKolo.rs",
+      "code": "RTS-RS-005",
+      "index": 6407,
+      "tvg_id": null,
+      "tvg_chno": 6507,
+      "name_ar": "RTS Kolo",
+      "name_en": "RTS Kolo",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSKolo/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSMuzika.rs",
+      "code": "RTS-RS-006",
+      "index": 6408,
+      "tvg_id": null,
+      "tvg_chno": 6508,
+      "name_ar": "RTS Muzika",
+      "name_en": "RTS Muzika",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSMuzika/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSPoletarac.rs",
+      "code": "RTS-RS-007",
+      "index": 6409,
+      "tvg_id": null,
+      "tvg_chno": 6509,
+      "name_ar": "RTS Poletarac",
+      "name_en": "RTS Poletarac",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSPoletarac/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSSvet.rs",
+      "code": "RTS-RS-008",
+      "index": 6410,
+      "tvg_id": null,
+      "tvg_chno": 6510,
+      "name_ar": "RTS Svet",
+      "name_en": "RTS Svet",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSSvet/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/rts_svet.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSTrezor.rs",
+      "code": "RTS-RS-009",
+      "index": 6411,
+      "tvg_id": null,
+      "tvg_chno": 6511,
+      "name_ar": "RTS Trezor",
+      "name_en": "RTS Trezor",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSTrezor/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTSZivot.rs",
+      "code": "RTS-RS-010",
+      "index": 6412,
+      "tvg_id": null,
+      "tvg_chno": 6512,
+      "name_ar": "RTS Zivot",
+      "name_en": "RTS Zivot",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://de1.dstv.cx/RTSZivot/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTV2.rs",
+      "code": "RTV-RS-001",
+      "index": 6416,
+      "tvg_id": null,
+      "tvg_chno": 6516,
+      "name_ar": "RTV 2",
+      "name_en": "RTV 2",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "mmsh://212.200.255.151/rtv2",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "rtsp://212.200.255.151/rtv2",
+          "quality": "576p",
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTVBap.rs",
+      "code": "RTV-RS-002",
+      "index": 6420,
+      "tvg_id": null,
+      "tvg_chno": 6520,
+      "name_ar": "RTV Bap",
+      "name_en": "RTV Bap",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTVNoviPazar.rs",
+      "code": "RTV-RS-003",
+      "index": 6440,
+      "tvg_id": null,
+      "tvg_chno": 6540,
+      "name_ar": "RTV Novi Pazar",
+      "name_en": "RTV Novi Pazar",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.rtvnp.rs/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SandzakTV.rs",
+      "code": "SAN-RS-001",
+      "index": 6555,
+      "tvg_id": null,
+      "tvg_chno": 6655,
+      "name_ar": "Sandzak TV",
+      "name_en": "Sandzak TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SOSKanalPlus.rs",
+      "code": "SOS-RS-001",
+      "index": 6928,
+      "tvg_id": null,
+      "tvg_chno": 7028,
+      "name_ar": "SOS Kanal Plus",
+      "name_en": "SOS Kanal Plus",
+      "country": "RS",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TDIRadioTV.rs",
+      "code": "TDI-RS-001",
+      "index": 7313,
+      "tvg_id": null,
+      "tvg_chno": 7413,
+      "name_ar": "TDI Radio TV",
+      "name_en": "TDI Radio TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVDugaPlus.rs",
+      "code": "TVD-RS-001",
+      "index": 8054,
+      "tvg_id": null,
+      "tvg_chno": 8154,
+      "name_ar": "TV Duga+",
+      "name_en": "TV Duga+",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVHram.rs",
+      "code": "TVH-RS-001",
+      "index": 8091,
+      "tvg_id": null,
+      "tvg_chno": 8191,
+      "name_ar": "TV Hram",
+      "name_en": "TV Hram",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vod1.laki.eu/live/hram/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVKanalM.rs",
+      "code": "TVK-RS-001",
+      "index": 8108,
+      "tvg_id": null,
+      "tvg_chno": 8208,
+      "name_ar": "TV Kanal M",
+      "name_en": "TV Kanal M",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://176.67.210.1/hls/kanalm.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVMarsh.rs",
+      "code": "TVM-RS-001",
+      "index": 8145,
+      "tvg_id": null,
+      "tvg_chno": 8245,
+      "name_ar": "TV Marsh",
+      "name_en": "TV Marsh",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVPanon.rs",
+      "code": "TVP-RS-001",
+      "index": 8204,
+      "tvg_id": null,
+      "tvg_chno": 8304,
+      "name_ar": "TV Panon",
+      "name_en": "TV Panon",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream2.nmih.hu:4102/live.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVPiKanal.rs",
+      "code": "TVP-RS-002",
+      "index": 8218,
+      "tvg_id": null,
+      "tvg_chno": 8318,
+      "name_ar": "TV Pi Kanal",
+      "name_en": "TV Pi Kanal",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVPirot.rs",
+      "code": "TVP-RS-003",
+      "index": 8220,
+      "tvg_id": null,
+      "tvg_chno": 8320,
+      "name_ar": "TV Pirot",
+      "name_en": "TV Pirot",
+      "country": "RS",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZICOTV.rs",
+      "code": "ZIC-RS-001",
+      "index": 8991,
+      "tvg_id": null,
+      "tvg_chno": 9091,
+      "name_ar": "ZICO TV",
+      "name_en": "ZICO TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "kurir",
+      "code": "KUR-RS-001",
+      "index": 9676,
+      "tvg_id": null,
+      "tvg_chno": 9776,
+      "name_ar": "Kurir TV",
+      "name_en": "Kurir TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "Serbia",
+      "logo": "https://i.imgur.com/HBPnUD5.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "informer",
+      "code": "INF-RS-001",
+      "index": 9677,
+      "tvg_id": null,
+      "tvg_chno": 9777,
+      "name_ar": "Informer TV",
+      "name_en": "Informer TV",
+      "country": "RS",
+      "language": "unknown",
+      "category": "Serbia",
+      "logo": "https://i.imgur.com/9wdEHRf.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

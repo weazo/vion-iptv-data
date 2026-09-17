@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "country": "AG",
+  "total_channels": 1,
+  "channels": [
+    {
+      "id": "PointeTV.ag",
+      "code": "POI-AG-001",
+      "index": 5673,
+      "tvg_id": null,
+      "tvg_chno": 5773,
+      "name_ar": "Pointe TV",
+      "name_en": "Pointe TV",
+      "country": "AG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv.pointville.ag/hls/mystream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

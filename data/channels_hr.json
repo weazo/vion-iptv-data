@@ -1,0 +1,768 @@
+{
+  "version": "1.0.0",
+  "country": "HR",
+  "total_channels": 27,
+  "channels": [
+    {
+      "id": "BravoKidsTV.hr",
+      "code": "BRA-HR-001",
+      "index": 1124,
+      "tvg_id": null,
+      "tvg_chno": 1224,
+      "name_ar": "Bravo! Kids TV",
+      "name_en": "Bravo! Kids TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CMCTV.hr",
+      "code": "CMC-HR-001",
+      "index": 1824,
+      "tvg_id": null,
+      "tvg_chno": 1924,
+      "name_ar": "CMC TV",
+      "name_en": "CMC TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DiadoraTV.hr",
+      "code": "DIA-HR-001",
+      "index": 2187,
+      "tvg_id": null,
+      "tvg_chno": 2287,
+      "name_ar": "Diadora TV",
+      "name_en": "Diadora TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://diadoratv.stream/live/diadora/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HRT1.hr",
+      "code": "HRT-HR-001",
+      "index": 3247,
+      "tvg_id": null,
+      "tvg_chno": 3347,
+      "name_ar": "HRT 1",
+      "name_en": "HRT 1",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HRT2.hr",
+      "code": "HRT-HR-002",
+      "index": 3248,
+      "tvg_id": null,
+      "tvg_chno": 3348,
+      "name_ar": "HRT 2",
+      "name_en": "HRT 2",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HRT3.hr",
+      "code": "HRT-HR-003",
+      "index": 3249,
+      "tvg_id": null,
+      "tvg_chno": 3349,
+      "name_ar": "HRT 3",
+      "name_en": "HRT 3",
+      "country": "HR",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HRT4.hr",
+      "code": "HRT-HR-004",
+      "index": 3250,
+      "tvg_id": null,
+      "tvg_chno": 3350,
+      "name_ar": "HRT 4",
+      "name_en": "HRT 4",
+      "country": "HR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KlapeiTambureTV.hr",
+      "code": "KLA-HR-001",
+      "index": 3762,
+      "tvg_id": null,
+      "tvg_chno": 3862,
+      "name_ar": "Klape i Tambure TV",
+      "name_en": "Klape i Tambure TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Klasik.hr",
+      "code": "KLA-HR-002",
+      "index": 3764,
+      "tvg_id": null,
+      "tvg_chno": 3864,
+      "name_ar": "Klasik",
+      "name_en": "Klasik",
+      "country": "HR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://178.253.194.105/klasiktv/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LibertasTV.hr",
+      "code": "LIB-HR-001",
+      "index": 3994,
+      "tvg_id": null,
+      "tvg_chno": 4094,
+      "name_ar": "Libertas TV",
+      "name_en": "Libertas TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.luci.xyz/hls/LTV.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioTelevizijaBanovina.hr",
+      "code": "RAD-HR-001",
+      "index": 6019,
+      "tvg_id": null,
+      "tvg_chno": 6119,
+      "name_ar": "Radio Televizija Banovina",
+      "name_en": "Radio Televizija Banovina",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SBTV.hr",
+      "code": "SBT-HR-001",
+      "index": 6623,
+      "tvg_id": null,
+      "tvg_chno": 6723,
+      "name_ar": "SBTV",
+      "name_en": "SBTV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.leveex.hr/hls/live.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ShiftTV.hr",
+      "code": "SHI-HR-001",
+      "index": 6748,
+      "tvg_id": null,
+      "tvg_chno": 6848,
+      "name_ar": "Shift TV",
+      "name_en": "Shift TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "auto",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.shift.tv/live/shifttv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TrendTV.hr",
+      "code": "TRE-HR-001",
+      "index": 7812,
+      "tvg_id": null,
+      "tvg_chno": 7912,
+      "name_ar": "Trend TV",
+      "name_en": "Trend TV",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.62.75.22:1935/trend/myStream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVJadran.hr",
+      "code": "TVJ-HR-001",
+      "index": 8103,
+      "tvg_id": null,
+      "tvg_chno": 8203,
+      "name_ar": "TV Jadran",
+      "name_en": "TV Jadran",
+      "country": "HR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVZapad.hr",
+      "code": "TVZ-HR-001",
+      "index": 8365,
+      "tvg_id": null,
+      "tvg_chno": 8465,
+      "name_ar": "TV Zapad",
+      "name_en": "TV Zapad",
+      "country": "HR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://85.94.67.158/TVZAPAD/index.fmp4.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rtl2",
+      "code": "RTL-HR-001",
+      "index": 9126,
+      "tvg_id": null,
+      "tvg_chno": 9226,
+      "name_ar": "RTL 2",
+      "name_en": "RTL 2",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/dQLaylJ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sportskatelevizija",
+      "code": "SPO-HR-001",
+      "index": 9127,
+      "tvg_id": null,
+      "tvg_chno": 9227,
+      "name_ar": "Sportska televizija Ⓖ",
+      "name_en": "Sportska televizija Ⓖ",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/xdxjcVh.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.agatin.hr:3087/live/sptvlive.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rtlkockica",
+      "code": "RTL-HR-002",
+      "index": 9128,
+      "tvg_id": null,
+      "tvg_chno": 9228,
+      "name_ar": "RTL Kockica",
+      "name_en": "RTL Kockica",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/BiSVmRa.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "plavavinkovaka",
+      "code": "PLA-HR-001",
+      "index": 9129,
+      "tvg_id": null,
+      "tvg_chno": 9229,
+      "name_ar": "Plava Vinkovačka",
+      "name_en": "Plava Vinkovačka",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/WJJNtQ3.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "televizijaslavonijeibanjes",
+      "code": "TEL-HR-001",
+      "index": 9130,
+      "tvg_id": null,
+      "tvg_chno": 9230,
+      "name_ar": "Televizija Slavonije i Baranje (STV)",
+      "name_en": "Televizija Slavonije i Baranje (STV)",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "osjekatelevizijaos",
+      "code": "OSJ-HR-001",
+      "index": 9131,
+      "tvg_id": null,
+      "tvg_chno": 9231,
+      "name_ar": "Osječka televizija (OSTV) Ⓢ",
+      "name_en": "Osječka televizija (OSTV) Ⓢ",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/o9JgEyG.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "z1",
+      "code": "ZXX-HR-001",
+      "index": 9132,
+      "tvg_id": null,
+      "tvg_chno": 9232,
+      "name_ar": "Z1 Ⓨ",
+      "name_en": "Z1 Ⓨ",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@z1televizija/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "kanalri",
+      "code": "KAN-HR-001",
+      "index": 9133,
+      "tvg_id": null,
+      "tvg_chno": 9233,
+      "name_ar": "Kanal Ri",
+      "name_en": "Kanal Ri",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "dalmacija",
+      "code": "TVD-HR-001",
+      "index": 9134,
+      "tvg_id": null,
+      "tvg_chno": 9234,
+      "name_ar": "TV Dalmacija Ⓨ",
+      "name_en": "TV Dalmacija Ⓨ",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "televizijazapad",
+      "code": "TEL-HR-002",
+      "index": 9135,
+      "tvg_id": null,
+      "tvg_chno": 9235,
+      "name_ar": "Televizija Zapad",
+      "name_en": "Televizija Zapad",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "n1hrvatska",
+      "code": "NHR-HR-001",
+      "index": 9137,
+      "tvg_id": null,
+      "tvg_chno": 9237,
+      "name_ar": "N1 Hrvatska Ⓨ",
+      "name_en": "N1 Hrvatska Ⓨ",
+      "country": "HR",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/qcD1OOZ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@N1_Hrvatska/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

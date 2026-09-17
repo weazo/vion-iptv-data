@@ -1,0 +1,1617 @@
+{
+  "version": "1.0.0",
+  "country": "AU",
+  "total_channels": 54,
+  "channels": [
+    {
+      "id": "10Bold.au",
+      "code": "BOL-AU-001",
+      "index": 8,
+      "tvg_id": null,
+      "tvg_chno": 108,
+      "name_ar": "10 Bold",
+      "name_en": "10 Bold",
+      "country": "AU",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "2GB.au",
+      "code": "GBX-AU-001",
+      "index": 47,
+      "tvg_id": null,
+      "tvg_chno": 147,
+      "name_ar": "2GB",
+      "name_en": "2GB",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "3AW.au",
+      "code": "AWX-AU-001",
+      "index": 89,
+      "tvg_id": null,
+      "tvg_chno": 189,
+      "name_ar": "3AW",
+      "name_en": "3AW",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "6PR.au",
+      "code": "PRX-AU-001",
+      "index": 123,
+      "tvg_id": null,
+      "tvg_chno": 223,
+      "name_ar": "6PR",
+      "name_en": "6PR",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "9Gem.au",
+      "code": "GEM-AU-001",
+      "index": 152,
+      "tvg_id": null,
+      "tvg_chno": 252,
+      "name_ar": "9Gem",
+      "name_en": "9Gem",
+      "country": "AU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://i.mjh.nz/.r/gem-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "9Go.au",
+      "code": "GOX-AU-001",
+      "index": 153,
+      "tvg_id": null,
+      "tvg_chno": 253,
+      "name_ar": "9Go!",
+      "name_en": "9Go!",
+      "country": "AU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://i.mjh.nz/.r/go-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "9Life.au",
+      "code": "LIF-AU-001",
+      "index": 155,
+      "tvg_id": null,
+      "tvg_chno": 255,
+      "name_ar": "9Life",
+      "name_en": "9Life",
+      "country": "AU",
+      "language": "unknown",
+      "category": "lifestyle",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://i.mjh.nz/.r/life-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ABCEntertains.au",
+      "code": "ABC-AU-001",
+      "index": 193,
+      "tvg_id": null,
+      "tvg_chno": 293,
+      "name_ar": "ABC Entertains",
+      "name_en": "ABC Entertains",
+      "country": "AU",
+      "language": "unknown",
+      "category": "education",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://c.mjh.nz/abc-me.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ABCKids.au",
+      "code": "ABC-AU-002",
+      "index": 194,
+      "tvg_id": null,
+      "tvg_chno": 294,
+      "name_ar": "ABC Kids",
+      "name_en": "ABC Kids",
+      "country": "AU",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://c.mjh.nz/abc-kids.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ABCNews.au",
+      "code": "ABC-AU-003",
+      "index": 195,
+      "tvg_id": null,
+      "tvg_chno": 295,
+      "name_ar": "ABC News",
+      "name_en": "ABC News",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://c.mjh.nz/abc-news.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ABCTVPlus.au",
+      "code": "ABC-AU-004",
+      "index": 207,
+      "tvg_id": null,
+      "tvg_chno": 307,
+      "name_ar": "ABC TV Plus",
+      "name_en": "ABC TV Plus",
+      "country": "AU",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AusbizTV.au",
+      "code": "AUS-AU-001",
+      "index": 752,
+      "tvg_id": null,
+      "tvg_chno": 852,
+      "name_ar": "Ausbiz TV",
+      "name_en": "Ausbiz TV",
+      "country": "AU",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "C31Melbourne.au",
+      "code": "CME-AU-001",
+      "index": 1198,
+      "tvg_id": null,
+      "tvg_chno": 1298,
+      "name_ar": "C31 Melbourne",
+      "name_en": "C31 Melbourne",
+      "country": "AU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+          "quality": "240p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Channel44.au",
+      "code": "CHA-AU-001",
+      "index": 1629,
+      "tvg_id": null,
+      "tvg_chno": 1729,
+      "name_ar": "Channel 44",
+      "name_en": "Channel 44",
+      "country": "AU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Channel9.au",
+      "code": "CHA-AU-002",
+      "index": 1634,
+      "tvg_id": null,
+      "tvg_chno": 1734,
+      "name_ar": "Channel 9",
+      "name_en": "Channel 9",
+      "country": "AU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/bne/ch9/hls/r1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/per/ch9/hls/r1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/syd/ch9/hls/r1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/@israel9tv/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CricketGold.au",
+      "code": "CRI-AU-001",
+      "index": 1951,
+      "tvg_id": null,
+      "tvg_chno": 2051,
+      "name_ar": "Cricket Gold",
+      "name_en": "Cricket Gold",
+      "country": "AU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTBPerth.au",
+      "code": "CTB-AU-001",
+      "index": 1982,
+      "tvg_id": null,
+      "tvg_chno": 2082,
+      "name_ar": "CTB Perth",
+      "name_en": "CTB Perth",
+      "country": "AU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.ctbperth.net.au/hls/0/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CTBPerthMoviesChannel.au",
+      "code": "CTB-AU-002",
+      "index": 1983,
+      "tvg_id": null,
+      "tvg_chno": 2083,
+      "name_ar": "CTB Perth Movies Channel",
+      "name_en": "CTB Perth Movies Channel",
+      "country": "AU",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://movies.ctbperth.net.au/hls/stream.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ExpoChannel.au",
+      "code": "EXP-AU-001",
+      "index": 2629,
+      "tvg_id": null,
+      "tvg_chno": 2729,
+      "name_ar": "Expo Channel",
+      "name_en": "Expo Channel",
+      "country": "AU",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FolkKlubTV.au",
+      "code": "FOL-AU-001",
+      "index": 2767,
+      "tvg_id": null,
+      "tvg_chno": 2867,
+      "name_ar": "Folk Klub TV",
+      "name_en": "Folk Klub TV",
+      "country": "AU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HopeChannelAustralia.au",
+      "code": "HOP-AU-001",
+      "index": 3227,
+      "tvg_id": null,
+      "tvg_chno": 3327,
+      "name_ar": "Hope Channel Australia",
+      "name_en": "Hope Channel Australia",
+      "country": "AU",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "INTVAustralia.au",
+      "code": "INT-AU-001",
+      "index": 3408,
+      "tvg_id": null,
+      "tvg_chno": 3508,
+      "name_ar": "INTV Australia",
+      "name_en": "INTV Australia",
+      "country": "AU",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JonmoBhumiTV.au",
+      "code": "JON-AU-001",
+      "index": 3564,
+      "tvg_id": null,
+      "tvg_chno": 3664,
+      "name_ar": "JonmoBhumi TV",
+      "name_en": "JonmoBhumi TV",
+      "country": "AU",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MissionAsia.au",
+      "code": "MIS-AU-001",
+      "index": 4408,
+      "tvg_id": null,
+      "tvg_chno": 4508,
+      "name_ar": "Mission Asia",
+      "name_en": "Mission Asia",
+      "country": "AU",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MISTelevizija.au",
+      "code": "MIS-AU-002",
+      "index": 4411,
+      "tvg_id": null,
+      "tvg_chno": 4511,
+      "name_ar": "MIS Televizija",
+      "name_en": "MIS Televizija",
+      "country": "AU",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Racingcom.au",
+      "code": "RAC-AU-001",
+      "index": 5902,
+      "tvg_id": null,
+      "tvg_chno": 6002,
+      "name_ar": "Racing.com",
+      "name_en": "Racing.com",
+      "country": "AU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SBSWorldWatch.au",
+      "code": "SBS-AU-001",
+      "index": 6614,
+      "tvg_id": null,
+      "tvg_chno": 6714,
+      "name_ar": "SBS WorldWatch",
+      "name_en": "SBS WorldWatch",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://44.32.200.142:5004/auto/v35",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SkyNewsExtra1.au",
+      "code": "SKY-AU-001",
+      "index": 6823,
+      "tvg_id": null,
+      "tvg_chno": 6923,
+      "name_ar": "Sky News Extra 1",
+      "name_en": "Sky News Extra 1",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SkyNewsExtra2.au",
+      "code": "SKY-AU-002",
+      "index": 6824,
+      "tvg_id": null,
+      "tvg_chno": 6924,
+      "name_ar": "Sky News Extra 2",
+      "name_en": "Sky News Extra 2",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SkyNewsExtra3.au",
+      "code": "SKY-AU-003",
+      "index": 6825,
+      "tvg_id": null,
+      "tvg_chno": 6925,
+      "name_ar": "Sky News Extra 3",
+      "name_en": "Sky News Extra 3",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SkyRacing1.au",
+      "code": "SKY-AU-004",
+      "index": 6829,
+      "tvg_id": null,
+      "tvg_chno": 6929,
+      "name_ar": "Sky Racing 1",
+      "name_en": "Sky Racing 1",
+      "country": "AU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SkyRacing2.au",
+      "code": "SKY-AU-005",
+      "index": 6830,
+      "tvg_id": null,
+      "tvg_chno": 6930,
+      "name_ar": "Sky Racing 2",
+      "name_en": "Sky Racing 2",
+      "country": "AU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SkyThoroughbredCentral.au",
+      "code": "SKY-AU-006",
+      "index": 6836,
+      "tvg_id": null,
+      "tvg_chno": 6936,
+      "name_ar": "Sky Thoroughbred Central",
+      "name_en": "Sky Thoroughbred Central",
+      "country": "AU",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "tickerNews.au",
+      "code": "TIC-AU-001",
+      "index": 7668,
+      "tvg_id": null,
+      "tvg_chno": 7768,
+      "name_ar": "ticker News",
+      "name_en": "ticker News",
+      "country": "AU",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVSN.au",
+      "code": "TVS-AU-001",
+      "index": 8303,
+      "tvg_id": null,
+      "tvg_chno": 8403,
+      "name_ar": "TVSN",
+      "name_en": "TVSN",
+      "country": "AU",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVSNBeauty.au",
+      "code": "TVS-AU-002",
+      "index": 8304,
+      "tvg_id": null,
+      "tvg_chno": 8404,
+      "name_ar": "TVSN Beauty",
+      "name_en": "TVSN Beauty",
+      "country": "AU",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WeatherSpy.au",
+      "code": "WEA-AU-001",
+      "index": 8760,
+      "tvg_id": null,
+      "tvg_chno": 8860,
+      "name_ar": "WeatherSpy",
+      "name_en": "WeatherSpy",
+      "country": "AU",
+      "language": "unknown",
+      "category": "weather",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sbs",
+      "code": "SBS-AU-002",
+      "index": 9049,
+      "tvg_id": null,
+      "tvg_chno": 9149,
+      "name_ar": "SBS Ⓖ",
+      "name_en": "SBS Ⓖ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/GBl1ynA.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-sbst.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sev",
+      "code": "SEV-AU-001",
+      "index": 9050,
+      "tvg_id": null,
+      "tvg_chno": 9150,
+      "name_ar": "Seven",
+      "name_en": "Seven",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/6zwKJaa.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/seven-syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/TV7/HLS-FTA/TV7.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nine",
+      "code": "NIN-AU-001",
+      "index": 9051,
+      "tvg_id": null,
+      "tvg_chno": 9151,
+      "name_ar": "Nine",
+      "name_en": "Nine",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/SMXwfr5.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/channel-9-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "10peach",
+      "code": "PEA-AU-001",
+      "index": 9052,
+      "tvg_id": null,
+      "tvg_chno": 9152,
+      "name_ar": "10 Peach",
+      "name_en": "10 Peach",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/NlZLut8.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/10peach-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "10shake",
+      "code": "SHA-AU-001",
+      "index": 9053,
+      "tvg_id": null,
+      "tvg_chno": 9153,
+      "name_ar": "10 Shake",
+      "name_en": "10 Shake",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/OXtIkOn.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/10shake-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "abcme",
+      "code": "ABC-AU-005",
+      "index": 9054,
+      "tvg_id": null,
+      "tvg_chno": 9154,
+      "name_ar": "ABC Me",
+      "name_en": "ABC Me",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/gBh54wY.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://c.mjh.nz/abc-me.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "code": "MTV-AU-001",
+      "index": 9055,
+      "tvg_id": null,
+      "tvg_chno": 9155,
+      "name_ar": "M4TV",
+      "name_en": "M4TV",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/HZohlNk.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sbsviceland",
+      "code": "SBS-AU-003",
+      "index": 9056,
+      "tvg_id": null,
+      "tvg_chno": 9156,
+      "name_ar": "SBS Viceland Ⓖ",
+      "name_en": "SBS Viceland Ⓖ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/WMKCkD0.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-2syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sbsworldmovies",
+      "code": "SBS-AU-004",
+      "index": 9057,
+      "tvg_id": null,
+      "tvg_chno": 9157,
+      "name_ar": "SBS World Movies Ⓖ",
+      "name_en": "SBS World Movies Ⓖ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/V6hhtCx.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-4syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sbsfood",
+      "code": "SBS-AU-005",
+      "index": 9058,
+      "tvg_id": null,
+      "tvg_chno": 9158,
+      "name_ar": "SBS Food Ⓖ",
+      "name_en": "SBS Food Ⓖ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/qN9p4h0.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-3syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ni",
+      "code": "NIT-AU-001",
+      "index": 9059,
+      "tvg_id": null,
+      "tvg_chno": 9159,
+      "name_ar": "NITV Ⓖ",
+      "name_en": "NITV Ⓖ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/YR7sXaN.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/sbs-5nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "7two",
+      "code": "TWO-AU-001",
+      "index": 9060,
+      "tvg_id": null,
+      "tvg_chno": 9160,
+      "name_ar": "7two",
+      "name_en": "7two",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/6pyIg02.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7two-syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "7mate",
+      "code": "MAT-AU-001",
+      "index": 9061,
+      "tvg_id": null,
+      "tvg_chno": 9161,
+      "name_ar": "7mate",
+      "name_en": "7mate",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/zpr12HP.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7mate-syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "7flix",
+      "code": "FLI-AU-001",
+      "index": 9062,
+      "tvg_id": null,
+      "tvg_chno": 9162,
+      "name_ar": "7flix",
+      "name_en": "7flix",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://i.imgur.com/6iIYCyC.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/7flix-syd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "9rush",
+      "code": "RUS-AU-001",
+      "index": 9063,
+      "tvg_id": null,
+      "tvg_chno": 9163,
+      "name_ar": "9Rush Ⓖ",
+      "name_en": "9Rush Ⓖ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "Australia",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/.r/rush-nsw.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "abcnewsau",
+      "code": "ABC-AU-006",
+      "index": 9844,
+      "tvg_id": null,
+      "tvg_chno": 9944,
+      "name_ar": "ABC News (AU) Ⓨ",
+      "name_en": "ABC News (AU) Ⓨ",
+      "country": "AU",
+      "language": "unknown",
+      "category": "News",
+      "logo": "https://i.imgur.com/BrW7gk8.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@abcnewsaustralia/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "skynewsnowau",
+      "code": "SKY-AU-007",
+      "index": 9848,
+      "tvg_id": null,
+      "tvg_chno": 9948,
+      "name_ar": "Sky News Now (AU)",
+      "name_en": "Sky News Now (AU)",
+      "country": "AU",
+      "language": "unknown",
+      "category": "News",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Sky_News_Australia_logo_%282018%29.svg/500px-Sky_News_Australia_logo_%282018%29.svg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://i.mjh.nz/sky-news-now.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

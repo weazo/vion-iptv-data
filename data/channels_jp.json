@@ -1,0 +1,481 @@
+{
+  "version": "1.0.0",
+  "country": "JP",
+  "total_channels": 14,
+  "channels": [
+    {
+      "id": "CGNTVJapan.jp",
+      "code": "CGN-JP-001",
+      "index": 1607,
+      "tvg_id": null,
+      "tvg_chno": 1707,
+      "name_ar": "CGNTV Japan",
+      "name_en": "CGNTV Japan",
+      "country": "JP",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GSTV.jp",
+      "code": "GST-JP-001",
+      "index": 3025,
+      "tvg_id": null,
+      "tvg_chno": 3125,
+      "name_ar": "GSTV",
+      "name_en": "GSTV",
+      "country": "JP",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JOJGDTV.jp",
+      "code": "JOJ-JP-001",
+      "index": 3562,
+      "tvg_id": null,
+      "tvg_chno": 3662,
+      "name_ar": "JOJG-DTV",
+      "name_en": "JOJG-DTV",
+      "country": "JP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NHKGeneralTV.jp",
+      "code": "NHK-JP-001",
+      "index": 4841,
+      "tvg_id": null,
+      "tvg_chno": 4941,
+      "name_ar": "NHK General TV",
+      "name_en": "NHK General TV",
+      "country": "JP",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nhk4.mov3.co/hls/nhk.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NHKWorldJapan.jp",
+      "code": "NHK-JP-002",
+      "index": 4842,
+      "tvg_id": null,
+      "tvg_chno": 4942,
+      "name_ar": "NHK World-Japan",
+      "name_en": "NHK World-Japan",
+      "country": "JP",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nhk.lls.pbs.org/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://170.83.16.50/NHK_WORLD/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-7.pishow.tv/live/455/master.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NHKWorldPremium.jp",
+      "code": "NHK-JP-003",
+      "index": 4843,
+      "tvg_id": null,
+      "tvg_chno": 4943,
+      "name_ar": "NHK World Premium",
+      "name_en": "NHK World Premium",
+      "country": "JP",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ShopChannel.jp",
+      "code": "SHO-JP-001",
+      "index": 6752,
+      "tvg_id": null,
+      "tvg_chno": 6852,
+      "name_ar": "Shop Channel",
+      "name_en": "Shop Channel",
+      "country": "JP",
+      "language": "unknown",
+      "category": "shop",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Weathernews.jp",
+      "code": "WEA-JP-001",
+      "index": 8759,
+      "tvg_id": null,
+      "tvg_chno": 8859,
+      "name_ar": "Weathernews",
+      "name_en": "Weathernews",
+      "country": "JP",
+      "language": "unknown",
+      "category": "weather",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nhk",
+      "code": "NHK-JP-004",
+      "index": 9582,
+      "tvg_id": null,
+      "tvg_chno": 9682,
+      "name_ar": "NHK総合 (東京)",
+      "name_en": "NHK総合 (東京)",
+      "country": "JP",
+      "language": "unknown",
+      "category": "日本 / Japan",
+      "logo": "https://i.imgur.com/fAZ2BEZ.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nhk4.mov3.co/hls/nhk.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nhke",
+      "code": "NHK-JP-005",
+      "index": 9583,
+      "tvg_id": null,
+      "tvg_chno": 9683,
+      "name_ar": "NHK Eテレ（東京）",
+      "name_en": "NHK Eテレ（東京）",
+      "country": "JP",
+      "language": "unknown",
+      "category": "日本 / Japan",
+      "logo": "https://i.imgur.com/WxtftlO.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nhkbs",
+      "code": "NHK-JP-006",
+      "index": 9584,
+      "tvg_id": null,
+      "tvg_chno": 9684,
+      "name_ar": "NHK BS",
+      "name_en": "NHK BS",
+      "country": "JP",
+      "language": "unknown",
+      "category": "日本 / Japan",
+      "logo": "https://i.imgur.com/t0uZcSR.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "nhkbsp",
+      "code": "NHK-JP-007",
+      "index": 9585,
+      "tvg_id": null,
+      "tvg_chno": 9685,
+      "name_ar": "NHK BSP4K",
+      "name_en": "NHK BSP4K",
+      "country": "JP",
+      "language": "unknown",
+      "category": "日本 / Japan",
+      "logo": "https://i.imgur.com/uvPpFo5.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "bstbs",
+      "code": "BST-JP-001",
+      "index": 9586,
+      "tvg_id": null,
+      "tvg_chno": 9686,
+      "name_ar": "BS-TBS",
+      "name_en": "BS-TBS",
+      "country": "JP",
+      "language": "unknown",
+      "category": "日本 / Japan",
+      "logo": "https://i.imgur.com/BSt9UG2.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "wowow",
+      "code": "WOW-JP-001",
+      "index": 9587,
+      "tvg_id": null,
+      "tvg_chno": 9687,
+      "name_ar": "WOWOWプライム",
+      "name_en": "WOWOWプライム",
+      "country": "JP",
+      "language": "unknown",
+      "category": "日本 / Japan",
+      "logo": "https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

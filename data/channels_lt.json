@@ -1,0 +1,347 @@
+{
+  "version": "1.0.0",
+  "country": "LT",
+  "total_channels": 12,
+  "channels": [
+    {
+      "id": "BalticumTV.lt",
+      "code": "BAL-LT-001",
+      "index": 846,
+      "tvg_id": null,
+      "tvg_chno": 946,
+      "name_ar": "Balticum TV",
+      "name_en": "Balticum TV",
+      "country": "LT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/376/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DelfiTV.lt",
+      "code": "DEL-LT-001",
+      "index": 2132,
+      "tvg_id": null,
+      "tvg_chno": 2232,
+      "name_ar": "Delfi TV",
+      "name_en": "Delfi TV",
+      "country": "LT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://s1.dcdn.lt/live/televizija/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LietuvosRytasTV.lt",
+      "code": "LIE-LT-001",
+      "index": 3999,
+      "tvg_id": null,
+      "tvg_chno": 4099,
+      "name_ar": "Lietuvos Rytas TV",
+      "name_en": "Lietuvos Rytas TV",
+      "country": "LT",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LNK.lt",
+      "code": "LNK-LT-001",
+      "index": 4044,
+      "tvg_id": null,
+      "tvg_chno": 4144,
+      "name_ar": "LNK",
+      "name_en": "LNK",
+      "country": "LT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/30/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LRTKlasika.lt",
+      "code": "LRT-LT-001",
+      "index": 4085,
+      "tvg_id": null,
+      "tvg_chno": 4185,
+      "name_ar": "LRT Klasika",
+      "name_en": "LRT Klasika",
+      "country": "LT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-live.lrt.lt/klasika/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LRTLituanica.lt",
+      "code": "LRT-LT-002",
+      "index": 4086,
+      "tvg_id": null,
+      "tvg_chno": 4186,
+      "name_ar": "LRT Lituanica",
+      "name_en": "LRT Lituanica",
+      "country": "LT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-live.lrt.lt/lituanica/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LRTOpus.lt",
+      "code": "LRT-LT-003",
+      "index": 4087,
+      "tvg_id": null,
+      "tvg_chno": 4187,
+      "name_ar": "LRT Opus",
+      "name_en": "LRT Opus",
+      "country": "LT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-live.lrt.lt/opus/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LRTPlius.lt",
+      "code": "LRT-LT-004",
+      "index": 4088,
+      "tvg_id": null,
+      "tvg_chno": 4188,
+      "name_ar": "LRT Plius",
+      "name_en": "LRT Plius",
+      "country": "LT",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-live.lrt.lt/plius/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/353/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LRTRadijas.lt",
+      "code": "LRT-LT-005",
+      "index": 4089,
+      "tvg_id": null,
+      "tvg_chno": 4189,
+      "name_ar": "LRT Radijas",
+      "name_en": "LRT Radijas",
+      "country": "LT",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-live.lrt.lt/radijas/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LRTTV.lt",
+      "code": "LRT-LT-006",
+      "index": 4090,
+      "tvg_id": null,
+      "tvg_chno": 4190,
+      "name_ar": "LRT TV",
+      "name_en": "LRT TV",
+      "country": "LT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://stream.mcquack.net/31/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PowerHitRadio.lt",
+      "code": "POW-LT-001",
+      "index": 5709,
+      "tvg_id": null,
+      "tvg_chno": 5809,
+      "name_ar": "Power Hit Radio",
+      "name_en": "Power Hit Radio",
+      "country": "LT",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TV6.lt",
+      "code": "TVX-LT-001",
+      "index": 7941,
+      "tvg_id": null,
+      "tvg_chno": 8041,
+      "name_ar": "TV6",
+      "name_en": "TV6",
+      "country": "LT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.mcquack.net/375/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

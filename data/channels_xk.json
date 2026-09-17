@@ -1,0 +1,339 @@
+{
+  "version": "1.0.0",
+  "country": "XK",
+  "total_channels": 12,
+  "channels": [
+    {
+      "id": "FirstChannel.xk",
+      "code": "FIR-XK-001",
+      "index": 2743,
+      "tvg_id": null,
+      "tvg_chno": 2843,
+      "name_ar": "First Channel",
+      "name_en": "First Channel",
+      "country": "XK",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://5.254.89.106/8717/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KlanKosova.xk",
+      "code": "KLA-XK-001",
+      "index": 3761,
+      "tvg_id": null,
+      "tvg_chno": 3861,
+      "name_ar": "Klan Kosova",
+      "name_en": "Klan Kosova",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://5.254.89.106/8706/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kohavision.xk",
+      "code": "KOH-XK-001",
+      "index": 3780,
+      "tvg_id": null,
+      "tvg_chno": 3880,
+      "name_ar": "Kohavision",
+      "name_en": "Kohavision",
+      "country": "XK",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://5.254.89.106/8705/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTK1.xk",
+      "code": "RTK-XK-001",
+      "index": 6355,
+      "tvg_id": null,
+      "tvg_chno": 6455,
+      "name_ar": "RTK 1",
+      "name_en": "RTK 1",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://5.254.89.106/8702/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTK3.xk",
+      "code": "RTK-XK-002",
+      "index": 6356,
+      "tvg_id": null,
+      "tvg_chno": 6456,
+      "name_ar": "RTK 3",
+      "name_en": "RTK 3",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTV21.xk",
+      "code": "RTV-XK-001",
+      "index": 6417,
+      "tvg_id": null,
+      "tvg_chno": 6517,
+      "name_ar": "RTV21",
+      "name_en": "RTV21",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "T7.xk",
+      "code": "TXX-XK-001",
+      "index": 7246,
+      "tvg_id": null,
+      "tvg_chno": 7346,
+      "name_ar": "T7",
+      "name_en": "T7",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVArberia3Femije.xk",
+      "code": "TVA-XK-001",
+      "index": 7965,
+      "tvg_id": null,
+      "tvg_chno": 8065,
+      "name_ar": "TV Arberia 3 Femije",
+      "name_en": "TV Arberia 3 Femije",
+      "country": "XK",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVArberia4Muzike.xk",
+      "code": "TVA-XK-002",
+      "index": 7966,
+      "tvg_id": null,
+      "tvg_chno": 8066,
+      "name_ar": "TV Arberia 4 Muzike",
+      "name_en": "TV Arberia 4 Muzike",
+      "country": "XK",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVArberiaRetroHits.xk",
+      "code": "TVA-XK-003",
+      "index": 7967,
+      "tvg_id": null,
+      "tvg_chno": 8067,
+      "name_ar": "TV Arberia Retro Hits",
+      "name_en": "TV Arberia Retro Hits",
+      "country": "XK",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVDielli.xk",
+      "code": "TVD-XK-001",
+      "index": 8048,
+      "tvg_id": null,
+      "tvg_chno": 8148,
+      "name_ar": "TV Dielli",
+      "name_en": "TV Dielli",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://stream.tvdielli.com:8081/dielli/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVOpoja.xk",
+      "code": "TVO-XK-001",
+      "index": 8194,
+      "tvg_id": null,
+      "tvg_chno": 8294,
+      "name_ar": "TV Opoja",
+      "name_en": "TV Opoja",
+      "country": "XK",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

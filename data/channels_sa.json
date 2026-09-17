@@ -1,0 +1,1733 @@
+{
+  "version": "1.0.0",
+  "country": "SA",
+  "total_channels": 58,
+  "channels": [
+    {
+      "id": "AbdulmajeedAbdullah.sa",
+      "code": "ABD-SA-001",
+      "index": 208,
+      "tvg_id": null,
+      "tvg_chno": 308,
+      "name_ar": "Abdulmajeed Abdullah",
+      "name_en": "Abdulmajeed Abdullah",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Aflam.sa",
+      "code": "AFL-SA-001",
+      "index": 282,
+      "tvg_id": null,
+      "tvg_chno": 382,
+      "name_ar": "Aflam",
+      "name_en": "Aflam",
+      "country": "SA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlAlamAlYawm.sa",
+      "code": "ALA-SA-001",
+      "index": 346,
+      "tvg_id": null,
+      "tvg_chno": 446,
+      "name_ar": "Al Alam Al Yawm",
+      "name_en": "Al Alam Al Yawm",
+      "country": "SA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlArabiyaEnglish.sa",
+      "code": "ALA-SA-002",
+      "index": 352,
+      "tvg_id": null,
+      "tvg_chno": 452,
+      "name_ar": "Al Arabiya English",
+      "name_en": "Al Arabiya English",
+      "country": "SA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlEkhbariya.sa",
+      "code": "ALE-SA-001",
+      "index": 370,
+      "tvg_id": null,
+      "tvg_chno": 470,
+      "name_ar": "Al Ekhbariya",
+      "name_en": "Al Ekhbariya",
+      "country": "SA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlHadath.sa",
+      "code": "ALH-SA-001",
+      "index": 385,
+      "tvg_id": null,
+      "tvg_chno": 485,
+      "name_ar": "Al Hadath",
+      "name_en": "Al Hadath",
+      "country": "SA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlkhuzamaRadio.sa",
+      "code": "ALK-SA-001",
+      "index": 424,
+      "tvg_id": null,
+      "tvg_chno": 524,
+      "name_ar": "Alkhuzama Radio",
+      "name_en": "Alkhuzama Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlQuranAlKareemTV.sa",
+      "code": "ALQ-SA-001",
+      "index": 456,
+      "tvg_id": null,
+      "tvg_chno": 556,
+      "name_ar": "Al Quran Al Kareem TV",
+      "name_en": "Al Quran Al Kareem TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlResalah.sa",
+      "code": "ALR-SA-001",
+      "index": 461,
+      "tvg_id": null,
+      "tvg_chno": 561,
+      "name_ar": "Al Resalah",
+      "name_en": "Al Resalah",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlRiyadhRadio.sa",
+      "code": "ALR-SA-002",
+      "index": 462,
+      "tvg_id": null,
+      "tvg_chno": 562,
+      "name_ar": "Al Riyadh Radio",
+      "name_en": "Al Riyadh Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlSaudiya.sa",
+      "code": "ALS-SA-001",
+      "index": 466,
+      "tvg_id": null,
+      "tvg_chno": 566,
+      "name_ar": "Al Saudiya",
+      "name_en": "Al Saudiya",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlSaudiyaAlaan.sa",
+      "code": "ALS-SA-002",
+      "index": 467,
+      "tvg_id": null,
+      "tvg_chno": 567,
+      "name_ar": "Al Saudiya Alaan",
+      "name_en": "Al Saudiya Alaan",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlSunnahAlNabawiyahTV.sa",
+      "code": "ALS-SA-003",
+      "index": 473,
+      "tvg_id": null,
+      "tvg_chno": 573,
+      "name_ar": "Al Sunnah Al Nabawiyah TV",
+      "name_en": "Al Sunnah Al Nabawiyah TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlwesamTV.sa",
+      "code": "ALW-SA-001",
+      "index": 491,
+      "tvg_id": null,
+      "tvg_chno": 591,
+      "name_ar": "Alwesam TV",
+      "name_en": "Alwesam TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.addresses-sat.com/Alwesam/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AsharqDiscovery.sa",
+      "code": "ASH-SA-001",
+      "index": 678,
+      "tvg_id": null,
+      "tvg_chno": 778,
+      "name_ar": "Asharq Discovery",
+      "name_en": "Asharq Discovery",
+      "country": "SA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AsharqDocumentary.sa",
+      "code": "ASH-SA-002",
+      "index": 679,
+      "tvg_id": null,
+      "tvg_chno": 779,
+      "name_ar": "Asharq Documentary",
+      "name_en": "Asharq Documentary",
+      "country": "SA",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AsharqNews.sa",
+      "code": "ASH-SA-003",
+      "index": 680,
+      "tvg_id": null,
+      "tvg_chno": 780,
+      "name_ar": "Asharq News",
+      "name_en": "Asharq News",
+      "country": "SA",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-news.asharq.com/asharq.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AsharqRadio.sa",
+      "code": "ASH-SA-004",
+      "index": 681,
+      "tvg_id": null,
+      "tvg_chno": 781,
+      "name_ar": "Asharq Radio",
+      "name_en": "Asharq Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AtfalMawahebTV.sa",
+      "code": "ATF-SA-001",
+      "index": 717,
+      "tvg_id": null,
+      "tvg_chno": 817,
+      "name_ar": "Atfal & Mawaheb TV",
+      "name_en": "Atfal & Mawaheb TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BabAlHara.sa",
+      "code": "BAB-SA-001",
+      "index": 817,
+      "tvg_id": null,
+      "tvg_chno": 917,
+      "name_ar": "Bab Al Hara",
+      "name_en": "Bab Al Hara",
+      "country": "SA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BigTimePlus.sa",
+      "code": "BIG-SA-001",
+      "index": 1026,
+      "tvg_id": null,
+      "tvg_chno": 1126,
+      "name_ar": "Big Time Plus",
+      "name_en": "Big Time Plus",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DrPalTV.sa",
+      "code": "DRP-SA-001",
+      "index": 2316,
+      "tvg_id": null,
+      "tvg_chno": 2416,
+      "name_ar": "Dr Pal TV",
+      "name_en": "Dr Pal TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.cisk.tech/drpal/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Fairuz.sa",
+      "code": "FAI-SA-001",
+      "index": 2644,
+      "tvg_id": null,
+      "tvg_chno": 2744,
+      "name_ar": "Fairuz",
+      "name_en": "Fairuz",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HolyQuranRadio.sa",
+      "code": "HOL-SA-001",
+      "index": 3215,
+      "tvg_id": null,
+      "tvg_chno": 3315,
+      "name_ar": "Holy Quran Radio",
+      "name_en": "Holy Quran Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IqraaAfricaEurope.sa",
+      "code": "IQR-SA-001",
+      "index": 3418,
+      "tvg_id": null,
+      "tvg_chno": 3518,
+      "name_ar": "Iqraa Africa & Europe",
+      "name_en": "Iqraa Africa & Europe",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IqraaArabic.sa",
+      "code": "IQR-SA-002",
+      "index": 3419,
+      "tvg_id": null,
+      "tvg_chno": 3519,
+      "name_ar": "Iqraa Arabic",
+      "name_en": "Iqraa Arabic",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IqraaQuran.sa",
+      "code": "IQR-SA-003",
+      "index": 3420,
+      "tvg_id": null,
+      "tvg_chno": 3520,
+      "name_ar": "Iqraa Quran",
+      "name_en": "Iqraa Quran",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JeddahRadio.sa",
+      "code": "JED-SA-001",
+      "index": 3512,
+      "tvg_id": null,
+      "tvg_chno": 3612,
+      "name_ar": "Jeddah Radio",
+      "name_en": "Jeddah Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LBC.sa",
+      "code": "LBC-SA-001",
+      "index": 3956,
+      "tvg_id": null,
+      "tvg_chno": 4056,
+      "name_ar": "LBC",
+      "name_en": "LBC",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://185.9.2.18/chid_327/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MajidAlMohandis.sa",
+      "code": "MAJ-SA-001",
+      "index": 4158,
+      "tvg_id": null,
+      "tvg_chno": 4258,
+      "name_ar": "Majid Al Mohandis",
+      "name_en": "Majid Al Mohandis",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MakkahTV.sa",
+      "code": "MAK-SA-001",
+      "index": 4162,
+      "tvg_id": null,
+      "tvg_chno": 4262,
+      "name_ar": "Makkah TV",
+      "name_en": "Makkah TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Maraya.sa",
+      "code": "MAR-SA-001",
+      "index": 4196,
+      "tvg_id": null,
+      "tvg_chno": 4296,
+      "name_ar": "Maraya",
+      "name_en": "Maraya",
+      "country": "SA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MBCLoud.sa",
+      "code": "MBC-SA-001",
+      "index": 4271,
+      "tvg_id": null,
+      "tvg_chno": 4371,
+      "name_ar": "MBC Loud",
+      "name_en": "MBC Loud",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MBCMasrDrama.sa",
+      "code": "MBC-SA-002",
+      "index": 4274,
+      "tvg_id": null,
+      "tvg_chno": 4374,
+      "name_ar": "MBC Masr Drama",
+      "name_en": "MBC Masr Drama",
+      "country": "SA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MBCMood.sa",
+      "code": "MBC-SA-003",
+      "index": 4276,
+      "tvg_id": null,
+      "tvg_chno": 4376,
+      "name_ar": "MBC Mood",
+      "name_en": "MBC Mood",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MohammedAbdo.sa",
+      "code": "MOH-SA-001",
+      "index": 4450,
+      "tvg_id": null,
+      "tvg_chno": 4550,
+      "name_ar": "Mohammed Abdo",
+      "name_en": "Mohammed Abdo",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MoviesAction.sa",
+      "code": "MOV-SA-001",
+      "index": 4503,
+      "tvg_id": null,
+      "tvg_chno": 4603,
+      "name_ar": "Movies Action",
+      "name_en": "Movies Action",
+      "country": "SA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MoviesThriller.sa",
+      "code": "MOV-SA-002",
+      "index": 4508,
+      "tvg_id": null,
+      "tvg_chno": 4608,
+      "name_ar": "Movies Thriller",
+      "name_en": "Movies Thriller",
+      "country": "SA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NidaeAlIslamRadio.sa",
+      "code": "NID-SA-001",
+      "index": 4870,
+      "tvg_id": null,
+      "tvg_chno": 4970,
+      "name_ar": "Nidae AlIslam Radio",
+      "name_en": "Nidae AlIslam Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PanoramaFM.sa",
+      "code": "PAN-SA-001",
+      "index": 5227,
+      "tvg_id": null,
+      "tvg_chno": 5327,
+      "name_ar": "Panorama FM",
+      "name_en": "Panorama FM",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RabehSaqer.sa",
+      "code": "RAB-SA-001",
+      "index": 5898,
+      "tvg_id": null,
+      "tvg_chno": 5998,
+      "name_ar": "Rabeh Saqer",
+      "name_en": "Rabeh Saqer",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RashidAlMajed.sa",
+      "code": "RAS-SA-001",
+      "index": 6094,
+      "tvg_id": null,
+      "tvg_chno": 6194,
+      "name_ar": "Rashid AlMajed",
+      "name_en": "Rashid AlMajed",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaCinemaKSA.sa",
+      "code": "ROT-SA-001",
+      "index": 6304,
+      "tvg_id": null,
+      "tvg_chno": 6404,
+      "name_ar": "Rotana Cinema KSA",
+      "name_en": "Rotana Cinema KSA",
+      "country": "SA",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaClassic.sa",
+      "code": "ROT-SA-002",
+      "index": 6305,
+      "tvg_id": null,
+      "tvg_chno": 6405,
+      "name_ar": "Rotana Classic",
+      "name_en": "Rotana Classic",
+      "country": "SA",
+      "language": "unknown",
+      "category": "classic",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaClip.sa",
+      "code": "ROT-SA-003",
+      "index": 6306,
+      "tvg_id": null,
+      "tvg_chno": 6406,
+      "name_ar": "Rotana Clip",
+      "name_en": "Rotana Clip",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaComedy.sa",
+      "code": "ROT-SA-004",
+      "index": 6307,
+      "tvg_id": null,
+      "tvg_chno": 6407,
+      "name_ar": "Rotana Comedy",
+      "name_en": "Rotana Comedy",
+      "country": "SA",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaDrama.sa",
+      "code": "ROT-SA-005",
+      "index": 6308,
+      "tvg_id": null,
+      "tvg_chno": 6408,
+      "name_ar": "Rotana Drama",
+      "name_en": "Rotana Drama",
+      "country": "SA",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaFMKSA.sa",
+      "code": "ROT-SA-006",
+      "index": 6309,
+      "tvg_id": null,
+      "tvg_chno": 6409,
+      "name_ar": "Rotana FM KSA",
+      "name_en": "Rotana FM KSA",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284",
+          "quality": "720p",
+          "protocol": "rtmp",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaKhalijia.sa",
+      "code": "ROT-SA-007",
+      "index": 6310,
+      "tvg_id": null,
+      "tvg_chno": 6410,
+      "name_ar": "Rotana Khalijia",
+      "name_en": "Rotana Khalijia",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RotanaMusic.sa",
+      "code": "ROT-SA-008",
+      "index": 6311,
+      "tvg_id": null,
+      "tvg_chno": 6411,
+      "name_ar": "Rotana Music",
+      "name_en": "Rotana Music",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SaudiaRadio.sa",
+      "code": "SAU-SA-001",
+      "index": 6603,
+      "tvg_id": null,
+      "tvg_chno": 6703,
+      "name_ar": "Saudia Radio",
+      "name_en": "Saudia Radio",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SaudiThaqafiyaTV.sa",
+      "code": "SAU-SA-002",
+      "index": 6604,
+      "tvg_id": null,
+      "tvg_chno": 6704,
+      "name_ar": "Saudi Thaqafiya TV",
+      "name_en": "Saudi Thaqafiya TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SBC.sa",
+      "code": "SBC-SA-001",
+      "index": 6609,
+      "tvg_id": null,
+      "tvg_chno": 6709,
+      "name_ar": "SBC",
+      "name_en": "SBC",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Tarab.sa",
+      "code": "TAR-SA-001",
+      "index": 7281,
+      "tvg_id": null,
+      "tvg_chno": 7381,
+      "name_ar": "Tarab",
+      "name_en": "Tarab",
+      "country": "SA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-amg-fast-btpls.shahid.net/tx002/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ThikrayatTV.sa",
+      "code": "THI-SA-001",
+      "index": 7656,
+      "tvg_id": null,
+      "tvg_chno": 7756,
+      "name_ar": "Thikrayat TV",
+      "name_en": "Thikrayat TV",
+      "country": "SA",
+      "language": "unknown",
+      "category": "classic",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sbcsaudiabia",
+      "code": "SBC-SA-002",
+      "index": 9674,
+      "tvg_id": null,
+      "tvg_chno": 9774,
+      "name_ar": "SBC Saudi Arabia",
+      "name_en": "SBC Saudi Arabia",
+      "country": "SA",
+      "language": "unknown",
+      "category": "Saudi Arabia",
+      "logo": "https://i.imgur.com/9JSQglj.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rotanaciip",
+      "code": "ROT-SA-009",
+      "index": 9675,
+      "tvg_id": null,
+      "tvg_chno": 9775,
+      "name_ar": "Rotana Ciip",
+      "name_en": "Rotana Ciip",
+      "country": "SA",
+      "language": "unknown",
+      "category": "Saudi Arabia",
+      "logo": "https://i.imgur.com/nhREk0o.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "alhadathالعربية",
+      "code": "ALH-SA-002",
+      "index": 9834,
+      "tvg_id": null,
+      "tvg_chno": 9934,
+      "name_ar": "Al Hadath العربية",
+      "name_en": "Al Hadath العربية",
+      "country": "SA",
+      "language": "unknown",
+      "category": "News (AR)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

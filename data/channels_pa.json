@@ -1,0 +1,547 @@
+{
+  "version": "1.0.0",
+  "country": "PA",
+  "total_channels": 20,
+  "channels": [
+    {
+      "id": "ARCanal.pa",
+      "code": "ARC-PA-001",
+      "index": 632,
+      "tvg_id": null,
+      "tvg_chno": 732,
+      "name_ar": "A&R Canal",
+      "name_en": "A&R Canal",
+      "country": "PA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://51.222.9.192:3589/stream/play.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BTVPanama.pa",
+      "code": "BTV-PA-001",
+      "index": 1168,
+      "tvg_id": null,
+      "tvg_chno": 1268,
+      "name_ar": "BTV Panama",
+      "name_en": "BTV Panama",
+      "country": "PA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CorazonTV.pa",
+      "code": "COR-PA-001",
+      "index": 1923,
+      "tvg_id": null,
+      "tvg_chno": 2023,
+      "name_ar": "Corazon TV",
+      "name_en": "Corazon TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DreikoTV.pa",
+      "code": "DRE-PA-001",
+      "index": 2312,
+      "tvg_id": null,
+      "tvg_chno": 2412,
+      "name_ar": "Dreiko TV",
+      "name_en": "Dreiko TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "animation",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloudvideo.servers10.com:8081/8020/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FabulosaEstereo1005FM.pa",
+      "code": "FAB-PA-001",
+      "index": 2642,
+      "tvg_id": null,
+      "tvg_chno": 2742,
+      "name_ar": "Fabulosa Estereo 100.5 FM",
+      "name_en": "Fabulosa Estereo 100.5 FM",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HosannaVision.pa",
+      "code": "HOS-PA-001",
+      "index": 3244,
+      "tvg_id": null,
+      "tvg_chno": 3344,
+      "name_ar": "Hosanna Vision",
+      "name_en": "Hosanna Vision",
+      "country": "PA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LaXitosaPanama.pa",
+      "code": "LAX-PA-001",
+      "index": 3953,
+      "tvg_id": null,
+      "tvg_chno": 4053,
+      "name_ar": "LaXitosa Panama",
+      "name_en": "LaXitosa Panama",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Mas23TV.pa",
+      "code": "MAS-PA-001",
+      "index": 4215,
+      "tvg_id": null,
+      "tvg_chno": 4315,
+      "name_ar": "Mas23 TV",
+      "name_en": "Mas23 TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/mas23tv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MINFAVTV.pa",
+      "code": "MIN-PA-001",
+      "index": 4388,
+      "tvg_id": null,
+      "tvg_chno": 4488,
+      "name_ar": "MINFAV TV",
+      "name_en": "MINFAV TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://mp.panelchs.com:1936/8044/8044/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NexTVCanal21.pa",
+      "code": "NEX-PA-001",
+      "index": 4832,
+      "tvg_id": null,
+      "tvg_chno": 4932,
+      "name_ar": "Nex TV Canal 21",
+      "name_en": "Nex TV Canal 21",
+      "country": "PA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://movil.ejeserver.com/live/nextv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PindinTV.pa",
+      "code": "PIN-PA-001",
+      "index": 5350,
+      "tvg_id": null,
+      "tvg_chno": 5450,
+      "name_ar": "Pindin TV",
+      "name_en": "Pindin TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Planet1009FM.pa",
+      "code": "PLA-PA-001",
+      "index": 5363,
+      "tvg_id": null,
+      "tvg_chno": 5463,
+      "name_ar": "Planet 100.9 FM",
+      "name_en": "Planet 100.9 FM",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioAncon.pa",
+      "code": "RAD-PA-001",
+      "index": 5920,
+      "tvg_id": null,
+      "tvg_chno": 6020,
+      "name_ar": "Radio Ancon",
+      "name_en": "Radio Ancon",
+      "country": "PA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RadioHogar.pa",
+      "code": "RAD-PA-002",
+      "index": 5954,
+      "tvg_id": null,
+      "tvg_chno": 6054,
+      "name_ar": "Radio Hogar",
+      "name_en": "Radio Hogar",
+      "country": "PA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SuperQPanama.pa",
+      "code": "SUP-PA-001",
+      "index": 7149,
+      "tvg_id": null,
+      "tvg_chno": 7249,
+      "name_ar": "Super Q Panama",
+      "name_en": "Super Q Panama",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Telemetro.pa",
+      "code": "TEL-PA-001",
+      "index": 7426,
+      "tvg_id": null,
+      "tvg_chno": 7526,
+      "name_ar": "Telemetro",
+      "name_en": "Telemetro",
+      "country": "PA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://181.78.121.15:8000/play/a001/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TropicalMoonCumbiaTV.pa",
+      "code": "TRO-PA-001",
+      "index": 7828,
+      "tvg_id": null,
+      "tvg_chno": 7928,
+      "name_ar": "Tropical Moon Cumbia TV",
+      "name_en": "Tropical Moon Cumbia TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TropicalMoonEventosTV.pa",
+      "code": "TRO-PA-002",
+      "index": 7829,
+      "tvg_id": null,
+      "tvg_chno": 7929,
+      "name_ar": "Tropical Moon Eventos TV",
+      "name_en": "Tropical Moon Eventos TV",
+      "country": "PA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TropiQ997FM.pa",
+      "code": "TRO-PA-003",
+      "index": 7830,
+      "tvg_id": null,
+      "tvg_chno": 7930,
+      "name_ar": "Tropi Q 99.7 FM",
+      "name_en": "Tropi Q 99.7 FM",
+      "country": "PA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VisionLatina.pa",
+      "code": "VIS-PA-001",
+      "index": 8639,
+      "tvg_id": null,
+      "tvg_chno": 8739,
+      "name_ar": "Vision Latina",
+      "name_en": "Vision Latina",
+      "country": "PA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

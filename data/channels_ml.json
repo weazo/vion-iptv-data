@@ -1,0 +1,104 @@
+{
+  "version": "1.0.0",
+  "country": "ML",
+  "total_channels": 3,
+  "channels": [
+    {
+      "id": "D3TV.ml",
+      "code": "DTV-ML-001",
+      "index": 2030,
+      "tvg_id": null,
+      "tvg_chno": 2130,
+      "name_ar": "D3 TV",
+      "name_en": "D3 TV",
+      "country": "ML",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ORTM1.ml",
+      "code": "ORT-ML-001",
+      "index": 5162,
+      "tvg_id": null,
+      "tvg_chno": 5262,
+      "name_ar": "ORTM 1",
+      "name_en": "ORTM 1",
+      "country": "ML",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://69.64.57.208/ortm/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TM1TV.ml",
+      "code": "TMT-ML-001",
+      "index": 7706,
+      "tvg_id": null,
+      "tvg_chno": 7806,
+      "name_ar": "TM1 TV",
+      "name_en": "TM1 TV",
+      "country": "ML",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://69.64.57.208/tm1/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

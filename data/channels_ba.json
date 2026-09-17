@@ -1,0 +1,679 @@
+{
+  "version": "1.0.0",
+  "country": "BA",
+  "total_channels": 24,
+  "channels": [
+    {
+      "id": "BHRT.ba",
+      "code": "BHR-BA-001",
+      "index": 1010,
+      "tvg_id": null,
+      "tvg_chno": 1110,
+      "name_ar": "BHRT",
+      "name_en": "BHRT",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8",
+          "quality": "270p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BHT1.ba",
+      "code": "BHT-BA-001",
+      "index": 1011,
+      "tvg_id": null,
+      "tvg_chno": 1111,
+      "name_ar": "BHT 1",
+      "name_en": "BHT 1",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Federalnatelevizija.ba",
+      "code": "FED-BA-001",
+      "index": 2690,
+      "tvg_id": null,
+      "tvg_chno": 2790,
+      "name_ar": "Federalna televizija",
+      "name_en": "Federalna televizija",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.81.240.65:15000/udp/233.233.233.39:12000",
+          "quality": "720p",
+          "protocol": "unknown",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Kanal6.ba",
+      "code": "KAN-BA-001",
+      "index": 3637,
+      "tvg_id": null,
+      "tvg_chno": 3737,
+      "name_ar": "Kanal 6",
+      "name_en": "Kanal 6",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://restreamer1.tnt.ba/hls/kanal6.m3u8",
+          "quality": "288p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MariaPlusVisionMedjugorje.ba",
+      "code": "MAR-BA-001",
+      "index": 4200,
+      "tvg_id": null,
+      "tvg_chno": 4300,
+      "name_ar": "Maria+Vision Medjugorje",
+      "name_en": "Maria+Vision Medjugorje",
+      "country": "BA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NewsmaxBalkans.ba",
+      "code": "NEW-BA-001",
+      "index": 4817,
+      "tvg_id": null,
+      "tvg_chno": 4917,
+      "name_ar": "Newsmax Balkans",
+      "name_en": "Newsmax Balkans",
+      "country": "BA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTRSplus.ba",
+      "code": "RTR-BA-001",
+      "index": 6393,
+      "tvg_id": null,
+      "tvg_chno": 6493,
+      "name_ar": "RTRS plus",
+      "name_en": "RTRS plus",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTRSTV.ba",
+      "code": "RTR-BA-002",
+      "index": 6394,
+      "tvg_id": null,
+      "tvg_chno": 6494,
+      "name_ar": "RTRS TV",
+      "name_en": "RTRS TV",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTVGlasDrine.ba",
+      "code": "RTV-BA-001",
+      "index": 6425,
+      "tvg_id": null,
+      "tvg_chno": 6525,
+      "name_ar": "RTV Glas Drine",
+      "name_en": "RTV Glas Drine",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8",
+          "quality": "404p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTVHB.ba",
+      "code": "RTV-BA-002",
+      "index": 6427,
+      "tvg_id": null,
+      "tvg_chno": 6527,
+      "name_ar": "RTV HB",
+      "name_en": "RTV HB",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RTVZenica.ba",
+      "code": "RTV-BA-003",
+      "index": 6455,
+      "tvg_id": null,
+      "tvg_chno": 6555,
+      "name_ar": "RTV Zenica",
+      "name_en": "RTV Zenica",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Televizija5.ba",
+      "code": "TEL-BA-001",
+      "index": 7536,
+      "tvg_id": null,
+      "tvg_chno": 7636,
+      "name_ar": "Televizija 5",
+      "name_en": "Televizija 5",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TelevizijaM.ba",
+      "code": "TEL-BA-002",
+      "index": 7537,
+      "tvg_id": null,
+      "tvg_chno": 7637,
+      "name_ar": "Televizija M",
+      "name_en": "Televizija M",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.tv-m.net/hls/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TNTKidsTV.ba",
+      "code": "TNT-BA-001",
+      "index": 7726,
+      "tvg_id": null,
+      "tvg_chno": 7826,
+      "name_ar": "TNT Kids TV",
+      "name_en": "TNT Kids TV",
+      "country": "BA",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://restreamer1.tnt.ba/hls/tntkids.m3u8",
+          "quality": "288p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVSlonExtra.ba",
+      "code": "TVS-BA-001",
+      "index": 8300,
+      "tvg_id": null,
+      "tvg_chno": 8400,
+      "name_ar": "TV Slon Extra",
+      "name_en": "TV Slon Extra",
+      "country": "BA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://31.47.0.130:8082",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "federalnatelevizijaf",
+      "code": "FED-BA-002",
+      "index": 9083,
+      "tvg_id": null,
+      "tvg_chno": 9183,
+      "name_ar": "Federalna televizija (FTV) Ⓢ",
+      "name_en": "Federalna televizija (FTV) Ⓢ",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://i.imgur.com/Jpvs4u3.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://94.250.2.6:7374/play/a02s/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "televizijarepublikesrpskertrs",
+      "code": "TEL-BA-003",
+      "index": 9084,
+      "tvg_id": null,
+      "tvg_chno": 9184,
+      "name_ar": "Televizija Republike Srpske (RTRS)",
+      "name_en": "Televizija Republike Srpske (RTRS)",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://i.imgur.com/2Sgs5gM.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://parh.rtrs.tv/tv/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "n1bosnaihercegovina",
+      "code": "NBO-BA-001",
+      "index": 9085,
+      "tvg_id": null,
+      "tvg_chno": 9185,
+      "name_ar": "N1 Bosna i Hercegovina",
+      "name_en": "N1 Bosna i Hercegovina",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://i.imgur.com/72oMSWz.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rbn",
+      "code": "RTV-BA-004",
+      "index": 9086,
+      "tvg_id": null,
+      "tvg_chno": 9186,
+      "name_ar": "RTV BN",
+      "name_en": "RTV BN",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://i.imgur.com/DUBvfWb.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "sevdah",
+      "code": "SEV-BA-001",
+      "index": 9087,
+      "tvg_id": null,
+      "tvg_chno": 9187,
+      "name_ar": "Sevdah Ⓢ",
+      "name_en": "Sevdah Ⓢ",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://i.imgur.com/V6W3yEp.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://restreamer2.tnt.ba/hls/stream.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rusk",
+      "code": "RTV-BA-005",
+      "index": 9088,
+      "tvg_id": null,
+      "tvg_chno": 9188,
+      "name_ar": "RTV USK Ⓨ",
+      "name_en": "RTV USK Ⓨ",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://www.youtube.com/@rtvusk/live",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "rze",
+      "code": "RTV-BA-006",
+      "index": 9089,
+      "tvg_id": null,
+      "tvg_chno": 9189,
+      "name_ar": "RTV ZE Ⓢ",
+      "name_en": "RTV ZE Ⓢ",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://i.imgur.com/TKUaflB.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://stream.rtvze.ba/live/123/123.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "bpk",
+      "code": "TVB-BA-001",
+      "index": 9090,
+      "tvg_id": null,
+      "tvg_chno": 9190,
+      "name_ar": "TV BPK Ⓢ",
+      "name_en": "TV BPK Ⓢ",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Bosnia and Herzegovina",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://94.250.2.6:7374/play/a02u/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "aljazeerabalkans",
+      "code": "ALJ-BA-001",
+      "index": 9136,
+      "tvg_id": null,
+      "tvg_chno": 9236,
+      "name_ar": "Al Jazeera Balkans",
+      "name_en": "Al Jazeera Balkans",
+      "country": "BA",
+      "language": "unknown",
+      "category": "Croatia",
+      "logo": "https://i.imgur.com/Z1FB6wl.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

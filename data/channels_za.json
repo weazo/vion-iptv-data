@@ -1,0 +1,684 @@
+{
+  "version": "1.0.0",
+  "country": "ZA",
+  "total_channels": 23,
+  "channels": [
+    {
+      "id": "1KZNTV.za",
+      "code": "KZN-ZA-001",
+      "index": 26,
+      "tvg_id": null,
+      "tvg_chno": 126,
+      "name_ar": "1KZN TV",
+      "name_en": "1KZN TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BOKTV.za",
+      "code": "BOK-ZA-001",
+      "index": 1085,
+      "tvg_id": null,
+      "tvg_chno": 1185,
+      "name_ar": "BOKTV",
+      "name_en": "BOKTV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CapeTownTV.za",
+      "code": "CAP-ZA-001",
+      "index": 1471,
+      "tvg_id": null,
+      "tvg_chno": 1571,
+      "name_ar": "Cape Town TV",
+      "name_en": "Cape Town TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CrimeandEvidence.za",
+      "code": "CRI-ZA-001",
+      "index": 1954,
+      "tvg_id": null,
+      "tvg_chno": 2054,
+      "name_ar": "Crime and Evidence",
+      "name_en": "Crime and Evidence",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "etvNewsSport.za",
+      "code": "ETV-ZA-001",
+      "index": 2571,
+      "tvg_id": null,
+      "tvg_chno": 2671,
+      "name_ar": "e.tv News & Sport",
+      "name_en": "e.tv News & Sport",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FaithAfrica.za",
+      "code": "FAI-ZA-001",
+      "index": 2645,
+      "tvg_id": null,
+      "tvg_chno": 2745,
+      "name_ar": "Faith Africa",
+      "name_en": "Faith Africa",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GNFTV.za",
+      "code": "GNF-ZA-001",
+      "index": 2956,
+      "tvg_id": null,
+      "tvg_chno": 3056,
+      "name_ar": "GNF TV",
+      "name_en": "GNF TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HomebaseTV.za",
+      "code": "HOM-ZA-001",
+      "index": 3217,
+      "tvg_id": null,
+      "tvg_chno": 3317,
+      "name_ar": "Homebase TV",
+      "name_en": "Homebase TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8",
+          "quality": "480p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HopeChannelAfrica.za",
+      "code": "HOP-ZA-001",
+      "index": 3226,
+      "tvg_id": null,
+      "tvg_chno": 3326,
+      "name_ar": "Hope Channel Africa",
+      "name_en": "Hope Channel Africa",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://jstre.am/live/jsl:i1onRBELcGV.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LN24SA.za",
+      "code": "LNS-ZA-001",
+      "index": 4043,
+      "tvg_id": null,
+      "tvg_chno": 4143,
+      "name_ar": "LN24SA",
+      "name_en": "LN24SA",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NuViewTV.za",
+      "code": "NUV-ZA-001",
+      "index": 5004,
+      "tvg_id": null,
+      "tvg_chno": 5104,
+      "name_ar": "NuView TV",
+      "name_en": "NuView TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RLWTV.za",
+      "code": "RLW-ZA-001",
+      "index": 6272,
+      "tvg_id": null,
+      "tvg_chno": 6372,
+      "name_ar": "RLW TV",
+      "name_en": "RLW TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ROVTV.za",
+      "code": "ROV-ZA-001",
+      "index": 6315,
+      "tvg_id": null,
+      "tvg_chno": 6415,
+      "name_ar": "ROV TV",
+      "name_en": "ROV TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SABC1.za",
+      "code": "SAB-ZA-001",
+      "index": 6502,
+      "tvg_id": null,
+      "tvg_chno": 6602,
+      "name_ar": "SABC 1",
+      "name_en": "SABC 1",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SABC2.za",
+      "code": "SAB-ZA-002",
+      "index": 6503,
+      "tvg_id": null,
+      "tvg_chno": 6603,
+      "name_ar": "SABC 2",
+      "name_en": "SABC 2",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SABCLehae.za",
+      "code": "SAB-ZA-003",
+      "index": 6504,
+      "tvg_id": null,
+      "tvg_chno": 6604,
+      "name_ar": "SABC Lehae",
+      "name_en": "SABC Lehae",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SABCNews.za",
+      "code": "SAB-ZA-004",
+      "index": 6505,
+      "tvg_id": null,
+      "tvg_chno": 6605,
+      "name_ar": "SABC News",
+      "name_en": "SABC News",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SeraphimTV.za",
+      "code": "SER-ZA-001",
+      "index": 6680,
+      "tvg_id": null,
+      "tvg_chno": 6780,
+      "name_ar": "Seraphim TV",
+      "name_en": "Seraphim TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SowetoTV.za",
+      "code": "SOW-ZA-001",
+      "index": 6954,
+      "tvg_id": null,
+      "tvg_chno": 7054,
+      "name_ar": "Soweto TV",
+      "name_en": "Soweto TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Trigger.za",
+      "code": "TRI-ZA-001",
+      "index": 7816,
+      "tvg_id": null,
+      "tvg_chno": 7916,
+      "name_ar": "Trigger",
+      "name_en": "Trigger",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TshwaneTV.za",
+      "code": "TSH-ZA-001",
+      "index": 7867,
+      "tvg_id": null,
+      "tvg_chno": 7967,
+      "name_ar": "Tshwane TV",
+      "name_en": "Tshwane TV",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVBRICSAfrica.za",
+      "code": "TVB-ZA-001",
+      "index": 7982,
+      "tvg_id": null,
+      "tvg_chno": 8082,
+      "name_ar": "TV BRICS Africa",
+      "name_en": "TV BRICS Africa",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WildEarth.za",
+      "code": "WIL-ZA-001",
+      "index": 8789,
+      "tvg_id": null,
+      "tvg_chno": 8889,
+      "name_ar": "WildEarth",
+      "name_en": "WildEarth",
+      "country": "ZA",
+      "language": "unknown",
+      "category": "outdoor",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://wildearth-xumo.amagi.tv/master.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

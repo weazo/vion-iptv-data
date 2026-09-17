@@ -1,0 +1,3656 @@
+{
+  "version": "1.0.0",
+  "country": "IR",
+  "total_channels": 131,
+  "channels": [
+    {
+      "id": "247BoxTV.ir",
+      "code": "BOX-IR-001",
+      "index": 36,
+      "tvg_id": null,
+      "tvg_chno": 136,
+      "name_ar": "247 Box TV",
+      "name_en": "247 Box TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.247box.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AbadanTV.ir",
+      "code": "ABA-IR-001",
+      "index": 187,
+      "tvg_id": null,
+      "tvg_chno": 287,
+      "name_ar": "Abadan TV",
+      "name_en": "Abadan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/abadan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AflakTV.ir",
+      "code": "AFL-IR-001",
+      "index": 281,
+      "tvg_id": null,
+      "tvg_chno": 381,
+      "name_ar": "Aflak TV",
+      "name_en": "Aflak TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/aflak/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AFNTV.ir",
+      "code": "AFN-IR-001",
+      "index": 283,
+      "tvg_id": null,
+      "tvg_chno": 383,
+      "name_ar": "AFN TV",
+      "name_en": "AFN TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AfraFilm.ir",
+      "code": "AFR-IR-001",
+      "index": 285,
+      "tvg_id": null,
+      "tvg_chno": 385,
+      "name_ar": "Afra Film",
+      "name_en": "Afra Film",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://afrafhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AfraSeries.ir",
+      "code": "AFR-IR-002",
+      "index": 286,
+      "tvg_id": null,
+      "tvg_chno": 386,
+      "name_ar": "Afra Series",
+      "name_en": "Afra Series",
+      "country": "IR",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://afrashls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AftabTV.ir",
+      "code": "AFT-IR-001",
+      "index": 301,
+      "tvg_id": null,
+      "tvg_chno": 401,
+      "name_ar": "Aftab TV",
+      "name_en": "Aftab TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/aftab/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlAlam.ir",
+      "code": "ALA-IR-001",
+      "index": 345,
+      "tvg_id": null,
+      "tvg_chno": 445,
+      "name_ar": "Al Alam",
+      "name_en": "Al Alam",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live2.alalam.ir/alalam.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlborzTV.ir",
+      "code": "ALB-IR-001",
+      "index": 362,
+      "tvg_id": null,
+      "tvg_chno": 462,
+      "name_ar": "Alborz TV",
+      "name_en": "Alborz TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/alborz/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AlWilayah.ir",
+      "code": "ALW-IR-001",
+      "index": 493,
+      "tvg_id": null,
+      "tvg_chno": 593,
+      "name_ar": "Al Wilayah",
+      "name_en": "Al Wilayah",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AmouzeshTV.ir",
+      "code": "AMO-IR-001",
+      "index": 535,
+      "tvg_id": null,
+      "tvg_chno": 635,
+      "name_ar": "Amouzesh TV",
+      "name_en": "Amouzesh TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AraxTV.ir",
+      "code": "ARA-IR-001",
+      "index": 630,
+      "tvg_id": null,
+      "tvg_chno": 730,
+      "name_ar": "Arax TV",
+      "name_en": "Arax TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://araxhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ArkoTV.ir",
+      "code": "ARK-IR-001",
+      "index": 652,
+      "tvg_id": null,
+      "tvg_chno": 752,
+      "name_ar": "Arko TV",
+      "name_en": "Arko TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://arkhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ArvanTV.ir",
+      "code": "ARV-IR-001",
+      "index": 671,
+      "tvg_id": null,
+      "tvg_chno": 771,
+      "name_ar": "Arvan TV",
+      "name_en": "Arvan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://arvhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://me2hls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AsilTV.ir",
+      "code": "ASI-IR-001",
+      "index": 694,
+      "tvg_id": null,
+      "tvg_chno": 794,
+      "name_ar": "Asil TV",
+      "name_en": "Asil TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.asil.tv/asiltv/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AssiratTV.ir",
+      "code": "ASS-IR-001",
+      "index": 703,
+      "tvg_id": null,
+      "tvg_chno": 803,
+      "name_ar": "Assirat TV",
+      "name_en": "Assirat TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AtrakTV.ir",
+      "code": "ATR-IR-001",
+      "index": 731,
+      "tvg_id": null,
+      "tvg_chno": 831,
+      "name_ar": "Atrak TV",
+      "name_en": "Atrak TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/atrak/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AtrinaTV.ir",
+      "code": "ATR-IR-002",
+      "index": 732,
+      "tvg_id": null,
+      "tvg_chno": 832,
+      "name_ar": "Atrina TV",
+      "name_en": "Atrina TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://atrihls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AVAFamily.ir",
+      "code": "AVA-IR-001",
+      "index": 759,
+      "tvg_id": null,
+      "tvg_chno": 859,
+      "name_ar": "AVA Family",
+      "name_en": "AVA Family",
+      "country": "IR",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://familyhls.avatv.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "AVASeries.ir",
+      "code": "AVA-IR-002",
+      "index": 762,
+      "tvg_id": null,
+      "tvg_chno": 862,
+      "name_ar": "AVA Series",
+      "name_en": "AVA Series",
+      "country": "IR",
+      "language": "unknown",
+      "category": "series",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://avaserieshls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BaranTV.ir",
+      "code": "BAR-IR-001",
+      "index": 861,
+      "tvg_id": null,
+      "tvg_chno": 961,
+      "name_ar": "Baran TV",
+      "name_en": "Baran TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/baran/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BoushehrTV.ir",
+      "code": "BOU-IR-001",
+      "index": 1113,
+      "tvg_id": null,
+      "tvg_chno": 1213,
+      "name_ar": "Boushehr TV",
+      "name_en": "Boushehr TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "BravoFarsiTV.ir",
+      "code": "BRA-IR-001",
+      "index": 1123,
+      "tvg_id": null,
+      "tvg_chno": 1223,
+      "name_ar": "Bravo Farsi TV",
+      "name_en": "Bravo Farsi TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://bravoohls.wns.live/hls/stream.m3u8",
+          "quality": "360p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CafeFilm.ir",
+      "code": "CAF-IR-001",
+      "index": 1207,
+      "tvg_id": null,
+      "tvg_chno": 1307,
+      "name_ar": "Cafe Film",
+      "name_en": "Cafe Film",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cafefhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CafeTradeTV.ir",
+      "code": "CAF-IR-002",
+      "index": 1208,
+      "tvg_id": null,
+      "tvg_chno": 1308,
+      "name_ar": "Cafe Trade TV",
+      "name_en": "Cafe Trade TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "business",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ClassicTV.ir",
+      "code": "CLA-IR-001",
+      "index": 1802,
+      "tvg_id": null,
+      "tvg_chno": 1902,
+      "name_ar": "Classic TV",
+      "name_en": "Classic TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "classic",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://clshls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DatisTV.ir",
+      "code": "DAT-IR-001",
+      "index": 2072,
+      "tvg_id": null,
+      "tvg_chno": 2172,
+      "name_ar": "Datis TV",
+      "name_en": "Datis TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ronhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DejTV.ir",
+      "code": "DEJ-IR-001",
+      "index": 2131,
+      "tvg_id": null,
+      "tvg_chno": 2231,
+      "name_ar": "Dej TV",
+      "name_en": "Dej TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://rdejhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "DenaTV.ir",
+      "code": "DEN-IR-001",
+      "index": 2144,
+      "tvg_id": null,
+      "tvg_chno": 2244,
+      "name_ar": "Dena TV",
+      "name_en": "Dena TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/dena/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EkranMovies.ir",
+      "code": "EKR-IR-001",
+      "index": 2414,
+      "tvg_id": null,
+      "tvg_chno": 2514,
+      "name_ar": "Ekran Movies",
+      "name_en": "Ekran Movies",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Energy.ir",
+      "code": "ENE-IR-001",
+      "index": 2480,
+      "tvg_id": null,
+      "tvg_chno": 2580,
+      "name_ar": "Energy",
+      "name_en": "Energy",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EPlanetTV.ir",
+      "code": "EPL-IR-001",
+      "index": 2508,
+      "tvg_id": null,
+      "tvg_chno": 2608,
+      "name_ar": "EPlanet TV",
+      "name_en": "EPlanet TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "documentary",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://eplhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "EshraghNetwork.ir",
+      "code": "ESH-IR-001",
+      "index": 2527,
+      "tvg_id": null,
+      "tvg_chno": 2627,
+      "name_ar": "Eshragh Network",
+      "name_en": "Eshragh Network",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FarsTV.ir",
+      "code": "FAR-IR-001",
+      "index": 2669,
+      "tvg_id": null,
+      "tvg_chno": 2769,
+      "name_ar": "Fars TV",
+      "name_en": "Fars TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/fars/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FX1.ir",
+      "code": "FXX-IR-001",
+      "index": 2848,
+      "tvg_id": null,
+      "tvg_chno": 2948,
+      "name_ar": "FX 1",
+      "name_en": "FX 1",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://fxtvhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "FX2.ir",
+      "code": "FXX-IR-002",
+      "index": 2849,
+      "tvg_id": null,
+      "tvg_chno": 2949,
+      "name_ar": "FX 2",
+      "name_en": "FX 2",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GoldStar.ir",
+      "code": "GOL-IR-001",
+      "index": 2975,
+      "tvg_id": null,
+      "tvg_chno": 3075,
+      "name_ar": "Gold Star",
+      "name_en": "Gold Star",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://moviethls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "GolkhaneTv.ir",
+      "code": "GOL-IR-002",
+      "index": 2979,
+      "tvg_id": null,
+      "tvg_chno": 3079,
+      "name_ar": "Golkhane Tv",
+      "name_en": "Golkhane Tv",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HabibTV.ir",
+      "code": "HAB-IR-001",
+      "index": 3068,
+      "tvg_id": null,
+      "tvg_chno": 3168,
+      "name_ar": "Habib TV",
+      "name_en": "Habib TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/habib/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HamedanTV.ir",
+      "code": "HAM-IR-001",
+      "index": 3083,
+      "tvg_id": null,
+      "tvg_chno": 3183,
+      "name_ar": "Hamedan TV",
+      "name_en": "Hamedan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/sina/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HamoonTV.ir",
+      "code": "HAM-IR-002",
+      "index": 3084,
+      "tvg_id": null,
+      "tvg_chno": 3184,
+      "name_ar": "Hamoon TV",
+      "name_en": "Hamoon TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HispanTV.ir",
+      "code": "HIS-IR-001",
+      "index": 3157,
+      "tvg_id": null,
+      "tvg_chno": 3257,
+      "name_ar": "Hispan TV",
+      "name_en": "Hispan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HodHodFarsiTV.ir",
+      "code": "HOD-IR-001",
+      "index": 3206,
+      "tvg_id": null,
+      "tvg_chno": 3306,
+      "name_ar": "HodHod Farsi TV",
+      "name_en": "HodHod Farsi TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://northtelecom.b-cdn.net/hodhodtv.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "HomePlus.ir",
+      "code": "HOM-IR-001",
+      "index": 3220,
+      "tvg_id": null,
+      "tvg_chno": 3320,
+      "name_ar": "HomePlus",
+      "name_en": "HomePlus",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://homeplushls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iFilm2.ir",
+      "code": "IFI-IR-001",
+      "index": 3321,
+      "tvg_id": null,
+      "tvg_chno": 3421,
+      "name_ar": "iFilm 2",
+      "name_en": "iFilm 2",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.presstv.ir/hls/ifilm2.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.presstv.co.uk/hls/ifilm2.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iFilmArabic.ir",
+      "code": "IFI-IR-002",
+      "index": 3322,
+      "tvg_id": null,
+      "tvg_chno": 3422,
+      "name_ar": "iFilm Arabic",
+      "name_en": "iFilm Arabic",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.presstv.ir/hls/ifilmar.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.presstv.co.uk/hls/ifilmar.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iFilmEnglish.ir",
+      "code": "IFI-IR-003",
+      "index": 3323,
+      "tvg_id": null,
+      "tvg_chno": 3423,
+      "name_ar": "iFilm English",
+      "name_en": "iFilm English",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.presstv.ir/hls/ifilmen.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.presstv.co.uk/hls/ifilmen.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iFilmPersian.ir",
+      "code": "IFI-IR-004",
+      "index": 3324,
+      "tvg_id": null,
+      "tvg_chno": 3424,
+      "name_ar": "iFilm Persian",
+      "name_en": "iFilm Persian",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.presstv.ir/hls/ifilmfa.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IlamTV.ir",
+      "code": "ILA-IR-001",
+      "index": 3329,
+      "tvg_id": null,
+      "tvg_chno": 3429,
+      "name_ar": "Ilam TV",
+      "name_en": "Ilam TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IranJewishTV.ir",
+      "code": "IRA-IR-001",
+      "index": 3426,
+      "tvg_id": null,
+      "tvg_chno": 3526,
+      "name_ar": "Iran Jewish TV",
+      "name_en": "Iran Jewish TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://iran620.com:1935/live/IranJewishTv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IranPress.ir",
+      "code": "IRA-IR-002",
+      "index": 3429,
+      "tvg_id": null,
+      "tvg_chno": 3529,
+      "name_ar": "Iran Press",
+      "name_en": "Iran Press",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live1.presstv.ir/live/iranpress/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIB1.ir",
+      "code": "IRI-IR-001",
+      "index": 3431,
+      "tvg_id": null,
+      "tvg_chno": 3531,
+      "name_ar": "IRIB 1",
+      "name_en": "IRIB 1",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIB2.ir",
+      "code": "IRI-IR-002",
+      "index": 3432,
+      "tvg_id": null,
+      "tvg_chno": 3532,
+      "name_ar": "IRIB 2",
+      "name_en": "IRIB 2",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIB3.ir",
+      "code": "IRI-IR-003",
+      "index": 3433,
+      "tvg_id": null,
+      "tvg_chno": 3533,
+      "name_ar": "IRIB 3",
+      "name_en": "IRIB 3",
+      "country": "IR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIB4.ir",
+      "code": "IRI-IR-004",
+      "index": 3434,
+      "tvg_id": null,
+      "tvg_chno": 3534,
+      "name_ar": "IRIB 4",
+      "name_en": "IRIB 4",
+      "country": "IR",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIBMostanad.ir",
+      "code": "IRI-IR-005",
+      "index": 3435,
+      "tvg_id": null,
+      "tvg_chno": 3535,
+      "name_ar": "IRIB Mostanad",
+      "name_en": "IRIB Mostanad",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIBOmid.ir",
+      "code": "IRI-IR-006",
+      "index": 3436,
+      "tvg_id": null,
+      "tvg_chno": 3536,
+      "name_ar": "IRIB Omid",
+      "name_en": "IRIB Omid",
+      "country": "IR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRIBUHD.ir",
+      "code": "IRI-IR-007",
+      "index": 3437,
+      "tvg_id": null,
+      "tvg_chno": 3537,
+      "name_ar": "IRIB UHD",
+      "name_en": "IRIB UHD",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+          "quality": "2160p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRINN.ir",
+      "code": "IRI-IR-008",
+      "index": 3438,
+      "tvg_id": null,
+      "tvg_chno": 3538,
+      "name_ar": "IRINN",
+      "name_en": "IRINN",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://185.9.2.18/chid_926/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IRINN2.ir",
+      "code": "IRI-IR-009",
+      "index": 3439,
+      "tvg_id": null,
+      "tvg_chno": 3539,
+      "name_ar": "IRINN 2",
+      "name_en": "IRINN 2",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "IsfahanTV.ir",
+      "code": "ISF-IR-001",
+      "index": 3447,
+      "tvg_id": null,
+      "tvg_chno": 3547,
+      "name_ar": "Isfahan TV",
+      "name_en": "Isfahan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "JahanbinTV.ir",
+      "code": "JAH-IR-001",
+      "index": 3483,
+      "tvg_id": null,
+      "tvg_chno": 3583,
+      "name_ar": "Jahanbin TV",
+      "name_en": "Jahanbin TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KermanTV.ir",
+      "code": "KER-IR-001",
+      "index": 3694,
+      "tvg_id": null,
+      "tvg_chno": 3794,
+      "name_ar": "Kerman TV",
+      "name_en": "Kerman TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/kerman/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KhalijeFarsTV.ir",
+      "code": "KHA-IR-001",
+      "index": 3705,
+      "tvg_id": null,
+      "tvg_chno": 3805,
+      "name_ar": "Khalij-e Fars TV",
+      "name_en": "Khalij-e Fars TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KhalijTV.ir",
+      "code": "KHA-IR-002",
+      "index": 3706,
+      "tvg_id": null,
+      "tvg_chno": 3806,
+      "name_ar": "Khalij TV",
+      "name_en": "Khalij TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://khalijhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KhavaranTV.ir",
+      "code": "KHA-IR-003",
+      "index": 3709,
+      "tvg_id": null,
+      "tvg_chno": 3809,
+      "name_ar": "Khavaran TV",
+      "name_en": "Khavaran TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KhorasanRazaviTV.ir",
+      "code": "KHO-IR-001",
+      "index": 3712,
+      "tvg_id": null,
+      "tvg_chno": 3812,
+      "name_ar": "Khorasan Razavi TV",
+      "name_en": "Khorasan Razavi TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KhozestanTV.ir",
+      "code": "KHO-IR-002",
+      "index": 3713,
+      "tvg_id": null,
+      "tvg_chno": 3813,
+      "name_ar": "Khozestan TV",
+      "name_en": "Khozestan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KishTV.ir",
+      "code": "KIS-IR-001",
+      "index": 3750,
+      "tvg_id": null,
+      "tvg_chno": 3850,
+      "name_ar": "Kish TV",
+      "name_en": "Kish TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/kish/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "KordestanTV.ir",
+      "code": "KOR-IR-001",
+      "index": 3800,
+      "tvg_id": null,
+      "tvg_chno": 3900,
+      "name_ar": "Kordestan TV",
+      "name_en": "Kordestan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "LabbaykTV.ir",
+      "code": "LAB-IR-001",
+      "index": 3863,
+      "tvg_id": null,
+      "tvg_chno": 3963,
+      "name_ar": "LabbaykTV",
+      "name_en": "LabbaykTV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MahabadTV.ir",
+      "code": "MAH-IR-001",
+      "index": 4148,
+      "tvg_id": null,
+      "tvg_chno": 4248,
+      "name_ar": "Mahabad TV",
+      "name_en": "Mahabad TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MetaFilmTV.ir",
+      "code": "MET-IR-001",
+      "index": 4343,
+      "tvg_id": null,
+      "tvg_chno": 4443,
+      "name_ar": "Meta Film TV",
+      "name_en": "Meta Film TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://metafilmhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MihanTV.ir",
+      "code": "MIH-IR-001",
+      "index": 4379,
+      "tvg_id": null,
+      "tvg_chno": 4479,
+      "name_ar": "Mihan TV",
+      "name_en": "Mihan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://iptv.mihantv.com/mihantv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "MohabatTV.ir",
+      "code": "MOH-IR-001",
+      "index": 4449,
+      "tvg_id": null,
+      "tvg_chno": 4549,
+      "name_ar": "Mohabat TV",
+      "name_en": "Mohabat TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+          "quality": "540p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NamayeshTV.ir",
+      "code": "NAM-IR-001",
+      "index": 4673,
+      "tvg_id": null,
+      "tvg_chno": 4773,
+      "name_ar": "Namayesh TV",
+      "name_en": "Namayesh TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Nasim.ir",
+      "code": "NAS-IR-001",
+      "index": 4700,
+      "tvg_id": null,
+      "tvg_chno": 4800,
+      "name_ar": "Nasim",
+      "name_en": "Nasim",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NewFlix.ir",
+      "code": "NEW-IR-001",
+      "index": 4774,
+      "tvg_id": null,
+      "tvg_chno": 4874,
+      "name_ar": "NewFlix",
+      "name_en": "NewFlix",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://newfhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "NoorTV.ir",
+      "code": "NOO-IR-001",
+      "index": 4900,
+      "tvg_id": null,
+      "tvg_chno": 5000,
+      "name_ar": "Noor TV",
+      "name_en": "Noor TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/noor/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OfoghTV.ir",
+      "code": "OFO-IR-001",
+      "index": 5037,
+      "tvg_id": null,
+      "tvg_chno": 5137,
+      "name_ar": "Ofogh TV",
+      "name_en": "Ofogh TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "OXIRTV.ir",
+      "code": "OXI-IR-001",
+      "index": 5191,
+      "tvg_id": null,
+      "tvg_chno": 5291,
+      "name_ar": "OXIR TV",
+      "name_en": "OXIR TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.oxir.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Palestinetv.ir",
+      "code": "PAL-IR-001",
+      "index": 5214,
+      "tvg_id": null,
+      "tvg_chno": 5314,
+      "name_ar": "Palestinetv",
+      "name_en": "Palestinetv",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PayvandTV.ir",
+      "code": "PAY-IR-001",
+      "index": 5263,
+      "tvg_id": null,
+      "tvg_chno": 5363,
+      "name_ar": "Payvand TV",
+      "name_en": "Payvand TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PooyaTV.ir",
+      "code": "POO-IR-001",
+      "index": 5690,
+      "tvg_id": null,
+      "tvg_chno": 5790,
+      "name_ar": "Pooya TV",
+      "name_en": "Pooya TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PooyaTVPlus.ir",
+      "code": "POO-IR-002",
+      "index": 5691,
+      "tvg_id": null,
+      "tvg_chno": 5791,
+      "name_ar": "Pooya TV Plus",
+      "name_en": "Pooya TV Plus",
+      "country": "IR",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PressTV.ir",
+      "code": "PRE-IR-001",
+      "index": 5734,
+      "tvg_id": null,
+      "tvg_chno": 5834,
+      "name_ar": "Press TV",
+      "name_en": "Press TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.presstv.ir/hls/presstv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "PressTVFrench.ir",
+      "code": "PRE-IR-002",
+      "index": 5735,
+      "tvg_id": null,
+      "tvg_chno": 5835,
+      "name_ar": "Press TV French",
+      "name_en": "Press TV French",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QazvinTV.ir",
+      "code": "QAZ-IR-001",
+      "index": 5854,
+      "tvg_id": null,
+      "tvg_chno": 5954,
+      "name_ar": "Qazvin TV",
+      "name_en": "Qazvin TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "QuranTV.ir",
+      "code": "QUR-IR-001",
+      "index": 5882,
+      "tvg_id": null,
+      "tvg_chno": 5982,
+      "name_ar": "Quran TV",
+      "name_en": "Quran TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RasoulallahTv.ir",
+      "code": "RAS-IR-001",
+      "index": 6096,
+      "tvg_id": null,
+      "tvg_chno": 6196,
+      "name_ar": "RasoulallahTv",
+      "name_en": "RasoulallahTv",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://avr.host247.net/live/rasoulallahtv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RazaviTV.ir",
+      "code": "RAZ-IR-001",
+      "index": 6104,
+      "tvg_id": null,
+      "tvg_chno": 6204,
+      "name_ar": "Razavi TV",
+      "name_en": "Razavi TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/razavi/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "RoyaTV.ir",
+      "code": "ROY-IR-001",
+      "index": 6317,
+      "tvg_id": null,
+      "tvg_chno": 6417,
+      "name_ar": "Roya TV",
+      "name_en": "Roya TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SabalanTV.ir",
+      "code": "SAB-IR-001",
+      "index": 6501,
+      "tvg_id": null,
+      "tvg_chno": 6601,
+      "name_ar": "Sabalan TV",
+      "name_en": "Sabalan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SabzTV.ir",
+      "code": "SAB-IR-002",
+      "index": 6510,
+      "tvg_id": null,
+      "tvg_chno": 6610,
+      "name_ar": "Sabz TV",
+      "name_en": "Sabz TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/sabz/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SahandTV.ir",
+      "code": "SAH-IR-001",
+      "index": 6523,
+      "tvg_id": null,
+      "tvg_chno": 6623,
+      "name_ar": "Sahand TV",
+      "name_en": "Sahand TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/sahand/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SalamatTV.ir",
+      "code": "SAL-IR-001",
+      "index": 6528,
+      "tvg_id": null,
+      "tvg_chno": 6628,
+      "name_ar": "Salamat TV",
+      "name_en": "Salamat TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SarbedaranTV.ir",
+      "code": "SAR-IR-001",
+      "index": 6591,
+      "tvg_id": null,
+      "tvg_chno": 6691,
+      "name_ar": "Sarbedaran TV",
+      "name_en": "Sarbedaran TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/sarbedaran/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SemnanTV.ir",
+      "code": "SEM-IR-001",
+      "index": 6662,
+      "tvg_id": null,
+      "tvg_chno": 6762,
+      "name_ar": "Semnan TV",
+      "name_en": "Semnan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/semnan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SepehrTV.ir",
+      "code": "SEP-IR-001",
+      "index": 6678,
+      "tvg_id": null,
+      "tvg_chno": 6778,
+      "name_ar": "Sepehr TV",
+      "name_en": "Sepehr TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SL1.ir",
+      "code": "SLX-IR-001",
+      "index": 6837,
+      "tvg_id": null,
+      "tvg_chno": 6937,
+      "name_ar": "SL 1",
+      "name_en": "SL 1",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://slonehls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SL2.ir",
+      "code": "SLX-IR-002",
+      "index": 6838,
+      "tvg_id": null,
+      "tvg_chno": 6938,
+      "name_ar": "SL 2",
+      "name_en": "SL 2",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://sltwohls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "SNNTV.ir",
+      "code": "SNN-IR-001",
+      "index": 6864,
+      "tvg_id": null,
+      "tvg_chno": 6964,
+      "name_ar": "SNN TV",
+      "name_en": "SNN TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live2.snn.ir/hls/snn2_hd720/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "T2Movies.ir",
+      "code": "TMO-IR-001",
+      "index": 7243,
+      "tvg_id": null,
+      "tvg_chno": 7343,
+      "name_ar": "T2 Movies",
+      "name_en": "T2 Movies",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "T2TV.ir",
+      "code": "TTV-IR-001",
+      "index": 7244,
+      "tvg_id": null,
+      "tvg_chno": 7344,
+      "name_ar": "T2 TV",
+      "name_en": "T2 TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://t2hls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TabarestanTV.ir",
+      "code": "TAB-IR-001",
+      "index": 7249,
+      "tvg_id": null,
+      "tvg_chno": 7349,
+      "name_ar": "Tabarestan TV",
+      "name_en": "Tabarestan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Tamasha.ir",
+      "code": "TAM-IR-001",
+      "index": 7269,
+      "tvg_id": null,
+      "tvg_chno": 7369,
+      "name_ar": "Tamasha",
+      "name_en": "Tamasha",
+      "country": "IR",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TBNNejatTV.ir",
+      "code": "TBN-IR-001",
+      "index": 7305,
+      "tvg_id": null,
+      "tvg_chno": 7405,
+      "name_ar": "TBN Nejat TV",
+      "name_en": "TBN Nejat TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.nejat.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TehranTV.ir",
+      "code": "TEH-IR-001",
+      "index": 7333,
+      "tvg_id": null,
+      "tvg_chno": 7433,
+      "name_ar": "Tehran TV",
+      "name_en": "Tehran TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "Tekyemadahi.ir",
+      "code": "TEK-IR-001",
+      "index": 7335,
+      "tvg_id": null,
+      "tvg_chno": 7435,
+      "name_ar": "Tekyemadahi",
+      "name_en": "Tekyemadahi",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVANava.ir",
+      "code": "TVA-IR-001",
+      "index": 7961,
+      "tvg_id": null,
+      "tvg_chno": 8061,
+      "name_ar": "TVA Nava",
+      "name_en": "TVA Nava",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/nava/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "TVITN.ir",
+      "code": "TVI-IR-001",
+      "index": 8101,
+      "tvg_id": null,
+      "tvg_chno": 8201,
+      "name_ar": "TV ITN",
+      "name_en": "TV ITN",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://itnhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VarzeshTV.ir",
+      "code": "VAR-IR-001",
+      "index": 8521,
+      "tvg_id": null,
+      "tvg_chno": 8621,
+      "name_ar": "Varzesh TV",
+      "name_en": "Varzesh TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "sports",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "VelayatTV.ir",
+      "code": "VEL-IR-001",
+      "index": 8538,
+      "tvg_id": null,
+      "tvg_chno": 8638,
+      "name_ar": "Velayat TV",
+      "name_en": "Velayat TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/velayat/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WestAzerbaijanTV.ir",
+      "code": "WES-IR-001",
+      "index": 8774,
+      "tvg_id": null,
+      "tvg_chno": 8874,
+      "name_ar": "West Azerbaijan TV",
+      "name_en": "West Azerbaijan TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "WiseHumanTv.ir",
+      "code": "WIS-IR-001",
+      "index": 8804,
+      "tvg_id": null,
+      "tvg_chno": 8904,
+      "name_ar": "WiseHumanTv",
+      "name_en": "WiseHumanTv",
+      "country": "IR",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YazdTV.ir",
+      "code": "YAZ-IR-001",
+      "index": 8888,
+      "tvg_id": null,
+      "tvg_chno": 8988,
+      "name_ar": "Yazd TV",
+      "name_en": "Yazd TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "YourTimeTV.ir",
+      "code": "YOU-IR-001",
+      "index": 8907,
+      "tvg_id": null,
+      "tvg_chno": 9007,
+      "name_ar": "YourTime TV",
+      "name_en": "YourTime TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://hls.yourtime.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        },
+        {
+          "url": "https://live.yourtime.tv/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ZedTV.ir",
+      "code": "ZED-IR-001",
+      "index": 8944,
+      "tvg_id": null,
+      "tvg_chno": 9044,
+      "name_ar": "Zed TV",
+      "name_en": "Zed TV",
+      "country": "IR",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://zedhls.wns.live/hls/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "irib5tehran",
+      "code": "IRI-IR-010",
+      "index": 9282,
+      "tvg_id": null,
+      "tvg_chno": 9382,
+      "name_ar": "IRIB TV5/Tehran TV Ⓢ",
+      "name_en": "IRIB TV5/Tehran TV Ⓢ",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/VdOFcN4.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/tehran/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribamoozesh",
+      "code": "IRI-IR-011",
+      "index": 9283,
+      "tvg_id": null,
+      "tvg_chno": 9383,
+      "name_ar": "IRIB Amoozesh Ⓢ",
+      "name_en": "IRIB Amoozesh Ⓢ",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/qox2azH.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribquran",
+      "code": "IRI-IR-012",
+      "index": 9284,
+      "tvg_id": null,
+      "tvg_chno": 9384,
+      "name_ar": "IRIB Quran",
+      "name_en": "IRIB Quran",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/nmOKBaK.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribnamayesh",
+      "code": "IRI-IR-013",
+      "index": 9285,
+      "tvg_id": null,
+      "tvg_chno": 9385,
+      "name_ar": "IRIB Namayesh",
+      "name_en": "IRIB Namayesh",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/Nq0pCGr.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribofogh",
+      "code": "IRI-IR-014",
+      "index": 9286,
+      "tvg_id": null,
+      "tvg_chno": 9386,
+      "name_ar": "IRIB Ofogh",
+      "name_en": "IRIB Ofogh",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/fhqeYGb.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribvzesh",
+      "code": "IRI-IR-015",
+      "index": 9287,
+      "tvg_id": null,
+      "tvg_chno": 9387,
+      "name_ar": "IRIB Varzesh",
+      "name_en": "IRIB Varzesh",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/tRLSrxa.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribpooyanahal",
+      "code": "IRI-IR-016",
+      "index": 9288,
+      "tvg_id": null,
+      "tvg_chno": 9388,
+      "name_ar": "IRIB Pooya & Nahal",
+      "name_en": "IRIB Pooya & Nahal",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/hjeQUtg.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribsalamat",
+      "code": "IRI-IR-017",
+      "index": 9289,
+      "tvg_id": null,
+      "tvg_chno": 9389,
+      "name_ar": "IRIB Salamat Ⓢ",
+      "name_en": "IRIB Salamat Ⓢ",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/K0YUhne.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/salamat/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribnasim",
+      "code": "IRI-IR-018",
+      "index": 9290,
+      "tvg_id": null,
+      "tvg_chno": 9390,
+      "name_ar": "IRIB Nasim",
+      "name_en": "IRIB Nasim",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/EqjQN83.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/nasim/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribtamasha",
+      "code": "IRI-IR-019",
+      "index": 9291,
+      "tvg_id": null,
+      "tvg_chno": 9391,
+      "name_ar": "IRIB Tamasha",
+      "name_en": "IRIB Tamasha",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/YffSCWH.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "ifilm",
+      "code": "IFI-IR-005",
+      "index": 9292,
+      "tvg_id": null,
+      "tvg_chno": 9392,
+      "name_ar": "iFilm",
+      "name_en": "iFilm",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/4Z9L1AW.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live.presstv.co.uk/hls/ifilmfa.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "iribur",
+      "code": "IRI-IR-020",
+      "index": 9293,
+      "tvg_id": null,
+      "tvg_chno": 9393,
+      "name_ar": "IRIB UHD-HDR",
+      "name_en": "IRIB UHD-HDR",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/qZ98jaa.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "alalamnewsnetwork",
+      "code": "ALA-IR-002",
+      "index": 9294,
+      "tvg_id": null,
+      "tvg_chno": 9394,
+      "name_ar": "Al-Alam News Network Ⓢ",
+      "name_en": "Al-Alam News Network Ⓢ",
+      "country": "IR",
+      "language": "unknown",
+      "category": "Iran",
+      "logo": "https://i.imgur.com/UbD0Ndr.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://live2.alalam.ir/alalam.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}

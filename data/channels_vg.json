@@ -1,0 +1,61 @@
+{
+  "version": "1.0.0",
+  "country": "VG",
+  "total_channels": 2,
+  "channels": [
+    {
+      "id": "CBNGospel.vg",
+      "code": "CBN-VG-001",
+      "index": 1526,
+      "tvg_id": null,
+      "tvg_chno": 1626,
+      "name_ar": "CBN Gospel",
+      "name_en": "CBN Gospel",
+      "country": "VG",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    },
+    {
+      "id": "CBNTV.vg",
+      "code": "CBN-VG-002",
+      "index": 1528,
+      "tvg_id": null,
+      "tvg_chno": 1628,
+      "name_ar": "CBN TV",
+      "name_en": "CBN TV",
+      "country": "VG",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": null,
+      "is_working": null,
+      "streams": [
+        {
+          "url": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": null,
+          "is_working": null
+        }
+      ]
+    }
+  ]
+}
