@@ -10,19 +10,33 @@ CHANNEL_LIMIT = 0  # 0 = بلا حد
 USER_AGENT = "VionIPTVBuilder/1.0"
 
 # --- قوائم الحظر (Blocklists) ---
-# قائمة كلمات البالغين والمقامرة
-ADULT_GAMBLING_KEYWORDS = [
-    # Adult
+# قائمة كلمات البالغين والإباحية
+ADULT_KEYWORDS = [
     "xxx", "porn", "sex", "adult", "erotic", "brazzers", "playboy", "hustler",
     "penthouse", "onlyfans", "livejasmin", "chaturbate", "stripchat", "cam4",
     "bongacams", "myfreecams", "adult swim", "red light", "blue movie",
     "hot", "passion", "desire", "pleasure", "sensual", "intimate",
-    # Gambling
+    "milf", "gilf", "teen", "18+", "xxx", "porno", "pornography",
+    "nude", "naked", "strip", "striptease", "escort", "massage",
+    "bdsm", "fetish", "bondage", "dominatrix", "hentai", "ecchi",
+    "sexy", "sexy girl", "sexy women", "hot girl", "hot women",
+    "playmate", "centerfold", "penthouse", "hustler", "private",
+    "brazzers", "bangbros", "reality kings", "naughty america",
+    "mofos", "twistys", "digital playground", "vivid", "wicked",
+    "evil angel", "jules jordan", "tushy", "vixen", "blacked",
+]
+
+# قائمة كلمات المقامرة والمراهنات
+GAMBLING_KEYWORDS = [
     "gambling", "casino", "bet", "poker", "slot", "roulette", "blackjack",
     "lottery", "lotto", "jackpot", "betting", "sportsbook", "vegas",
     "bingo", "keno", "craps", "baccarat", "pachinko", "toto",
     "1xbet", "bet365", "betway", "william hill", "pokerstars", "bwin",
     "draftkings", "fanduel", "betfair", "unibet", "ladbrokes", "coral",
+    "betting", "bet", "gamble", "casino", "poker", "slots", "roulette",
+    "blackjack", "lottery", "jackpot", "vegas", "bingo", "keno",
+    "sportsbook", "bookmaker", "odds", "wager", "chips", "dealer",
+    "betting site", "online casino", "live casino", "casino games",
 ]
 
 # قائمة كلمات العنصرية وخطاب الكراهية
@@ -33,23 +47,63 @@ RACISM_HATE_KEYWORDS = [
     "islamophob", "antisemit", "anti-semitic", "homophob", "xenophob",
     "ethnic cleansing", "genocide", "holocaust denial", "slur",
     "nigger", "nigga", "faggot", "retard", "chink", "spic", "kike", "wetback",
+    "white supremacist", "black power", "hate group", "hate speech",
+    "racial slur", "discrimination", "segregation", "apartheid",
 ]
 
-def is_blocked(name, source_type="generic"):
+# قائمة كلمات المخدرات
+DRUGS_KEYWORDS = [
+    "drug", "drugs", "cocaine", "heroin", "marijuana", "cannabis", "weed",
+    "meth", "methamphetamine", "ecstasy", "mdma", "lsd", "acid", "shrooms",
+    "opium", "opioid", "fentanyl", "morphine", "codeine", "xanax", "valium",
+    "narcotics", "narcotic", "dealer", "cartel", "drug cartel", "drug lord",
+    "drug trafficking", "drug trade", "drug abuse", "addiction", "rehab",
+]
+
+# قائمة كلمات العنف والإرهاب
+VIOLENCE_TERRORISM_KEYWORDS = [
+    "terror", "terrorism", "terrorist", "isis", "isil", "al-qaeda", "alqaeda",
+    "taliban", "boko haram", "hamas", "hezbollah", "jihad", "jihadi",
+    "extremist", "extremism", "radical", "radicalism", "insurgent",
+    "insurgency", "militant", "militia", "guerrilla", "rebel", "rebellion",
+    "war", "warfare", "battle", "combat", "fight", "violence", "violent",
+    "murder", "kill", "killing", "assassination", "massacre", "genocide",
+    "torture", "brutality", "atrocity", "crime", "criminal", "gang",
+    "mafia", "cartel", "kidnapping", "hostage", "bomb", "bombing",
+    "explosion", "shooting", "gun", "weapon", "arms", "ammunition",
+]
+
+# قائمة كلمات أخرى غير مرغوب فيها (مثل السحر، الطوائف، إلخ)
+OTHER_KEYWORDS = [
+    "sorcery", "witchcraft", "magic", "occult", "satan", "satanism",
+    "devil", "demon", "exorcism", "cult", "sect", "blasphemy",
+    "heresy", "pagan", "paganism", "voodoo", "black magic",
+]
+
+# دمج كل القوائم في قائمة واحدة للفحص السريع
+ALL_BLOCKED_KEYWORDS = (
+    ADULT_KEYWORDS +
+    GAMBLING_KEYWORDS +
+    RACISM_HATE_KEYWORDS +
+    DRUGS_KEYWORDS +
+    VIOLENCE_TERRORISM_KEYWORDS +
+    OTHER_KEYWORDS
+)
+
+# إزالة التكرارات (إن وجدت)
+ALL_BLOCKED_KEYWORDS = list(set(ALL_BLOCKED_KEYWORDS))
+
+def is_blocked(text):
     """
-    فحص ما إذا كان اسم القناة يحتوي على كلمات محظورة.
-    source_type: نوع المصدر (iptv_org_api، m3u، generic)
+    فحص ما إذا كان النص يحتوي على كلمات محظورة.
+    يتم الفحص بطريقة غير حساسة لحالة الأحرف.
     """
-    if not name:
+    if not text:
         return False
-    
-    name_lower = name.lower()
-    
-    # فحص قوائم الكلمات
-    for keyword in ADULT_GAMBLING_KEYWORDS + RACISM_HATE_KEYWORDS:
-        if keyword in name_lower:
+    text_lower = text.lower()
+    for keyword in ALL_BLOCKED_KEYWORDS:
+        if keyword in text_lower:
             return True
-    
     return False
 
 def fetch_url(url):
@@ -93,15 +147,6 @@ def parse_m3u(content):
             current_channel = {}
     return channels
 
-def parse_iptv_org(content):
-    """محلل خاص لبيانات iptv-org API (streams.json)"""
-    try:
-        data = json.loads(content)
-        return data
-    except Exception as e:
-        print(f"  خطأ في تحليل JSON: {e}")
-        return []
-
 def normalize_name(name):
     """توحيد الأسماء لإزالة التكرارات"""
     if not name:
@@ -114,7 +159,7 @@ def normalize_name(name):
 
 def build_channels():
     print("=" * 60)
-    print("بدء بناء قائمة Vion IPTV (متعدد المصادر + تصفية)")
+    print("بدء بناء قائمة Vion IPTV (متعدد المصادر + تصفية موسّعة)")
     print("=" * 60)
 
     # 1. جلب البيانات
@@ -183,9 +228,10 @@ def build_channels():
             continue
         
         name = ch_info.get('name', '')
+        group = (ch_info.get('categories') or ['general'])[0]
         
-        # فحص الحظر الإضافي
-        if is_blocked(name):
+        # فحص الحظر الموسّع (الاسم + التصنيف)
+        if is_blocked(name) or is_blocked(group):
             continue
         
         streams_list = []
@@ -212,7 +258,7 @@ def build_channels():
                 'name': name,
                 'country': ch_info.get('country', 'XX'),
                 'language': (ch_info.get('languages') or ['unknown'])[0],
-                'category': (ch_info.get('categories') or ['general'])[0],
+                'category': group,
                 'logo': None,
                 'streams': streams_list
             }
@@ -221,7 +267,10 @@ def build_channels():
     print("\n[3/5] دمج قنوات M3U...")
     for ch in all_m3u_channels:
         name = ch.get('name', '')
-        if is_blocked(name):
+        group = ch.get('group_title', 'general')
+        
+        # فحص الحظر الموسّع (الاسم + التصنيف)
+        if is_blocked(name) or is_blocked(group):
             continue
         
         key = normalize_name(ch.get('tvg_name') or name)
@@ -252,7 +301,7 @@ def build_channels():
                 'name': name,
                 'country': country_code,
                 'language': 'unknown',
-                'category': ch.get('group_title', 'general'),
+                'category': group,
                 'logo': ch.get('tvg_logo'),
                 'streams': [{
                     "url": ch.get('url'),
@@ -324,8 +373,13 @@ def build_channels():
         "total_channels": len(all_channels),
         "sources_used": ["iptv-org", "Free-TV", "YueChan-Live", "joevess-IPTV"],
         "filtering": {
-            "adult_gambling_keywords": len(ADULT_GAMBLING_KEYWORDS),
+            "total_blocked_keywords": len(ALL_BLOCKED_KEYWORDS),
+            "adult_keywords": len(ADULT_KEYWORDS),
+            "gambling_keywords": len(GAMBLING_KEYWORDS),
             "racism_hate_keywords": len(RACISM_HATE_KEYWORDS),
+            "drugs_keywords": len(DRUGS_KEYWORDS),
+            "violence_terrorism_keywords": len(VIOLENCE_TERRORISM_KEYWORDS),
+            "other_keywords": len(OTHER_KEYWORDS),
             "iptv_org_nsfw_blocklist": len(iptv_org_blocklist)
         },
         "countries": [
@@ -352,6 +406,7 @@ def build_channels():
     print("\n" + "=" * 60)
     print(f"تم الانتهاء! إجمالي القنوات: {len(all_channels)}")
     print(f"تم استبعاد {len(iptv_org_blocklist)} قناة NSFW من iptv-org")
+    print(f"تم استخدام {len(ALL_BLOCKED_KEYWORDS)} كلمة محظورة للتصفية")
     print("=" * 60)
 
 if __name__ == '__main__':
