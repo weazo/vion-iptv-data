@@ -1,0 +1,46 @@
+name: Update and Check Channels
+
+on:
+  # كل 6 ساعات
+  schedule:
+    - cron: '0 */6 * * *'
+  # تشغيل يدوي
+  workflow_dispatch:
+
+jobs:
+  update-and-check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build Channels
+        run: python scripts/build_channels.py
+
+      - name: Check Streams
+        run: python scripts/check_streams.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update channels and health [skip ci]"
+            git push
+          else
+            echo "لا توجد تغييرات"
+          fi
