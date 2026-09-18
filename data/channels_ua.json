@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "UA",
-  "total_channels": 152,
+  "total_channels": 153,
   "channels": [
     {
       "id": "100NEWS.ua",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -60,7 +60,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -79,7 +79,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -87,7 +87,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -106,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -114,7 +114,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/1plus1/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -133,7 +141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -141,7 +149,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -149,7 +157,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -157,9 +165,9 @@
     {
       "id": "2Plus2.ua",
       "code": "XXX-UA-001",
-      "index": 50,
+      "index": 51,
       "tvg_id": null,
-      "tvg_chno": 150,
+      "tvg_chno": 151,
       "name_ar": "2+2",
       "name_en": "2+2",
       "country": "UA",
@@ -168,7 +176,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -176,7 +184,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/2plus2/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -184,9 +200,9 @@
     {
       "id": "2Plus2Marathon.ua",
       "code": "MAR-UA-002",
-      "index": 51,
+      "index": 52,
       "tvg_id": null,
-      "tvg_chno": 151,
+      "tvg_chno": 152,
       "name_ar": "2+2 Marathon",
       "name_en": "2+2 Marathon",
       "country": "UA",
@@ -195,7 +211,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -203,7 +219,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -211,9 +227,9 @@
     {
       "id": "366TV.ua",
       "code": "TVX-UA-001",
-      "index": 77,
+      "index": 78,
       "tvg_id": null,
-      "tvg_chno": 177,
+      "tvg_chno": 178,
       "name_ar": "36.6 TV",
       "name_en": "36.6 TV",
       "country": "UA",
@@ -222,7 +238,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -230,7 +246,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -238,9 +254,9 @@
     {
       "id": "4everCinema.ua",
       "code": "EVE-UA-001",
-      "index": 103,
+      "index": 104,
       "tvg_id": null,
-      "tvg_chno": 203,
+      "tvg_chno": 204,
       "name_ar": "4ever Cinema",
       "name_en": "4ever Cinema",
       "country": "UA",
@@ -249,7 +265,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -257,7 +273,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -265,9 +281,9 @@
     {
       "id": "4everDrama.ua",
       "code": "EVE-UA-002",
-      "index": 104,
+      "index": 105,
       "tvg_id": null,
-      "tvg_chno": 204,
+      "tvg_chno": 205,
       "name_ar": "4ever Drama",
       "name_en": "4ever Drama",
       "country": "UA",
@@ -276,7 +292,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -284,7 +300,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -292,9 +308,9 @@
     {
       "id": "4everMusic.ua",
       "code": "EVE-UA-003",
-      "index": 105,
+      "index": 106,
       "tvg_id": null,
-      "tvg_chno": 205,
+      "tvg_chno": 206,
       "name_ar": "4ever Music",
       "name_en": "4ever Music",
       "country": "UA",
@@ -303,7 +319,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -311,7 +327,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -319,9 +335,9 @@
     {
       "id": "4everTheater.ua",
       "code": "EVE-UA-004",
-      "index": 106,
+      "index": 107,
       "tvg_id": null,
-      "tvg_chno": 206,
+      "tvg_chno": 207,
       "name_ar": "4ever Theater",
       "name_en": "4ever Theater",
       "country": "UA",
@@ -330,7 +346,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -338,7 +354,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -346,9 +362,9 @@
     {
       "id": "6sotok.ua",
       "code": "SOT-UA-001",
-      "index": 124,
+      "index": 126,
       "tvg_id": null,
-      "tvg_chno": 224,
+      "tvg_chno": 226,
       "name_ar": "6 sotok",
       "name_en": "6 sotok",
       "country": "UA",
@@ -357,7 +373,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -365,7 +381,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -373,9 +389,9 @@
     {
       "id": "ApostropheTV.ua",
       "code": "APO-UA-001",
-      "index": 614,
+      "index": 620,
       "tvg_id": null,
-      "tvg_chno": 714,
+      "tvg_chno": 720,
       "name_ar": "Apostrophe TV",
       "name_en": "Apostrophe TV",
       "country": "UA",
@@ -384,7 +400,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -392,7 +408,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -400,9 +416,9 @@
     {
       "id": "ArmyTV.ua",
       "code": "ARM-UA-001",
-      "index": 661,
+      "index": 667,
       "tvg_id": null,
-      "tvg_chno": 761,
+      "tvg_chno": 767,
       "name_ar": "Army TV",
       "name_en": "Army TV",
       "country": "UA",
@@ -411,7 +427,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -419,7 +435,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -427,7 +443,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -435,9 +451,9 @@
     {
       "id": "ATR.ua",
       "code": "ATR-UA-001",
-      "index": 733,
+      "index": 739,
       "tvg_id": null,
-      "tvg_chno": 833,
+      "tvg_chno": 839,
       "name_ar": "ATR",
       "name_en": "ATR",
       "country": "UA",
@@ -446,7 +462,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -454,7 +470,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -462,7 +478,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -470,9 +486,9 @@
     {
       "id": "Avers.ua",
       "code": "AVE-UA-001",
-      "index": 769,
+      "index": 776,
       "tvg_id": null,
-      "tvg_chno": 869,
+      "tvg_chno": 876,
       "name_ar": "Avers",
       "name_en": "Avers",
       "country": "UA",
@@ -481,7 +497,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -489,7 +505,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -497,9 +513,9 @@
     {
       "id": "BaltaTV.ua",
       "code": "BAL-UA-001",
-      "index": 848,
+      "index": 856,
       "tvg_id": null,
-      "tvg_chno": 948,
+      "tvg_chno": 956,
       "name_ar": "Balta TV",
       "name_en": "Balta TV",
       "country": "UA",
@@ -508,7 +524,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -516,7 +532,7 @@
           "quality": "768p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -524,9 +540,9 @@
     {
       "id": "BamBarBiaTV.ua",
       "code": "BAM-UA-001",
-      "index": 851,
+      "index": 859,
       "tvg_id": null,
-      "tvg_chno": 951,
+      "tvg_chno": 959,
       "name_ar": "BamBarBia.TV",
       "name_en": "BamBarBia.TV",
       "country": "UA",
@@ -535,7 +551,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -543,7 +559,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -551,9 +567,9 @@
     {
       "id": "Bigudi.ua",
       "code": "BIG-UA-001",
-      "index": 1036,
+      "index": 1046,
       "tvg_id": null,
-      "tvg_chno": 1136,
+      "tvg_chno": 1146,
       "name_ar": "Bigudi",
       "name_en": "Bigudi",
       "country": "UA",
@@ -562,7 +578,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -570,7 +586,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -578,9 +594,9 @@
     {
       "id": "BlackSeaTV.ua",
       "code": "BLA-UA-001",
-      "index": 1058,
+      "index": 1068,
       "tvg_id": null,
-      "tvg_chno": 1158,
+      "tvg_chno": 1168,
       "name_ar": "Black Sea TV",
       "name_en": "Black Sea TV",
       "country": "UA",
@@ -589,7 +605,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -597,7 +613,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -605,9 +621,9 @@
     {
       "id": "Channel7Ukraine.ua",
       "code": "CHA-UA-001",
-      "index": 1639,
+      "index": 1654,
       "tvg_id": null,
-      "tvg_chno": 1739,
+      "tvg_chno": 1754,
       "name_ar": "Channel 7 Ukraine",
       "name_en": "Channel 7 Ukraine",
       "country": "UA",
@@ -616,7 +632,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -624,7 +640,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -632,7 +648,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -640,9 +656,9 @@
     {
       "id": "ChemodanTV.ua",
       "code": "CHE-UA-001",
-      "index": 1674,
+      "index": 1691,
       "tvg_id": null,
-      "tvg_chno": 1774,
+      "tvg_chno": 1791,
       "name_ar": "Chemodan TV",
       "name_en": "Chemodan TV",
       "country": "UA",
@@ -651,7 +667,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -659,7 +675,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -667,9 +683,9 @@
     {
       "id": "Cherniveckiypromin.ua",
       "code": "CHE-UA-002",
-      "index": 1675,
+      "index": 1692,
       "tvg_id": null,
-      "tvg_chno": 1775,
+      "tvg_chno": 1792,
       "name_ar": "Cherniveckiy promin",
       "name_en": "Cherniveckiy promin",
       "country": "UA",
@@ -678,7 +694,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -686,7 +702,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -694,9 +710,9 @@
     {
       "id": "ChPinfo.ua",
       "code": "CHP-UA-001",
-      "index": 1691,
+      "index": 1708,
       "tvg_id": null,
-      "tvg_chno": 1791,
+      "tvg_chno": 1808,
       "name_ar": "ChP info",
       "name_en": "ChP info",
       "country": "UA",
@@ -705,7 +721,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -713,7 +729,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -721,9 +737,9 @@
     {
       "id": "CinePlus.ua",
       "code": "CIN-UA-001",
-      "index": 1726,
+      "index": 1743,
       "tvg_id": null,
-      "tvg_chno": 1826,
+      "tvg_chno": 1843,
       "name_ar": "Cine+",
       "name_en": "Cine+",
       "country": "UA",
@@ -732,7 +748,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -740,7 +756,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -748,9 +764,9 @@
     {
       "id": "CinePlusHit.ua",
       "code": "CIN-UA-002",
-      "index": 1730,
+      "index": 1747,
       "tvg_id": null,
-      "tvg_chno": 1830,
+      "tvg_chno": 1847,
       "name_ar": "Cine+ Hit",
       "name_en": "Cine+ Hit",
       "country": "UA",
@@ -759,7 +775,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -767,7 +783,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -775,9 +791,9 @@
     {
       "id": "CinePlusKids.ua",
       "code": "CIN-UA-003",
-      "index": 1731,
+      "index": 1748,
       "tvg_id": null,
-      "tvg_chno": 1831,
+      "tvg_chno": 1848,
       "name_ar": "Cine+ Kids",
       "name_en": "Cine+ Kids",
       "country": "UA",
@@ -786,7 +802,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -794,7 +810,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -802,7 +818,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -810,9 +826,9 @@
     {
       "id": "CinePlusLegend.ua",
       "code": "CIN-UA-004",
-      "index": 1732,
+      "index": 1749,
       "tvg_id": null,
-      "tvg_chno": 1832,
+      "tvg_chno": 1849,
       "name_ar": "Cine+ Legend",
       "name_en": "Cine+ Legend",
       "country": "UA",
@@ -821,7 +837,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -829,7 +845,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -837,9 +853,9 @@
     {
       "id": "ContinentE.ua",
       "code": "CON-UA-001",
-      "index": 1922,
+      "index": 1939,
       "tvg_id": null,
-      "tvg_chno": 2022,
+      "tvg_chno": 2039,
       "name_ar": "Continent E",
       "name_en": "Continent E",
       "country": "UA",
@@ -848,7 +864,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -856,7 +872,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -864,9 +880,9 @@
     {
       "id": "Dacha.ua",
       "code": "DAC-UA-001",
-      "index": 2043,
+      "index": 2061,
       "tvg_id": null,
-      "tvg_chno": 2143,
+      "tvg_chno": 2161,
       "name_ar": "Dacha",
       "name_en": "Dacha",
       "country": "UA",
@@ -875,7 +891,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -883,7 +899,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -891,9 +907,9 @@
     {
       "id": "DIM.ua",
       "code": "DIM-UA-001",
-      "index": 2222,
+      "index": 2242,
       "tvg_id": null,
-      "tvg_chno": 2322,
+      "tvg_chno": 2342,
       "name_ar": "DIM",
       "name_en": "DIM",
       "country": "UA",
@@ -902,7 +918,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -910,7 +926,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -918,7 +934,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -926,9 +942,9 @@
     {
       "id": "DiviSport.ua",
       "code": "DIV-UA-001",
-      "index": 2244,
+      "index": 2264,
       "tvg_id": null,
-      "tvg_chno": 2344,
+      "tvg_chno": 2364,
       "name_ar": "DiviSport",
       "name_en": "DiviSport",
       "country": "UA",
@@ -937,7 +953,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -945,7 +961,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -953,9 +969,9 @@
     {
       "id": "DniproTV.ua",
       "code": "DNI-UA-001",
-      "index": 2272,
+      "index": 2292,
       "tvg_id": null,
-      "tvg_chno": 2372,
+      "tvg_chno": 2392,
       "name_ar": "Dnipro TV",
       "name_en": "Dnipro TV",
       "country": "UA",
@@ -964,7 +980,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -972,7 +988,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -980,9 +996,9 @@
     {
       "id": "DonbassOnline.ua",
       "code": "DON-UA-001",
-      "index": 2294,
+      "index": 2314,
       "tvg_id": null,
-      "tvg_chno": 2394,
+      "tvg_chno": 2414,
       "name_ar": "Donbass Online",
       "name_en": "Donbass Online",
       "country": "UA",
@@ -991,7 +1007,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -999,7 +1015,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1007,9 +1023,9 @@
     {
       "id": "DynamoKyivTV.ua",
       "code": "DYN-UA-001",
-      "index": 2368,
+      "index": 2388,
       "tvg_id": null,
-      "tvg_chno": 2468,
+      "tvg_chno": 2488,
       "name_ar": "Dynamo Kyiv TV",
       "name_en": "Dynamo Kyiv TV",
       "country": "UA",
@@ -1018,7 +1034,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1026,7 +1042,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1034,9 +1050,9 @@
     {
       "id": "EkoTV.ua",
       "code": "EKO-UA-001",
-      "index": 2421,
+      "index": 2441,
       "tvg_id": null,
-      "tvg_chno": 2521,
+      "tvg_chno": 2541,
       "name_ar": "Eko TV",
       "name_en": "Eko TV",
       "country": "UA",
@@ -1045,7 +1061,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1053,7 +1069,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1061,9 +1077,9 @@
     {
       "id": "EnterFilm.ua",
       "code": "ENT-UA-001",
-      "index": 2502,
+      "index": 2522,
       "tvg_id": null,
-      "tvg_chno": 2602,
+      "tvg_chno": 2622,
       "name_ar": "Enter-Film",
       "name_en": "Enter-Film",
       "country": "UA",
@@ -1072,7 +1088,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1080,7 +1096,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1088,9 +1112,9 @@
     {
       "id": "Equalympic.ua",
       "code": "EQU-UA-001",
-      "index": 2519,
+      "index": 2538,
       "tvg_id": null,
-      "tvg_chno": 2619,
+      "tvg_chno": 2638,
       "name_ar": "Equalympic",
       "name_en": "Equalympic",
       "country": "UA",
@@ -1099,7 +1123,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1107,7 +1131,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1115,9 +1139,9 @@
     {
       "id": "EspresoTV.ua",
       "code": "ESP-UA-001",
-      "index": 2551,
+      "index": 2570,
       "tvg_id": null,
-      "tvg_chno": 2651,
+      "tvg_chno": 2670,
       "name_ar": "Espreso TV",
       "name_en": "Espreso TV",
       "country": "UA",
@@ -1126,7 +1150,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1134,7 +1158,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1142,7 +1166,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1150,7 +1182,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1158,9 +1190,9 @@
     {
       "id": "EUMusic.ua",
       "code": "EUM-UA-001",
-      "index": 2586,
+      "index": 2607,
       "tvg_id": null,
-      "tvg_chno": 2686,
+      "tvg_chno": 2707,
       "name_ar": "EU Music",
       "name_en": "EU Music",
       "country": "UA",
@@ -1169,7 +1201,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1177,7 +1209,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1185,9 +1217,9 @@
     {
       "id": "EWTNUkraine.ua",
       "code": "EWT-UA-001",
-      "index": 2632,
+      "index": 2653,
       "tvg_id": null,
-      "tvg_chno": 2732,
+      "tvg_chno": 2753,
       "name_ar": "EWTN Ukraine",
       "name_en": "EWTN Ukraine",
       "country": "UA",
@@ -1196,7 +1228,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1204,7 +1236,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1212,9 +1244,9 @@
     {
       "id": "Fashion.ua",
       "code": "FAS-UA-001",
-      "index": 2680,
+      "index": 2701,
       "tvg_id": null,
-      "tvg_chno": 2780,
+      "tvg_chno": 2801,
       "name_ar": "Fashion",
       "name_en": "Fashion",
       "country": "UA",
@@ -1223,7 +1255,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1231,7 +1263,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1239,7 +1271,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1247,9 +1279,9 @@
     {
       "id": "Fauna.ua",
       "code": "FAU-UA-001",
-      "index": 2691,
+      "index": 2713,
       "tvg_id": null,
-      "tvg_chno": 2791,
+      "tvg_chno": 2813,
       "name_ar": "Fauna",
       "name_en": "Fauna",
       "country": "UA",
@@ -1258,7 +1290,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1266,7 +1298,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1274,9 +1306,9 @@
     {
       "id": "FilmUADrama.ua",
       "code": "FIL-UA-001",
-      "index": 2748,
+      "index": 2771,
       "tvg_id": null,
-      "tvg_chno": 2848,
+      "tvg_chno": 2871,
       "name_ar": "FilmUADrama",
       "name_en": "FilmUADrama",
       "country": "UA",
@@ -1285,7 +1317,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1293,7 +1325,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1301,7 +1333,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1309,9 +1341,9 @@
     {
       "id": "FilmUALive.ua",
       "code": "FIL-UA-002",
-      "index": 2749,
+      "index": 2772,
       "tvg_id": null,
-      "tvg_chno": 2849,
+      "tvg_chno": 2872,
       "name_ar": "FilmUA Live",
       "name_en": "FilmUA Live",
       "country": "UA",
@@ -1320,7 +1352,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1328,7 +1360,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1336,9 +1368,9 @@
     {
       "id": "FREEDOM.ua",
       "code": "FRE-UA-001",
-      "index": 2827,
+      "index": 2851,
       "tvg_id": null,
-      "tvg_chno": 2927,
+      "tvg_chno": 2951,
       "name_ar": "FREEDOM",
       "name_en": "FREEDOM",
       "country": "UA",
@@ -1347,7 +1379,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1355,7 +1387,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1363,7 +1395,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -1371,7 +1403,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1379,9 +1411,9 @@
     {
       "id": "GIT.ua",
       "code": "GIT-UA-001",
-      "index": 2943,
+      "index": 2970,
       "tvg_id": null,
-      "tvg_chno": 3043,
+      "tvg_chno": 3070,
       "name_ar": "GIT",
       "name_en": "GIT",
       "country": "UA",
@@ -1390,7 +1422,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1398,7 +1430,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1406,9 +1438,9 @@
     {
       "id": "HappyRadioTV.ua",
       "code": "HAP-UA-001",
-      "index": 3104,
+      "index": 3134,
       "tvg_id": null,
-      "tvg_chno": 3204,
+      "tvg_chno": 3234,
       "name_ar": "Happy Radio TV",
       "name_en": "Happy Radio TV",
       "country": "UA",
@@ -1417,7 +1449,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1425,7 +1457,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1433,9 +1465,9 @@
     {
       "id": "HersonPlyus.ua",
       "code": "HER-UA-001",
-      "index": 3146,
+      "index": 3177,
       "tvg_id": null,
-      "tvg_chno": 3246,
+      "tvg_chno": 3277,
       "name_ar": "Herson Plyus",
       "name_en": "Herson Plyus",
       "country": "UA",
@@ -1444,7 +1476,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1452,7 +1484,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1460,9 +1492,9 @@
     {
       "id": "History2Ukraine.ua",
       "code": "HIS-UA-001",
-      "index": 3174,
+      "index": 3204,
       "tvg_id": null,
-      "tvg_chno": 3274,
+      "tvg_chno": 3304,
       "name_ar": "History2 Ukraine",
       "name_en": "History2 Ukraine",
       "country": "UA",
@@ -1471,7 +1503,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1479,7 +1511,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1487,9 +1519,9 @@
     {
       "id": "HistoryUkraine.ua",
       "code": "HIS-UA-002",
-      "index": 3179,
+      "index": 3209,
       "tvg_id": null,
-      "tvg_chno": 3279,
+      "tvg_chno": 3309,
       "name_ar": "History Ukraine",
       "name_en": "History Ukraine",
       "country": "UA",
@@ -1498,7 +1530,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1506,7 +1538,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1514,9 +1546,9 @@
     {
       "id": "HollywoodUkraine.ua",
       "code": "HOL-UA-001",
-      "index": 3224,
+      "index": 3254,
       "tvg_id": null,
-      "tvg_chno": 3324,
+      "tvg_chno": 3354,
       "name_ar": "Hollywood Ukraine",
       "name_en": "Hollywood Ukraine",
       "country": "UA",
@@ -1525,7 +1557,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1533,7 +1565,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1541,9 +1573,9 @@
     {
       "id": "HopeChannelUkraine.ua",
       "code": "HOP-UA-001",
-      "index": 3249,
+      "index": 3279,
       "tvg_id": null,
-      "tvg_chno": 3349,
+      "tvg_chno": 3379,
       "name_ar": "Hope Channel Ukraine",
       "name_en": "Hope Channel Ukraine",
       "country": "UA",
@@ -1552,7 +1584,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1560,7 +1592,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -1568,7 +1600,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1576,9 +1608,9 @@
     {
       "id": "ICTV2.ua",
       "code": "ICT-UA-001",
-      "index": 3327,
+      "index": 3362,
       "tvg_id": null,
-      "tvg_chno": 3427,
+      "tvg_chno": 3462,
       "name_ar": "ICTV2",
       "name_en": "ICTV2",
       "country": "UA",
@@ -1587,7 +1619,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1595,7 +1627,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1603,7 +1635,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1611,9 +1643,9 @@
     {
       "id": "InRatingTV.ua",
       "code": "INR-UA-001",
-      "index": 3404,
+      "index": 3440,
       "tvg_id": null,
-      "tvg_chno": 3504,
+      "tvg_chno": 3540,
       "name_ar": "InRating TV",
       "name_en": "InRating TV",
       "country": "UA",
@@ -1622,7 +1654,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1630,7 +1662,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1638,9 +1670,9 @@
     {
       "id": "Inter.ua",
       "code": "INT-UA-002",
-      "index": 3409,
+      "index": 3445,
       "tvg_id": null,
-      "tvg_chno": 3509,
+      "tvg_chno": 3545,
       "name_ar": "Inter",
       "name_en": "Inter",
       "country": "UA",
@@ -1649,7 +1681,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1657,7 +1689,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/Inter/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1665,7 +1705,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1673,9 +1713,9 @@
     {
       "id": "IRT.ua",
       "code": "IRT-UA-001",
-      "index": 3456,
+      "index": 3492,
       "tvg_id": null,
-      "tvg_chno": 3556,
+      "tvg_chno": 3592,
       "name_ar": "IRT",
       "name_en": "IRT",
       "country": "UA",
@@ -1684,7 +1724,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1692,7 +1732,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1700,9 +1740,9 @@
     {
       "id": "Islandia.ua",
       "code": "ISL-UA-001",
-      "index": 3466,
+      "index": 3502,
       "tvg_id": null,
-      "tvg_chno": 3566,
+      "tvg_chno": 3602,
       "name_ar": "Islandia",
       "name_en": "Islandia",
       "country": "UA",
@@ -1711,7 +1751,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1719,7 +1759,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1727,9 +1767,9 @@
     {
       "id": "ITV.ua",
       "code": "ITV-UA-001",
-      "index": 3483,
+      "index": 3519,
       "tvg_id": null,
-      "tvg_chno": 3583,
+      "tvg_chno": 3619,
       "name_ar": "ITV",
       "name_en": "ITV",
       "country": "UA",
@@ -1738,7 +1778,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1746,7 +1786,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1754,7 +1794,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1762,7 +1802,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1770,9 +1810,9 @@
     {
       "id": "IUAtv.ua",
       "code": "IUA-UA-001",
-      "index": 3487,
+      "index": 3523,
       "tvg_id": null,
-      "tvg_chno": 3587,
+      "tvg_chno": 3623,
       "name_ar": "I-UA.tv",
       "name_en": "I-UA.tv",
       "country": "UA",
@@ -1781,7 +1821,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1789,7 +1829,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -1797,9 +1837,9 @@
     {
       "id": "IzmailTV.ua",
       "code": "IZM-UA-001",
-      "index": 3491,
+      "index": 3527,
       "tvg_id": null,
-      "tvg_chno": 3591,
+      "tvg_chno": 3627,
       "name_ar": "Izmail TV",
       "name_en": "Izmail TV",
       "country": "UA",
@@ -1808,7 +1848,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1816,7 +1856,7 @@
           "quality": "384p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1824,9 +1864,9 @@
     {
       "id": "K1.ua",
       "code": "KXX-UA-001",
-      "index": 3613,
+      "index": 3649,
       "tvg_id": null,
-      "tvg_chno": 3713,
+      "tvg_chno": 3749,
       "name_ar": "K1",
       "name_en": "K1",
       "country": "UA",
@@ -1835,7 +1875,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1843,7 +1883,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1851,9 +1891,9 @@
     {
       "id": "K2.ua",
       "code": "KXX-UA-002",
-      "index": 3616,
+      "index": 3652,
       "tvg_id": null,
-      "tvg_chno": 3716,
+      "tvg_chno": 3752,
       "name_ar": "K2",
       "name_en": "K2",
       "country": "UA",
@@ -1862,7 +1902,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1870,7 +1910,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -1878,7 +1918,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1886,9 +1926,9 @@
     {
       "id": "Kino2.ua",
       "code": "KIN-UA-001",
-      "index": 3745,
+      "index": 3787,
       "tvg_id": null,
-      "tvg_chno": 3845,
+      "tvg_chno": 3887,
       "name_ar": "Kino 2",
       "name_en": "Kino 2",
       "country": "UA",
@@ -1897,7 +1937,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1905,7 +1945,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1913,9 +1953,9 @@
     {
       "id": "Kinoliving.ua",
       "code": "KIN-UA-002",
-      "index": 3751,
+      "index": 3794,
       "tvg_id": null,
-      "tvg_chno": 3851,
+      "tvg_chno": 3894,
       "name_ar": "Kinoliving",
       "name_en": "Kinoliving",
       "country": "UA",
@@ -1924,7 +1964,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1932,7 +1972,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1940,9 +1980,9 @@
     {
       "id": "Kinowood.ua",
       "code": "KIN-UA-003",
-      "index": 3763,
+      "index": 3806,
       "tvg_id": null,
-      "tvg_chno": 3863,
+      "tvg_chno": 3906,
       "name_ar": "Kinowood",
       "name_en": "Kinowood",
       "country": "UA",
@@ -1951,7 +1991,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1959,7 +1999,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1967,9 +2007,9 @@
     {
       "id": "KonkurentUkraine.ua",
       "code": "KON-UA-001",
-      "index": 3808,
+      "index": 3852,
       "tvg_id": null,
-      "tvg_chno": 3908,
+      "tvg_chno": 3952,
       "name_ar": "Konkurent Ukraine",
       "name_en": "Konkurent Ukraine",
       "country": "UA",
@@ -1978,7 +2018,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1986,7 +2026,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -1994,9 +2034,9 @@
     {
       "id": "KusKus.ua",
       "code": "KUS-UA-001",
-      "index": 3859,
+      "index": 3903,
       "tvg_id": null,
-      "tvg_chno": 3959,
+      "tvg_chno": 4003,
       "name_ar": "Kus-Kus",
       "name_en": "Kus-Kus",
       "country": "UA",
@@ -2005,7 +2045,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2013,7 +2053,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2021,9 +2061,9 @@
     {
       "id": "Kyiv.ua",
       "code": "KYI-UA-001",
-      "index": 3863,
+      "index": 3907,
       "tvg_id": null,
-      "tvg_chno": 3963,
+      "tvg_chno": 4007,
       "name_ar": "Kyiv",
       "name_en": "Kyiv",
       "country": "UA",
@@ -2032,7 +2072,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2040,7 +2080,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2048,9 +2088,9 @@
     {
       "id": "Lale.ua",
       "code": "LAL-UA-001",
-      "index": 3901,
+      "index": 3945,
       "tvg_id": null,
-      "tvg_chno": 4001,
+      "tvg_chno": 4045,
       "name_ar": "Lale",
       "name_en": "Lale",
       "country": "UA",
@@ -2059,7 +2099,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2067,7 +2107,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2075,9 +2115,9 @@
     {
       "id": "Lugansk24.ua",
       "code": "LUG-UA-001",
-      "index": 4111,
+      "index": 4155,
       "tvg_id": null,
-      "tvg_chno": 4211,
+      "tvg_chno": 4255,
       "name_ar": "Lugansk 24",
       "name_en": "Lugansk 24",
       "country": "UA",
@@ -2086,7 +2126,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2094,7 +2134,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2102,9 +2142,9 @@
     {
       "id": "LuxTV.ua",
       "code": "LUX-UA-001",
-      "index": 4117,
+      "index": 4161,
       "tvg_id": null,
-      "tvg_chno": 4217,
+      "tvg_chno": 4261,
       "name_ar": "Lux TV",
       "name_en": "Lux TV",
       "country": "UA",
@@ -2113,7 +2153,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2121,7 +2161,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2129,9 +2169,9 @@
     {
       "id": "MaincastCybersport.ua",
       "code": "MAI-UA-001",
-      "index": 4169,
+      "index": 4215,
       "tvg_id": null,
-      "tvg_chno": 4269,
+      "tvg_chno": 4315,
       "name_ar": "Maincast Cybersport",
       "name_en": "Maincast Cybersport",
       "country": "UA",
@@ -2140,7 +2180,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2148,7 +2188,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2156,9 +2196,9 @@
     {
       "id": "MaincastSport.ua",
       "code": "MAI-UA-002",
-      "index": 4170,
+      "index": 4216,
       "tvg_id": null,
-      "tvg_chno": 4270,
+      "tvg_chno": 4316,
       "name_ar": "Maincast Sport",
       "name_en": "Maincast Sport",
       "country": "UA",
@@ -2167,7 +2207,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2175,7 +2215,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2183,9 +2223,9 @@
     {
       "id": "MasonTV.ua",
       "code": "MAS-UA-001",
-      "index": 4239,
+      "index": 4285,
       "tvg_id": null,
-      "tvg_chno": 4339,
+      "tvg_chno": 4385,
       "name_ar": "Mason TV",
       "name_en": "Mason TV",
       "country": "UA",
@@ -2194,7 +2234,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2202,7 +2242,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2210,9 +2250,9 @@
     {
       "id": "MegogoMusic.ua",
       "code": "MEG-UA-001",
-      "index": 4338,
+      "index": 4385,
       "tvg_id": null,
-      "tvg_chno": 4438,
+      "tvg_chno": 4485,
       "name_ar": "Megogo Music",
       "name_en": "Megogo Music",
       "country": "UA",
@@ -2221,7 +2261,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2229,7 +2269,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2237,9 +2277,9 @@
     {
       "id": "MistoPlus.ua",
       "code": "MIS-UA-001",
-      "index": 4430,
+      "index": 4479,
       "tvg_id": null,
-      "tvg_chno": 4530,
+      "tvg_chno": 4579,
       "name_ar": "Misto+",
       "name_en": "Misto+",
       "country": "UA",
@@ -2248,7 +2288,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2256,7 +2296,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2264,9 +2304,9 @@
     {
       "id": "Muzvar.ua",
       "code": "MUZ-UA-001",
-      "index": 4651,
+      "index": 4705,
       "tvg_id": null,
-      "tvg_chno": 4751,
+      "tvg_chno": 4805,
       "name_ar": "Muzvar",
       "name_en": "Muzvar",
       "country": "UA",
@@ -2275,7 +2315,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2283,7 +2323,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2291,9 +2331,9 @@
     {
       "id": "MyUkrainaPlus.ua",
       "code": "MYU-UA-001",
-      "index": 4677,
+      "index": 4731,
       "tvg_id": null,
-      "tvg_chno": 4777,
+      "tvg_chno": 4831,
       "name_ar": "My Ukraina+",
       "name_en": "My Ukraina+",
       "country": "UA",
@@ -2302,7 +2342,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2310,7 +2350,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2318,9 +2358,9 @@
     {
       "id": "NasheLubimoeKinoUkraine.ua",
       "code": "NAS-UA-001",
-      "index": 4711,
+      "index": 4765,
       "tvg_id": null,
-      "tvg_chno": 4811,
+      "tvg_chno": 4865,
       "name_ar": "Nashe Lubimoe Kino Ukraine",
       "name_en": "Nashe Lubimoe Kino Ukraine",
       "country": "UA",
@@ -2329,7 +2369,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2337,7 +2377,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2345,9 +2385,9 @@
     {
       "id": "NASHEMusic.ua",
       "code": "NAS-UA-002",
-      "index": 4712,
+      "index": 4766,
       "tvg_id": null,
-      "tvg_chno": 4812,
+      "tvg_chno": 4866,
       "name_ar": "NASHE Music",
       "name_en": "NASHE Music",
       "country": "UA",
@@ -2356,7 +2396,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2364,7 +2404,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2372,9 +2412,9 @@
     {
       "id": "NikiJunior.ua",
       "code": "NIK-UA-001",
-      "index": 4895,
+      "index": 4960,
       "tvg_id": null,
-      "tvg_chno": 4995,
+      "tvg_chno": 5060,
       "name_ar": "Niki Junior",
       "name_en": "Niki Junior",
       "country": "UA",
@@ -2383,7 +2423,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2391,7 +2431,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -2399,7 +2439,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2407,9 +2447,9 @@
     {
       "id": "NikiKids.ua",
       "code": "NIK-UA-002",
-      "index": 4896,
+      "index": 4961,
       "tvg_id": null,
-      "tvg_chno": 4996,
+      "tvg_chno": 5061,
       "name_ar": "Niki Kids",
       "name_en": "Niki Kids",
       "country": "UA",
@@ -2418,7 +2458,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2426,7 +2466,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2434,9 +2474,9 @@
     {
       "id": "NovyiChannel.ua",
       "code": "NOV-UA-001",
-      "index": 4957,
+      "index": 5022,
       "tvg_id": null,
-      "tvg_chno": 5057,
+      "tvg_chno": 5122,
       "name_ar": "Novyi Channel",
       "name_en": "Novyi Channel",
       "country": "UA",
@@ -2445,7 +2485,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2453,7 +2493,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2461,9 +2501,9 @@
     {
       "id": "ObozrevatelTV.ua",
       "code": "OBO-UA-001",
-      "index": 5039,
+      "index": 5105,
       "tvg_id": null,
-      "tvg_chno": 5139,
+      "tvg_chno": 5205,
       "name_ar": "Obozrevatel TV",
       "name_en": "Obozrevatel TV",
       "country": "UA",
@@ -2472,7 +2512,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2480,7 +2520,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2488,9 +2528,9 @@
     {
       "id": "ObshchestvennoeNezavisimoeTelevidenie.ua",
       "code": "OBS-UA-001",
-      "index": 5041,
+      "index": 5107,
       "tvg_id": null,
-      "tvg_chno": 5141,
+      "tvg_chno": 5207,
       "name_ar": "Obshchestvennoe Nezavisimoe Televidenie",
       "name_en": "Obshchestvennoe Nezavisimoe Televidenie",
       "country": "UA",
@@ -2499,7 +2539,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2507,7 +2547,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2515,9 +2555,9 @@
     {
       "id": "OnePlanet.ua",
       "code": "ONE-UA-001",
-      "index": 5143,
+      "index": 5209,
       "tvg_id": null,
-      "tvg_chno": 5243,
+      "tvg_chno": 5309,
       "name_ar": "One Planet",
       "name_en": "One Planet",
       "country": "UA",
@@ -2526,7 +2566,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2534,7 +2574,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -2542,7 +2582,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2550,9 +2590,9 @@
     {
       "id": "OrbitaTV.ua",
       "code": "ORB-UA-001",
-      "index": 5170,
+      "index": 5236,
       "tvg_id": null,
-      "tvg_chno": 5270,
+      "tvg_chno": 5336,
       "name_ar": "Orbita TV",
       "name_en": "Orbita TV",
       "country": "UA",
@@ -2561,7 +2601,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2569,7 +2609,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2577,9 +2617,9 @@
     {
       "id": "OTSE.ua",
       "code": "OTS-UA-001",
-      "index": 5198,
+      "index": 5264,
       "tvg_id": null,
-      "tvg_chno": 5298,
+      "tvg_chno": 5364,
       "name_ar": "OTSE",
       "name_en": "OTSE",
       "country": "UA",
@@ -2588,7 +2628,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2596,7 +2636,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2604,9 +2644,9 @@
     {
       "id": "PershiyXTVMedia.ua",
       "code": "PER-UA-001",
-      "index": 5328,
+      "index": 5394,
       "tvg_id": null,
-      "tvg_chno": 5428,
+      "tvg_chno": 5494,
       "name_ar": "Pershiy XTV Media",
       "name_en": "Pershiy XTV Media",
       "country": "UA",
@@ -2615,7 +2655,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2623,7 +2663,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2631,9 +2671,9 @@
     {
       "id": "Pershyi.ua",
       "code": "PER-UA-002",
-      "index": 5329,
+      "index": 5395,
       "tvg_id": null,
-      "tvg_chno": 5429,
+      "tvg_chno": 5495,
       "name_ar": "Pershyi",
       "name_en": "Pershyi",
       "country": "UA",
@@ -2642,7 +2682,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2650,7 +2690,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2658,9 +2698,9 @@
     {
       "id": "Pershyiavtomobilnyi.ua",
       "code": "PER-UA-003",
-      "index": 5330,
+      "index": 5396,
       "tvg_id": null,
-      "tvg_chno": 5430,
+      "tvg_chno": 5496,
       "name_ar": "Pershyi avtomobilnyi",
       "name_en": "Pershyi avtomobilnyi",
       "country": "UA",
@@ -2669,7 +2709,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2677,7 +2717,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2685,9 +2725,9 @@
     {
       "id": "PershyiZahidnyi.ua",
       "code": "PER-UA-004",
-      "index": 5331,
+      "index": 5397,
       "tvg_id": null,
-      "tvg_chno": 5431,
+      "tvg_chno": 5497,
       "name_ar": "Pershyi Zahidnyi",
       "name_en": "Pershyi Zahidnyi",
       "country": "UA",
@@ -2696,7 +2736,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2704,7 +2744,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2712,9 +2752,9 @@
     {
       "id": "PervyygorodskoyOdessa.ua",
       "code": "PER-UA-005",
-      "index": 5354,
+      "index": 5420,
       "tvg_id": null,
-      "tvg_chno": 5454,
+      "tvg_chno": 5520,
       "name_ar": "Pervyy gorodskoy. Odessa",
       "name_en": "Pervyy gorodskoy. Odessa",
       "country": "UA",
@@ -2723,7 +2763,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2731,7 +2771,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -2739,7 +2779,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -2747,7 +2787,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2755,9 +2795,9 @@
     {
       "id": "PLUSPLUS.ua",
       "code": "PLU-UA-001",
-      "index": 5399,
+      "index": 5466,
       "tvg_id": null,
-      "tvg_chno": 5499,
+      "tvg_chno": 5566,
       "name_ar": "PLUSPLUS",
       "name_en": "PLUSPLUS",
       "country": "UA",
@@ -2766,15 +2806,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "https://iptv.prosto.tv/ch066/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
         {
           "url": "http://stream.mcquack.net/339/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2782,9 +2830,9 @@
     {
       "id": "PravdaTUT.ua",
       "code": "PRA-UA-001",
-      "index": 5748,
+      "index": 5818,
       "tvg_id": null,
-      "tvg_chno": 5848,
+      "tvg_chno": 5918,
       "name_ar": "PravdaTUT",
       "name_en": "PravdaTUT",
       "country": "UA",
@@ -2793,7 +2841,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2801,7 +2849,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2809,9 +2857,9 @@
     {
       "id": "Prokino.ua",
       "code": "PRO-UA-001",
-      "index": 5796,
+      "index": 5866,
       "tvg_id": null,
-      "tvg_chno": 5896,
+      "tvg_chno": 5966,
       "name_ar": "Prokino",
       "name_en": "Prokino",
       "country": "UA",
@@ -2820,7 +2868,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2828,7 +2876,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -2836,9 +2884,9 @@
     {
       "id": "QuizTV.ua",
       "code": "QUI-UA-001",
-      "index": 5903,
+      "index": 5973,
       "tvg_id": null,
-      "tvg_chno": 6003,
+      "tvg_chno": 6073,
       "name_ar": "Quiz TV",
       "name_en": "Quiz TV",
       "country": "UA",
@@ -2847,7 +2895,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2855,7 +2903,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2863,9 +2911,9 @@
     {
       "id": "RadaTV.ua",
       "code": "RAD-UA-001",
-      "index": 5928,
+      "index": 5999,
       "tvg_id": null,
-      "tvg_chno": 6028,
+      "tvg_chno": 6099,
       "name_ar": "Rada TV",
       "name_en": "Rada TV",
       "country": "UA",
@@ -2874,7 +2922,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2882,7 +2930,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2890,9 +2938,9 @@
     {
       "id": "RAZ1.ua",
       "code": "RAZ-UA-001",
-      "index": 6123,
+      "index": 6194,
       "tvg_id": null,
-      "tvg_chno": 6223,
+      "tvg_chno": 6294,
       "name_ar": "RAZ 1",
       "name_en": "RAZ 1",
       "country": "UA",
@@ -2901,7 +2949,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2909,7 +2957,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2917,9 +2965,9 @@
     {
       "id": "RAZ2.ua",
       "code": "RAZ-UA-002",
-      "index": 6124,
+      "index": 6195,
       "tvg_id": null,
-      "tvg_chno": 6224,
+      "tvg_chno": 6295,
       "name_ar": "RAZ 2",
       "name_en": "RAZ 2",
       "country": "UA",
@@ -2928,7 +2976,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2936,7 +2984,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2944,9 +2992,9 @@
     {
       "id": "RAZ3.ua",
       "code": "RAZ-UA-003",
-      "index": 6125,
+      "index": 6196,
       "tvg_id": null,
-      "tvg_chno": 6225,
+      "tvg_chno": 6296,
       "name_ar": "RAZ 3",
       "name_en": "RAZ 3",
       "country": "UA",
@@ -2955,7 +3003,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2963,17 +3011,25 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "RAZ3International.ua",
       "code": "RAZ-UA-004",
-      "index": 6126,
+      "index": 6197,
       "tvg_id": null,
-      "tvg_chno": 6226,
+      "tvg_chno": 6297,
       "name_ar": "RAZ 3 International",
       "name_en": "RAZ 3 International",
       "country": "UA",
@@ -2982,7 +3038,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2990,7 +3046,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -2998,9 +3054,9 @@
     {
       "id": "RenomeTV.ua",
       "code": "REN-UA-001",
-      "index": 6224,
+      "index": 6295,
       "tvg_id": null,
-      "tvg_chno": 6324,
+      "tvg_chno": 6395,
       "name_ar": "Renome TV",
       "name_en": "Renome TV",
       "country": "UA",
@@ -3009,7 +3065,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3017,7 +3073,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3025,9 +3081,9 @@
     {
       "id": "Reporter.ua",
       "code": "REP-UA-001",
-      "index": 6227,
+      "index": 6298,
       "tvg_id": null,
-      "tvg_chno": 6327,
+      "tvg_chno": 6398,
       "name_ar": "Reporter",
       "name_en": "Reporter",
       "country": "UA",
@@ -3036,7 +3092,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3044,7 +3100,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3052,9 +3108,9 @@
     {
       "id": "Rivne1.ua",
       "code": "RIV-UA-001",
-      "index": 6293,
+      "index": 6364,
       "tvg_id": null,
-      "tvg_chno": 6393,
+      "tvg_chno": 6464,
       "name_ar": "Rivne 1",
       "name_en": "Rivne 1",
       "country": "UA",
@@ -3063,7 +3119,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3071,7 +3127,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3079,9 +3135,9 @@
     {
       "id": "Rybalka.ua",
       "code": "RYB-UA-001",
-      "index": 6514,
+      "index": 6586,
       "tvg_id": null,
-      "tvg_chno": 6614,
+      "tvg_chno": 6686,
       "name_ar": "Rybalka",
       "name_en": "Rybalka",
       "country": "UA",
@@ -3090,7 +3146,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3098,7 +3154,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3106,9 +3162,9 @@
     {
       "id": "SaltTV.ua",
       "code": "SAL-UA-001",
-      "index": 6562,
+      "index": 6635,
       "tvg_id": null,
-      "tvg_chno": 6662,
+      "tvg_chno": 6735,
       "name_ar": "Salt TV",
       "name_en": "Salt TV",
       "country": "UA",
@@ -3117,7 +3173,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3125,7 +3181,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3133,9 +3189,9 @@
     {
       "id": "SetantaSportsPlusUkraine.ua",
       "code": "SET-UA-001",
-      "index": 6720,
+      "index": 6795,
       "tvg_id": null,
-      "tvg_chno": 6820,
+      "tvg_chno": 6895,
       "name_ar": "Setanta Sports+ Ukraine",
       "name_en": "Setanta Sports+ Ukraine",
       "country": "UA",
@@ -3144,25 +3200,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
-      "is_working": false,
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "http://stream.mcquack.net/390/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "Simon.ua",
       "code": "SIM-UA-001",
-      "index": 6813,
+      "index": 6889,
       "tvg_id": null,
-      "tvg_chno": 6913,
+      "tvg_chno": 6989,
       "name_ar": "Simon",
       "name_en": "Simon",
       "country": "UA",
@@ -3171,7 +3235,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3179,7 +3243,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3187,9 +3251,9 @@
     {
       "id": "SK1.ua",
       "code": "SKX-UA-001",
-      "index": 6834,
+      "index": 6910,
       "tvg_id": null,
-      "tvg_chno": 6934,
+      "tvg_chno": 7010,
       "name_ar": "SK 1",
       "name_en": "SK 1",
       "country": "UA",
@@ -3198,7 +3262,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3206,7 +3270,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -3214,7 +3278,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3222,9 +3286,9 @@
     {
       "id": "Sonce.ua",
       "code": "SON-UA-001",
-      "index": 6910,
+      "index": 6986,
       "tvg_id": null,
-      "tvg_chno": 7010,
+      "tvg_chno": 7086,
       "name_ar": "Sonce",
       "name_en": "Sonce",
       "country": "UA",
@@ -3233,7 +3297,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3241,7 +3305,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -3249,9 +3313,9 @@
     {
       "id": "Sport1Baltic.ua",
       "code": "SPO-UA-001",
-      "index": 7004,
+      "index": 7080,
       "tvg_id": null,
-      "tvg_chno": 7104,
+      "tvg_chno": 7180,
       "name_ar": "Sport 1 Baltic",
       "name_en": "Sport 1 Baltic",
       "country": "UA",
@@ -3260,7 +3324,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3268,7 +3332,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3276,9 +3340,9 @@
     {
       "id": "Sport3.ua",
       "code": "SPO-UA-002",
-      "index": 7006,
+      "index": 7082,
       "tvg_id": null,
-      "tvg_chno": 7106,
+      "tvg_chno": 7182,
       "name_ar": "Sport 3",
       "name_en": "Sport 3",
       "country": "UA",
@@ -3287,7 +3351,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3295,7 +3359,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3303,9 +3367,9 @@
     {
       "id": "Sport4.ua",
       "code": "SPO-UA-003",
-      "index": 7007,
+      "index": 7083,
       "tvg_id": null,
-      "tvg_chno": 7107,
+      "tvg_chno": 7183,
       "name_ar": "Sport 4",
       "name_en": "Sport 4",
       "country": "UA",
@@ -3314,7 +3378,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3322,7 +3386,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3330,9 +3394,9 @@
     {
       "id": "Sport5.ua",
       "code": "SPO-UA-004",
-      "index": 7008,
+      "index": 7084,
       "tvg_id": null,
-      "tvg_chno": 7108,
+      "tvg_chno": 7184,
       "name_ar": "Sport 5",
       "name_en": "Sport 5",
       "country": "UA",
@@ -3341,7 +3405,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3349,7 +3413,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3357,9 +3421,9 @@
     {
       "id": "STB.ua",
       "code": "STB-UA-001",
-      "index": 7078,
+      "index": 7156,
       "tvg_id": null,
-      "tvg_chno": 7178,
+      "tvg_chno": 7256,
       "name_ar": "STB",
       "name_en": "STB",
       "country": "UA",
@@ -3368,7 +3432,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3376,7 +3440,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/STB/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3384,9 +3456,9 @@
     {
       "id": "SuspilneDonbas.ua",
       "code": "SUS-UA-001",
-      "index": 7197,
+      "index": 7277,
       "tvg_id": null,
-      "tvg_chno": 7297,
+      "tvg_chno": 7377,
       "name_ar": "Suspilne. Donbas",
       "name_en": "Suspilne. Donbas",
       "country": "UA",
@@ -3395,7 +3467,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3403,7 +3475,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3411,9 +3483,9 @@
     {
       "id": "SuspilneKrym.ua",
       "code": "SUS-UA-002",
-      "index": 7198,
+      "index": 7278,
       "tvg_id": null,
-      "tvg_chno": 7298,
+      "tvg_chno": 7378,
       "name_ar": "Suspilne. Krym",
       "name_en": "Suspilne. Krym",
       "country": "UA",
@@ -3422,7 +3494,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3430,7 +3502,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3438,9 +3510,9 @@
     {
       "id": "SuspilneKultura.ua",
       "code": "SUS-UA-003",
-      "index": 7199,
+      "index": 7279,
       "tvg_id": null,
-      "tvg_chno": 7299,
+      "tvg_chno": 7379,
       "name_ar": "Suspilne. Kultura",
       "name_en": "Suspilne. Kultura",
       "country": "UA",
@@ -3449,7 +3521,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3457,7 +3529,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3465,9 +3537,9 @@
     {
       "id": "SuspilneKyiv.ua",
       "code": "SUS-UA-004",
-      "index": 7200,
+      "index": 7280,
       "tvg_id": null,
-      "tvg_chno": 7300,
+      "tvg_chno": 7380,
       "name_ar": "Suspilne. Kyiv",
       "name_en": "Suspilne. Kyiv",
       "country": "UA",
@@ -3476,7 +3548,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3484,7 +3556,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3492,9 +3564,9 @@
     {
       "id": "SuspilneSport.ua",
       "code": "SUS-UA-005",
-      "index": 7201,
+      "index": 7281,
       "tvg_id": null,
-      "tvg_chno": 7301,
+      "tvg_chno": 7381,
       "name_ar": "Suspilne. Sport",
       "name_en": "Suspilne. Sport",
       "country": "UA",
@@ -3503,7 +3575,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3511,7 +3583,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -3519,7 +3591,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3527,9 +3599,9 @@
     {
       "id": "Svarozhychy.ua",
       "code": "SVA-UA-001",
-      "index": 7209,
+      "index": 7289,
       "tvg_id": null,
-      "tvg_chno": 7309,
+      "tvg_chno": 7389,
       "name_ar": "Svarozhychy",
       "name_en": "Svarozhychy",
       "country": "UA",
@@ -3538,25 +3610,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
-      "is_working": false,
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
+      "is_working": true,
       "streams": [
         {
-          "url": "http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
+          "url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
-          "is_working": false
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "SvitPlus.ua",
       "code": "SVI-UA-001",
-      "index": 7217,
+      "index": 7297,
       "tvg_id": null,
-      "tvg_chno": 7317,
+      "tvg_chno": 7397,
       "name_ar": "Svit+",
       "name_en": "Svit+",
       "country": "UA",
@@ -3565,7 +3637,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3573,7 +3645,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3581,9 +3653,9 @@
     {
       "id": "TelekanalRAI.ua",
       "code": "TEL-UA-001",
-      "index": 7434,
+      "index": 7515,
       "tvg_id": null,
-      "tvg_chno": 7534,
+      "tvg_chno": 7615,
       "name_ar": "Telekanal RAI",
       "name_en": "Telekanal RAI",
       "country": "UA",
@@ -3592,7 +3664,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3600,7 +3672,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -3608,7 +3680,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3616,9 +3688,9 @@
     {
       "id": "Televsesvit.ua",
       "code": "TEL-UA-002",
-      "index": 7565,
+      "index": 7646,
       "tvg_id": null,
-      "tvg_chno": 7665,
+      "tvg_chno": 7746,
       "name_ar": "Televsesvit",
       "name_en": "Televsesvit",
       "country": "UA",
@@ -3627,7 +3699,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3635,7 +3707,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -3643,9 +3715,9 @@
     {
       "id": "Ternopil1.ua",
       "code": "TER-UA-001",
-      "index": 7588,
+      "index": 7670,
       "tvg_id": null,
-      "tvg_chno": 7688,
+      "tvg_chno": 7770,
       "name_ar": "Ternopil 1",
       "name_en": "Ternopil 1",
       "country": "UA",
@@ -3654,7 +3726,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3662,7 +3734,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -3670,9 +3742,9 @@
     {
       "id": "TET.ua",
       "code": "TET-UA-001",
-      "index": 7592,
+      "index": 7674,
       "tvg_id": null,
-      "tvg_chno": 7692,
+      "tvg_chno": 7774,
       "name_ar": "TET",
       "name_en": "TET",
       "country": "UA",
@@ -3681,7 +3753,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3689,7 +3761,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -3697,7 +3769,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/TET/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3705,9 +3785,9 @@
     {
       "id": "TISTV.ua",
       "code": "TIS-UA-001",
-      "index": 7714,
+      "index": 7797,
       "tvg_id": null,
-      "tvg_chno": 7814,
+      "tvg_chno": 7897,
       "name_ar": "TIS TV",
       "name_en": "TIS TV",
       "country": "UA",
@@ -3716,25 +3796,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
-          "is_working": true
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TRKAleks.ua",
       "code": "TRK-UA-001",
-      "index": 7854,
+      "index": 7939,
       "tvg_id": null,
-      "tvg_chno": 7954,
+      "tvg_chno": 8039,
       "name_ar": "TRK Aleks",
       "name_en": "TRK Aleks",
       "country": "UA",
@@ -3743,7 +3823,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3751,7 +3831,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -3759,9 +3839,9 @@
     {
       "id": "TRKIldana.ua",
       "code": "TRK-UA-002",
-      "index": 7855,
+      "index": 7940,
       "tvg_id": null,
-      "tvg_chno": 7955,
+      "tvg_chno": 8040,
       "name_ar": "TRK Ildana",
       "name_en": "TRK Ildana",
       "country": "UA",
@@ -3770,7 +3850,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3778,7 +3858,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -3786,9 +3866,9 @@
     {
       "id": "Trofei.ua",
       "code": "TRO-UA-001",
-      "index": 7856,
+      "index": 7941,
       "tvg_id": null,
-      "tvg_chno": 7956,
+      "tvg_chno": 8041,
       "name_ar": "Trofei",
       "name_en": "Trofei",
       "country": "UA",
@@ -3797,7 +3877,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3805,7 +3885,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3813,9 +3893,9 @@
     {
       "id": "TUSO.ua",
       "code": "TUS-UA-001",
-      "index": 7922,
+      "index": 8007,
       "tvg_id": null,
-      "tvg_chno": 8022,
+      "tvg_chno": 8107,
       "name_ar": "TUSO",
       "name_en": "TUSO",
       "country": "UA",
@@ -3824,7 +3904,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3832,7 +3912,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3840,9 +3920,9 @@
     {
       "id": "Tviyserial.ua",
       "code": "TVI-UA-001",
-      "index": 8134,
+      "index": 8220,
       "tvg_id": null,
-      "tvg_chno": 8234,
+      "tvg_chno": 8320,
       "name_ar": "Tviy serial",
       "name_en": "Tviy serial",
       "country": "UA",
@@ -3851,7 +3931,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3859,7 +3939,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3867,9 +3947,9 @@
     {
       "id": "UAMusic.ua",
       "code": "UAM-UA-001",
-      "index": 8424,
+      "index": 8510,
       "tvg_id": null,
-      "tvg_chno": 8524,
+      "tvg_chno": 8610,
       "name_ar": "UA Music",
       "name_en": "UA Music",
       "country": "UA",
@@ -3878,7 +3958,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3886,7 +3966,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3894,9 +3974,9 @@
     {
       "id": "UNIANSerial.ua",
       "code": "UNI-UA-001",
-      "index": 8461,
+      "index": 8547,
       "tvg_id": null,
-      "tvg_chno": 8561,
+      "tvg_chno": 8647,
       "name_ar": "UNIAN Serial",
       "name_en": "UNIAN Serial",
       "country": "UA",
@@ -3905,7 +3985,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3913,7 +3993,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -3921,9 +4001,9 @@
     {
       "id": "UPLTV.ua",
       "code": "UPL-UA-001",
-      "index": 8499,
+      "index": 8585,
       "tvg_id": null,
-      "tvg_chno": 8599,
+      "tvg_chno": 8685,
       "name_ar": "UPL.TV",
       "name_en": "UPL.TV",
       "country": "UA",
@@ -3932,7 +4012,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3940,17 +4020,44 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "UTravel.ua",
+      "code": "UTR-UA-001",
+      "index": 8602,
+      "tvg_id": null,
+      "tvg_chno": 8702,
+      "name_ar": "U Travel",
+      "name_en": "U Travel",
+      "country": "UA",
+      "language": "unknown",
+      "category": "travel",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://str2.iptvhd.ru:8080/travel/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "ViasatKino.ua",
       "code": "VIA-UA-001",
-      "index": 8625,
+      "index": 8712,
       "tvg_id": null,
-      "tvg_chno": 8725,
+      "tvg_chno": 8812,
       "name_ar": "Viasat Kino",
       "name_en": "Viasat Kino",
       "country": "UA",
@@ -3959,7 +4066,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3967,15 +4074,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
-          "is_working": true
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": false
         },
         {
           "url": "http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -3983,7 +4090,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -3991,7 +4098,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -3999,7 +4106,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -4007,9 +4114,9 @@
     {
       "id": "ViasatKinoAction.ua",
       "code": "VIA-UA-002",
-      "index": 8626,
+      "index": 8713,
       "tvg_id": null,
-      "tvg_chno": 8726,
+      "tvg_chno": 8813,
       "name_ar": "Viasat Kino Action",
       "name_en": "Viasat Kino Action",
       "country": "UA",
@@ -4018,7 +4125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4026,7 +4133,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -4034,7 +4141,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -4042,9 +4149,9 @@
     {
       "id": "ViasatKinoComedy.ua",
       "code": "VIA-UA-003",
-      "index": 8627,
+      "index": 8714,
       "tvg_id": null,
-      "tvg_chno": 8727,
+      "tvg_chno": 8814,
       "name_ar": "Viasat Kino Comedy",
       "name_en": "Viasat Kino Comedy",
       "country": "UA",
@@ -4053,7 +4160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4061,7 +4168,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4069,9 +4176,9 @@
     {
       "id": "ViasatKinoWorld.ua",
       "code": "VIA-UA-004",
-      "index": 8628,
+      "index": 8715,
       "tvg_id": null,
-      "tvg_chno": 8728,
+      "tvg_chno": 8815,
       "name_ar": "Viasat Kino World",
       "name_en": "Viasat Kino World",
       "country": "UA",
@@ -4080,7 +4187,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4088,7 +4195,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4096,9 +4203,9 @@
     {
       "id": "ViasatSerial.ua",
       "code": "VIA-UA-005",
-      "index": 8630,
+      "index": 8717,
       "tvg_id": null,
-      "tvg_chno": 8730,
+      "tvg_chno": 8817,
       "name_ar": "Viasat Serial",
       "name_en": "Viasat Serial",
       "country": "UA",
@@ -4107,7 +4214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4115,7 +4222,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4123,9 +4230,9 @@
     {
       "id": "VivaLatino.ua",
       "code": "VIV-UA-001",
-      "index": 8689,
+      "index": 8776,
       "tvg_id": null,
-      "tvg_chno": 8789,
+      "tvg_chno": 8876,
       "name_ar": "¡Viva Latino!",
       "name_en": "¡Viva Latino!",
       "country": "UA",
@@ -4134,7 +4241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4142,7 +4249,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4150,9 +4257,9 @@
     {
       "id": "Z.ua",
       "code": "ZXX-UA-001",
-      "index": 8958,
+      "index": 9045,
       "tvg_id": null,
-      "tvg_chno": 9058,
+      "tvg_chno": 9145,
       "name_ar": "Z",
       "name_en": "Z",
       "country": "UA",
@@ -4161,7 +4268,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4169,7 +4276,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -4177,9 +4284,9 @@
     {
       "id": "icserialy",
       "code": "ICT-UA-002",
-      "index": 9822,
+      "index": 9909,
       "tvg_id": null,
-      "tvg_chno": 9922,
+      "tvg_chno": 10009,
       "name_ar": "ICTV Serialy",
       "name_en": "ICTV Serialy",
       "country": "UA",
@@ -4188,7 +4295,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4196,7 +4303,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4204,9 +4311,9 @@
     {
       "id": "novyikanal",
       "code": "NOV-UA-002",
-      "index": 9823,
+      "index": 9910,
       "tvg_id": null,
-      "tvg_chno": 9923,
+      "tvg_chno": 10010,
       "name_ar": "Novyi Kanal",
       "name_en": "Novyi Kanal",
       "country": "UA",
@@ -4215,7 +4322,7 @@
       "logo": "https://i.imgur.com/4JhqpPM.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4223,7 +4330,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4231,9 +4338,9 @@
     {
       "id": "xsport",
       "code": "XSP-UA-001",
-      "index": 9824,
+      "index": 9911,
       "tvg_id": null,
-      "tvg_chno": 9924,
+      "tvg_chno": 10011,
       "name_ar": "XSport Ⓢ",
       "name_en": "XSport Ⓢ",
       "country": "UA",
@@ -4242,7 +4349,7 @@
       "logo": "https://i.imgur.com/CHDcfrT.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4250,7 +4357,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4258,9 +4365,9 @@
     {
       "id": "5kanal",
       "code": "KAN-UA-002",
-      "index": 9825,
+      "index": 9912,
       "tvg_id": null,
-      "tvg_chno": 9925,
+      "tvg_chno": 10012,
       "name_ar": "5 Kanal",
       "name_en": "5 Kanal",
       "country": "UA",
@@ -4269,7 +4376,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/500px-Logo_5_Channel.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4277,7 +4384,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4285,9 +4392,9 @@
     {
       "id": "kropyvnytskyi",
       "code": "KRO-UA-001",
-      "index": 9826,
+      "index": 9913,
       "tvg_id": null,
-      "tvg_chno": 9926,
+      "tvg_chno": 10013,
       "name_ar": "Суспільне Kropyvnytskyi",
       "name_en": "Суспільне Kropyvnytskyi",
       "country": "UA",
@@ -4296,7 +4403,7 @@
       "logo": "https://i.imgur.com/zzYJr87.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4304,7 +4411,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -4312,9 +4419,9 @@
     {
       "id": "freeom",
       "code": "FRE-UA-002",
-      "index": 9827,
+      "index": 9914,
       "tvg_id": null,
-      "tvg_chno": 9927,
+      "tvg_chno": 10014,
       "name_ar": "FREEДOM",
       "name_en": "FREEДOM",
       "country": "UA",
@@ -4323,7 +4430,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/500px-FreeDOMUAlogo.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4331,7 +4438,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -4339,9 +4446,9 @@
     {
       "id": "ck1",
       "code": "CKX-UA-001",
-      "index": 9828,
+      "index": 9915,
       "tvg_id": null,
-      "tvg_chno": 9928,
+      "tvg_chno": 10015,
       "name_ar": "CK 1",
       "name_en": "CK 1",
       "country": "UA",
@@ -4350,7 +4457,7 @@
       "logo": "https://i.imgur.com/XiXwr5h.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4358,11 +4465,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+  "last_updated": "2026-09-18T08:03:16.627091+00:00"
 }

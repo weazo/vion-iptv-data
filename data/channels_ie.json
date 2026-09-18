@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "IE",
-  "total_channels": 31,
+  "total_channels": 32,
   "channels": [
     {
       "id": "F1Channel.ie",
       "code": "FCH-IE-001",
-      "index": 2651,
+      "index": 2672,
       "tvg_id": null,
-      "tvg_chno": 2751,
+      "tvg_chno": 2772,
       "name_ar": "F1 Channel",
       "name_en": "F1 Channel",
       "country": "IE",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,42 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "FoodNetwork.ie",
+      "code": "FOO-IE-001",
+      "index": 2809,
+      "tvg_id": null,
+      "tvg_chno": 2909,
+      "name_ar": "Food Network",
+      "name_en": "Food Network",
+      "country": "IE",
+      "language": "unknown",
+      "category": "cooking",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -33,9 +68,9 @@
     {
       "id": "OireachtasTV.ie",
       "code": "OIR-IE-001",
-      "index": 5061,
+      "index": 5127,
       "tvg_id": null,
-      "tvg_chno": 5161,
+      "tvg_chno": 5227,
       "name_ar": "Oireachtas TV",
       "name_en": "Oireachtas TV",
       "country": "IE",
@@ -44,7 +79,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -52,7 +87,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -60,9 +95,9 @@
     {
       "id": "OireachtasTVCommitteeRoom1.ie",
       "code": "OIR-IE-002",
-      "index": 5062,
+      "index": 5128,
       "tvg_id": null,
-      "tvg_chno": 5162,
+      "tvg_chno": 5228,
       "name_ar": "Oireachtas TV Committee Room 1",
       "name_en": "Oireachtas TV Committee Room 1",
       "country": "IE",
@@ -71,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -79,7 +114,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -87,9 +122,9 @@
     {
       "id": "OireachtasTVCommitteeRoom2.ie",
       "code": "OIR-IE-003",
-      "index": 5063,
+      "index": 5129,
       "tvg_id": null,
-      "tvg_chno": 5163,
+      "tvg_chno": 5229,
       "name_ar": "Oireachtas TV Committee Room 2",
       "name_en": "Oireachtas TV Committee Room 2",
       "country": "IE",
@@ -98,7 +133,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -106,7 +141,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -114,9 +149,9 @@
     {
       "id": "OireachtasTVCommitteeRoom3.ie",
       "code": "OIR-IE-004",
-      "index": 5064,
+      "index": 5130,
       "tvg_id": null,
-      "tvg_chno": 5164,
+      "tvg_chno": 5230,
       "name_ar": "Oireachtas TV Committee Room 3",
       "name_en": "Oireachtas TV Committee Room 3",
       "country": "IE",
@@ -125,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -133,7 +168,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -141,9 +176,9 @@
     {
       "id": "OireachtasTVCommitteeRoom4.ie",
       "code": "OIR-IE-005",
-      "index": 5065,
+      "index": 5131,
       "tvg_id": null,
-      "tvg_chno": 5165,
+      "tvg_chno": 5231,
       "name_ar": "Oireachtas TV Committee Room 4",
       "name_en": "Oireachtas TV Committee Room 4",
       "country": "IE",
@@ -152,7 +187,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -160,7 +195,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -168,9 +203,9 @@
     {
       "id": "OireachtasTVDailEireann.ie",
       "code": "OIR-IE-006",
-      "index": 5066,
+      "index": 5132,
       "tvg_id": null,
-      "tvg_chno": 5166,
+      "tvg_chno": 5232,
       "name_ar": "Oireachtas TV Dail Eireann",
       "name_en": "Oireachtas TV Dail Eireann",
       "country": "IE",
@@ -179,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -187,7 +222,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -195,9 +230,9 @@
     {
       "id": "OireachtasTVSeanadEireann.ie",
       "code": "OIR-IE-007",
-      "index": 5067,
+      "index": 5133,
       "tvg_id": null,
-      "tvg_chno": 5167,
+      "tvg_chno": 5233,
       "name_ar": "Oireachtas TV Seanad Eireann",
       "name_en": "Oireachtas TV Seanad Eireann",
       "country": "IE",
@@ -206,7 +241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -214,7 +249,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -222,9 +257,9 @@
     {
       "id": "PremierSports1.ie",
       "code": "PRE-IE-001",
-      "index": 5752,
+      "index": 5822,
       "tvg_id": null,
-      "tvg_chno": 5852,
+      "tvg_chno": 5922,
       "name_ar": "Premier Sports 1",
       "name_en": "Premier Sports 1",
       "country": "IE",
@@ -233,7 +268,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -241,7 +276,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -249,7 +284,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -257,9 +292,9 @@
     {
       "id": "PremierSports2.ie",
       "code": "PRE-IE-002",
-      "index": 5753,
+      "index": 5823,
       "tvg_id": null,
-      "tvg_chno": 5853,
+      "tvg_chno": 5923,
       "name_ar": "Premier Sports 2",
       "name_en": "Premier Sports 2",
       "country": "IE",
@@ -268,7 +303,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -276,7 +311,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -284,9 +319,9 @@
     {
       "id": "SetantaSports1Eurasia.ie",
       "code": "SET-IE-001",
-      "index": 6716,
+      "index": 6791,
       "tvg_id": null,
-      "tvg_chno": 6816,
+      "tvg_chno": 6891,
       "name_ar": "Setanta Sports 1 Eurasia",
       "name_en": "Setanta Sports 1 Eurasia",
       "country": "IE",
@@ -295,7 +330,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -303,7 +338,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://str2.iptvhd.ru:8080/SetantaEurasia/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -311,9 +354,9 @@
     {
       "id": "SetantaSports2Eurasia.ie",
       "code": "SET-IE-002",
-      "index": 6718,
+      "index": 6793,
       "tvg_id": null,
-      "tvg_chno": 6818,
+      "tvg_chno": 6893,
       "name_ar": "Setanta Sports 2 Eurasia",
       "name_en": "Setanta Sports 2 Eurasia",
       "country": "IE",
@@ -322,7 +365,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -330,7 +373,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -338,9 +381,9 @@
     {
       "id": "SkyNews.ie",
       "code": "SKY-IE-001",
-      "index": 6845,
+      "index": 6921,
       "tvg_id": null,
-      "tvg_chno": 6945,
+      "tvg_chno": 7021,
       "name_ar": "Sky News",
       "name_en": "Sky News",
       "country": "IE",
@@ -349,7 +392,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -357,7 +400,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -365,7 +408,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -373,7 +416,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -381,9 +424,9 @@
     {
       "id": "SkySportsCricket.ie",
       "code": "SKY-IE-002",
-      "index": 6857,
+      "index": 6933,
       "tvg_id": null,
-      "tvg_chno": 6957,
+      "tvg_chno": 7033,
       "name_ar": "Sky Sports Cricket",
       "name_en": "Sky Sports Cricket",
       "country": "IE",
@@ -392,7 +435,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -400,7 +443,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -408,9 +451,9 @@
     {
       "id": "SkySportsF1.ie",
       "code": "SKY-IE-003",
-      "index": 6858,
+      "index": 6934,
       "tvg_id": null,
-      "tvg_chno": 6958,
+      "tvg_chno": 7034,
       "name_ar": "Sky Sports F1",
       "name_en": "Sky Sports F1",
       "country": "IE",
@@ -419,7 +462,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -427,7 +470,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -435,9 +478,9 @@
     {
       "id": "SkySportsFootball.ie",
       "code": "SKY-IE-004",
-      "index": 6859,
+      "index": 6935,
       "tvg_id": null,
-      "tvg_chno": 6959,
+      "tvg_chno": 7035,
       "name_ar": "Sky Sports Football",
       "name_en": "Sky Sports Football",
       "country": "IE",
@@ -446,7 +489,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -454,7 +497,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -462,7 +505,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -470,9 +513,9 @@
     {
       "id": "SkySportsGolf.ie",
       "code": "SKY-IE-005",
-      "index": 6860,
+      "index": 6936,
       "tvg_id": null,
-      "tvg_chno": 6960,
+      "tvg_chno": 7036,
       "name_ar": "Sky Sports Golf",
       "name_en": "Sky Sports Golf",
       "country": "IE",
@@ -481,7 +524,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -489,7 +532,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -497,9 +540,9 @@
     {
       "id": "TG4.ie",
       "code": "TGX-IE-001",
-      "index": 7602,
+      "index": 7684,
       "tvg_id": null,
-      "tvg_chno": 7702,
+      "tvg_chno": 7784,
       "name_ar": "TG4",
       "name_en": "TG4",
       "country": "IE",
@@ -508,7 +551,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -516,7 +559,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -524,9 +567,9 @@
     {
       "id": "housesoftheoireachtas",
       "code": "HOU-IE-001",
-      "index": 9337,
+      "index": 9426,
       "tvg_id": null,
-      "tvg_chno": 9437,
+      "tvg_chno": 9526,
       "name_ar": "Houses of the Oireachtas Channel",
       "name_en": "Houses of the Oireachtas Channel",
       "country": "IE",
@@ -535,7 +578,7 @@
       "logo": "https://i.imgur.com/aC4fsCI.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -543,7 +586,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -551,9 +594,9 @@
     {
       "id": "fm104",
       "code": "FMX-IE-001",
-      "index": 9340,
+      "index": 9429,
       "tvg_id": null,
-      "tvg_chno": 9440,
+      "tvg_chno": 9529,
       "name_ar": "FM104",
       "name_en": "FM104",
       "country": "IE",
@@ -562,7 +605,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -570,7 +613,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -578,9 +621,9 @@
     {
       "id": "radionova",
       "code": "RAD-IE-001",
-      "index": 9341,
+      "index": 9430,
       "tvg_id": null,
-      "tvg_chno": 9441,
+      "tvg_chno": 9530,
       "name_ar": "Radio Nova",
       "name_en": "Radio Nova",
       "country": "IE",
@@ -589,7 +632,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -597,7 +640,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -605,9 +648,9 @@
     {
       "id": "dublinsq102",
       "code": "DUB-IE-001",
-      "index": 9344,
+      "index": 9433,
       "tvg_id": null,
-      "tvg_chno": 9444,
+      "tvg_chno": 9533,
       "name_ar": "Dublin's Q102",
       "name_en": "Dublin's Q102",
       "country": "IE",
@@ -616,7 +659,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -624,7 +667,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -632,9 +675,9 @@
     {
       "id": "classichits",
       "code": "CLA-IE-001",
-      "index": 9345,
+      "index": 9434,
       "tvg_id": null,
-      "tvg_chno": 9445,
+      "tvg_chno": 9534,
       "name_ar": "Classic Hits",
       "name_en": "Classic Hits",
       "country": "IE",
@@ -643,7 +686,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/3/31/Classichits2023.jpg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -651,7 +694,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -659,9 +702,9 @@
     {
       "id": "sunshine1068",
       "code": "SUN-IE-001",
-      "index": 9346,
+      "index": 9435,
       "tvg_id": null,
-      "tvg_chno": 9446,
+      "tvg_chno": 9535,
       "name_ar": "Sunshine 106.8",
       "name_en": "Sunshine 106.8",
       "country": "IE",
@@ -670,7 +713,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -678,7 +721,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -686,9 +729,9 @@
     {
       "id": "rtone",
       "code": "RTO-IE-001",
-      "index": 9347,
+      "index": 9436,
       "tvg_id": null,
-      "tvg_chno": 9447,
+      "tvg_chno": 9536,
       "name_ar": "RTÉ One",
       "name_en": "RTÉ One",
       "country": "IE",
@@ -697,7 +740,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -705,7 +748,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -713,9 +756,9 @@
     {
       "id": "rt2",
       "code": "RTX-IE-001",
-      "index": 9348,
+      "index": 9437,
       "tvg_id": null,
-      "tvg_chno": 9448,
+      "tvg_chno": 9537,
       "name_ar": "RTÉ2",
       "name_en": "RTÉ2",
       "country": "IE",
@@ -724,7 +767,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/500px-RT%C3%892_logo.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -732,7 +775,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -740,9 +783,9 @@
     {
       "id": "virginmedia1",
       "code": "VIR-IE-001",
-      "index": 9349,
+      "index": 9438,
       "tvg_id": null,
-      "tvg_chno": 9449,
+      "tvg_chno": 9538,
       "name_ar": "Virgin Media 1",
       "name_en": "Virgin Media 1",
       "country": "IE",
@@ -751,7 +794,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Virgin_Media_One_logo_2018.svg/960px-Virgin_Media_One_logo_2018.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -759,7 +802,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -767,9 +810,9 @@
     {
       "id": "virginmedia2",
       "code": "VIR-IE-002",
-      "index": 9350,
+      "index": 9439,
       "tvg_id": null,
-      "tvg_chno": 9450,
+      "tvg_chno": 9539,
       "name_ar": "Virgin Media 2",
       "name_en": "Virgin Media 2",
       "country": "IE",
@@ -778,7 +821,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Virgin_Media_Two_logo_2018.svg/960px-Virgin_Media_Two_logo_2018.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -786,7 +829,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -794,9 +837,9 @@
     {
       "id": "virginmedia3",
       "code": "VIR-IE-003",
-      "index": 9351,
+      "index": 9440,
       "tvg_id": null,
-      "tvg_chno": 9451,
+      "tvg_chno": 9540,
       "name_ar": "Virgin Media 3",
       "name_en": "Virgin Media 3",
       "country": "IE",
@@ -805,7 +848,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/960px-Virgin_Media_Three_logo_2018.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -813,7 +856,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -821,9 +864,9 @@
     {
       "id": "virginmedia4",
       "code": "VIR-IE-004",
-      "index": 9352,
+      "index": 9441,
       "tvg_id": null,
-      "tvg_chno": 9452,
+      "tvg_chno": 9541,
       "name_ar": "Virgin Media 4",
       "name_en": "Virgin Media 4",
       "country": "IE",
@@ -832,7 +875,7 @@
       "logo": "https://i.imgur.com/x4VsyIm.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -840,7 +883,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -848,9 +891,9 @@
     {
       "id": "rtenews",
       "code": "RTE-IE-001",
-      "index": 9353,
+      "index": 9442,
       "tvg_id": null,
-      "tvg_chno": 9453,
+      "tvg_chno": 9542,
       "name_ar": "RTE News",
       "name_en": "RTE News",
       "country": "IE",
@@ -859,7 +902,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -867,11 +910,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+  "last_updated": "2026-09-18T08:03:16.627091+00:00"
 }

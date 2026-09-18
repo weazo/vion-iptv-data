@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "NZ",
-  "total_channels": 12,
+  "total_channels": 11,
   "channels": [
     {
       "id": "Channel200.nz",
       "code": "CHA-NZ-001",
-      "index": 1636,
+      "index": 1651,
       "tvg_id": null,
-      "tvg_chno": 1736,
+      "tvg_chno": 1751,
       "name_ar": "Channel 200",
       "name_en": "Channel 200",
       "country": "NZ",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "Firstlight.nz",
       "code": "FIR-NZ-001",
-      "index": 2756,
+      "index": 2779,
       "tvg_id": null,
-      "tvg_chno": 2856,
+      "tvg_chno": 2879,
       "name_ar": "Firstlight",
       "name_en": "Firstlight",
       "country": "NZ",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,34 +52,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
-          "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "HGTV.nz",
-      "code": "HGT-NZ-001",
-      "index": 3152,
-      "tvg_id": null,
-      "tvg_chno": 3252,
-      "name_ar": "HGTV",
-      "name_en": "HGTV",
-      "country": "NZ",
-      "language": "unknown",
-      "category": "lifestyle",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
-      "is_working": true,
-      "streams": [
-        {
-          "url": "https://i.mjh.nz/.r/sky-hgtv.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -87,9 +60,9 @@
     {
       "id": "JuiceTV.nz",
       "code": "JUI-NZ-001",
-      "index": 3604,
+      "index": 3640,
       "tvg_id": null,
-      "tvg_chno": 3704,
+      "tvg_chno": 3740,
       "name_ar": "Juice TV",
       "name_en": "Juice TV",
       "country": "NZ",
@@ -98,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -106,7 +79,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -114,9 +87,9 @@
     {
       "id": "KordiaTV.nz",
       "code": "KOR-NZ-001",
-      "index": 3815,
+      "index": 3859,
       "tvg_id": null,
-      "tvg_chno": 3915,
+      "tvg_chno": 3959,
       "name_ar": "Kordia TV",
       "name_en": "Kordia TV",
       "country": "NZ",
@@ -125,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -133,7 +106,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -141,9 +114,9 @@
     {
       "id": "SkyOpen.nz",
       "code": "SKY-NZ-001",
-      "index": 6853,
+      "index": 6929,
       "tvg_id": null,
-      "tvg_chno": 6953,
+      "tvg_chno": 7029,
       "name_ar": "Sky Open",
       "name_en": "Sky Open",
       "country": "NZ",
@@ -152,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -160,7 +133,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         },
         {
@@ -168,7 +141,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -176,9 +149,9 @@
     {
       "id": "TeReo.nz",
       "code": "TER-NZ-001",
-      "index": 7587,
+      "index": 7669,
       "tvg_id": null,
-      "tvg_chno": 7687,
+      "tvg_chno": 7769,
       "name_ar": "Te Reo",
       "name_en": "Te Reo",
       "country": "NZ",
@@ -187,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -195,7 +168,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -203,9 +176,9 @@
     {
       "id": "TVNZ1.nz",
       "code": "TVN-NZ-001",
-      "index": 8213,
+      "index": 8299,
       "tvg_id": null,
-      "tvg_chno": 8313,
+      "tvg_chno": 8399,
       "name_ar": "TVNZ 1",
       "name_en": "TVNZ 1",
       "country": "NZ",
@@ -214,7 +187,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -222,7 +195,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -230,9 +203,9 @@
     {
       "id": "TVNZ2.nz",
       "code": "TVN-NZ-002",
-      "index": 8214,
+      "index": 8300,
       "tvg_id": null,
-      "tvg_chno": 8314,
+      "tvg_chno": 8400,
       "name_ar": "TVNZ 2",
       "name_en": "TVNZ 2",
       "country": "NZ",
@@ -241,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -249,7 +222,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -257,9 +230,9 @@
     {
       "id": "TVNZDUKE.nz",
       "code": "TVN-NZ-003",
-      "index": 8215,
+      "index": 8301,
       "tvg_id": null,
-      "tvg_chno": 8315,
+      "tvg_chno": 8401,
       "name_ar": "TVNZ DUKE",
       "name_en": "TVNZ DUKE",
       "country": "NZ",
@@ -268,7 +241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": false,
       "streams": [
         {
@@ -276,7 +249,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": false
         }
       ]
@@ -284,9 +257,9 @@
     {
       "id": "WairarapaTV.nz",
       "code": "WAI-NZ-001",
-      "index": 8762,
+      "index": 8849,
       "tvg_id": null,
-      "tvg_chno": 8862,
+      "tvg_chno": 8949,
       "name_ar": "Wairarapa TV",
       "name_en": "Wairarapa TV",
       "country": "NZ",
@@ -295,7 +268,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -303,7 +276,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -311,7 +284,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         },
         {
@@ -319,7 +292,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
@@ -327,9 +300,9 @@
     {
       "id": "WhakaataMaori.nz",
       "code": "WHA-NZ-001",
-      "index": 8815,
+      "index": 8902,
       "tvg_id": null,
-      "tvg_chno": 8915,
+      "tvg_chno": 9002,
       "name_ar": "Whakaata Maori",
       "name_en": "Whakaata Maori",
       "country": "NZ",
@@ -338,7 +311,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-17T12:48:37.063476+00:00",
+      "last_checked": "2026-09-18T08:03:16.627091+00:00",
       "is_working": true,
       "streams": [
         {
@@ -346,11 +319,11 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-17T12:48:37.063476+00:00",
+          "last_checked": "2026-09-18T08:03:16.627091+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-09-17T12:48:37.063476+00:00"
+  "last_updated": "2026-09-18T08:03:16.627091+00:00"
 }
