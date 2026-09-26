@@ -6,9 +6,9 @@
     {
       "id": "Canal3.bf",
       "code": "CAN-BF-001",
-      "index": 1300,
+      "index": 1301,
       "tvg_id": null,
-      "tvg_chno": 1400,
+      "tvg_chno": 1401,
       "name_ar": "Canal 3",
       "name_en": "Canal 3",
       "country": "BF",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-25T08:36:14.375706+00:00",
+      "last_checked": "2026-09-26T08:23:00.163114+00:00",
       "is_working": false,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-25T08:36:14.375706+00:00",
+          "last_checked": "2026-09-26T08:23:00.163114+00:00",
           "is_working": false
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "FilinfoTV.bf",
       "code": "FIL-BF-001",
-      "index": 2741,
+      "index": 2744,
       "tvg_id": null,
-      "tvg_chno": 2841,
+      "tvg_chno": 2844,
       "name_ar": "Filinfo TV",
       "name_en": "Filinfo TV",
       "country": "BF",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-25T08:36:14.375706+00:00",
+      "last_checked": "2026-09-26T08:23:00.163114+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-25T08:36:14.375706+00:00",
+          "last_checked": "2026-09-26T08:23:00.163114+00:00",
           "is_working": true
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "RTB.bf",
       "code": "RTB-BF-001",
-      "index": 6418,
+      "index": 6422,
       "tvg_id": null,
-      "tvg_chno": 6518,
+      "tvg_chno": 6522,
       "name_ar": "RTB",
       "name_en": "RTB",
       "country": "BF",
@@ -71,25 +71,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-25T08:36:14.375706+00:00",
-      "is_working": false,
+      "last_checked": "2026-09-26T08:23:00.163114+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-25T08:36:14.375706+00:00",
-          "is_working": false
+          "last_checked": "2026-09-26T08:23:00.163114+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "RTB3.bf",
       "code": "RTB-BF-002",
-      "index": 6419,
+      "index": 6423,
       "tvg_id": null,
-      "tvg_chno": 6519,
+      "tvg_chno": 6523,
       "name_ar": "RTB 3",
       "name_en": "RTB 3",
       "country": "BF",
@@ -98,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-25T08:36:14.375706+00:00",
+      "last_checked": "2026-09-26T08:23:00.163114+00:00",
       "is_working": true,
       "streams": [
         {
@@ -106,7 +106,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-25T08:36:14.375706+00:00",
+          "last_checked": "2026-09-26T08:23:00.163114+00:00",
           "is_working": true
         }
       ]
@@ -114,9 +114,9 @@
     {
       "id": "SavaneTV.bf",
       "code": "SAV-BF-001",
-      "index": 6695,
+      "index": 6699,
       "tvg_id": null,
-      "tvg_chno": 6795,
+      "tvg_chno": 6799,
       "name_ar": "Savane TV",
       "name_en": "Savane TV",
       "country": "BF",
@@ -125,19 +125,19 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-25T08:36:14.375706+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-26T08:23:00.163114+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-25T08:36:14.375706+00:00",
-          "is_working": true
+          "last_checked": "2026-09-26T08:23:00.163114+00:00",
+          "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-09-25T08:36:14.375706+00:00"
+  "last_updated": "2026-09-26T08:23:00.163114+00:00"
 }
