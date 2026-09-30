@@ -1,14 +1,41 @@
 {
   "version": "1.0.0",
   "country": "PL",
-  "total_channels": 97,
+  "total_channels": 104,
   "channels": [
+    {
+      "id": "13Ulica.pl",
+      "code": "ULI-PL-001",
+      "index": 20,
+      "tvg_id": null,
+      "tvg_chno": 120,
+      "name_ar": "13 Ulica",
+      "name_en": "13 Ulica",
+      "country": "PL",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://57.128.231.171:8080/325/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
+        }
+      ]
+    },
     {
       "id": "4FunKids.pl",
       "code": "FUN-PL-001",
-      "index": 109,
+      "index": 110,
       "tvg_id": null,
-      "tvg_chno": 209,
+      "tvg_chno": 210,
       "name_ar": "4 Fun Kids",
       "name_en": "4 Fun Kids",
       "country": "PL",
@@ -17,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -25,7 +52,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -33,9 +60,9 @@
     {
       "id": "4FunTV.pl",
       "code": "FUN-PL-002",
-      "index": 110,
+      "index": 111,
       "tvg_id": null,
-      "tvg_chno": 210,
+      "tvg_chno": 211,
       "name_ar": "4 Fun TV",
       "name_en": "4 Fun TV",
       "country": "PL",
@@ -44,15 +71,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -60,7 +87,34 @@
           "quality": "288p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AdventureTV.pl",
+      "code": "ADV-PL-001",
+      "index": 278,
+      "tvg_id": null,
+      "tvg_chno": 378,
+      "name_ar": "Adventure TV",
+      "name_en": "Adventure TV",
+      "country": "PL",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://57.128.231.171:8080/320/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -68,9 +122,9 @@
     {
       "id": "AmericanCrimeChannel.pl",
       "code": "AME-PL-001",
-      "index": 521,
+      "index": 523,
       "tvg_id": null,
-      "tvg_chno": 621,
+      "tvg_chno": 623,
       "name_ar": "American Crime Channel",
       "name_en": "American Crime Channel",
       "country": "PL",
@@ -79,7 +133,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -87,7 +141,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -95,9 +149,9 @@
     {
       "id": "ATMRozrywkaREWORK.pl",
       "code": "ATM-PL-001",
-      "index": 736,
+      "index": 738,
       "tvg_id": null,
-      "tvg_chno": 836,
+      "tvg_chno": 838,
       "name_ar": "ATM Rozrywka REWORK",
       "name_en": "ATM Rozrywka REWORK",
       "country": "PL",
@@ -106,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -114,7 +168,34 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "AXNPoland.pl",
+      "code": "AXN-PL-001",
+      "index": 805,
+      "tvg_id": null,
+      "tvg_chno": 905,
+      "name_ar": "AXN Poland",
+      "name_en": "AXN Poland",
+      "country": "PL",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -122,9 +203,9 @@
     {
       "id": "BialogardzkaTelewizjaKablowa.pl",
       "code": "BIA-PL-001",
-      "index": 1037,
+      "index": 1041,
       "tvg_id": null,
-      "tvg_chno": 1137,
+      "tvg_chno": 1141,
       "name_ar": "Bialogardzka Telewizja Kablowa",
       "name_en": "Bialogardzka Telewizja Kablowa",
       "country": "PL",
@@ -133,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -141,7 +222,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -149,9 +230,9 @@
     {
       "id": "Bigtime.pl",
       "code": "BIG-PL-001",
-      "index": 1048,
+      "index": 1052,
       "tvg_id": null,
-      "tvg_chno": 1148,
+      "tvg_chno": 1152,
       "name_ar": "Bigtime",
       "name_en": "Bigtime",
       "country": "PL",
@@ -160,7 +241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -168,7 +249,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -176,9 +257,9 @@
     {
       "id": "BTB.pl",
       "code": "BTB-PL-001",
-      "index": 1182,
+      "index": 1186,
       "tvg_id": null,
-      "tvg_chno": 1282,
+      "tvg_chno": 1286,
       "name_ar": "BTB",
       "name_en": "BTB",
       "country": "PL",
@@ -187,7 +268,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -195,7 +276,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -203,9 +284,9 @@
     {
       "id": "BTB2.pl",
       "code": "BTB-PL-002",
-      "index": 1183,
+      "index": 1187,
       "tvg_id": null,
-      "tvg_chno": 1283,
+      "tvg_chno": 1287,
       "name_ar": "BTB 2",
       "name_en": "BTB 2",
       "country": "PL",
@@ -214,7 +295,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -222,7 +303,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -230,9 +311,9 @@
     {
       "id": "BTB3.pl",
       "code": "BTB-PL-003",
-      "index": 1184,
+      "index": 1188,
       "tvg_id": null,
-      "tvg_chno": 1284,
+      "tvg_chno": 1288,
       "name_ar": "BTB 3",
       "name_en": "BTB 3",
       "country": "PL",
@@ -241,7 +322,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -249,7 +330,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -257,9 +338,9 @@
     {
       "id": "BTBInfo.pl",
       "code": "BTB-PL-004",
-      "index": 1185,
+      "index": 1189,
       "tvg_id": null,
-      "tvg_chno": 1285,
+      "tvg_chno": 1289,
       "name_ar": "BTB Info",
       "name_en": "BTB Info",
       "country": "PL",
@@ -268,7 +349,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -276,7 +357,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -284,7 +365,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -292,9 +373,9 @@
     {
       "id": "BTBMusic.pl",
       "code": "BTB-PL-005",
-      "index": 1186,
+      "index": 1190,
       "tvg_id": null,
-      "tvg_chno": 1286,
+      "tvg_chno": 1290,
       "name_ar": "BTB Music",
       "name_en": "BTB Music",
       "country": "PL",
@@ -303,7 +384,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -311,7 +392,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -319,9 +400,9 @@
     {
       "id": "BuzzfeedUnsolved.pl",
       "code": "BUZ-PL-001",
-      "index": 1215,
+      "index": 1219,
       "tvg_id": null,
-      "tvg_chno": 1315,
+      "tvg_chno": 1319,
       "name_ar": "Buzzfeed Unsolved",
       "name_en": "Buzzfeed Unsolved",
       "country": "PL",
@@ -330,7 +411,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -338,7 +419,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -346,9 +427,9 @@
     {
       "id": "CarCityAdventures.pl",
       "code": "CAR-PL-001",
-      "index": 1523,
+      "index": 1527,
       "tvg_id": null,
-      "tvg_chno": 1623,
+      "tvg_chno": 1627,
       "name_ar": "Car City Adventures",
       "name_en": "Car City Adventures",
       "country": "PL",
@@ -357,7 +438,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -365,7 +446,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -373,9 +454,9 @@
     {
       "id": "CartoonClassics.pl",
       "code": "CAR-PL-002",
-      "index": 1533,
+      "index": 1537,
       "tvg_id": null,
-      "tvg_chno": 1633,
+      "tvg_chno": 1637,
       "name_ar": "Cartoon Classics",
       "name_en": "Cartoon Classics",
       "country": "PL",
@@ -384,7 +465,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -392,7 +473,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -400,9 +481,9 @@
     {
       "id": "CBeebies.pl",
       "code": "CBE-PL-001",
-      "index": 1554,
+      "index": 1558,
       "tvg_id": null,
-      "tvg_chno": 1654,
+      "tvg_chno": 1658,
       "name_ar": "CBeebies",
       "name_en": "CBeebies",
       "country": "PL",
@@ -411,7 +492,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -419,7 +500,15 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://xyktmobile00.s.gy/ticketview/49092",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -427,17 +516,44 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "CrimePlusInvestigationPolsat.pl",
+      "code": "CRI-PL-001",
+      "index": 2003,
+      "tvg_id": null,
+      "tvg_chno": 2103,
+      "name_ar": "Crime + Investigation Polsat",
+      "name_en": "Crime + Investigation Polsat",
+      "country": "PL",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://57.128.231.171:8080/285/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "DiscoPoloMusic.pl",
       "code": "DIS-PL-001",
-      "index": 2261,
+      "index": 2270,
       "tvg_id": null,
-      "tvg_chno": 2361,
+      "tvg_chno": 2370,
       "name_ar": "Disco Polo Music",
       "name_en": "Disco Polo Music",
       "country": "PL",
@@ -446,7 +562,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -454,7 +570,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -462,9 +578,9 @@
     {
       "id": "DisneyXD.pl",
       "code": "DIS-PL-002",
-      "index": 2272,
+      "index": 2282,
       "tvg_id": null,
-      "tvg_chno": 2372,
+      "tvg_chno": 2382,
       "name_ar": "Disney XD",
       "name_en": "Disney XD",
       "country": "PL",
@@ -473,7 +589,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -481,7 +597,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -489,9 +605,9 @@
     {
       "id": "DrGMedicalExaminer.pl",
       "code": "DRG-PL-001",
-      "index": 2356,
+      "index": 2366,
       "tvg_id": null,
-      "tvg_chno": 2456,
+      "tvg_chno": 2466,
       "name_ar": "Dr G Medical Examiner",
       "name_en": "Dr G Medical Examiner",
       "country": "PL",
@@ -500,7 +616,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -508,7 +624,58 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "E.pl",
+      "code": "EXX-PL-001",
+      "index": 2415,
+      "tvg_id": null,
+      "tvg_chno": 2515,
+      "name_ar": "E!",
+      "name_en": "E!",
+      "country": "PL",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://57.128.231.171:8080/273/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://sb.err.ee/live/etv.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://sb.err.ee/live/etvpluss.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -516,9 +683,9 @@
     {
       "id": "Echo24.pl",
       "code": "ECH-PL-001",
-      "index": 2427,
+      "index": 2437,
       "tvg_id": null,
-      "tvg_chno": 2527,
+      "tvg_chno": 2537,
       "name_ar": "Echo24",
       "name_en": "Echo24",
       "country": "PL",
@@ -527,7 +694,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -535,7 +702,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -543,9 +710,9 @@
     {
       "id": "EskaRockTV.pl",
       "code": "ESK-PL-001",
-      "index": 2575,
+      "index": 2586,
       "tvg_id": null,
-      "tvg_chno": 2675,
+      "tvg_chno": 2686,
       "name_ar": "Eska Rock TV",
       "name_en": "Eska Rock TV",
       "country": "PL",
@@ -554,7 +721,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -562,7 +729,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -570,9 +737,9 @@
     {
       "id": "EskaTV.pl",
       "code": "ESK-PL-002",
-      "index": 2576,
+      "index": 2587,
       "tvg_id": null,
-      "tvg_chno": 2676,
+      "tvg_chno": 2687,
       "name_ar": "Eska TV",
       "name_en": "Eska TV",
       "country": "PL",
@@ -581,25 +748,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "EskaTVExtra.pl",
       "code": "ESK-PL-003",
-      "index": 2577,
+      "index": 2588,
       "tvg_id": null,
-      "tvg_chno": 2677,
+      "tvg_chno": 2688,
       "name_ar": "Eska TV Extra",
       "name_en": "Eska TV Extra",
       "country": "PL",
@@ -608,25 +775,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Euronews.pl",
       "code": "EUR-PL-001",
-      "index": 2636,
+      "index": 2647,
       "tvg_id": null,
-      "tvg_chno": 2736,
+      "tvg_chno": 2747,
       "name_ar": "Euronews",
       "name_en": "Euronews",
       "country": "PL",
@@ -635,7 +802,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -643,7 +810,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -651,7 +818,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -659,7 +826,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -667,7 +834,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -675,7 +842,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -683,9 +850,9 @@
     {
       "id": "EWTNPoland.pl",
       "code": "EWT-PL-001",
-      "index": 2674,
+      "index": 2685,
       "tvg_id": null,
-      "tvg_chno": 2774,
+      "tvg_chno": 2785,
       "name_ar": "EWTN Poland",
       "name_en": "EWTN Poland",
       "country": "PL",
@@ -694,7 +861,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -702,7 +869,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -710,9 +877,9 @@
     {
       "id": "FILMBOXPlusAction.pl",
       "code": "FIL-PL-001",
-      "index": 2777,
+      "index": 2788,
       "tvg_id": null,
-      "tvg_chno": 2877,
+      "tvg_chno": 2888,
       "name_ar": "FILMBOX+ Action",
       "name_en": "FILMBOX+ Action",
       "country": "PL",
@@ -721,25 +888,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://racitonsen.s.gy/FB_ACTION_PL",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "FILMBOXPlusComedy.pl",
       "code": "FIL-PL-002",
-      "index": 2778,
+      "index": 2789,
       "tvg_id": null,
-      "tvg_chno": 2878,
+      "tvg_chno": 2889,
       "name_ar": "FILMBOX+ Comedy",
       "name_en": "FILMBOX+ Comedy",
       "country": "PL",
@@ -748,7 +915,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -756,7 +923,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -764,7 +931,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -772,15 +939,15 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -788,9 +955,9 @@
     {
       "id": "FILMBOXPlusEmotion.pl",
       "code": "FIL-PL-003",
-      "index": 2779,
+      "index": 2790,
       "tvg_id": null,
-      "tvg_chno": 2879,
+      "tvg_chno": 2890,
       "name_ar": "FILMBOX+ Emotion",
       "name_en": "FILMBOX+ Emotion",
       "country": "PL",
@@ -799,7 +966,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -807,7 +974,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -815,7 +982,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -823,7 +990,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -831,7 +998,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -839,15 +1006,15 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -855,9 +1022,9 @@
     {
       "id": "FILMBOXPlusFestival.pl",
       "code": "FIL-PL-004",
-      "index": 2780,
+      "index": 2791,
       "tvg_id": null,
-      "tvg_chno": 2880,
+      "tvg_chno": 2891,
       "name_ar": "FILMBOX+ Festival",
       "name_en": "FILMBOX+ Festival",
       "country": "PL",
@@ -866,7 +1033,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -874,7 +1041,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -882,7 +1049,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -890,15 +1057,15 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -906,9 +1073,9 @@
     {
       "id": "FILMBOXPlusHits.pl",
       "code": "FIL-PL-005",
-      "index": 2781,
+      "index": 2792,
       "tvg_id": null,
-      "tvg_chno": 2881,
+      "tvg_chno": 2892,
       "name_ar": "FILMBOX+ Hits",
       "name_en": "FILMBOX+ Hits",
       "country": "PL",
@@ -917,7 +1084,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -925,7 +1092,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -933,7 +1100,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -941,7 +1108,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -949,15 +1116,15 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -965,7 +1132,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -973,9 +1140,9 @@
     {
       "id": "FILMBOXPlusLoveCrime.pl",
       "code": "FIL-PL-006",
-      "index": 2782,
+      "index": 2793,
       "tvg_id": null,
-      "tvg_chno": 2882,
+      "tvg_chno": 2893,
       "name_ar": "FILMBOX+ Love & Crime",
       "name_en": "FILMBOX+ Love & Crime",
       "country": "PL",
@@ -984,7 +1151,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -992,7 +1159,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1000,7 +1167,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1008,7 +1175,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1016,7 +1183,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1024,7 +1191,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1032,9 +1199,9 @@
     {
       "id": "FILMBOXPlusOne.pl",
       "code": "FIL-PL-007",
-      "index": 2783,
+      "index": 2794,
       "tvg_id": null,
-      "tvg_chno": 2883,
+      "tvg_chno": 2894,
       "name_ar": "FILMBOX+ One",
       "name_en": "FILMBOX+ One",
       "country": "PL",
@@ -1043,7 +1210,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1051,7 +1218,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1059,7 +1226,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1067,7 +1234,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1075,7 +1242,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1083,7 +1250,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1091,15 +1258,15 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1107,7 +1274,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1115,17 +1282,44 @@
           "quality": "450p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "Fox.pl",
+      "code": "FOX-PL-001",
+      "index": 2862,
+      "tvg_id": null,
+      "tvg_chno": 2962,
+      "name_ar": "Fox",
+      "name_en": "Fox",
+      "country": "PL",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://57.128.231.171:8080/249/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "Grjngo.pl",
       "code": "GRJ-PL-001",
-      "index": 3078,
+      "index": 3089,
       "tvg_id": null,
-      "tvg_chno": 3178,
+      "tvg_chno": 3189,
       "name_ar": "Grjngo",
       "name_en": "Grjngo",
       "country": "PL",
@@ -1134,7 +1328,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1142,7 +1336,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1150,9 +1344,9 @@
     {
       "id": "HardKnocksFightingChampionship.pl",
       "code": "HAR-PL-001",
-      "index": 3162,
+      "index": 3173,
       "tvg_id": null,
-      "tvg_chno": 3262,
+      "tvg_chno": 3273,
       "name_ar": "Hard Knocks Fighting Championship",
       "name_en": "Hard Knocks Fighting Championship",
       "country": "PL",
@@ -1161,7 +1355,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1169,7 +1363,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1177,9 +1371,9 @@
     {
       "id": "KanalZEROTV.pl",
       "code": "KAN-PL-001",
-      "index": 3729,
+      "index": 3741,
       "tvg_id": null,
-      "tvg_chno": 3829,
+      "tvg_chno": 3841,
       "name_ar": "Kanal ZERO TV",
       "name_en": "Kanal ZERO TV",
       "country": "PL",
@@ -1188,7 +1382,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1196,7 +1390,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1204,9 +1398,9 @@
     {
       "id": "KinoPolska.pl",
       "code": "KIN-PL-001",
-      "index": 3828,
+      "index": 3840,
       "tvg_id": null,
-      "tvg_chno": 3928,
+      "tvg_chno": 3940,
       "name_ar": "Kino Polska",
       "name_en": "Kino Polska",
       "country": "PL",
@@ -1215,25 +1409,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "http://57.128.231.171:8080/238/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
+        },
         {
           "url": "https://racitonsen.s.gy/KINO_POLSKA",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "KinoPolskaMuzyka.pl",
       "code": "KIN-PL-002",
-      "index": 3829,
+      "index": 3841,
       "tvg_id": null,
-      "tvg_chno": 3929,
+      "tvg_chno": 3941,
       "name_ar": "Kino Polska Muzyka",
       "name_en": "Kino Polska Muzyka",
       "country": "PL",
@@ -1242,25 +1444,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "http://57.128.231.171:8080/237/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": true
+        },
         {
           "url": "https://racitonsen.s.gy/KINO_POLSKA_MUZYKA",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Moconomy.pl",
       "code": "MOC-PL-001",
-      "index": 4545,
+      "index": 4557,
       "tvg_id": null,
-      "tvg_chno": 4645,
+      "tvg_chno": 4657,
       "name_ar": "Moconomy",
       "name_en": "Moconomy",
       "country": "PL",
@@ -1269,7 +1479,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1277,7 +1487,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1285,7 +1495,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1293,9 +1503,9 @@
     {
       "id": "MusicBoxPolska.pl",
       "code": "MUS-PL-001",
-      "index": 4720,
+      "index": 4733,
       "tvg_id": null,
-      "tvg_chno": 4820,
+      "tvg_chno": 4833,
       "name_ar": "Music Box Polska",
       "name_en": "Music Box Polska",
       "country": "PL",
@@ -1304,7 +1514,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1312,7 +1522,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1320,9 +1530,9 @@
     {
       "id": "NewsmaxPolska.pl",
       "code": "NEW-PL-001",
-      "index": 4927,
+      "index": 4940,
       "tvg_id": null,
-      "tvg_chno": 5027,
+      "tvg_chno": 5040,
       "name_ar": "Newsmax Polska",
       "name_en": "Newsmax Polska",
       "country": "PL",
@@ -1331,7 +1541,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1339,7 +1549,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1347,9 +1557,9 @@
     {
       "id": "PixelTV.pl",
       "code": "PIX-PL-001",
-      "index": 5483,
+      "index": 5496,
       "tvg_id": null,
-      "tvg_chno": 5583,
+      "tvg_chno": 5596,
       "name_ar": "Pixel TV",
       "name_en": "Pixel TV",
       "country": "PL",
@@ -1358,7 +1568,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1366,7 +1576,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -1374,15 +1584,15 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1390,9 +1600,9 @@
     {
       "id": "Polsat.pl",
       "code": "POL-PL-001",
-      "index": 5802,
+      "index": 5815,
       "tvg_id": null,
-      "tvg_chno": 5902,
+      "tvg_chno": 5915,
       "name_ar": "Polsat",
       "name_en": "Polsat",
       "country": "PL",
@@ -1401,7 +1611,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1409,7 +1619,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1417,9 +1627,9 @@
     {
       "id": "PolsatCafe.pl",
       "code": "POL-PL-002",
-      "index": 5803,
+      "index": 5816,
       "tvg_id": null,
-      "tvg_chno": 5903,
+      "tvg_chno": 5916,
       "name_ar": "Polsat Cafe",
       "name_en": "Polsat Cafe",
       "country": "PL",
@@ -1428,25 +1638,52 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "PolsatComedyCentralExtra.pl",
+      "code": "POL-PL-003",
+      "index": 5817,
+      "tvg_id": null,
+      "tvg_chno": 5917,
+      "name_ar": "Polsat Comedy Central Extra",
+      "name_en": "Polsat Comedy Central Extra",
+      "country": "PL",
+      "language": "unknown",
+      "category": "comedy",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://57.128.231.171:8080/290/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "PolsatFilm2.pl",
-      "code": "POL-PL-003",
-      "index": 5804,
+      "code": "POL-PL-004",
+      "index": 5818,
       "tvg_id": null,
-      "tvg_chno": 5904,
+      "tvg_chno": 5918,
       "name_ar": "Polsat Film 2",
       "name_en": "Polsat Film 2",
       "country": "PL",
@@ -1455,25 +1692,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatFilm2.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PolsatGames.pl",
-      "code": "POL-PL-004",
-      "index": 5805,
+      "code": "POL-PL-005",
+      "index": 5819,
       "tvg_id": null,
-      "tvg_chno": 5905,
+      "tvg_chno": 5919,
       "name_ar": "Polsat Games",
       "name_en": "Polsat Games",
       "country": "PL",
@@ -1482,7 +1719,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1490,17 +1727,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "PolsatJimJam.pl",
-      "code": "POL-PL-005",
-      "index": 5806,
+      "code": "POL-PL-006",
+      "index": 5820,
       "tvg_id": null,
-      "tvg_chno": 5906,
+      "tvg_chno": 5920,
       "name_ar": "Polsat JimJam",
       "name_en": "Polsat JimJam",
       "country": "PL",
@@ -1509,7 +1746,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1517,17 +1754,17 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "PolsatNews.pl",
-      "code": "POL-PL-006",
-      "index": 5807,
+      "code": "POL-PL-007",
+      "index": 5821,
       "tvg_id": null,
-      "tvg_chno": 5907,
+      "tvg_chno": 5921,
       "name_ar": "Polsat News",
       "name_en": "Polsat News",
       "country": "PL",
@@ -1536,7 +1773,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1544,7 +1781,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1552,17 +1789,17 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "PolsatNews2.pl",
-      "code": "POL-PL-007",
-      "index": 5808,
+      "code": "POL-PL-008",
+      "index": 5822,
       "tvg_id": null,
-      "tvg_chno": 5908,
+      "tvg_chno": 5922,
       "name_ar": "Polsat News 2",
       "name_en": "Polsat News 2",
       "country": "PL",
@@ -1571,7 +1808,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1579,17 +1816,17 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "PolsatNewsPolityka.pl",
-      "code": "POL-PL-008",
-      "index": 5809,
+      "code": "POL-PL-009",
+      "index": 5823,
       "tvg_id": null,
-      "tvg_chno": 5909,
+      "tvg_chno": 5923,
       "name_ar": "Polsat News Polityka",
       "name_en": "Polsat News Polityka",
       "country": "PL",
@@ -1598,7 +1835,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1606,7 +1843,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1614,17 +1851,17 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "PolsatPlay.pl",
-      "code": "POL-PL-009",
-      "index": 5810,
+      "code": "POL-PL-010",
+      "index": 5824,
       "tvg_id": null,
-      "tvg_chno": 5910,
+      "tvg_chno": 5924,
       "name_ar": "Polsat Play",
       "name_en": "Polsat Play",
       "country": "PL",
@@ -1633,25 +1870,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PolsatReality.pl",
-      "code": "POL-PL-010",
-      "index": 5811,
+      "code": "POL-PL-011",
+      "index": 5825,
       "tvg_id": null,
-      "tvg_chno": 5911,
+      "tvg_chno": 5925,
       "name_ar": "Polsat Reality",
       "name_en": "Polsat Reality",
       "country": "PL",
@@ -1660,25 +1897,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PolsatSport1.pl",
-      "code": "POL-PL-011",
-      "index": 5812,
+      "code": "POL-PL-012",
+      "index": 5826,
       "tvg_id": null,
-      "tvg_chno": 5912,
+      "tvg_chno": 5926,
       "name_ar": "Polsat Sport 1",
       "name_en": "Polsat Sport 1",
       "country": "PL",
@@ -1687,7 +1924,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1695,17 +1932,17 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "PolsatViasatHistory.pl",
-      "code": "POL-PL-012",
-      "index": 5813,
+      "code": "POL-PL-013",
+      "index": 5827,
       "tvg_id": null,
-      "tvg_chno": 5913,
+      "tvg_chno": 5927,
       "name_ar": "Polsat Viasat History",
       "name_en": "Polsat Viasat History",
       "country": "PL",
@@ -1714,7 +1951,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1722,17 +1959,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "PolsatX.pl",
-      "code": "POL-PL-013",
-      "index": 5814,
+      "code": "POL-PL-014",
+      "index": 5828,
       "tvg_id": null,
-      "tvg_chno": 5914,
+      "tvg_chno": 5928,
       "name_ar": "Polsat X",
       "name_en": "Polsat X",
       "country": "PL",
@@ -1741,25 +1978,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatX.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Puls2.pl",
       "code": "PUL-PL-001",
-      "index": 5957,
+      "index": 5971,
       "tvg_id": null,
-      "tvg_chno": 6057,
+      "tvg_chno": 6071,
       "name_ar": "Puls 2",
       "name_en": "Puls 2",
       "country": "PL",
@@ -1768,7 +2005,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1776,7 +2013,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -1784,7 +2021,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1792,9 +2029,9 @@
     {
       "id": "RACERInternational.pl",
       "code": "RAC-PL-001",
-      "index": 6033,
+      "index": 6047,
       "tvg_id": null,
-      "tvg_chno": 6133,
+      "tvg_chno": 6147,
       "name_ar": "RACER International",
       "name_en": "RACER International",
       "country": "PL",
@@ -1803,7 +2040,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1811,7 +2048,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1819,9 +2056,9 @@
     {
       "id": "RadioRAM.pl",
       "code": "RAD-PL-001",
-      "index": 6120,
+      "index": 6134,
       "tvg_id": null,
-      "tvg_chno": 6220,
+      "tvg_chno": 6234,
       "name_ar": "Radio RAM",
       "name_en": "Radio RAM",
       "country": "PL",
@@ -1830,7 +2067,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1838,7 +2075,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1846,9 +2083,9 @@
     {
       "id": "RadiowaCzworka.pl",
       "code": "RAD-PL-002",
-      "index": 6172,
+      "index": 6188,
       "tvg_id": null,
-      "tvg_chno": 6272,
+      "tvg_chno": 6288,
       "name_ar": "Radiowa Czworka",
       "name_en": "Radiowa Czworka",
       "country": "PL",
@@ -1857,7 +2094,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1865,7 +2102,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1873,9 +2110,9 @@
     {
       "id": "RedCarpetTVInternational.pl",
       "code": "RED-PL-001",
-      "index": 6283,
+      "index": 6299,
       "tvg_id": null,
-      "tvg_chno": 6383,
+      "tvg_chno": 6399,
       "name_ar": "Red Carpet TV International",
       "name_en": "Red Carpet TV International",
       "country": "PL",
@@ -1884,7 +2121,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1892,7 +2129,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1900,9 +2137,9 @@
     {
       "id": "RemontyTV.pl",
       "code": "REM-PL-001",
-      "index": 6328,
+      "index": 6344,
       "tvg_id": null,
-      "tvg_chno": 6428,
+      "tvg_chno": 6444,
       "name_ar": "Remonty TV",
       "name_en": "Remonty TV",
       "country": "PL",
@@ -1911,7 +2148,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1919,7 +2156,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1927,9 +2164,9 @@
     {
       "id": "Royalworld.pl",
       "code": "ROY-PL-001",
-      "index": 6448,
+      "index": 6464,
       "tvg_id": null,
-      "tvg_chno": 6548,
+      "tvg_chno": 6564,
       "name_ar": "Royalworld",
       "name_en": "Royalworld",
       "country": "PL",
@@ -1938,7 +2175,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1946,7 +2183,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -1954,9 +2191,9 @@
     {
       "id": "SferaTV.pl",
       "code": "SFE-PL-001",
-      "index": 6843,
+      "index": 6859,
       "tvg_id": null,
-      "tvg_chno": 6943,
+      "tvg_chno": 6959,
       "name_ar": "Sfera TV",
       "name_en": "Sfera TV",
       "country": "PL",
@@ -1965,7 +2202,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1973,7 +2210,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -1981,9 +2218,9 @@
     {
       "id": "TelewizjaBiznesowa.pl",
       "code": "TEL-PL-001",
-      "index": 7671,
+      "index": 7688,
       "tvg_id": null,
-      "tvg_chno": 7771,
+      "tvg_chno": 7788,
       "name_ar": "Telewizja Biznesowa",
       "name_en": "Telewizja Biznesowa",
       "country": "PL",
@@ -1992,7 +2229,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2000,7 +2237,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2008,9 +2245,9 @@
     {
       "id": "TelewizjaiTTV.pl",
       "code": "TEL-PL-002",
-      "index": 7672,
+      "index": 7689,
       "tvg_id": null,
-      "tvg_chno": 7772,
+      "tvg_chno": 7789,
       "name_ar": "Telewizja iTTV",
       "name_en": "Telewizja iTTV",
       "country": "PL",
@@ -2019,7 +2256,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2027,7 +2264,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2035,9 +2272,9 @@
     {
       "id": "TelewizjaJaslo.pl",
       "code": "TEL-PL-003",
-      "index": 7673,
+      "index": 7690,
       "tvg_id": null,
-      "tvg_chno": 7773,
+      "tvg_chno": 7790,
       "name_ar": "Telewizja Jaslo",
       "name_en": "Telewizja Jaslo",
       "country": "PL",
@@ -2046,7 +2283,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2054,7 +2291,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2062,9 +2299,9 @@
     {
       "id": "TelewizjaLuban.pl",
       "code": "TEL-PL-004",
-      "index": 7674,
+      "index": 7691,
       "tvg_id": null,
-      "tvg_chno": 7774,
+      "tvg_chno": 7791,
       "name_ar": "Telewizja Luban",
       "name_en": "Telewizja Luban",
       "country": "PL",
@@ -2073,7 +2310,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2081,7 +2318,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2089,9 +2326,9 @@
     {
       "id": "TelewizjaRegionalnaZary.pl",
       "code": "TEL-PL-005",
-      "index": 7675,
+      "index": 7692,
       "tvg_id": null,
-      "tvg_chno": 7775,
+      "tvg_chno": 7792,
       "name_ar": "Telewizja Regionalna Zary",
       "name_en": "Telewizja Regionalna Zary",
       "country": "PL",
@@ -2100,7 +2337,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2108,7 +2345,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2116,9 +2353,9 @@
     {
       "id": "TelewizjaRelax.pl",
       "code": "TEL-PL-006",
-      "index": 7676,
+      "index": 7693,
       "tvg_id": null,
-      "tvg_chno": 7776,
+      "tvg_chno": 7793,
       "name_ar": "Telewizja Relax",
       "name_en": "Telewizja Relax",
       "country": "PL",
@@ -2127,7 +2364,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2135,7 +2372,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2143,9 +2380,9 @@
     {
       "id": "TimelessDiziChannel.pl",
       "code": "TIM-PL-001",
-      "index": 7810,
+      "index": 7827,
       "tvg_id": null,
-      "tvg_chno": 7910,
+      "tvg_chno": 7927,
       "name_ar": "Timeless Dizi Channel",
       "name_en": "Timeless Dizi Channel",
       "country": "PL",
@@ -2154,7 +2391,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2162,7 +2399,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2170,9 +2407,9 @@
     {
       "id": "TNAWrestlingChannel.pl",
       "code": "TNA-PL-001",
-      "index": 7847,
+      "index": 7865,
       "tvg_id": null,
-      "tvg_chno": 7947,
+      "tvg_chno": 7965,
       "name_ar": "TNA Wrestling Channel",
       "name_en": "TNA Wrestling Channel",
       "country": "PL",
@@ -2181,7 +2418,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2189,7 +2426,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2197,7 +2434,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2205,9 +2442,9 @@
     {
       "id": "TOPBarca.pl",
       "code": "TOP-PL-001",
-      "index": 7885,
+      "index": 7903,
       "tvg_id": null,
-      "tvg_chno": 7985,
+      "tvg_chno": 8003,
       "name_ar": "TOP Barca",
       "name_en": "TOP Barca",
       "country": "PL",
@@ -2216,7 +2453,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2224,7 +2461,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2232,7 +2469,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2240,33 +2477,33 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         },
         {
           "url": "https://jmp2.uk/plu-6793ac47f5c74bff95d18a99.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TopMoviesPolska.pl",
       "code": "TOP-PL-002",
-      "index": 7891,
+      "index": 7909,
       "tvg_id": null,
-      "tvg_chno": 7991,
+      "tvg_chno": 8009,
       "name_ar": "Top Movies Polska",
       "name_en": "Top Movies Polska",
       "country": "PL",
@@ -2275,7 +2512,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2283,7 +2520,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2291,9 +2528,9 @@
     {
       "id": "TVASTA.pl",
       "code": "TVA-PL-001",
-      "index": 8109,
+      "index": 8127,
       "tvg_id": null,
-      "tvg_chno": 8209,
+      "tvg_chno": 8227,
       "name_ar": "TV ASTA",
       "name_en": "TV ASTA",
       "country": "PL",
@@ -2302,7 +2539,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2310,7 +2547,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2318,9 +2555,9 @@
     {
       "id": "TVKStella.pl",
       "code": "TVK-PL-001",
-      "index": 8251,
+      "index": 8269,
       "tvg_id": null,
-      "tvg_chno": 8351,
+      "tvg_chno": 8369,
       "name_ar": "TVK Stella",
       "name_en": "TVK Stella",
       "country": "PL",
@@ -2329,7 +2566,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2337,7 +2574,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2345,9 +2582,9 @@
     {
       "id": "TVKujawy.pl",
       "code": "TVK-PL-002",
-      "index": 8253,
+      "index": 8271,
       "tvg_id": null,
-      "tvg_chno": 8353,
+      "tvg_chno": 8371,
       "name_ar": "TV Kujawy",
       "name_en": "TV Kujawy",
       "country": "PL",
@@ -2356,7 +2593,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2364,7 +2601,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2372,9 +2609,9 @@
     {
       "id": "TVOkazje.pl",
       "code": "TVO-PL-001",
-      "index": 8330,
+      "index": 8348,
       "tvg_id": null,
-      "tvg_chno": 8430,
+      "tvg_chno": 8448,
       "name_ar": "TV Okazje",
       "name_en": "TV Okazje",
       "country": "PL",
@@ -2383,7 +2620,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2391,7 +2628,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2399,9 +2636,9 @@
     {
       "id": "TVP1.pl",
       "code": "TVP-PL-001",
-      "index": 8340,
+      "index": 8358,
       "tvg_id": null,
-      "tvg_chno": 8440,
+      "tvg_chno": 8458,
       "name_ar": "TVP1",
       "name_en": "TVP1",
       "country": "PL",
@@ -2410,7 +2647,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2418,7 +2655,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -2426,7 +2663,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2434,9 +2671,9 @@
     {
       "id": "TVPInfo.pl",
       "code": "TVP-PL-002",
-      "index": 8356,
+      "index": 8374,
       "tvg_id": null,
-      "tvg_chno": 8456,
+      "tvg_chno": 8474,
       "name_ar": "TVP Info",
       "name_en": "TVP Info",
       "country": "PL",
@@ -2445,7 +2682,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2453,7 +2690,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2461,7 +2698,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2469,9 +2706,9 @@
     {
       "id": "TVPKultura.pl",
       "code": "TVP-PL-003",
-      "index": 8359,
+      "index": 8377,
       "tvg_id": null,
-      "tvg_chno": 8459,
+      "tvg_chno": 8477,
       "name_ar": "TVP Kultura",
       "name_en": "TVP Kultura",
       "country": "PL",
@@ -2480,25 +2717,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVPPolonia.pl",
       "code": "TVP-PL-004",
-      "index": 8369,
+      "index": 8387,
       "tvg_id": null,
-      "tvg_chno": 8469,
+      "tvg_chno": 8487,
       "name_ar": "TVP Polonia",
       "name_en": "TVP Polonia",
       "country": "PL",
@@ -2507,7 +2744,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2515,7 +2752,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2523,7 +2760,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2531,9 +2768,9 @@
     {
       "id": "TVPRozrywka.pl",
       "code": "TVP-PL-005",
-      "index": 8372,
+      "index": 8390,
       "tvg_id": null,
-      "tvg_chno": 8472,
+      "tvg_chno": 8490,
       "name_ar": "TVP Rozrywka",
       "name_en": "TVP Rozrywka",
       "country": "PL",
@@ -2542,7 +2779,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2550,7 +2787,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2558,9 +2795,9 @@
     {
       "id": "TVPSeriale.pl",
       "code": "TVP-PL-006",
-      "index": 8373,
+      "index": 8391,
       "tvg_id": null,
-      "tvg_chno": 8473,
+      "tvg_chno": 8491,
       "name_ar": "TVP Seriale",
       "name_en": "TVP Seriale",
       "country": "PL",
@@ -2569,25 +2806,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
-      "is_working": true,
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
-          "is_working": true
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVPuls.pl",
       "code": "TVP-PL-007",
-      "index": 8375,
+      "index": 8393,
       "tvg_id": null,
-      "tvg_chno": 8475,
+      "tvg_chno": 8493,
       "name_ar": "TV Puls",
       "name_en": "TV Puls",
       "country": "PL",
@@ -2596,7 +2833,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2604,7 +2841,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         },
         {
@@ -2612,7 +2849,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2620,7 +2857,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2628,9 +2865,9 @@
     {
       "id": "TVPWorld.pl",
       "code": "TVP-PL-008",
-      "index": 8377,
+      "index": 8395,
       "tvg_id": null,
-      "tvg_chno": 8477,
+      "tvg_chno": 8495,
       "name_ar": "TVP World",
       "name_en": "TVP World",
       "country": "PL",
@@ -2639,7 +2876,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2647,7 +2884,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2655,7 +2892,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2663,9 +2900,9 @@
     {
       "id": "TVRegionalnaLubin.pl",
       "code": "TVR-PL-001",
-      "index": 8386,
+      "index": 8404,
       "tvg_id": null,
-      "tvg_chno": 8486,
+      "tvg_chno": 8504,
       "name_ar": "TV Regionalna Lubin",
       "name_en": "TV Regionalna Lubin",
       "country": "PL",
@@ -2674,7 +2911,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2682,7 +2919,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2690,9 +2927,9 @@
     {
       "id": "TVTorun.pl",
       "code": "TVT-PL-001",
-      "index": 8481,
+      "index": 8499,
       "tvg_id": null,
-      "tvg_chno": 8581,
+      "tvg_chno": 8599,
       "name_ar": "TV Torun",
       "name_en": "TV Torun",
       "country": "PL",
@@ -2701,7 +2938,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2709,7 +2946,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2717,9 +2954,9 @@
     {
       "id": "TVTrwam.pl",
       "code": "TVT-PL-002",
-      "index": 8482,
+      "index": 8500,
       "tvg_id": null,
-      "tvg_chno": 8582,
+      "tvg_chno": 8600,
       "name_ar": "TV Trwam",
       "name_en": "TV Trwam",
       "country": "PL",
@@ -2728,7 +2965,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2736,7 +2973,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2744,9 +2981,9 @@
     {
       "id": "TVTZgorzelec.pl",
       "code": "TVT-PL-003",
-      "index": 8484,
+      "index": 8502,
       "tvg_id": null,
-      "tvg_chno": 8584,
+      "tvg_chno": 8602,
       "name_ar": "TVT Zgorzelec",
       "name_en": "TVT Zgorzelec",
       "country": "PL",
@@ -2755,7 +2992,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2763,7 +3000,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2771,9 +3008,9 @@
     {
       "id": "TwojaTV.pl",
       "code": "TWO-PL-001",
-      "index": 8523,
+      "index": 8541,
       "tvg_id": null,
-      "tvg_chno": 8623,
+      "tvg_chno": 8641,
       "name_ar": "Twoja.TV",
       "name_en": "Twoja.TV",
       "country": "PL",
@@ -2782,7 +3019,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2790,7 +3027,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         },
         {
@@ -2798,7 +3035,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2806,9 +3043,9 @@
     {
       "id": "ViasatExploreClassic.pl",
       "code": "VIA-PL-001",
-      "index": 8715,
+      "index": 8733,
       "tvg_id": null,
-      "tvg_chno": 8815,
+      "tvg_chno": 8833,
       "name_ar": "Viasat Explore Classic",
       "name_en": "Viasat Explore Classic",
       "country": "PL",
@@ -2817,7 +3054,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2825,7 +3062,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2833,9 +3070,9 @@
     {
       "id": "ViasatTrueCrime.pl",
       "code": "VIA-PL-002",
-      "index": 8723,
+      "index": 8741,
       "tvg_id": null,
-      "tvg_chno": 8823,
+      "tvg_chno": 8841,
       "name_ar": "Viasat True Crime",
       "name_en": "Viasat True Crime",
       "country": "PL",
@@ -2844,7 +3081,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2852,7 +3089,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2860,9 +3097,9 @@
     {
       "id": "wedotvAuta.pl",
       "code": "WED-PL-001",
-      "index": 8894,
+      "index": 8912,
       "tvg_id": null,
-      "tvg_chno": 8994,
+      "tvg_chno": 9012,
       "name_ar": "wedotv Auta",
       "name_en": "wedotv Auta",
       "country": "PL",
@@ -2871,7 +3108,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2879,7 +3116,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2887,9 +3124,9 @@
     {
       "id": "WorldBilliards.pl",
       "code": "WOR-PL-001",
-      "index": 8943,
+      "index": 8961,
       "tvg_id": null,
-      "tvg_chno": 9043,
+      "tvg_chno": 9061,
       "name_ar": "World Billiards",
       "name_en": "World Billiards",
       "country": "PL",
@@ -2898,7 +3135,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2906,7 +3143,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -2914,9 +3151,9 @@
     {
       "id": "WPolscePL.pl",
       "code": "WPO-PL-001",
-      "index": 8954,
+      "index": 8972,
       "tvg_id": null,
-      "tvg_chno": 9054,
+      "tvg_chno": 9072,
       "name_ar": "W Polsce PL",
       "name_en": "W Polsce PL",
       "country": "PL",
@@ -2925,7 +3162,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2933,7 +3170,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2941,9 +3178,9 @@
     {
       "id": "p2",
       "code": "TVP-PL-009",
-      "index": 9787,
+      "index": 9803,
       "tvg_id": null,
-      "tvg_chno": 9887,
+      "tvg_chno": 9903,
       "name_ar": "TVP2",
       "name_en": "TVP2",
       "country": "PL",
@@ -2952,7 +3189,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP2_HD_logo.svg/500px-TVP2_HD_logo.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2960,7 +3197,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2968,9 +3205,9 @@
     {
       "id": "belsat",
       "code": "BEL-PL-001",
-      "index": 9788,
+      "index": 9804,
       "tvg_id": null,
-      "tvg_chno": 9888,
+      "tvg_chno": 9904,
       "name_ar": "Belsat",
       "name_en": "Belsat",
       "country": "PL",
@@ -2979,7 +3216,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2987,7 +3224,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
@@ -2995,9 +3232,9 @@
     {
       "id": "pkultura2",
       "code": "TVP-PL-010",
-      "index": 9789,
+      "index": 9805,
       "tvg_id": null,
-      "tvg_chno": 9889,
+      "tvg_chno": 9905,
       "name_ar": "TVP Kultura 2",
       "name_en": "TVP Kultura 2",
       "country": "PL",
@@ -3006,7 +3243,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVP_Kultura_2_%282020%29.svg/500px-TVP_Kultura_2_%282020%29.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3014,7 +3251,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": false
         }
       ]
@@ -3022,9 +3259,9 @@
     {
       "id": "republika",
       "code": "TVR-PL-002",
-      "index": 9790,
+      "index": 9806,
       "tvg_id": null,
-      "tvg_chno": 9890,
+      "tvg_chno": 9906,
       "name_ar": "TV Republika",
       "name_en": "TV Republika",
       "country": "PL",
@@ -3033,7 +3270,7 @@
       "logo": "https://i.imgur.com/ljpK6dZ.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-29T09:32:15.045103+00:00",
+      "last_checked": "2026-09-30T09:24:27.016591+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3041,11 +3278,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-29T09:32:15.045103+00:00",
+          "last_checked": "2026-09-30T09:24:27.016591+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-09-29T09:32:15.045103+00:00"
+  "last_updated": "2026-09-30T09:24:27.016591+00:00"
 }
