@@ -6,9 +6,9 @@
     {
       "id": "Sahara24.mr",
       "code": "SAH-MR-001",
-      "index": 6673,
+      "index": 6716,
       "tvg_id": null,
-      "tvg_chno": 6773,
+      "tvg_chno": 6816,
       "name_ar": "Sahara 24",
       "name_en": "Sahara 24",
       "country": "MR",
@@ -17,25 +17,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-30T09:24:27.016591+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-09-30T09:24:27.016591+00:00",
-          "is_working": true
+          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "sahara24صحراء",
       "code": "SAH-MR-002",
-      "index": 9994,
+      "index": 10063,
       "tvg_id": null,
-      "tvg_chno": 10094,
+      "tvg_chno": 10163,
       "name_ar": "Sahara 24 صحراء",
       "name_en": "Sahara 24 صحراء",
       "country": "MR",
@@ -44,7 +44,7 @@
       "logo": "https://imgur.com/a/7szNpBp",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-09-30T09:24:27.016591+00:00",
+      "last_checked": "2026-10-01T09:51:14.933965+00:00",
       "is_working": false,
       "streams": [
         {
@@ -52,11 +52,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-09-30T09:24:27.016591+00:00",
+          "last_checked": "2026-10-01T09:51:14.933965+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-09-30T09:24:27.016591+00:00"
+  "last_updated": "2026-10-01T09:51:14.933965+00:00"
 }
