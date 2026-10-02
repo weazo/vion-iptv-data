@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "EG",
-  "total_channels": 19,
+  "total_channels": 20,
   "channels": [
     {
       "id": "AghapyTV.eg",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -87,9 +87,9 @@
     {
       "id": "CopticTV.eg",
       "code": "COP-EG-001",
-      "index": 1986,
+      "index": 1992,
       "tvg_id": null,
-      "tvg_chno": 2086,
+      "tvg_chno": 2092,
       "name_ar": "Coptic TV",
       "name_en": "Coptic TV",
       "country": "EG",
@@ -98,25 +98,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://ctv.icopts.app/CTV/index.fmp4.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
-          "is_working": false
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "ElRadio9090FM.eg",
       "code": "ELR-EG-001",
-      "index": 2524,
+      "index": 2531,
       "tvg_id": null,
-      "tvg_chno": 2624,
+      "tvg_chno": 2631,
       "name_ar": "El Radio 9090 FM",
       "name_en": "El Radio 9090 FM",
       "country": "EG",
@@ -125,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -133,7 +133,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -141,9 +141,9 @@
     {
       "id": "HudaTV.eg",
       "code": "HUD-EG-001",
-      "index": 3384,
+      "index": 3390,
       "tvg_id": null,
-      "tvg_chno": 3484,
+      "tvg_chno": 3490,
       "name_ar": "Huda TV",
       "name_en": "Huda TV",
       "country": "EG",
@@ -152,7 +152,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -160,7 +160,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -168,9 +168,9 @@
     {
       "id": "KoogiTV.eg",
       "code": "KOO-EG-001",
-      "index": 3931,
+      "index": 3938,
       "tvg_id": null,
-      "tvg_chno": 4031,
+      "tvg_chno": 4038,
       "name_ar": "Koogi TV",
       "name_en": "Koogi TV",
       "country": "EG",
@@ -179,7 +179,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -187,7 +187,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -195,9 +195,9 @@
     {
       "id": "Mazzika.eg",
       "code": "MAZ-EG-001",
-      "index": 4394,
+      "index": 4402,
       "tvg_id": null,
-      "tvg_chno": 4494,
+      "tvg_chno": 4502,
       "name_ar": "Mazzika",
       "name_en": "Mazzika",
       "country": "EG",
@@ -206,7 +206,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -214,7 +214,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -222,9 +222,9 @@
     {
       "id": "MBC1Egypt.eg",
       "code": "MBC-EG-001",
-      "index": 4397,
+      "index": 4405,
       "tvg_id": null,
-      "tvg_chno": 4497,
+      "tvg_chno": 4505,
       "name_ar": "MBC 1 Egypt",
       "name_en": "MBC 1 Egypt",
       "country": "EG",
@@ -233,7 +233,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -241,7 +241,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -249,9 +249,9 @@
     {
       "id": "MBCMasr.eg",
       "code": "MBC-EG-002",
-      "index": 4411,
+      "index": 4419,
       "tvg_id": null,
-      "tvg_chno": 4511,
+      "tvg_chno": 4519,
       "name_ar": "MBC Masr",
       "name_en": "MBC Masr",
       "country": "EG",
@@ -260,7 +260,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -268,7 +268,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -276,9 +276,9 @@
     {
       "id": "MBCMasr2.eg",
       "code": "MBC-EG-003",
-      "index": 4412,
+      "index": 4420,
       "tvg_id": null,
-      "tvg_chno": 4512,
+      "tvg_chno": 4520,
       "name_ar": "MBC Masr 2",
       "name_en": "MBC Masr 2",
       "country": "EG",
@@ -287,7 +287,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -295,7 +295,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -303,9 +303,9 @@
     {
       "id": "MixHollywood.eg",
       "code": "MIX-EG-001",
-      "index": 4563,
+      "index": 4571,
       "tvg_id": null,
-      "tvg_chno": 4663,
+      "tvg_chno": 4671,
       "name_ar": "Mix Hollywood",
       "name_en": "Mix Hollywood",
       "country": "EG",
@@ -314,7 +314,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -322,7 +322,34 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "NileDrama.eg",
+      "code": "NIL-EG-001",
+      "index": 5054,
+      "tvg_id": null,
+      "tvg_chno": 5154,
+      "name_ar": "Nile Drama",
+      "name_en": "Nile Drama",
+      "country": "EG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://185.9.2.18/chid_352/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -330,9 +357,9 @@
     {
       "id": "NogoumFMTV.eg",
       "code": "NOG-EG-001",
-      "index": 5061,
+      "index": 5072,
       "tvg_id": null,
-      "tvg_chno": 5161,
+      "tvg_chno": 5172,
       "name_ar": "NogoumFMTV",
       "name_en": "NogoumFMTV",
       "country": "EG",
@@ -341,7 +368,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": false,
       "streams": [
         {
@@ -349,7 +376,7 @@
           "quality": "672p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": false
         }
       ]
@@ -357,9 +384,9 @@
     {
       "id": "RotanaCinemaEgypt.eg",
       "code": "ROT-EG-001",
-      "index": 6491,
+      "index": 6503,
       "tvg_id": null,
-      "tvg_chno": 6591,
+      "tvg_chno": 6603,
       "name_ar": "Rotana Cinema Egypt",
       "name_en": "Rotana Cinema Egypt",
       "country": "EG",
@@ -368,7 +395,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": false,
       "streams": [
         {
@@ -376,7 +403,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": false
         }
       ]
@@ -384,9 +411,9 @@
     {
       "id": "WatanTV.eg",
       "code": "WAT-EG-001",
-      "index": 8952,
+      "index": 8969,
       "tvg_id": null,
-      "tvg_chno": 9052,
+      "tvg_chno": 9069,
       "name_ar": "Watan TV",
       "name_en": "Watan TV",
       "country": "EG",
@@ -395,7 +422,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -403,7 +430,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -411,9 +438,9 @@
     {
       "id": "alghadplus",
       "code": "ALG-EG-002",
-      "index": 9385,
+      "index": 9402,
       "tvg_id": null,
-      "tvg_chno": 9485,
+      "tvg_chno": 9502,
       "name_ar": "Al Ghad Plus",
       "name_en": "Al Ghad Plus",
       "country": "EG",
@@ -422,7 +449,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": false,
       "streams": [
         {
@@ -430,7 +457,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": false
         }
       ]
@@ -438,9 +465,9 @@
     {
       "id": "alqaheranews",
       "code": "ALQ-EG-001",
-      "index": 9386,
+      "index": 9403,
       "tvg_id": null,
-      "tvg_chno": 9486,
+      "tvg_chno": 9503,
       "name_ar": "Al Qahera News",
       "name_en": "Al Qahera News",
       "country": "EG",
@@ -449,7 +476,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/ar/b/b0/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": false,
       "streams": [
         {
@@ -457,7 +484,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": false
         }
       ]
@@ -465,9 +492,9 @@
     {
       "id": "mbcmasr1",
       "code": "MBC-EG-004",
-      "index": 9387,
+      "index": 9404,
       "tvg_id": null,
-      "tvg_chno": 9487,
+      "tvg_chno": 9504,
       "name_ar": "MBC Masr 1",
       "name_en": "MBC Masr 1",
       "country": "EG",
@@ -476,7 +503,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": true,
       "streams": [
         {
@@ -484,7 +511,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": true
         }
       ]
@@ -492,9 +519,9 @@
     {
       "id": "rotanacinema",
       "code": "ROT-EG-002",
-      "index": 9388,
+      "index": 9405,
       "tvg_id": null,
-      "tvg_chno": 9488,
+      "tvg_chno": 9505,
       "name_ar": "Rotana Cinema",
       "name_en": "Rotana Cinema",
       "country": "EG",
@@ -503,7 +530,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-01T09:51:14.933965+00:00",
+      "last_checked": "2026-10-02T09:25:02.362062+00:00",
       "is_working": false,
       "streams": [
         {
@@ -511,11 +538,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-01T09:51:14.933965+00:00",
+          "last_checked": "2026-10-02T09:25:02.362062+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-01T09:51:14.933965+00:00"
+  "last_updated": "2026-10-02T09:25:02.362062+00:00"
 }
