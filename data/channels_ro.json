@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "RO",
-  "total_channels": 116,
+  "total_channels": 117,
   "channels": [
     {
       "id": "Acasa.ro",
@@ -17,15 +17,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
+      "is_working": true,
       "streams": [
+        {
+          "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": true
+        },
         {
           "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -44,15 +52,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
+      "is_working": true,
       "streams": [
+        {
+          "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": true
+        },
         {
           "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -60,9 +76,9 @@
     {
       "id": "AlephBusiness.ro",
       "code": "ALE-RO-001",
-      "index": 385,
+      "index": 384,
       "tvg_id": null,
-      "tvg_chno": 485,
+      "tvg_chno": 484,
       "name_ar": "Aleph Business",
       "name_en": "Aleph Business",
       "country": "RO",
@@ -71,7 +87,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +95,7 @@
           "quality": "1280p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -87,9 +103,9 @@
     {
       "id": "AlephNews.ro",
       "code": "ALE-RO-002",
-      "index": 386,
+      "index": 385,
       "tvg_id": null,
-      "tvg_chno": 486,
+      "tvg_chno": 485,
       "name_ar": "Aleph News",
       "name_en": "Aleph News",
       "country": "RO",
@@ -98,7 +114,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -106,7 +122,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -114,9 +130,9 @@
     {
       "id": "AlfaOmegaTV.ro",
       "code": "ALF-RO-001",
-      "index": 393,
+      "index": 392,
       "tvg_id": null,
-      "tvg_chno": 493,
+      "tvg_chno": 492,
       "name_ar": "Alfa Omega TV",
       "name_en": "Alfa Omega TV",
       "country": "RO",
@@ -125,7 +141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -133,7 +149,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -141,9 +157,9 @@
     {
       "id": "AngelusTV.ro",
       "code": "ANG-RO-001",
-      "index": 567,
+      "index": 566,
       "tvg_id": null,
-      "tvg_chno": 667,
+      "tvg_chno": 666,
       "name_ar": "Angelus TV",
       "name_en": "Angelus TV",
       "country": "RO",
@@ -152,7 +168,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -160,7 +176,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -168,9 +184,9 @@
     {
       "id": "AntenaInternational.ro",
       "code": "ANT-RO-001",
-      "index": 595,
+      "index": 594,
       "tvg_id": null,
-      "tvg_chno": 695,
+      "tvg_chno": 694,
       "name_ar": "Antena International",
       "name_en": "Antena International",
       "country": "RO",
@@ -179,7 +195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -187,7 +203,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -195,9 +211,9 @@
     {
       "id": "AntenaMonden.ro",
       "code": "ANT-RO-002",
-      "index": 596,
+      "index": 595,
       "tvg_id": null,
-      "tvg_chno": 696,
+      "tvg_chno": 695,
       "name_ar": "Antena Monden",
       "name_en": "Antena Monden",
       "country": "RO",
@@ -206,7 +222,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -214,7 +230,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -222,9 +238,9 @@
     {
       "id": "AntenaStars.ro",
       "code": "ANT-RO-003",
-      "index": 598,
+      "index": 597,
       "tvg_id": null,
-      "tvg_chno": 698,
+      "tvg_chno": 697,
       "name_ar": "Antena Stars",
       "name_en": "Antena Stars",
       "country": "RO",
@@ -233,7 +249,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -241,7 +257,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -249,9 +265,9 @@
     {
       "id": "ArgesTV.ro",
       "code": "ARG-RO-001",
-      "index": 658,
+      "index": 657,
       "tvg_id": null,
-      "tvg_chno": 758,
+      "tvg_chno": 757,
       "name_ar": "Arges TV",
       "name_en": "Arges TV",
       "country": "RO",
@@ -260,7 +276,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -268,7 +284,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -276,9 +292,9 @@
     {
       "id": "AsiaExpressNonStop.ro",
       "code": "ASI-RO-001",
-      "index": 700,
+      "index": 699,
       "tvg_id": null,
-      "tvg_chno": 800,
+      "tvg_chno": 799,
       "name_ar": "Asia Express NonStop",
       "name_en": "Asia Express NonStop",
       "country": "RO",
@@ -287,7 +303,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -295,7 +311,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -303,9 +319,9 @@
     {
       "id": "AtomicAcademyTV.ro",
       "code": "ATO-RO-001",
-      "index": 747,
+      "index": 746,
       "tvg_id": null,
-      "tvg_chno": 847,
+      "tvg_chno": 846,
       "name_ar": "Atomic Academy TV",
       "name_en": "Atomic Academy TV",
       "country": "RO",
@@ -314,7 +330,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -322,7 +338,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -330,9 +346,9 @@
     {
       "id": "AtomicTV.ro",
       "code": "ATO-RO-002",
-      "index": 748,
+      "index": 747,
       "tvg_id": null,
-      "tvg_chno": 848,
+      "tvg_chno": 847,
       "name_ar": "Atomic TV",
       "name_en": "Atomic TV",
       "country": "RO",
@@ -341,7 +357,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -349,7 +365,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -357,9 +373,9 @@
     {
       "id": "B1.ro",
       "code": "BXX-RO-001",
-      "index": 833,
+      "index": 832,
       "tvg_id": null,
-      "tvg_chno": 933,
+      "tvg_chno": 932,
       "name_ar": "B1",
       "name_en": "B1",
       "country": "RO",
@@ -368,7 +384,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -376,7 +392,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -384,9 +400,9 @@
     {
       "id": "BollywoodClassic.ro",
       "code": "BOL-RO-001",
-      "index": 1134,
+      "index": 1133,
       "tvg_id": null,
-      "tvg_chno": 1234,
+      "tvg_chno": 1233,
       "name_ar": "Bollywood Classic",
       "name_en": "Bollywood Classic",
       "country": "RO",
@@ -395,7 +411,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -403,7 +419,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -411,9 +427,9 @@
     {
       "id": "BollywoodFilm.ro",
       "code": "BOL-RO-002",
-      "index": 1135,
+      "index": 1134,
       "tvg_id": null,
-      "tvg_chno": 1235,
+      "tvg_chno": 1234,
       "name_ar": "Bollywood Film",
       "name_en": "Bollywood Film",
       "country": "RO",
@@ -422,7 +438,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -430,7 +446,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -438,9 +454,9 @@
     {
       "id": "BoomTV.ro",
       "code": "BOO-RO-001",
-      "index": 1147,
+      "index": 1146,
       "tvg_id": null,
-      "tvg_chno": 1247,
+      "tvg_chno": 1246,
       "name_ar": "Boom TV",
       "name_en": "Boom TV",
       "country": "RO",
@@ -449,25 +465,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://tvboom.ro/live-tv/live.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": true
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "BucovinaTV.ro",
       "code": "BUC-RO-001",
-      "index": 1213,
+      "index": 1212,
       "tvg_id": null,
-      "tvg_chno": 1313,
+      "tvg_chno": 1312,
       "name_ar": "Bucovina TV",
       "name_en": "Bucovina TV",
       "country": "RO",
@@ -476,7 +492,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -484,7 +500,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -492,9 +508,9 @@
     {
       "id": "Chefiro.ro",
       "code": "CHE-RO-001",
-      "index": 1720,
+      "index": 1719,
       "tvg_id": null,
-      "tvg_chno": 1820,
+      "tvg_chno": 1819,
       "name_ar": "Chefi.ro",
       "name_en": "Chefi.ro",
       "country": "RO",
@@ -503,7 +519,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -511,7 +527,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -519,9 +535,9 @@
     {
       "id": "CineMaraton.ro",
       "code": "CIN-RO-001",
-      "index": 1773,
+      "index": 1772,
       "tvg_id": null,
-      "tvg_chno": 1873,
+      "tvg_chno": 1872,
       "name_ar": "CineMaraton",
       "name_en": "CineMaraton",
       "country": "RO",
@@ -530,7 +546,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -538,7 +554,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -546,9 +562,9 @@
     {
       "id": "CinemaratonPlus.ro",
       "code": "CIN-RO-002",
-      "index": 1774,
+      "index": 1773,
       "tvg_id": null,
-      "tvg_chno": 1874,
+      "tvg_chno": 1873,
       "name_ar": "Cinemaraton Plus",
       "name_en": "Cinemaraton Plus",
       "country": "RO",
@@ -557,7 +573,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -565,7 +581,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -573,9 +589,9 @@
     {
       "id": "ColumnaTV.ro",
       "code": "COL-RO-001",
-      "index": 1947,
+      "index": 1946,
       "tvg_id": null,
-      "tvg_chno": 2047,
+      "tvg_chno": 2046,
       "name_ar": "Columna TV",
       "name_en": "Columna TV",
       "country": "RO",
@@ -584,7 +600,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -592,7 +608,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -600,9 +616,9 @@
     {
       "id": "ComedyPlay.ro",
       "code": "COM-RO-001",
-      "index": 1959,
+      "index": 1958,
       "tvg_id": null,
-      "tvg_chno": 2059,
+      "tvg_chno": 2058,
       "name_ar": "Comedy Play",
       "name_en": "Comedy Play",
       "country": "RO",
@@ -611,7 +627,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -619,7 +635,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -627,9 +643,9 @@
     {
       "id": "CredoTV.ro",
       "code": "CRE-RO-001",
-      "index": 2020,
+      "index": 2019,
       "tvg_id": null,
-      "tvg_chno": 2120,
+      "tvg_chno": 2119,
       "name_ar": "Credo TV",
       "name_en": "Credo TV",
       "country": "RO",
@@ -638,7 +654,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -646,7 +662,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -654,7 +670,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -662,17 +678,17 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "Digi24.ro",
       "code": "DIG-RO-001",
-      "index": 2277,
+      "index": 2276,
       "tvg_id": null,
-      "tvg_chno": 2377,
+      "tvg_chno": 2376,
       "name_ar": "Digi 24",
       "name_en": "Digi 24",
       "country": "RO",
@@ -681,7 +697,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -689,7 +705,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -697,9 +713,9 @@
     {
       "id": "DigiLife.ro",
       "code": "DIG-RO-002",
-      "index": 2278,
+      "index": 2277,
       "tvg_id": null,
-      "tvg_chno": 2378,
+      "tvg_chno": 2377,
       "name_ar": "Digi Life",
       "name_en": "Digi Life",
       "country": "RO",
@@ -708,7 +724,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -716,7 +732,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -724,9 +740,9 @@
     {
       "id": "DigiSport1.ro",
       "code": "DIG-RO-003",
-      "index": 2279,
+      "index": 2278,
       "tvg_id": null,
-      "tvg_chno": 2379,
+      "tvg_chno": 2378,
       "name_ar": "Digi Sport 1",
       "name_en": "Digi Sport 1",
       "country": "RO",
@@ -735,7 +751,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -743,7 +759,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -751,7 +767,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -759,9 +775,9 @@
     {
       "id": "DigiSport2.ro",
       "code": "DIG-RO-004",
-      "index": 2280,
+      "index": 2279,
       "tvg_id": null,
-      "tvg_chno": 2380,
+      "tvg_chno": 2379,
       "name_ar": "Digi Sport 2",
       "name_en": "Digi Sport 2",
       "country": "RO",
@@ -770,7 +786,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -778,7 +794,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -786,7 +802,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -794,9 +810,9 @@
     {
       "id": "DigiSport3.ro",
       "code": "DIG-RO-005",
-      "index": 2281,
+      "index": 2280,
       "tvg_id": null,
-      "tvg_chno": 2381,
+      "tvg_chno": 2380,
       "name_ar": "Digi Sport 3",
       "name_en": "Digi Sport 3",
       "country": "RO",
@@ -805,7 +821,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -813,7 +829,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -821,9 +837,9 @@
     {
       "id": "DigiSport4.ro",
       "code": "DIG-RO-006",
-      "index": 2282,
+      "index": 2281,
       "tvg_id": null,
-      "tvg_chno": 2382,
+      "tvg_chno": 2381,
       "name_ar": "Digi Sport 4",
       "name_en": "Digi Sport 4",
       "country": "RO",
@@ -832,7 +848,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -840,7 +856,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -848,9 +864,9 @@
     {
       "id": "DigiWorld.ro",
       "code": "DIG-RO-007",
-      "index": 2286,
+      "index": 2285,
       "tvg_id": null,
-      "tvg_chno": 2386,
+      "tvg_chno": 2385,
       "name_ar": "Digi World",
       "name_en": "Digi World",
       "country": "RO",
@@ -859,7 +875,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -867,7 +883,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -875,9 +891,9 @@
     {
       "id": "DottoTV.ro",
       "code": "DOT-RO-001",
-      "index": 2379,
+      "index": 2376,
       "tvg_id": null,
-      "tvg_chno": 2479,
+      "tvg_chno": 2476,
       "name_ar": "Dotto TV",
       "name_en": "Dotto TV",
       "country": "RO",
@@ -886,7 +902,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -894,7 +910,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -902,9 +918,9 @@
     {
       "id": "EMITV.ro",
       "code": "EMI-RO-001",
-      "index": 2552,
+      "index": 2548,
       "tvg_id": null,
-      "tvg_chno": 2652,
+      "tvg_chno": 2648,
       "name_ar": "EMI TV",
       "name_en": "EMI TV",
       "country": "RO",
@@ -913,7 +929,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -921,7 +937,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -929,9 +945,9 @@
     {
       "id": "EtnoTV.ro",
       "code": "ETN-RO-001",
-      "index": 2645,
+      "index": 2641,
       "tvg_id": null,
-      "tvg_chno": 2745,
+      "tvg_chno": 2741,
       "name_ar": "Etno TV",
       "name_en": "Etno TV",
       "country": "RO",
@@ -940,7 +956,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -948,7 +964,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -956,9 +972,9 @@
     {
       "id": "EuronewsRomania.ro",
       "code": "EUR-RO-001",
-      "index": 2682,
+      "index": 2678,
       "tvg_id": null,
-      "tvg_chno": 2782,
+      "tvg_chno": 2778,
       "name_ar": "Euronews Romania",
       "name_en": "Euronews Romania",
       "country": "RO",
@@ -967,7 +983,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -975,7 +991,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -983,7 +999,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -991,9 +1007,9 @@
     {
       "id": "FavoritTV.ro",
       "code": "FAV-RO-001",
-      "index": 2776,
+      "index": 2772,
       "tvg_id": null,
-      "tvg_chno": 2876,
+      "tvg_chno": 2872,
       "name_ar": "Favorit TV",
       "name_en": "Favorit TV",
       "country": "RO",
@@ -1002,7 +1018,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1010,7 +1026,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1018,9 +1034,9 @@
     {
       "id": "FilmNow.ro",
       "code": "FIL-RO-001",
-      "index": 2829,
+      "index": 2825,
       "tvg_id": null,
-      "tvg_chno": 2929,
+      "tvg_chno": 2925,
       "name_ar": "Film Now",
       "name_en": "Film Now",
       "country": "RO",
@@ -1029,7 +1045,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1037,7 +1053,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -1045,7 +1061,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -1053,9 +1069,9 @@
     {
       "id": "HappyChannel.ro",
       "code": "HAP-RO-001",
-      "index": 3198,
+      "index": 3193,
       "tvg_id": null,
-      "tvg_chno": 3298,
+      "tvg_chno": 3293,
       "name_ar": "Happy Channel",
       "name_en": "Happy Channel",
       "country": "RO",
@@ -1064,7 +1080,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1072,7 +1088,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1080,9 +1096,9 @@
     {
       "id": "HD365TV.ro",
       "code": "HDT-RO-001",
-      "index": 3224,
+      "index": 3219,
       "tvg_id": null,
-      "tvg_chno": 3324,
+      "tvg_chno": 3319,
       "name_ar": "HD365 TV",
       "name_en": "HD365 TV",
       "country": "RO",
@@ -1091,7 +1107,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1099,7 +1115,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1107,9 +1123,9 @@
     {
       "id": "HelloTaste.ro",
       "code": "HEL-RO-001",
-      "index": 3241,
+      "index": 3236,
       "tvg_id": null,
-      "tvg_chno": 3341,
+      "tvg_chno": 3336,
       "name_ar": "Hello Taste",
       "name_en": "Hello Taste",
       "country": "RO",
@@ -1118,7 +1134,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1126,7 +1142,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -1134,7 +1150,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1142,9 +1158,9 @@
     {
       "id": "Hunedoara1.ro",
       "code": "HUN-RO-001",
-      "index": 3400,
+      "index": 3395,
       "tvg_id": null,
-      "tvg_chno": 3500,
+      "tvg_chno": 3495,
       "name_ar": "Hunedoara 1",
       "name_en": "Hunedoara 1",
       "country": "RO",
@@ -1153,25 +1169,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://netstreaming.eu/hd1.m3u8",
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "IasiTVLife.ro",
       "code": "IAS-RO-001",
-      "index": 3413,
+      "index": 3408,
       "tvg_id": null,
-      "tvg_chno": 3513,
+      "tvg_chno": 3508,
       "name_ar": "IasiTV Life",
       "name_en": "IasiTV Life",
       "country": "RO",
@@ -1180,7 +1196,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1188,7 +1204,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -1196,9 +1212,9 @@
     {
       "id": "ImpactTV2.ro",
       "code": "IMP-RO-001",
-      "index": 3476,
+      "index": 3471,
       "tvg_id": null,
-      "tvg_chno": 3576,
+      "tvg_chno": 3571,
       "name_ar": "Impact TV 2",
       "name_en": "Impact TV 2",
       "country": "RO",
@@ -1207,7 +1223,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1215,7 +1231,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1223,9 +1239,9 @@
     {
       "id": "ImpactTVDance.ro",
       "code": "IMP-RO-002",
-      "index": 3477,
+      "index": 3472,
       "tvg_id": null,
-      "tvg_chno": 3577,
+      "tvg_chno": 3572,
       "name_ar": "Impact TV Dance",
       "name_en": "Impact TV Dance",
       "country": "RO",
@@ -1234,7 +1250,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1242,7 +1258,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1250,9 +1266,9 @@
     {
       "id": "ImpactTVManele.ro",
       "code": "IMP-RO-003",
-      "index": 3478,
+      "index": 3473,
       "tvg_id": null,
-      "tvg_chno": 3578,
+      "tvg_chno": 3573,
       "name_ar": "Impact TV Manele",
       "name_en": "Impact TV Manele",
       "country": "RO",
@@ -1261,7 +1277,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1269,7 +1285,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1277,9 +1293,9 @@
     {
       "id": "IneditTV.ro",
       "code": "INE-RO-001",
-      "index": 3501,
+      "index": 3496,
       "tvg_id": null,
-      "tvg_chno": 3601,
+      "tvg_chno": 3596,
       "name_ar": "Inedit TV",
       "name_en": "Inedit TV",
       "country": "RO",
@@ -1288,7 +1304,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1296,7 +1312,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1304,9 +1320,9 @@
     {
       "id": "InformatiaTV.ro",
       "code": "INF-RO-001",
-      "index": 3505,
+      "index": 3500,
       "tvg_id": null,
-      "tvg_chno": 3605,
+      "tvg_chno": 3600,
       "name_ar": "Informatia TV",
       "name_en": "Informatia TV",
       "country": "RO",
@@ -1315,7 +1331,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1323,7 +1339,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1331,9 +1347,9 @@
     {
       "id": "Insulanonstop.ro",
       "code": "INS-RO-001",
-      "index": 3518,
+      "index": 3513,
       "tvg_id": null,
-      "tvg_chno": 3618,
+      "tvg_chno": 3613,
       "name_ar": "Insula non stop",
       "name_en": "Insula non stop",
       "country": "RO",
@@ -1342,7 +1358,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1350,7 +1366,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1358,9 +1374,9 @@
     {
       "id": "JOBTV.ro",
       "code": "JOB-RO-001",
-      "index": 3680,
+      "index": 3675,
       "tvg_id": null,
-      "tvg_chno": 3780,
+      "tvg_chno": 3775,
       "name_ar": "JOB TV",
       "name_en": "JOB TV",
       "country": "RO",
@@ -1369,7 +1385,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1377,7 +1393,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1385,9 +1401,9 @@
     {
       "id": "KanalD.ro",
       "code": "KAN-RO-001",
-      "index": 3770,
+      "index": 3765,
       "tvg_id": null,
-      "tvg_chno": 3870,
+      "tvg_chno": 3865,
       "name_ar": "Kanal D",
       "name_en": "Kanal D",
       "country": "RO",
@@ -1396,7 +1412,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1404,7 +1420,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1412,9 +1428,9 @@
     {
       "id": "KanalD2.ro",
       "code": "KAN-RO-002",
-      "index": 3771,
+      "index": 3766,
       "tvg_id": null,
-      "tvg_chno": 3871,
+      "tvg_chno": 3866,
       "name_ar": "Kanal D2",
       "name_en": "Kanal D2",
       "country": "RO",
@@ -1423,7 +1439,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1431,7 +1447,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1439,9 +1455,9 @@
     {
       "id": "KapitalTV.ro",
       "code": "KAP-RO-001",
-      "index": 3788,
+      "index": 3783,
       "tvg_id": null,
-      "tvg_chno": 3888,
+      "tvg_chno": 3883,
       "name_ar": "Kapital TV",
       "name_en": "Kapital TV",
       "country": "RO",
@@ -1450,7 +1466,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1458,7 +1474,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -1466,9 +1482,9 @@
     {
       "id": "KissTV.ro",
       "code": "KIS-RO-001",
-      "index": 3893,
+      "index": 3888,
       "tvg_id": null,
-      "tvg_chno": 3993,
+      "tvg_chno": 3988,
       "name_ar": "Kiss TV",
       "name_en": "Kiss TV",
       "country": "RO",
@@ -1477,7 +1493,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1485,7 +1501,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1493,9 +1509,9 @@
     {
       "id": "MediCOOLTV.ro",
       "code": "MED-RO-001",
-      "index": 4451,
+      "index": 4445,
       "tvg_id": null,
-      "tvg_chno": 4551,
+      "tvg_chno": 4545,
       "name_ar": "MediCOOL TV",
       "name_en": "MediCOOL TV",
       "country": "RO",
@@ -1504,7 +1520,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1512,7 +1528,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1520,9 +1536,9 @@
     {
       "id": "MetropolaTV.ro",
       "code": "MET-RO-001",
-      "index": 4495,
+      "index": 4489,
       "tvg_id": null,
-      "tvg_chno": 4595,
+      "tvg_chno": 4589,
       "name_ar": "Metropola TV",
       "name_en": "Metropola TV",
       "country": "RO",
@@ -1531,7 +1547,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1539,7 +1555,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1547,9 +1563,9 @@
     {
       "id": "Mireasa.ro",
       "code": "MIR-RO-001",
-      "index": 4553,
+      "index": 4547,
       "tvg_id": null,
-      "tvg_chno": 4653,
+      "tvg_chno": 4647,
       "name_ar": "Mireasa",
       "name_en": "Mireasa",
       "country": "RO",
@@ -1558,7 +1574,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1566,7 +1582,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1574,9 +1590,9 @@
     {
       "id": "MireasaExtra.ro",
       "code": "MIR-RO-002",
-      "index": 4554,
+      "index": 4548,
       "tvg_id": null,
-      "tvg_chno": 4654,
+      "tvg_chno": 4648,
       "name_ar": "Mireasa Extra",
       "name_en": "Mireasa Extra",
       "country": "RO",
@@ -1585,7 +1601,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1593,7 +1609,7 @@
           "quality": null,
           "protocol": "rtmp",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -1601,9 +1617,9 @@
     {
       "id": "MISATV.ro",
       "code": "MIS-RO-001",
-      "index": 4558,
+      "index": 4552,
       "tvg_id": null,
-      "tvg_chno": 4658,
+      "tvg_chno": 4652,
       "name_ar": "MISA TV",
       "name_en": "MISA TV",
       "country": "RO",
@@ -1612,7 +1628,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1620,7 +1636,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1628,9 +1644,9 @@
     {
       "id": "MoozDance.ro",
       "code": "MOO-RO-001",
-      "index": 4631,
+      "index": 4624,
       "tvg_id": null,
-      "tvg_chno": 4731,
+      "tvg_chno": 4724,
       "name_ar": "Mooz Dance",
       "name_en": "Mooz Dance",
       "country": "RO",
@@ -1639,7 +1655,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1647,7 +1663,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1655,9 +1671,9 @@
     {
       "id": "MoozHits.ro",
       "code": "MOO-RO-002",
-      "index": 4632,
+      "index": 4625,
       "tvg_id": null,
-      "tvg_chno": 4732,
+      "tvg_chno": 4725,
       "name_ar": "Mooz Hits",
       "name_en": "Mooz Hits",
       "country": "RO",
@@ -1666,7 +1682,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1674,7 +1690,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1682,9 +1698,9 @@
     {
       "id": "MoozRo.ro",
       "code": "MOO-RO-003",
-      "index": 4633,
+      "index": 4626,
       "tvg_id": null,
-      "tvg_chno": 4733,
+      "tvg_chno": 4726,
       "name_ar": "Mooz Ro!",
       "name_en": "Mooz Ro!",
       "country": "RO",
@@ -1693,7 +1709,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1701,7 +1717,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1709,9 +1725,9 @@
     {
       "id": "MuscelTV.ro",
       "code": "MUS-RO-001",
-      "index": 4767,
+      "index": 4760,
       "tvg_id": null,
-      "tvg_chno": 4867,
+      "tvg_chno": 4860,
       "name_ar": "Muscel TV",
       "name_en": "Muscel TV",
       "country": "RO",
@@ -1720,7 +1736,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1728,7 +1744,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1736,9 +1752,9 @@
     {
       "id": "NasulTV.ro",
       "code": "NAS-RO-001",
-      "index": 4859,
+      "index": 4851,
       "tvg_id": null,
-      "tvg_chno": 4959,
+      "tvg_chno": 4951,
       "name_ar": "Nasul TV",
       "name_en": "Nasul TV",
       "country": "RO",
@@ -1747,7 +1763,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1755,7 +1771,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1763,9 +1779,9 @@
     {
       "id": "National24Plus.ro",
       "code": "NAT-RO-001",
-      "index": 4863,
+      "index": 4855,
       "tvg_id": null,
-      "tvg_chno": 4963,
+      "tvg_chno": 4955,
       "name_ar": "National 24 Plus",
       "name_en": "National 24 Plus",
       "country": "RO",
@@ -1774,7 +1790,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1782,7 +1798,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1790,9 +1806,9 @@
     {
       "id": "NationalTV.ro",
       "code": "NAT-RO-002",
-      "index": 4869,
+      "index": 4861,
       "tvg_id": null,
-      "tvg_chno": 4969,
+      "tvg_chno": 4961,
       "name_ar": "National TV",
       "name_en": "National TV",
       "country": "RO",
@@ -1801,7 +1817,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1809,7 +1825,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1817,9 +1833,9 @@
     {
       "id": "NovaTVBrasov.ro",
       "code": "NOV-RO-001",
-      "index": 5110,
+      "index": 5102,
       "tvg_id": null,
-      "tvg_chno": 5210,
+      "tvg_chno": 5202,
       "name_ar": "Nova TV Brasov",
       "name_en": "Nova TV Brasov",
       "country": "RO",
@@ -1828,7 +1844,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1836,7 +1852,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1844,9 +1860,9 @@
     {
       "id": "ObservatorNews.ro",
       "code": "OBS-RO-001",
-      "index": 5204,
+      "index": 5196,
       "tvg_id": null,
-      "tvg_chno": 5304,
+      "tvg_chno": 5296,
       "name_ar": "Observator News",
       "name_en": "Observator News",
       "country": "RO",
@@ -1855,7 +1871,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1863,7 +1879,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1871,9 +1887,9 @@
     {
       "id": "PartyMix.ro",
       "code": "PAR-RO-001",
-      "index": 5442,
+      "index": 5434,
       "tvg_id": null,
-      "tvg_chno": 5542,
+      "tvg_chno": 5534,
       "name_ar": "Party Mix",
       "name_en": "Party Mix",
       "country": "RO",
@@ -1882,7 +1898,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1890,7 +1906,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1898,9 +1914,9 @@
     {
       "id": "PrimaNews.ro",
       "code": "PRI-RO-001",
-      "index": 5941,
+      "index": 5933,
       "tvg_id": null,
-      "tvg_chno": 6041,
+      "tvg_chno": 6033,
       "name_ar": "Prima News",
       "name_en": "Prima News",
       "country": "RO",
@@ -1909,7 +1925,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1917,7 +1933,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1925,9 +1941,9 @@
     {
       "id": "PrimaSport5.ro",
       "code": "PRI-RO-002",
-      "index": 5945,
+      "index": 5937,
       "tvg_id": null,
-      "tvg_chno": 6045,
+      "tvg_chno": 6037,
       "name_ar": "Prima Sport 5",
       "name_en": "Prima Sport 5",
       "country": "RO",
@@ -1936,7 +1952,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1944,7 +1960,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1952,9 +1968,9 @@
     {
       "id": "ProArena.ro",
       "code": "PRO-RO-001",
-      "index": 5960,
+      "index": 5952,
       "tvg_id": null,
-      "tvg_chno": 6060,
+      "tvg_chno": 6052,
       "name_ar": "Pro Arena",
       "name_en": "Pro Arena",
       "country": "RO",
@@ -1963,15 +1979,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": true
+        },
         {
           "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -1979,7 +2003,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1987,9 +2011,9 @@
     {
       "id": "ProCinema.ro",
       "code": "PRO-RO-002",
-      "index": 5963,
+      "index": 5955,
       "tvg_id": null,
-      "tvg_chno": 6063,
+      "tvg_chno": 6055,
       "name_ar": "Pro Cinema",
       "name_en": "Pro Cinema",
       "country": "RO",
@@ -1998,15 +2022,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": true
+        },
         {
           "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -2014,7 +2046,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2022,9 +2054,9 @@
     {
       "id": "PROFI24TV.ro",
       "code": "PRO-RO-003",
-      "index": 5967,
+      "index": 5959,
       "tvg_id": null,
-      "tvg_chno": 6067,
+      "tvg_chno": 6059,
       "name_ar": "PROFI 24 TV",
       "name_en": "PROFI 24 TV",
       "country": "RO",
@@ -2033,7 +2065,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2041,7 +2073,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2049,9 +2081,9 @@
     {
       "id": "PROTV.ro",
       "code": "PRO-RO-004",
-      "index": 5978,
+      "index": 5970,
       "tvg_id": null,
-      "tvg_chno": 6078,
+      "tvg_chno": 6070,
       "name_ar": "PRO TV",
       "name_en": "PRO TV",
       "country": "RO",
@@ -2060,7 +2092,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2068,7 +2100,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -2076,7 +2108,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -2084,7 +2116,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -2092,7 +2124,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2100,9 +2132,9 @@
     {
       "id": "PROTVInternational.ro",
       "code": "PRO-RO-005",
-      "index": 5980,
+      "index": 5972,
       "tvg_id": null,
-      "tvg_chno": 6080,
+      "tvg_chno": 6072,
       "name_ar": "PRO TV International",
       "name_en": "PRO TV International",
       "country": "RO",
@@ -2111,7 +2143,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2119,7 +2151,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2127,9 +2159,9 @@
     {
       "id": "PROTVNews.ro",
       "code": "PRO-RO-006",
-      "index": 5981,
+      "index": 5973,
       "tvg_id": null,
-      "tvg_chno": 6081,
+      "tvg_chno": 6073,
       "name_ar": "PROTV News",
       "name_en": "PROTV News",
       "country": "RO",
@@ -2138,7 +2170,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2146,7 +2178,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2154,9 +2186,9 @@
     {
       "id": "QubTV.ro",
       "code": "QUB-RO-001",
-      "index": 6074,
+      "index": 6066,
       "tvg_id": null,
-      "tvg_chno": 6174,
+      "tvg_chno": 6166,
       "name_ar": "Qub TV",
       "name_en": "Qub TV",
       "country": "RO",
@@ -2165,7 +2197,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2173,7 +2205,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2181,9 +2213,9 @@
     {
       "id": "RadioFxNet.ro",
       "code": "RAD-RO-001",
-      "index": 6148,
+      "index": 6142,
       "tvg_id": null,
-      "tvg_chno": 6248,
+      "tvg_chno": 6242,
       "name_ar": "Radio Fx Net",
       "name_en": "Radio Fx Net",
       "country": "RO",
@@ -2192,7 +2224,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2200,7 +2232,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2208,9 +2240,9 @@
     {
       "id": "RadioRomania3Net.ro",
       "code": "RAD-RO-002",
-      "index": 6188,
+      "index": 6182,
       "tvg_id": null,
-      "tvg_chno": 6288,
+      "tvg_chno": 6282,
       "name_ar": "Radio Romania 3Net",
       "name_en": "Radio Romania 3Net",
       "country": "RO",
@@ -2219,7 +2251,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2227,7 +2259,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2235,9 +2267,9 @@
     {
       "id": "RadioRomaniaAntenaSatelor.ro",
       "code": "RAD-RO-003",
-      "index": 6189,
+      "index": 6183,
       "tvg_id": null,
-      "tvg_chno": 6289,
+      "tvg_chno": 6283,
       "name_ar": "Radio Romania Antena Satelor",
       "name_en": "Radio Romania Antena Satelor",
       "country": "RO",
@@ -2246,7 +2278,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2254,7 +2286,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2262,9 +2294,9 @@
     {
       "id": "RadioRomaniaOlteniaCraiova.ro",
       "code": "RAD-RO-004",
-      "index": 6190,
+      "index": 6184,
       "tvg_id": null,
-      "tvg_chno": 6290,
+      "tvg_chno": 6284,
       "name_ar": "Radio Romania Oltenia-Craiova",
       "name_en": "Radio Romania Oltenia-Craiova",
       "country": "RO",
@@ -2273,7 +2305,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2281,7 +2313,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2289,9 +2321,9 @@
     {
       "id": "RadioRomaniaTarguMures.ro",
       "code": "RAD-RO-005",
-      "index": 6191,
+      "index": 6185,
       "tvg_id": null,
-      "tvg_chno": 6291,
+      "tvg_chno": 6285,
       "name_ar": "Radio Romania Targu Mures",
       "name_en": "Radio Romania Targu Mures",
       "country": "RO",
@@ -2300,15 +2332,42 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RapsodiaTV.ro",
+      "code": "RAP-RO-001",
+      "index": 6284,
+      "tvg_id": null,
+      "tvg_chno": 6384,
+      "name_ar": "Rapsodia TV",
+      "name_en": "Rapsodia TV",
+      "country": "RO",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2316,9 +2375,9 @@
     {
       "id": "RealitateaPlus.ro",
       "code": "REA-RO-001",
-      "index": 6325,
+      "index": 6320,
       "tvg_id": null,
-      "tvg_chno": 6425,
+      "tvg_chno": 6420,
       "name_ar": "Realitatea Plus",
       "name_en": "Realitatea Plus",
       "country": "RO",
@@ -2327,7 +2386,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2335,7 +2394,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2343,9 +2402,9 @@
     {
       "id": "RealitateaSportiva.ro",
       "code": "REA-RO-002",
-      "index": 6326,
+      "index": 6321,
       "tvg_id": null,
-      "tvg_chno": 6426,
+      "tvg_chno": 6421,
       "name_ar": "Realitatea Sportiva",
       "name_en": "Realitatea Sportiva",
       "country": "RO",
@@ -2354,7 +2413,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2362,7 +2421,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2370,9 +2429,9 @@
     {
       "id": "RealitateaStar.ro",
       "code": "REA-RO-003",
-      "index": 6327,
+      "index": 6322,
       "tvg_id": null,
-      "tvg_chno": 6427,
+      "tvg_chno": 6422,
       "name_ar": "Realitatea Star",
       "name_en": "Realitatea Star",
       "country": "RO",
@@ -2381,7 +2440,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2389,7 +2448,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2397,9 +2456,9 @@
     {
       "id": "RomaniaTV.ro",
       "code": "ROM-RO-001",
-      "index": 6495,
+      "index": 6490,
       "tvg_id": null,
-      "tvg_chno": 6595,
+      "tvg_chno": 6590,
       "name_ar": "Romania TV",
       "name_en": "Romania TV",
       "country": "RO",
@@ -2408,7 +2467,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2416,7 +2475,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2424,9 +2483,9 @@
     {
       "id": "SperantaTV.ro",
       "code": "SPE-RO-001",
-      "index": 7185,
+      "index": 7175,
       "tvg_id": null,
-      "tvg_chno": 7285,
+      "tvg_chno": 7275,
       "name_ar": "SperantaTV",
       "name_en": "SperantaTV",
       "country": "RO",
@@ -2435,7 +2494,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2443,7 +2502,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2451,9 +2510,9 @@
     {
       "id": "TarafTV.ro",
       "code": "TAR-RO-001",
-      "index": 7500,
+      "index": 7492,
       "tvg_id": null,
-      "tvg_chno": 7600,
+      "tvg_chno": 7592,
       "name_ar": "Taraf TV",
       "name_en": "Taraf TV",
       "country": "RO",
@@ -2462,7 +2521,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2470,7 +2529,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2478,9 +2537,9 @@
     {
       "id": "Tele7ABCHD.ro",
       "code": "TEL-RO-001",
-      "index": 7560,
+      "index": 7552,
       "tvg_id": null,
-      "tvg_chno": 7660,
+      "tvg_chno": 7652,
       "name_ar": "Tele7ABC HD",
       "name_en": "Tele7ABC HD",
       "country": "RO",
@@ -2489,7 +2548,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2497,7 +2556,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2505,9 +2564,9 @@
     {
       "id": "Tele7music.ro",
       "code": "TEL-RO-002",
-      "index": 7561,
+      "index": 7553,
       "tvg_id": null,
-      "tvg_chno": 7661,
+      "tvg_chno": 7653,
       "name_ar": "Tele7music",
       "name_en": "Tele7music",
       "country": "RO",
@@ -2516,7 +2575,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2524,7 +2583,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2532,9 +2591,9 @@
     {
       "id": "TeleMBotosani.ro",
       "code": "TEL-RO-003",
-      "index": 7645,
+      "index": 7637,
       "tvg_id": null,
-      "tvg_chno": 7745,
+      "tvg_chno": 7737,
       "name_ar": "TeleM Botosani",
       "name_en": "TeleM Botosani",
       "country": "RO",
@@ -2543,7 +2602,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2551,7 +2610,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2559,9 +2618,9 @@
     {
       "id": "TeleMoldovaPlus.ro",
       "code": "TEL-RO-004",
-      "index": 7656,
+      "index": 7648,
       "tvg_id": null,
-      "tvg_chno": 7756,
+      "tvg_chno": 7748,
       "name_ar": "TeleMoldova +",
       "name_en": "TeleMoldova +",
       "country": "RO",
@@ -2570,7 +2629,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2578,7 +2637,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2586,9 +2645,9 @@
     {
       "id": "Telestar1.ro",
       "code": "TEL-RO-005",
-      "index": 7716,
+      "index": 7708,
       "tvg_id": null,
-      "tvg_chno": 7816,
+      "tvg_chno": 7808,
       "name_ar": "Telestar1",
       "name_en": "Telestar1",
       "country": "RO",
@@ -2597,7 +2656,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2605,7 +2664,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2613,9 +2672,9 @@
     {
       "id": "TraditionalTV.ro",
       "code": "TRA-RO-001",
-      "index": 8032,
+      "index": 8024,
       "tvg_id": null,
-      "tvg_chno": 8132,
+      "tvg_chno": 8124,
       "name_ar": "Traditional TV",
       "name_en": "Traditional TV",
       "country": "RO",
@@ -2624,7 +2683,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2632,7 +2691,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -2640,9 +2699,9 @@
     {
       "id": "TraLaLaTV.ro",
       "code": "TRA-RO-002",
-      "index": 8034,
+      "index": 8026,
       "tvg_id": null,
-      "tvg_chno": 8134,
+      "tvg_chno": 8126,
       "name_ar": "TraLaLa TV",
       "name_en": "TraLaLa TV",
       "country": "RO",
@@ -2651,7 +2710,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2659,7 +2718,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2667,9 +2726,9 @@
     {
       "id": "TVBuzau.ro",
       "code": "TVB-RO-001",
-      "index": 8230,
+      "index": 8220,
       "tvg_id": null,
-      "tvg_chno": 8330,
+      "tvg_chno": 8320,
       "name_ar": "TV Buzau",
       "name_en": "TV Buzau",
       "country": "RO",
@@ -2678,7 +2737,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2686,7 +2745,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2694,9 +2753,9 @@
     {
       "id": "TVPlusSuceava.ro",
       "code": "TVP-RO-001",
-      "index": 8460,
+      "index": 8449,
       "tvg_id": null,
-      "tvg_chno": 8560,
+      "tvg_chno": 8549,
       "name_ar": "TVPlus Suceava",
       "name_en": "TVPlus Suceava",
       "country": "RO",
@@ -2705,7 +2764,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2713,7 +2772,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -2721,7 +2780,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2729,9 +2788,9 @@
     {
       "id": "TVR3.ro",
       "code": "TVR-RO-001",
-      "index": 8475,
+      "index": 8464,
       "tvg_id": null,
-      "tvg_chno": 8575,
+      "tvg_chno": 8564,
       "name_ar": "TVR 3",
       "name_en": "TVR 3",
       "country": "RO",
@@ -2740,7 +2799,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2748,7 +2807,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2756,9 +2815,9 @@
     {
       "id": "TVRCluj.ro",
       "code": "TVR-RO-002",
-      "index": 8478,
+      "index": 8467,
       "tvg_id": null,
-      "tvg_chno": 8578,
+      "tvg_chno": 8567,
       "name_ar": "TVR Cluj",
       "name_en": "TVR Cluj",
       "country": "RO",
@@ -2767,7 +2826,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2775,7 +2834,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2783,9 +2842,9 @@
     {
       "id": "TVRCraiova.ro",
       "code": "TVR-RO-003",
-      "index": 8479,
+      "index": 8468,
       "tvg_id": null,
-      "tvg_chno": 8579,
+      "tvg_chno": 8568,
       "name_ar": "TVR Craiova",
       "name_en": "TVR Craiova",
       "country": "RO",
@@ -2794,7 +2853,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2802,7 +2861,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2810,9 +2869,9 @@
     {
       "id": "TVRCultural.ro",
       "code": "TVR-RO-004",
-      "index": 8480,
+      "index": 8469,
       "tvg_id": null,
-      "tvg_chno": 8580,
+      "tvg_chno": 8569,
       "name_ar": "TVR Cultural",
       "name_en": "TVR Cultural",
       "country": "RO",
@@ -2821,7 +2880,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2829,7 +2888,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2837,9 +2896,9 @@
     {
       "id": "TVRFolclor.ro",
       "code": "TVR-RO-005",
-      "index": 8483,
+      "index": 8472,
       "tvg_id": null,
-      "tvg_chno": 8583,
+      "tvg_chno": 8572,
       "name_ar": "TVR Folclor",
       "name_en": "TVR Folclor",
       "country": "RO",
@@ -2848,7 +2907,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2856,7 +2915,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2864,9 +2923,9 @@
     {
       "id": "TVRIasi.ro",
       "code": "TVR-RO-006",
-      "index": 8484,
+      "index": 8473,
       "tvg_id": null,
-      "tvg_chno": 8584,
+      "tvg_chno": 8573,
       "name_ar": "TVR Iasi",
       "name_en": "TVR Iasi",
       "country": "RO",
@@ -2875,7 +2934,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2883,7 +2942,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -2891,7 +2950,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -2899,7 +2958,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2907,9 +2966,9 @@
     {
       "id": "TVRInfo.ro",
       "code": "TVR-RO-007",
-      "index": 8485,
+      "index": 8474,
       "tvg_id": null,
-      "tvg_chno": 8585,
+      "tvg_chno": 8574,
       "name_ar": "TVR Info",
       "name_en": "TVR Info",
       "country": "RO",
@@ -2918,7 +2977,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2926,7 +2985,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2934,9 +2993,9 @@
     {
       "id": "TVRInternational.ro",
       "code": "TVR-RO-008",
-      "index": 8486,
+      "index": 8475,
       "tvg_id": null,
-      "tvg_chno": 8586,
+      "tvg_chno": 8575,
       "name_ar": "TVR International",
       "name_en": "TVR International",
       "country": "RO",
@@ -2945,7 +3004,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2953,7 +3012,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2961,9 +3020,9 @@
     {
       "id": "TVRSport.ro",
       "code": "TVR-RO-009",
-      "index": 8496,
+      "index": 8485,
       "tvg_id": null,
-      "tvg_chno": 8596,
+      "tvg_chno": 8585,
       "name_ar": "TVR Sport",
       "name_en": "TVR Sport",
       "country": "RO",
@@ -2972,7 +3031,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2980,7 +3039,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -2988,9 +3047,9 @@
     {
       "id": "TVRTarguMures.ro",
       "code": "TVR-RO-010",
-      "index": 8497,
+      "index": 8486,
       "tvg_id": null,
-      "tvg_chno": 8597,
+      "tvg_chno": 8586,
       "name_ar": "TVR Targu-Mures",
       "name_en": "TVR Targu-Mures",
       "country": "RO",
@@ -2999,7 +3058,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3007,7 +3066,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -3015,9 +3074,9 @@
     {
       "id": "TVRTimisoara.ro",
       "code": "TVR-RO-011",
-      "index": 8498,
+      "index": 8487,
       "tvg_id": null,
-      "tvg_chno": 8598,
+      "tvg_chno": 8587,
       "name_ar": "TVR Timisoara",
       "name_en": "TVR Timisoara",
       "country": "RO",
@@ -3026,7 +3085,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3034,7 +3093,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -3042,9 +3101,9 @@
     {
       "id": "TVSat.ro",
       "code": "TVS-RO-001",
-      "index": 8505,
+      "index": 8494,
       "tvg_id": null,
-      "tvg_chno": 8605,
+      "tvg_chno": 8594,
       "name_ar": "TVSat",
       "name_en": "TVSat",
       "country": "RO",
@@ -3053,7 +3112,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3061,7 +3120,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -3069,9 +3128,9 @@
     {
       "id": "TVSE.ro",
       "code": "TVS-RO-002",
-      "index": 8515,
+      "index": 8504,
       "tvg_id": null,
-      "tvg_chno": 8615,
+      "tvg_chno": 8604,
       "name_ar": "TV SE",
       "name_en": "TV SE",
       "country": "RO",
@@ -3080,7 +3139,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3088,7 +3147,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -3096,9 +3155,9 @@
     {
       "id": "TVSUD.ro",
       "code": "TVS-RO-003",
-      "index": 8559,
+      "index": 8548,
       "tvg_id": null,
-      "tvg_chno": 8659,
+      "tvg_chno": 8648,
       "name_ar": "TV SUD",
       "name_en": "TV SUD",
       "country": "RO",
@@ -3107,7 +3166,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3115,7 +3174,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -3123,9 +3182,9 @@
     {
       "id": "romnia",
       "code": "ROM-RO-002",
-      "index": 9906,
+      "index": 9893,
       "tvg_id": null,
-      "tvg_chno": 10006,
+      "tvg_chno": 9993,
       "name_ar": "România TV Ⓖ",
       "name_en": "România TV Ⓖ",
       "country": "RO",
@@ -3134,7 +3193,7 @@
       "logo": "https://i.imgur.com/ZIfEp5I.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3142,7 +3201,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -3150,9 +3209,9 @@
     {
       "id": "euronewsromnia",
       "code": "EUR-RO-002",
-      "index": 9907,
+      "index": 9894,
       "tvg_id": null,
-      "tvg_chno": 10007,
+      "tvg_chno": 9994,
       "name_ar": "Euronews România Ⓨ",
       "name_en": "Euronews România Ⓨ",
       "country": "RO",
@@ -3161,7 +3220,7 @@
       "logo": "https://i.imgur.com/jUOVUXt.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3169,7 +3228,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -3177,9 +3236,9 @@
     {
       "id": "riai",
       "code": "TVR-RO-012",
-      "index": 9908,
+      "index": 9895,
       "tvg_id": null,
-      "tvg_chno": 10008,
+      "tvg_chno": 9995,
       "name_ar": "TVR Iași Ⓖ",
       "name_en": "TVR Iași Ⓖ",
       "country": "RO",
@@ -3188,7 +3247,7 @@
       "logo": "https://i.imgur.com/Kxkihds.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3196,7 +3255,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -3204,9 +3263,9 @@
     {
       "id": "rtimioara",
       "code": "TVR-RO-013",
-      "index": 9909,
+      "index": 9896,
       "tvg_id": null,
-      "tvg_chno": 10009,
+      "tvg_chno": 9996,
       "name_ar": "TVR Timișoara Ⓖ",
       "name_en": "TVR Timișoara Ⓖ",
       "country": "RO",
@@ -3215,7 +3274,7 @@
       "logo": "https://i.imgur.com/Db3DV6H.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3223,7 +3282,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -3231,9 +3290,9 @@
     {
       "id": "rtrgumure",
       "code": "TVR-RO-014",
-      "index": 9910,
+      "index": 9897,
       "tvg_id": null,
-      "tvg_chno": 10010,
+      "tvg_chno": 9997,
       "name_ar": "TVR Tîrgu-Mureș Ⓖ",
       "name_en": "TVR Tîrgu-Mureș Ⓖ",
       "country": "RO",
@@ -3242,7 +3301,7 @@
       "logo": "https://i.imgur.com/9Hptdqj.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3250,11 +3309,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-03T08:56:45.149976+00:00"
+  "last_updated": "2026-10-04T09:24:18.282209+00:00"
 }

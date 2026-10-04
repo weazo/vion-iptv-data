@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "AL",
-  "total_channels": 34,
+  "total_channels": 27,
   "channels": [
     {
       "id": "AlbKanaleMusicTV.al",
       "code": "ALB-AL-001",
-      "index": 375,
+      "index": 374,
       "tvg_id": null,
-      "tvg_chno": 475,
+      "tvg_chno": 474,
       "name_ar": "AlbKanale Music TV",
       "name_en": "AlbKanale Music TV",
       "country": "AL",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -33,7 +33,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -41,9 +41,9 @@
     {
       "id": "AlpoTV.al",
       "code": "ALP-AL-001",
-      "index": 460,
+      "index": 459,
       "tvg_id": null,
-      "tvg_chno": 560,
+      "tvg_chno": 559,
       "name_ar": "Alpo TV",
       "name_en": "Alpo TV",
       "country": "AL",
@@ -52,7 +52,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -60,7 +60,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -68,7 +68,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -76,9 +76,9 @@
     {
       "id": "CNA.al",
       "code": "CNA-AL-001",
-      "index": 1895,
+      "index": 1894,
       "tvg_id": null,
-      "tvg_chno": 1995,
+      "tvg_chno": 1994,
       "name_ar": "CNA",
       "name_en": "CNA",
       "country": "AL",
@@ -87,7 +87,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -95,7 +95,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -103,7 +103,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -111,7 +111,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -119,9 +119,9 @@
     {
       "id": "Cufo.al",
       "code": "CUF-AL-001",
-      "index": 2076,
+      "index": 2075,
       "tvg_id": null,
-      "tvg_chno": 2176,
+      "tvg_chno": 2175,
       "name_ar": "Cufo",
       "name_en": "Cufo",
       "country": "AL",
@@ -130,7 +130,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -138,34 +138,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "ElrodiTV.al",
-      "code": "ELR-AL-001",
-      "index": 2533,
-      "tvg_id": null,
-      "tvg_chno": 2633,
-      "name_ar": "Elrodi TV",
-      "name_en": "Elrodi TV",
-      "country": "AL",
-      "language": "unknown",
-      "category": "music",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106/8718/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -173,9 +146,9 @@
     {
       "id": "FieriTv.al",
       "code": "FIE-AL-001",
-      "index": 2800,
+      "index": 2796,
       "tvg_id": null,
-      "tvg_chno": 2900,
+      "tvg_chno": 2896,
       "name_ar": "Fieri Tv",
       "name_en": "Fieri Tv",
       "country": "AL",
@@ -184,7 +157,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -192,61 +165,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "Max.al",
-      "code": "MAX-AL-001",
-      "index": 4392,
-      "tvg_id": null,
-      "tvg_chno": 4492,
-      "name_ar": "Max",
-      "name_en": "Max",
-      "country": "AL",
-      "language": "unknown",
-      "category": "movies",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106:80/8882/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "MyMusic.al",
-      "code": "MYM-AL-001",
-      "index": 4808,
-      "tvg_id": null,
-      "tvg_chno": 4908,
-      "name_ar": "My Music",
-      "name_en": "My Music",
-      "country": "AL",
-      "language": "unknown",
-      "category": "music",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106:80/8821/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -254,9 +173,9 @@
     {
       "id": "News24.al",
       "code": "NEW-AL-001",
-      "index": 4969,
+      "index": 4961,
       "tvg_id": null,
-      "tvg_chno": 5069,
+      "tvg_chno": 5061,
       "name_ar": "News 24",
       "name_en": "News 24",
       "country": "AL",
@@ -265,7 +184,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -273,7 +192,7 @@
           "quality": "392p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -281,7 +200,7 @@
           "quality": "392p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -289,7 +208,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -297,9 +216,9 @@
     {
       "id": "ntv.al",
       "code": "NTV-AL-001",
-      "index": 5161,
+      "index": 5153,
       "tvg_id": null,
-      "tvg_chno": 5261,
+      "tvg_chno": 5253,
       "name_ar": "ntv",
       "name_en": "ntv",
       "country": "AL",
@@ -308,7 +227,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -316,7 +235,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         },
         {
@@ -324,7 +243,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -332,7 +251,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -340,7 +259,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -348,7 +267,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -356,9 +275,9 @@
     {
       "id": "OraNews.al",
       "code": "ORA-AL-001",
-      "index": 5332,
+      "index": 5324,
       "tvg_id": null,
-      "tvg_chno": 5432,
+      "tvg_chno": 5424,
       "name_ar": "Ora News",
       "name_en": "Ora News",
       "country": "AL",
@@ -367,7 +286,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -375,7 +294,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -383,9 +302,9 @@
     {
       "id": "PanoramaTV.al",
       "code": "PAN-AL-001",
-      "index": 5416,
+      "index": 5408,
       "tvg_id": null,
-      "tvg_chno": 5516,
+      "tvg_chno": 5508,
       "name_ar": "Panorama TV",
       "name_en": "Panorama TV",
       "country": "AL",
@@ -394,7 +313,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -402,7 +321,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -410,7 +329,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -418,9 +337,9 @@
     {
       "id": "ReportTV.al",
       "code": "REP-AL-001",
-      "index": 6404,
+      "index": 6399,
       "tvg_id": null,
-      "tvg_chno": 6504,
+      "tvg_chno": 6499,
       "name_ar": "Report TV",
       "name_en": "Report TV",
       "country": "AL",
@@ -429,7 +348,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -437,15 +356,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
-        },
-        {
-          "url": "http://5.254.89.106/8707/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -453,9 +364,9 @@
     {
       "id": "RTSH1.al",
       "code": "RTS-AL-001",
-      "index": 6602,
+      "index": 6596,
       "tvg_id": null,
-      "tvg_chno": 6702,
+      "tvg_chno": 6696,
       "name_ar": "RTSH 1",
       "name_en": "RTSH 1",
       "country": "AL",
@@ -464,7 +375,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -472,7 +383,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -480,9 +391,9 @@
     {
       "id": "RTSH2.al",
       "code": "RTS-AL-002",
-      "index": 6603,
+      "index": 6597,
       "tvg_id": null,
-      "tvg_chno": 6703,
+      "tvg_chno": 6697,
       "name_ar": "RTSH 2",
       "name_en": "RTSH 2",
       "country": "AL",
@@ -491,7 +402,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -499,7 +410,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -507,9 +418,9 @@
     {
       "id": "RTSH24.al",
       "code": "RTS-AL-003",
-      "index": 6604,
+      "index": 6598,
       "tvg_id": null,
-      "tvg_chno": 6704,
+      "tvg_chno": 6698,
       "name_ar": "RTSH 24",
       "name_en": "RTSH 24",
       "country": "AL",
@@ -518,7 +429,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -526,7 +437,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -534,9 +445,9 @@
     {
       "id": "RTSHShqip.al",
       "code": "RTS-AL-004",
-      "index": 6605,
+      "index": 6599,
       "tvg_id": null,
-      "tvg_chno": 6705,
+      "tvg_chno": 6699,
       "name_ar": "RTSH Shqip",
       "name_en": "RTSH Shqip",
       "country": "AL",
@@ -545,7 +456,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -553,7 +464,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -561,9 +472,9 @@
     {
       "id": "RTSHSport.al",
       "code": "RTS-AL-005",
-      "index": 6606,
+      "index": 6600,
       "tvg_id": null,
-      "tvg_chno": 6706,
+      "tvg_chno": 6700,
       "name_ar": "RTSH Sport",
       "name_en": "RTSH Sport",
       "country": "AL",
@@ -572,7 +483,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -580,7 +491,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -588,9 +499,9 @@
     {
       "id": "Syri.al",
       "code": "SYR-AL-001",
-      "index": 7453,
+      "index": 7444,
       "tvg_id": null,
-      "tvg_chno": 7553,
+      "tvg_chno": 7544,
       "name_ar": "Syri",
       "name_en": "Syri",
       "country": "AL",
@@ -599,7 +510,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -607,98 +518,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "TopChannel.al",
-      "code": "TOP-AL-001",
-      "index": 7981,
-      "tvg_id": null,
-      "tvg_chno": 8081,
-      "name_ar": "Top Channel",
-      "name_en": "Top Channel",
-      "country": "AL",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106/8708/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "TringHistory.al",
-      "code": "TRI-AL-001",
-      "index": 8051,
-      "tvg_id": null,
-      "tvg_chno": 8151,
-      "name_ar": "Tring History",
-      "name_en": "Tring History",
-      "country": "AL",
-      "language": "unknown",
-      "category": "documentary",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106/8765/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "TringKids.al",
-      "code": "TRI-AL-002",
-      "index": 8052,
-      "tvg_id": null,
-      "tvg_chno": 8152,
-      "name_ar": "Tring Kids",
-      "name_en": "Tring Kids",
-      "country": "AL",
-      "language": "unknown",
-      "category": "kids",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106/8777/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "TropojaTelevizion.al",
       "code": "TRO-AL-001",
-      "index": 8064,
+      "index": 8054,
       "tvg_id": null,
-      "tvg_chno": 8164,
+      "tvg_chno": 8154,
       "name_ar": "Tropoja Televizion",
       "name_en": "Tropoja Televizion",
       "country": "AL",
@@ -707,7 +537,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -715,7 +545,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -723,9 +553,9 @@
     {
       "id": "TV7Albania.al",
       "code": "TVA-AL-001",
-      "index": 8176,
+      "index": 8166,
       "tvg_id": null,
-      "tvg_chno": 8276,
+      "tvg_chno": 8266,
       "name_ar": "TV 7 Albania",
       "name_en": "TV 7 Albania",
       "country": "AL",
@@ -734,7 +564,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -742,7 +572,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         },
         {
@@ -750,7 +580,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -758,9 +588,9 @@
     {
       "id": "TVJohaniter.al",
       "code": "TVJ-AL-001",
-      "index": 8341,
+      "index": 8331,
       "tvg_id": null,
-      "tvg_chno": 8441,
+      "tvg_chno": 8431,
       "name_ar": "TV Johaniter",
       "name_en": "TV Johaniter",
       "country": "AL",
@@ -769,7 +599,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -777,44 +607,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "TVKlan.al",
-      "code": "TVK-AL-001",
-      "index": 8347,
-      "tvg_id": null,
-      "tvg_chno": 8447,
-      "name_ar": "TV Klan",
-      "name_en": "TV Klan",
-      "country": "AL",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://5.254.89.106/8704/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "VizionPlus.al",
       "code": "VIZ-AL-001",
-      "index": 8891,
+      "index": 8881,
       "tvg_id": null,
-      "tvg_chno": 8991,
+      "tvg_chno": 8981,
       "name_ar": "Vizion Plus",
       "name_en": "Vizion Plus",
       "country": "AL",
@@ -823,7 +626,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -831,25 +634,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
-        },
-        {
-          "url": "http://5.254.89.106/8703/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "ZjarrTV.al",
       "code": "ZJA-AL-001",
-      "index": 9235,
+      "index": 9223,
       "tvg_id": null,
-      "tvg_chno": 9335,
+      "tvg_chno": 9323,
       "name_ar": "Zjarr TV",
       "name_en": "Zjarr TV",
       "country": "AL",
@@ -858,7 +653,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -866,7 +661,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -874,9 +669,9 @@
     {
       "id": "kanali7",
       "code": "KAN-AL-001",
-      "index": 9260,
+      "index": 9248,
       "tvg_id": null,
-      "tvg_chno": 9360,
+      "tvg_chno": 9348,
       "name_ar": "Kanali 7 Ⓢ",
       "name_en": "Kanali 7 Ⓢ",
       "country": "AL",
@@ -885,7 +680,7 @@
       "logo": "https://i.imgur.com/rL2v9pM.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": false,
       "streams": [
         {
@@ -893,7 +688,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": false
         }
       ]
@@ -901,9 +696,9 @@
     {
       "id": "a2cnnalbania",
       "code": "ACN-AL-001",
-      "index": 9261,
+      "index": 9249,
       "tvg_id": null,
-      "tvg_chno": 9361,
+      "tvg_chno": 9349,
       "name_ar": "A2 CNN Albania",
       "name_en": "A2 CNN Albania",
       "country": "AL",
@@ -912,7 +707,7 @@
       "logo": "https://i.imgur.com/TgO3Lzi.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -920,7 +715,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -928,9 +723,9 @@
     {
       "id": "abcnewsalbania",
       "code": "ABC-AL-001",
-      "index": 9262,
+      "index": 9250,
       "tvg_id": null,
-      "tvg_chno": 9362,
+      "tvg_chno": 9350,
       "name_ar": "ABC News Albania Ⓣ",
       "name_en": "ABC News Albania Ⓣ",
       "country": "AL",
@@ -939,7 +734,7 @@
       "logo": "https://i.imgur.com/aObcudw.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -947,7 +742,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -955,9 +750,9 @@
     {
       "id": "euronewsalbania",
       "code": "EUR-AL-001",
-      "index": 9263,
+      "index": 9251,
       "tvg_id": null,
-      "tvg_chno": 9363,
+      "tvg_chno": 9351,
       "name_ar": "Euronews Albania Ⓨ",
       "name_en": "Euronews Albania Ⓨ",
       "country": "AL",
@@ -966,7 +761,7 @@
       "logo": "https://i.imgur.com/Skf6vdi.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -974,7 +769,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -982,9 +777,9 @@
     {
       "id": "tropoja",
       "code": "TRO-AL-002",
-      "index": 9264,
+      "index": 9252,
       "tvg_id": null,
-      "tvg_chno": 9364,
+      "tvg_chno": 9352,
       "name_ar": "Tropoja",
       "name_en": "Tropoja",
       "country": "AL",
@@ -993,7 +788,7 @@
       "logo": "https://i.imgur.com/D3hNOVS.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1001,7 +796,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
@@ -1009,9 +804,9 @@
     {
       "id": "apollon",
       "code": "TVA-AL-002",
-      "index": 9265,
+      "index": 9253,
       "tvg_id": null,
-      "tvg_chno": 9365,
+      "tvg_chno": 9353,
       "name_ar": "TV Apollon Ⓢ",
       "name_en": "TV Apollon Ⓢ",
       "country": "AL",
@@ -1020,7 +815,7 @@
       "logo": "https://i.imgur.com/gUz2AjM.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-03T08:56:45.149976+00:00",
+      "last_checked": "2026-10-04T09:24:18.282209+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1028,11 +823,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-03T08:56:45.149976+00:00",
+          "last_checked": "2026-10-04T09:24:18.282209+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-03T08:56:45.149976+00:00"
+  "last_updated": "2026-10-04T09:24:18.282209+00:00"
 }
