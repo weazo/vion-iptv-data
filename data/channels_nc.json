@@ -1,17 +1,17 @@
 {
   "version": "1.0.0",
-  "country": "ER",
+  "country": "NC",
   "total_channels": 1,
   "channels": [
     {
-      "id": "ERiTV1.er",
-      "code": "ERI-ER-001",
-      "index": 2608,
+      "id": "NouvelleCaledonie1ere.nc",
+      "code": "NOU-NC-001",
+      "index": 5118,
       "tvg_id": null,
-      "tvg_chno": 2708,
-      "name_ar": "ERi-TV 1",
-      "name_en": "ERi-TV 1",
-      "country": "ER",
+      "tvg_chno": 5218,
+      "name_ar": "Nouvelle Caledonie 1ere",
+      "name_en": "Nouvelle Caledonie 1ere",
+      "country": "NC",
       "language": "unknown",
       "category": "general",
       "logo": null,
@@ -21,10 +21,10 @@
       "is_working": true,
       "streams": [
         {
-          "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
-          "quality": "576p",
+          "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8",
+          "quality": "1080p",
           "protocol": "hls",
-          "priority": 3,
+          "priority": 1,
           "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": true
         }

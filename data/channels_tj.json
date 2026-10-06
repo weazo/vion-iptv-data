@@ -6,9 +6,9 @@
     {
       "id": "Badakhshon.tj",
       "code": "BAD-TJ-001",
-      "index": 848,
+      "index": 849,
       "tvg_id": null,
-      "tvg_chno": 948,
+      "tvg_chno": 949,
       "name_ar": "Badakhshon",
       "name_en": "Badakhshon",
       "country": "TJ",
@@ -17,25 +17,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://live.teleradiocom.tj/11/3m.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://185.121.1.163:8083/Badakhshon/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "DushanbeHD.tj",
       "code": "DUS-TJ-001",
-      "index": 2429,
+      "index": 2440,
       "tvg_id": null,
-      "tvg_chno": 2529,
+      "tvg_chno": 2540,
       "name_ar": "Dushanbe HD",
       "name_en": "Dushanbe HD",
       "country": "TJ",
@@ -44,25 +52,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://live.teleradiocom.tj/7/3m.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://185.121.1.163:8083/DushanbeHD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "Futbol.tj",
       "code": "FUT-TJ-001",
-      "index": 2938,
+      "index": 2953,
       "tvg_id": null,
-      "tvg_chno": 3038,
+      "tvg_chno": 3053,
       "name_ar": "Futbol",
       "name_en": "Futbol",
       "country": "TJ",
@@ -71,25 +87,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://live.teleradiocom.tj/8/3m.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://185.121.1.163:8083/FootballHD/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "IlmvaTabiat.tj",
       "code": "ILM-TJ-001",
-      "index": 3450,
+      "index": 3465,
       "tvg_id": null,
-      "tvg_chno": 3550,
+      "tvg_chno": 3565,
       "name_ar": "Ilm va Tabiat",
       "name_en": "Ilm va Tabiat",
       "country": "TJ",
@@ -98,7 +122,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -106,7 +130,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -114,9 +138,9 @@
     {
       "id": "Jahonnamo.tj",
       "code": "JAH-TJ-001",
-      "index": 3605,
+      "index": 3620,
       "tvg_id": null,
-      "tvg_chno": 3705,
+      "tvg_chno": 3720,
       "name_ar": "Jahonnamo",
       "name_en": "Jahonnamo",
       "country": "TJ",
@@ -125,7 +149,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -133,7 +157,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -141,9 +165,9 @@
     {
       "id": "Khatlon.tj",
       "code": "KHA-TJ-001",
-      "index": 3839,
+      "index": 3854,
       "tvg_id": null,
-      "tvg_chno": 3939,
+      "tvg_chno": 3954,
       "name_ar": "Khatlon",
       "name_en": "Khatlon",
       "country": "TJ",
@@ -152,7 +176,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -160,7 +184,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -168,9 +192,9 @@
     {
       "id": "TMT.tj",
       "code": "TMT-TJ-001",
-      "index": 7928,
+      "index": 7960,
       "tvg_id": null,
-      "tvg_chno": 8028,
+      "tvg_chno": 8060,
       "name_ar": "TMT",
       "name_en": "TMT",
       "country": "TJ",
@@ -179,7 +203,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -187,7 +211,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -195,9 +219,9 @@
     {
       "id": "Tojikiston.tj",
       "code": "TOJ-TJ-001",
-      "index": 7958,
+      "index": 7990,
       "tvg_id": null,
-      "tvg_chno": 8058,
+      "tvg_chno": 8090,
       "name_ar": "Tojikiston",
       "name_en": "Tojikiston",
       "country": "TJ",
@@ -206,7 +230,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -214,7 +238,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -222,9 +246,9 @@
     {
       "id": "TVBahoriston.tj",
       "code": "TVB-TJ-001",
-      "index": 8199,
+      "index": 8231,
       "tvg_id": null,
-      "tvg_chno": 8299,
+      "tvg_chno": 8331,
       "name_ar": "TV Bahoriston",
       "name_en": "TV Bahoriston",
       "country": "TJ",
@@ -233,7 +257,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -241,7 +265,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -249,9 +273,9 @@
     {
       "id": "TVKulob.tj",
       "code": "TVK-TJ-001",
-      "index": 8340,
+      "index": 8373,
       "tvg_id": null,
-      "tvg_chno": 8440,
+      "tvg_chno": 8473,
       "name_ar": "TV Kulob",
       "name_en": "TV Kulob",
       "country": "TJ",
@@ -260,7 +284,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -268,7 +292,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -276,9 +300,9 @@
     {
       "id": "TVSafina.tj",
       "code": "TVS-TJ-001",
-      "index": 8490,
+      "index": 8523,
       "tvg_id": null,
-      "tvg_chno": 8590,
+      "tvg_chno": 8623,
       "name_ar": "TV Safina",
       "name_en": "TV Safina",
       "country": "TJ",
@@ -287,7 +311,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -295,7 +319,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -303,9 +327,9 @@
     {
       "id": "TVSayohi.tj",
       "code": "TVS-TJ-002",
-      "index": 8495,
+      "index": 8528,
       "tvg_id": null,
-      "tvg_chno": 8595,
+      "tvg_chno": 8628,
       "name_ar": "TV Sayohi",
       "name_en": "TV Sayohi",
       "country": "TJ",
@@ -314,7 +338,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -322,7 +346,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -330,9 +354,9 @@
     {
       "id": "TVSinamo.tj",
       "code": "TVS-TJ-003",
-      "index": 8519,
+      "index": 8552,
       "tvg_id": null,
-      "tvg_chno": 8619,
+      "tvg_chno": 8652,
       "name_ar": "TV Sinamo",
       "name_en": "TV Sinamo",
       "country": "TJ",
@@ -341,7 +365,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -349,7 +373,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
@@ -357,9 +381,9 @@
     {
       "id": "TVSugd.tj",
       "code": "TVS-TJ-004",
-      "index": 8549,
+      "index": 8582,
       "tvg_id": null,
-      "tvg_chno": 8649,
+      "tvg_chno": 8682,
       "name_ar": "TV Sugd",
       "name_en": "TV Sugd",
       "country": "TJ",
@@ -368,7 +392,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": false,
       "streams": [
         {
@@ -376,11 +400,11 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-05T10:04:51.214362+00:00"
+  "last_updated": "2026-10-06T09:50:38.663300+00:00"
 }

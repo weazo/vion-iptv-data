@@ -1,14 +1,41 @@
 {
   "version": "1.0.0",
   "country": "UY",
-  "total_channels": 1,
+  "total_channels": 2,
   "channels": [
+    {
+      "id": "CanalMas.uy",
+      "code": "CAN-UY-001",
+      "index": 1457,
+      "tvg_id": null,
+      "tvg_chno": 1557,
+      "name_ar": "Canal Mas",
+      "name_en": "Canal Mas",
+      "country": "UY",
+      "language": "unknown",
+      "category": "religious",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://canalmasuruguay.com/hls/master-abr.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
+          "is_working": true
+        }
+      ]
+    },
     {
       "id": "UCL.uy",
       "code": "UCL-UY-001",
-      "index": 8619,
+      "index": 8652,
       "tvg_id": null,
-      "tvg_chno": 8719,
+      "tvg_chno": 8752,
       "name_ar": "UCL",
       "name_en": "UCL",
       "country": "UY",
@@ -17,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-05T10:04:51.214362+00:00",
+      "last_checked": "2026-10-06T09:50:38.663300+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": true
         },
         {
@@ -33,7 +60,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": true
         },
         {
@@ -41,11 +68,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-05T10:04:51.214362+00:00",
+          "last_checked": "2026-10-06T09:50:38.663300+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-05T10:04:51.214362+00:00"
+  "last_updated": "2026-10-06T09:50:38.663300+00:00"
 }
