@@ -4,11 +4,38 @@
   "total_channels": 4,
   "channels": [
     {
+      "id": "MedTV.mt",
+      "code": "MED-MT-001",
+      "index": 4475,
+      "tvg_id": null,
+      "tvg_chno": 4575,
+      "name_ar": "Med.TV",
+      "name_en": "Med.TV",
+      "country": "MT",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-08T10:01:27.198241+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
       "id": "NET.mt",
       "code": "NET-MT-001",
-      "index": 4936,
+      "index": 4948,
       "tvg_id": null,
-      "tvg_chno": 5036,
+      "tvg_chno": 5048,
       "name_ar": "NET",
       "name_en": "NET",
       "country": "MT",
@@ -17,23 +44,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-07T09:50:47.364674+00:00",
+      "last_checked": "2026-10-08T10:01:27.198241+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
-          "is_working": true
-        },
         {
           "url": "http://80.79.6.221:25461/smash/public/22",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
           "is_working": true
         },
         {
@@ -41,7 +60,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
           "is_working": true
         }
       ]
@@ -49,9 +68,9 @@
     {
       "id": "ParliamentofMalta.mt",
       "code": "PAR-MT-001",
-      "index": 5446,
+      "index": 5458,
       "tvg_id": null,
-      "tvg_chno": 5546,
+      "tvg_chno": 5558,
       "name_ar": "Parliament of Malta",
       "name_en": "Parliament of Malta",
       "country": "MT",
@@ -60,23 +79,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-07T09:50:47.364674+00:00",
+      "last_checked": "2026-10-08T10:01:27.198241+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
-          "is_working": true
-        },
         {
           "url": "http://80.79.6.221:25461/smash/public/23",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
           "is_working": true
         }
       ]
@@ -84,9 +95,9 @@
     {
       "id": "SmashTV.mt",
       "code": "SMA-MT-001",
-      "index": 7065,
+      "index": 7079,
       "tvg_id": null,
-      "tvg_chno": 7165,
+      "tvg_chno": 7179,
       "name_ar": "Smash TV",
       "name_en": "Smash TV",
       "country": "MT",
@@ -95,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-07T09:50:47.364674+00:00",
+      "last_checked": "2026-10-08T10:01:27.198241+00:00",
       "is_working": true,
       "streams": [
         {
@@ -103,7 +114,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
           "is_working": true
         },
         {
@@ -111,7 +122,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
           "is_working": true
         },
         {
@@ -119,38 +130,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
-          "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "TVMsportPlus.mt",
-      "code": "TVM-MT-001",
-      "index": 8412,
-      "tvg_id": null,
-      "tvg_chno": 8512,
-      "name_ar": "TVMsport+",
-      "name_en": "TVMsport+",
-      "country": "MT",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-07T09:50:47.364674+00:00",
-      "is_working": true,
-      "streams": [
-        {
-          "url": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-07T09:50:47.364674+00:00",
+          "last_checked": "2026-10-08T10:01:27.198241+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-07T09:50:47.364674+00:00"
+  "last_updated": "2026-10-08T10:01:27.198241+00:00"
 }
