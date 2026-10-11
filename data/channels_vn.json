@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "VN",
-  "total_channels": 78,
+  "total_channels": 77,
   "channels": [
     {
       "id": "AnGiangTV1.vn",
       "code": "ANG-VN-001",
-      "index": 572,
+      "index": 569,
       "tvg_id": null,
-      "tvg_chno": 672,
+      "tvg_chno": 669,
       "name_ar": "An Giang TV 1",
       "name_en": "An Giang TV 1",
       "country": "VN",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "AnGiangTV2.vn",
       "code": "ANG-VN-002",
-      "index": 573,
+      "index": 570,
       "tvg_id": null,
-      "tvg_chno": 673,
+      "tvg_chno": 670,
       "name_ar": "An Giang TV 2",
       "name_en": "An Giang TV 2",
       "country": "VN",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "AnGiangTV3.vn",
       "code": "ANG-VN-003",
-      "index": 574,
+      "index": 571,
       "tvg_id": null,
-      "tvg_chno": 674,
+      "tvg_chno": 671,
       "name_ar": "An Giang TV 3",
       "name_en": "An Giang TV 3",
       "country": "VN",
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -87,9 +87,9 @@
     {
       "id": "AnNinhTV.vn",
       "code": "ANN-VN-001",
-      "index": 589,
+      "index": 586,
       "tvg_id": null,
-      "tvg_chno": 689,
+      "tvg_chno": 686,
       "name_ar": "An Ninh TV",
       "name_en": "An Ninh TV",
       "country": "VN",
@@ -98,23 +98,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -122,9 +114,9 @@
     {
       "id": "CaMauTV.vn",
       "code": "CAM-VN-001",
-      "index": 1269,
+      "index": 1262,
       "tvg_id": null,
-      "tvg_chno": 1369,
+      "tvg_chno": 1362,
       "name_ar": "Ca Mau TV",
       "name_en": "Ca Mau TV",
       "country": "VN",
@@ -133,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -141,7 +133,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -149,9 +141,9 @@
     {
       "id": "CanThoTV.vn",
       "code": "CAN-VN-001",
-      "index": 1528,
+      "index": 1521,
       "tvg_id": null,
-      "tvg_chno": 1628,
+      "tvg_chno": 1621,
       "name_ar": "Can Tho TV",
       "name_en": "Can Tho TV",
       "country": "VN",
@@ -160,7 +152,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -168,7 +160,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -176,9 +168,9 @@
     {
       "id": "CanThoTV2.vn",
       "code": "CAN-VN-002",
-      "index": 1529,
+      "index": 1522,
       "tvg_id": null,
-      "tvg_chno": 1629,
+      "tvg_chno": 1622,
       "name_ar": "Can Tho TV 2",
       "name_en": "Can Tho TV 2",
       "country": "VN",
@@ -187,7 +179,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -195,7 +187,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -203,9 +195,9 @@
     {
       "id": "CanThoTV3.vn",
       "code": "CAN-VN-003",
-      "index": 1530,
+      "index": 1523,
       "tvg_id": null,
-      "tvg_chno": 1630,
+      "tvg_chno": 1623,
       "name_ar": "Can Tho TV 3",
       "name_en": "Can Tho TV 3",
       "country": "VN",
@@ -214,7 +206,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -222,7 +214,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -230,9 +222,9 @@
     {
       "id": "CaoBangTV.vn",
       "code": "CAO-VN-001",
-      "index": 1535,
+      "index": 1528,
       "tvg_id": null,
-      "tvg_chno": 1635,
+      "tvg_chno": 1628,
       "name_ar": "Cao Bang TV",
       "name_en": "Cao Bang TV",
       "country": "VN",
@@ -241,7 +233,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -249,7 +241,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -257,9 +249,9 @@
     {
       "id": "DakLakTV.vn",
       "code": "DAK-VN-001",
-      "index": 2130,
+      "index": 2123,
       "tvg_id": null,
-      "tvg_chno": 2230,
+      "tvg_chno": 2223,
       "name_ar": "Dak Lak TV",
       "name_en": "Dak Lak TV",
       "country": "VN",
@@ -268,7 +260,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -276,7 +268,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -284,9 +276,9 @@
     {
       "id": "DaNangTV1.vn",
       "code": "DAN-VN-001",
-      "index": 2133,
+      "index": 2126,
       "tvg_id": null,
-      "tvg_chno": 2233,
+      "tvg_chno": 2226,
       "name_ar": "Da Nang TV 1",
       "name_en": "Da Nang TV 1",
       "country": "VN",
@@ -295,7 +287,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -303,7 +295,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -311,9 +303,9 @@
     {
       "id": "DaNangTV2.vn",
       "code": "DAN-VN-002",
-      "index": 2134,
+      "index": 2127,
       "tvg_id": null,
-      "tvg_chno": 2234,
+      "tvg_chno": 2227,
       "name_ar": "Da Nang TV2",
       "name_en": "Da Nang TV2",
       "country": "VN",
@@ -322,7 +314,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -330,7 +322,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -338,9 +330,9 @@
     {
       "id": "DienBienTV.vn",
       "code": "DIE-VN-001",
-      "index": 2289,
+      "index": 2279,
       "tvg_id": null,
-      "tvg_chno": 2389,
+      "tvg_chno": 2379,
       "name_ar": "Dien Bien TV",
       "name_en": "Dien Bien TV",
       "country": "VN",
@@ -349,7 +341,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -357,7 +349,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         },
         {
@@ -365,7 +357,7 @@
           "quality": "406p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -373,9 +365,9 @@
     {
       "id": "DongNaiTV1.vn",
       "code": "DON-VN-001",
-      "index": 2389,
+      "index": 2379,
       "tvg_id": null,
-      "tvg_chno": 2489,
+      "tvg_chno": 2479,
       "name_ar": "Dong Nai TV 1",
       "name_en": "Dong Nai TV 1",
       "country": "VN",
@@ -384,7 +376,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -392,7 +384,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         },
         {
@@ -400,7 +392,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -408,9 +400,9 @@
     {
       "id": "DongNaiTV2.vn",
       "code": "DON-VN-002",
-      "index": 2390,
+      "index": 2380,
       "tvg_id": null,
-      "tvg_chno": 2490,
+      "tvg_chno": 2480,
       "name_ar": "Dong Nai TV 2",
       "name_en": "Dong Nai TV 2",
       "country": "VN",
@@ -419,7 +411,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -427,7 +419,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -435,9 +427,9 @@
     {
       "id": "DongNaiTV3.vn",
       "code": "DON-VN-003",
-      "index": 2391,
+      "index": 2381,
       "tvg_id": null,
-      "tvg_chno": 2491,
+      "tvg_chno": 2481,
       "name_ar": "Dong Nai TV 3",
       "name_en": "Dong Nai TV 3",
       "country": "VN",
@@ -446,7 +438,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -454,7 +446,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -462,9 +454,9 @@
     {
       "id": "DongThapTV.vn",
       "code": "DON-VN-004",
-      "index": 2392,
+      "index": 2382,
       "tvg_id": null,
-      "tvg_chno": 2492,
+      "tvg_chno": 2482,
       "name_ar": "Dong Thap TV",
       "name_en": "Dong Thap TV",
       "country": "VN",
@@ -473,7 +465,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -481,7 +473,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -489,9 +481,9 @@
     {
       "id": "HanoiTV1.vn",
       "code": "HAN-VN-001",
-      "index": 3225,
+      "index": 3223,
       "tvg_id": null,
-      "tvg_chno": 3325,
+      "tvg_chno": 3323,
       "name_ar": "HanoiTV1",
       "name_en": "HanoiTV1",
       "country": "VN",
@@ -500,7 +492,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -508,7 +500,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -516,7 +508,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -524,9 +516,9 @@
     {
       "id": "HanoiTV2.vn",
       "code": "HAN-VN-002",
-      "index": 3226,
+      "index": 3224,
       "tvg_id": null,
-      "tvg_chno": 3326,
+      "tvg_chno": 3324,
       "name_ar": "HanoiTV2",
       "name_en": "HanoiTV2",
       "country": "VN",
@@ -535,7 +527,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -543,7 +535,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -551,9 +543,9 @@
     {
       "id": "HaTinhTV.vn",
       "code": "HAT-VN-001",
-      "index": 3242,
+      "index": 3240,
       "tvg_id": null,
-      "tvg_chno": 3342,
+      "tvg_chno": 3340,
       "name_ar": "Ha Tinh TV",
       "name_en": "Ha Tinh TV",
       "country": "VN",
@@ -562,7 +554,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -570,7 +562,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -578,9 +570,9 @@
     {
       "id": "HTV1.vn",
       "code": "HTV-VN-001",
-      "index": 3412,
+      "index": 3410,
       "tvg_id": null,
-      "tvg_chno": 3512,
+      "tvg_chno": 3510,
       "name_ar": "HTV1",
       "name_en": "HTV1",
       "country": "VN",
@@ -589,7 +581,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -597,7 +589,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -605,9 +597,9 @@
     {
       "id": "HTV3.vn",
       "code": "HTV-VN-002",
-      "index": 3415,
+      "index": 3413,
       "tvg_id": null,
-      "tvg_chno": 3515,
+      "tvg_chno": 3513,
       "name_ar": "HTV3",
       "name_en": "HTV3",
       "country": "VN",
@@ -616,7 +608,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -624,7 +616,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -632,9 +624,9 @@
     {
       "id": "HTV4.vn",
       "code": "HTV-VN-003",
-      "index": 3416,
+      "index": 3414,
       "tvg_id": null,
-      "tvg_chno": 3516,
+      "tvg_chno": 3514,
       "name_ar": "HTV4",
       "name_en": "HTV4",
       "country": "VN",
@@ -643,7 +635,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -651,7 +643,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -659,7 +651,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -667,9 +659,9 @@
     {
       "id": "HTV7.vn",
       "code": "HTV-VN-004",
-      "index": 3417,
+      "index": 3415,
       "tvg_id": null,
-      "tvg_chno": 3517,
+      "tvg_chno": 3515,
       "name_ar": "HTV7",
       "name_en": "HTV7",
       "country": "VN",
@@ -678,7 +670,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -686,7 +678,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -694,9 +686,9 @@
     {
       "id": "HTV9.vn",
       "code": "HTV-VN-005",
-      "index": 3418,
+      "index": 3416,
       "tvg_id": null,
-      "tvg_chno": 3518,
+      "tvg_chno": 3516,
       "name_ar": "HTV9",
       "name_en": "HTV9",
       "country": "VN",
@@ -705,23 +697,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://dethich.pw/htv9/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -729,9 +713,9 @@
     {
       "id": "HTVSports.vn",
       "code": "HTV-VN-006",
-      "index": 3419,
+      "index": 3417,
       "tvg_id": null,
-      "tvg_chno": 3519,
+      "tvg_chno": 3517,
       "name_ar": "HTV Sports",
       "name_en": "HTV Sports",
       "country": "VN",
@@ -740,33 +724,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://dethich.pw/htvthethao/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": true
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "KhanhHoaTV.vn",
       "code": "KHA-VN-001",
-      "index": 3879,
+      "index": 3873,
       "tvg_id": null,
-      "tvg_chno": 3979,
+      "tvg_chno": 3973,
       "name_ar": "Khanh Hoa TV",
       "name_en": "Khanh Hoa TV",
       "country": "VN",
@@ -775,7 +751,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -783,7 +759,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -791,9 +767,9 @@
     {
       "id": "LamDongTV.vn",
       "code": "LAM-VN-001",
-      "index": 4068,
+      "index": 4060,
       "tvg_id": null,
-      "tvg_chno": 4168,
+      "tvg_chno": 4160,
       "name_ar": "Lam Dong TV",
       "name_en": "Lam Dong TV",
       "country": "VN",
@@ -802,7 +778,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -810,7 +786,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -818,9 +794,9 @@
     {
       "id": "LaoCaiTV.vn",
       "code": "LAO-VN-001",
-      "index": 4086,
+      "index": 4078,
       "tvg_id": null,
-      "tvg_chno": 4186,
+      "tvg_chno": 4178,
       "name_ar": "Lao Cai TV",
       "name_en": "Lao Cai TV",
       "country": "VN",
@@ -829,7 +805,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -837,7 +813,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -845,9 +821,9 @@
     {
       "id": "LaoSVTV.vn",
       "code": "LAO-VN-002",
-      "index": 4088,
+      "index": 4080,
       "tvg_id": null,
-      "tvg_chno": 4188,
+      "tvg_chno": 4180,
       "name_ar": "Lao SV TV",
       "name_en": "Lao SV TV",
       "country": "VN",
@@ -856,7 +832,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -864,7 +840,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -872,9 +848,9 @@
     {
       "id": "NgheAnTV.vn",
       "code": "NGH-VN-001",
-      "index": 5059,
+      "index": 5044,
       "tvg_id": null,
-      "tvg_chno": 5159,
+      "tvg_chno": 5144,
       "name_ar": "Nghe An TV",
       "name_en": "Nghe An TV",
       "country": "VN",
@@ -883,7 +859,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -891,7 +867,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -899,9 +875,9 @@
     {
       "id": "NinhThuanTV.vn",
       "code": "NIN-VN-001",
-      "index": 5109,
+      "index": 5093,
       "tvg_id": null,
-      "tvg_chno": 5209,
+      "tvg_chno": 5193,
       "name_ar": "Ninh Thuan TV",
       "name_en": "Ninh Thuan TV",
       "country": "VN",
@@ -910,7 +886,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -918,7 +894,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -926,9 +902,9 @@
     {
       "id": "ONKids.vn",
       "code": "ONK-VN-001",
-      "index": 5363,
+      "index": 5347,
       "tvg_id": null,
-      "tvg_chno": 5463,
+      "tvg_chno": 5447,
       "name_ar": "ON Kids",
       "name_en": "ON Kids",
       "country": "VN",
@@ -937,7 +913,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -945,7 +921,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -953,9 +929,9 @@
     {
       "id": "ONLife.vn",
       "code": "ONL-VN-001",
-      "index": 5364,
+      "index": 5348,
       "tvg_id": null,
-      "tvg_chno": 5464,
+      "tvg_chno": 5448,
       "name_ar": "ON Life",
       "name_en": "ON Life",
       "country": "VN",
@@ -964,7 +940,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -972,7 +948,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -980,9 +956,9 @@
     {
       "id": "ONMovies.vn",
       "code": "ONM-VN-001",
-      "index": 5367,
+      "index": 5351,
       "tvg_id": null,
-      "tvg_chno": 5467,
+      "tvg_chno": 5451,
       "name_ar": "ON Movies",
       "name_en": "ON Movies",
       "country": "VN",
@@ -991,7 +967,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -999,7 +975,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1007,9 +983,9 @@
     {
       "id": "ONVieDrama.vn",
       "code": "ONV-VN-001",
-      "index": 5376,
+      "index": 5360,
       "tvg_id": null,
-      "tvg_chno": 5476,
+      "tvg_chno": 5460,
       "name_ar": "ON Vie Drama",
       "name_en": "ON Vie Drama",
       "country": "VN",
@@ -1018,7 +994,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1026,7 +1002,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1034,9 +1010,9 @@
     {
       "id": "QPVN.vn",
       "code": "QPV-VN-001",
-      "index": 6115,
+      "index": 6099,
       "tvg_id": null,
-      "tvg_chno": 6215,
+      "tvg_chno": 6199,
       "name_ar": "QPVN",
       "name_en": "QPVN",
       "country": "VN",
@@ -1045,7 +1021,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1053,7 +1029,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -1061,7 +1037,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1069,9 +1045,9 @@
     {
       "id": "QuangNgaiTV.vn",
       "code": "QUA-VN-001",
-      "index": 6125,
+      "index": 6109,
       "tvg_id": null,
-      "tvg_chno": 6225,
+      "tvg_chno": 6209,
       "name_ar": "Quang Ngai TV",
       "name_en": "Quang Ngai TV",
       "country": "VN",
@@ -1080,7 +1056,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1088,7 +1064,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1096,9 +1072,9 @@
     {
       "id": "SCTV11.vn",
       "code": "SCT-VN-001",
-      "index": 6905,
+      "index": 6878,
       "tvg_id": null,
-      "tvg_chno": 7005,
+      "tvg_chno": 6978,
       "name_ar": "SCTV11",
       "name_en": "SCTV11",
       "country": "VN",
@@ -1107,25 +1083,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": true
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SCTV12.vn",
       "code": "SCT-VN-002",
-      "index": 6906,
+      "index": 6879,
       "tvg_id": null,
-      "tvg_chno": 7006,
+      "tvg_chno": 6979,
       "name_ar": "SCTV12",
       "name_en": "SCTV12",
       "country": "VN",
@@ -1134,25 +1110,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "SCTV13.vn",
       "code": "SCT-VN-003",
-      "index": 6907,
+      "index": 6880,
       "tvg_id": null,
-      "tvg_chno": 7007,
+      "tvg_chno": 6980,
       "name_ar": "SCTV13",
       "name_en": "SCTV13",
       "country": "VN",
@@ -1161,25 +1137,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "SCTV14.vn",
       "code": "SCT-VN-004",
-      "index": 6908,
+      "index": 6881,
       "tvg_id": null,
-      "tvg_chno": 7008,
+      "tvg_chno": 6981,
       "name_ar": "SCTV14",
       "name_en": "SCTV14",
       "country": "VN",
@@ -1188,7 +1164,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1196,7 +1172,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1204,9 +1180,9 @@
     {
       "id": "SCTV16.vn",
       "code": "SCT-VN-005",
-      "index": 6909,
+      "index": 6882,
       "tvg_id": null,
-      "tvg_chno": 7009,
+      "tvg_chno": 6982,
       "name_ar": "SCTV16",
       "name_en": "SCTV16",
       "country": "VN",
@@ -1215,7 +1191,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1223,7 +1199,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1231,9 +1207,9 @@
     {
       "id": "SCTV18.vn",
       "code": "SCT-VN-006",
-      "index": 6910,
+      "index": 6883,
       "tvg_id": null,
-      "tvg_chno": 7010,
+      "tvg_chno": 6983,
       "name_ar": "SCTV18",
       "name_en": "SCTV18",
       "country": "VN",
@@ -1242,7 +1218,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1250,7 +1226,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1258,9 +1234,9 @@
     {
       "id": "SCTV19.vn",
       "code": "SCT-VN-007",
-      "index": 6911,
+      "index": 6884,
       "tvg_id": null,
-      "tvg_chno": 7011,
+      "tvg_chno": 6984,
       "name_ar": "SCTV19",
       "name_en": "SCTV19",
       "country": "VN",
@@ -1269,7 +1245,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1277,7 +1253,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1285,9 +1261,9 @@
     {
       "id": "SCTV2.vn",
       "code": "SCT-VN-008",
-      "index": 6912,
+      "index": 6885,
       "tvg_id": null,
-      "tvg_chno": 7012,
+      "tvg_chno": 6985,
       "name_ar": "SCTV2",
       "name_en": "SCTV2",
       "country": "VN",
@@ -1296,7 +1272,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1304,7 +1280,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -1312,7 +1288,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1320,9 +1296,9 @@
     {
       "id": "SCTV20.vn",
       "code": "SCT-VN-009",
-      "index": 6913,
+      "index": 6886,
       "tvg_id": null,
-      "tvg_chno": 7013,
+      "tvg_chno": 6986,
       "name_ar": "SCTV20",
       "name_en": "SCTV20",
       "country": "VN",
@@ -1331,7 +1307,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1339,7 +1315,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1347,9 +1323,9 @@
     {
       "id": "SCTV3.vn",
       "code": "SCT-VN-010",
-      "index": 6914,
+      "index": 6887,
       "tvg_id": null,
-      "tvg_chno": 7014,
+      "tvg_chno": 6987,
       "name_ar": "SCTV3",
       "name_en": "SCTV3",
       "country": "VN",
@@ -1358,7 +1334,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1366,7 +1342,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1374,9 +1350,9 @@
     {
       "id": "SCTV4.vn",
       "code": "SCT-VN-011",
-      "index": 6915,
+      "index": 6888,
       "tvg_id": null,
-      "tvg_chno": 7015,
+      "tvg_chno": 6988,
       "name_ar": "SCTV4",
       "name_en": "SCTV4",
       "country": "VN",
@@ -1385,7 +1361,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1393,7 +1369,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1401,9 +1377,9 @@
     {
       "id": "SCTV5.vn",
       "code": "SCT-VN-012",
-      "index": 6916,
+      "index": 6889,
       "tvg_id": null,
-      "tvg_chno": 7016,
+      "tvg_chno": 6989,
       "name_ar": "SCTV5",
       "name_en": "SCTV5",
       "country": "VN",
@@ -1412,7 +1388,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1420,7 +1396,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1428,9 +1404,9 @@
     {
       "id": "SCTV6.vn",
       "code": "SCT-VN-013",
-      "index": 6917,
+      "index": 6890,
       "tvg_id": null,
-      "tvg_chno": 7017,
+      "tvg_chno": 6990,
       "name_ar": "SCTV6",
       "name_en": "SCTV6",
       "country": "VN",
@@ -1439,23 +1415,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1463,9 +1431,9 @@
     {
       "id": "SCTV7.vn",
       "code": "SCT-VN-014",
-      "index": 6918,
+      "index": 6891,
       "tvg_id": null,
-      "tvg_chno": 7018,
+      "tvg_chno": 6991,
       "name_ar": "SCTV7",
       "name_en": "SCTV7",
       "country": "VN",
@@ -1474,25 +1442,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "SCTV9.vn",
       "code": "SCT-VN-015",
-      "index": 6919,
+      "index": 6892,
       "tvg_id": null,
-      "tvg_chno": 7019,
+      "tvg_chno": 6992,
       "name_ar": "SCTV9",
       "name_en": "SCTV9",
       "country": "VN",
@@ -1501,7 +1469,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1509,7 +1477,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1517,9 +1485,9 @@
     {
       "id": "TayNinhTV.vn",
       "code": "TAY-VN-001",
-      "index": 7569,
+      "index": 7525,
       "tvg_id": null,
-      "tvg_chno": 7669,
+      "tvg_chno": 7625,
       "name_ar": "Tay Ninh TV",
       "name_en": "Tay Ninh TV",
       "country": "VN",
@@ -1528,7 +1496,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1536,7 +1504,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1544,9 +1512,9 @@
     {
       "id": "TeaTV.vn",
       "code": "TEA-VN-001",
-      "index": 7601,
+      "index": 7558,
       "tvg_id": null,
-      "tvg_chno": 7701,
+      "tvg_chno": 7658,
       "name_ar": "Tea TV",
       "name_en": "Tea TV",
       "country": "VN",
@@ -1555,7 +1523,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1563,7 +1531,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1571,9 +1539,9 @@
     {
       "id": "ThaiNguyenTV.vn",
       "code": "THA-VN-001",
-      "index": 7867,
+      "index": 7824,
       "tvg_id": null,
-      "tvg_chno": 7967,
+      "tvg_chno": 7924,
       "name_ar": "Thai Nguyen TV",
       "name_en": "Thai Nguyen TV",
       "country": "VN",
@@ -1582,7 +1550,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1590,44 +1558,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "ThuaThienHueTV.vn",
-      "code": "THU-VN-001",
-      "index": 7948,
-      "tvg_id": null,
-      "tvg_chno": 8048,
-      "name_ar": "Thua Thien Hue TV",
-      "name_en": "Thua Thien Hue TV",
-      "country": "VN",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "TienGiangTV.vn",
       "code": "TIE-VN-001",
-      "index": 7955,
+      "index": 7912,
       "tvg_id": null,
-      "tvg_chno": 8055,
+      "tvg_chno": 8012,
       "name_ar": "Tien Giang TV",
       "name_en": "Tien Giang TV",
       "country": "VN",
@@ -1636,7 +1577,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1644,7 +1585,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1652,9 +1593,9 @@
     {
       "id": "TraVinhTV.vn",
       "code": "TRA-VN-001",
-      "index": 8104,
+      "index": 8060,
       "tvg_id": null,
-      "tvg_chno": 8204,
+      "tvg_chno": 8160,
       "name_ar": "Tra Vinh TV",
       "name_en": "Tra Vinh TV",
       "country": "VN",
@@ -1663,23 +1604,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -1687,7 +1620,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1695,9 +1628,9 @@
     {
       "id": "TVBVietnam.vn",
       "code": "TVB-VN-001",
-      "index": 8292,
+      "index": 8246,
       "tvg_id": null,
-      "tvg_chno": 8392,
+      "tvg_chno": 8346,
       "name_ar": "TVB Vietnam",
       "name_en": "TVB Vietnam",
       "country": "VN",
@@ -1706,7 +1639,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1714,7 +1647,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1722,9 +1655,9 @@
     {
       "id": "UniquelyThai.vn",
       "code": "UNI-VN-001",
-      "index": 8734,
+      "index": 8692,
       "tvg_id": null,
-      "tvg_chno": 8834,
+      "tvg_chno": 8792,
       "name_ar": "Uniquely Thai",
       "name_en": "Uniquely Thai",
       "country": "VN",
@@ -1733,7 +1666,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1741,7 +1674,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         }
       ]
@@ -1749,9 +1682,9 @@
     {
       "id": "VietnamToday.vn",
       "code": "VIE-VN-001",
-      "index": 8897,
+      "index": 8855,
       "tvg_id": null,
-      "tvg_chno": 8997,
+      "tvg_chno": 8955,
       "name_ar": "Vietnam Today",
       "name_en": "Vietnam Today",
       "country": "VN",
@@ -1760,7 +1693,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1768,7 +1701,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         },
         {
@@ -1776,7 +1709,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1784,9 +1717,9 @@
     {
       "id": "VinhLongTV1.vn",
       "code": "VIN-VN-001",
-      "index": 8919,
+      "index": 8876,
       "tvg_id": null,
-      "tvg_chno": 9019,
+      "tvg_chno": 8976,
       "name_ar": "Vinh Long TV 1",
       "name_en": "Vinh Long TV 1",
       "country": "VN",
@@ -1795,23 +1728,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://dethich.pw/thvl1/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "is_working": true
         },
         {
           "url": "http://125hvt.ddns.net:21585/thvl1/playlist.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1819,9 +1752,9 @@
     {
       "id": "VinhLongTV2.vn",
       "code": "VIN-VN-002",
-      "index": 8920,
+      "index": 8877,
       "tvg_id": null,
-      "tvg_chno": 9020,
+      "tvg_chno": 8977,
       "name_ar": "Vinh Long TV 2",
       "name_en": "Vinh Long TV 2",
       "country": "VN",
@@ -1830,7 +1763,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1838,7 +1771,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -1846,7 +1779,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1854,9 +1787,9 @@
     {
       "id": "VinhLongTV3.vn",
       "code": "VIN-VN-003",
-      "index": 8921,
+      "index": 8878,
       "tvg_id": null,
-      "tvg_chno": 9021,
+      "tvg_chno": 8978,
       "name_ar": "Vinh Long TV 3",
       "name_en": "Vinh Long TV 3",
       "country": "VN",
@@ -1865,7 +1798,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1873,7 +1806,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1881,9 +1814,9 @@
     {
       "id": "VinhLongTV4.vn",
       "code": "VIN-VN-004",
-      "index": 8922,
+      "index": 8879,
       "tvg_id": null,
-      "tvg_chno": 9022,
+      "tvg_chno": 8979,
       "name_ar": "Vinh Long TV 4",
       "name_en": "Vinh Long TV 4",
       "country": "VN",
@@ -1892,7 +1825,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1900,7 +1833,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1908,9 +1841,9 @@
     {
       "id": "VTV1.vn",
       "code": "VTV-VN-001",
-      "index": 9000,
+      "index": 8956,
       "tvg_id": null,
-      "tvg_chno": 9100,
+      "tvg_chno": 9056,
       "name_ar": "VTV1",
       "name_en": "VTV1",
       "country": "VN",
@@ -1919,39 +1852,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -1959,7 +1868,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -1967,9 +1876,9 @@
     {
       "id": "VTV10.vn",
       "code": "VTV-VN-002",
-      "index": 9001,
+      "index": 8957,
       "tvg_id": null,
-      "tvg_chno": 9101,
+      "tvg_chno": 9057,
       "name_ar": "VTV10",
       "name_en": "VTV10",
       "country": "VN",
@@ -1978,7 +1887,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1986,7 +1895,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -1994,7 +1903,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2002,7 +1911,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2010,7 +1919,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2018,7 +1927,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2026,9 +1935,9 @@
     {
       "id": "VTV2.vn",
       "code": "VTV-VN-003",
-      "index": 9002,
+      "index": 8958,
       "tvg_id": null,
-      "tvg_chno": 9102,
+      "tvg_chno": 9058,
       "name_ar": "VTV2",
       "name_en": "VTV2",
       "country": "VN",
@@ -2037,39 +1946,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2077,7 +1962,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": true
         },
         {
@@ -2085,7 +1970,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2093,9 +1978,9 @@
     {
       "id": "VTV3.vn",
       "code": "VTV-VN-004",
-      "index": 9003,
+      "index": 8959,
       "tvg_id": null,
-      "tvg_chno": 9103,
+      "tvg_chno": 9059,
       "name_ar": "VTV3",
       "name_en": "VTV3",
       "country": "VN",
@@ -2104,39 +1989,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2144,7 +2005,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2152,9 +2013,9 @@
     {
       "id": "VTV4.vn",
       "code": "VTV-VN-005",
-      "index": 9004,
+      "index": 8960,
       "tvg_id": null,
-      "tvg_chno": 9104,
+      "tvg_chno": 9060,
       "name_ar": "VTV4",
       "name_en": "VTV4",
       "country": "VN",
@@ -2163,39 +2024,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2203,7 +2040,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2211,9 +2048,9 @@
     {
       "id": "VTV5.vn",
       "code": "VTV-VN-006",
-      "index": 9005,
+      "index": 8961,
       "tvg_id": null,
-      "tvg_chno": 9105,
+      "tvg_chno": 9061,
       "name_ar": "VTV5",
       "name_en": "VTV5",
       "country": "VN",
@@ -2222,31 +2059,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
-          "is_working": false
-        },
         {
           "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2254,7 +2075,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2262,7 +2083,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2270,9 +2091,9 @@
     {
       "id": "VTV5TayNamBo.vn",
       "code": "VTV-VN-007",
-      "index": 9006,
+      "index": 8962,
       "tvg_id": null,
-      "tvg_chno": 9106,
+      "tvg_chno": 9062,
       "name_ar": "VTV5 Tay Nam Bo",
       "name_en": "VTV5 Tay Nam Bo",
       "country": "VN",
@@ -2281,7 +2102,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2289,7 +2110,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2297,7 +2118,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2305,9 +2126,9 @@
     {
       "id": "VTV5TayNguyen.vn",
       "code": "VTV-VN-008",
-      "index": 9007,
+      "index": 8963,
       "tvg_id": null,
-      "tvg_chno": 9107,
+      "tvg_chno": 9063,
       "name_ar": "VTV5 Tay Nguyen",
       "name_en": "VTV5 Tay Nguyen",
       "country": "VN",
@@ -2316,7 +2137,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2324,7 +2145,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2332,7 +2153,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2340,9 +2161,9 @@
     {
       "id": "VTV6.vn",
       "code": "VTV-VN-009",
-      "index": 9008,
+      "index": 8964,
       "tvg_id": null,
-      "tvg_chno": 9108,
+      "tvg_chno": 9064,
       "name_ar": "VTV6",
       "name_en": "VTV6",
       "country": "VN",
@@ -2351,7 +2172,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2359,7 +2180,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2367,7 +2188,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2375,7 +2196,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2383,7 +2204,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2391,9 +2212,9 @@
     {
       "id": "VTV7.vn",
       "code": "VTV-VN-010",
-      "index": 9009,
+      "index": 8965,
       "tvg_id": null,
-      "tvg_chno": 9109,
+      "tvg_chno": 9065,
       "name_ar": "VTV7",
       "name_en": "VTV7",
       "country": "VN",
@@ -2402,7 +2223,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2410,7 +2231,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2418,7 +2239,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2426,7 +2247,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2434,7 +2255,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2442,7 +2263,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2450,9 +2271,9 @@
     {
       "id": "VTV8.vn",
       "code": "VTV-VN-011",
-      "index": 9010,
+      "index": 8966,
       "tvg_id": null,
-      "tvg_chno": 9110,
+      "tvg_chno": 9066,
       "name_ar": "VTV8",
       "name_en": "VTV8",
       "country": "VN",
@@ -2461,7 +2282,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2469,7 +2290,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2477,7 +2298,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2485,7 +2306,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2493,7 +2314,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
@@ -2501,9 +2322,9 @@
     {
       "id": "VTV9.vn",
       "code": "VTV-VN-012",
-      "index": 9011,
+      "index": 8967,
       "tvg_id": null,
-      "tvg_chno": 9111,
+      "tvg_chno": 9067,
       "name_ar": "VTV9",
       "name_en": "VTV9",
       "country": "VN",
@@ -2512,7 +2333,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-10T09:27:07.107569+00:00",
+      "last_checked": "2026-10-11T09:44:42.708504+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2520,7 +2341,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2528,7 +2349,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2536,7 +2357,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2544,7 +2365,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         },
         {
@@ -2552,11 +2373,11 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-10T09:27:07.107569+00:00",
+          "last_checked": "2026-10-11T09:44:42.708504+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-10T09:27:07.107569+00:00"
+  "last_updated": "2026-10-11T09:44:42.708504+00:00"
 }
