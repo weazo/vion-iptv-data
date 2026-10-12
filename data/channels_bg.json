@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "BG",
-  "total_channels": 65,
+  "total_channels": 64,
   "channels": [
     {
       "id": "100AutoMotoTV.bg",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "406p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "78TV.bg",
       "code": "TVX-BG-001",
-      "index": 139,
+      "index": 137,
       "tvg_id": null,
-      "tvg_chno": 239,
+      "tvg_chno": 237,
       "name_ar": "7/8 TV",
       "name_en": "7/8 TV",
       "country": "BG",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "AgroTV.bg",
       "code": "AGR-BG-001",
-      "index": 327,
+      "index": 325,
       "tvg_id": null,
-      "tvg_chno": 427,
+      "tvg_chno": 425,
       "name_ar": "Agro TV",
       "name_en": "Agro TV",
       "country": "BG",
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -87,9 +87,9 @@
     {
       "id": "BloombergTVBulgaria.bg",
       "code": "BLO-BG-001",
-      "index": 1096,
+      "index": 1095,
       "tvg_id": null,
-      "tvg_chno": 1196,
+      "tvg_chno": 1195,
       "name_ar": "Bloomberg TV Bulgaria",
       "name_en": "Bloomberg TV Bulgaria",
       "country": "BG",
@@ -98,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -106,7 +106,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -114,9 +114,9 @@
     {
       "id": "BNT1.bg",
       "code": "BNT-BG-001",
-      "index": 1109,
+      "index": 1108,
       "tvg_id": null,
-      "tvg_chno": 1209,
+      "tvg_chno": 1208,
       "name_ar": "BNT 1",
       "name_en": "BNT 1",
       "country": "BG",
@@ -125,23 +125,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/BNT1_HD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         },
         {
           "url": "http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -149,7 +149,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -157,9 +157,9 @@
     {
       "id": "BNT2.bg",
       "code": "BNT-BG-002",
-      "index": 1110,
+      "index": 1109,
       "tvg_id": null,
-      "tvg_chno": 1210,
+      "tvg_chno": 1209,
       "name_ar": "BNT 2",
       "name_en": "BNT 2",
       "country": "BG",
@@ -168,7 +168,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -176,7 +176,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -184,7 +184,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -192,7 +192,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -200,9 +200,9 @@
     {
       "id": "BNT3.bg",
       "code": "BNT-BG-003",
-      "index": 1111,
+      "index": 1110,
       "tvg_id": null,
-      "tvg_chno": 1211,
+      "tvg_chno": 1210,
       "name_ar": "BNT 3",
       "name_en": "BNT 3",
       "country": "BG",
@@ -211,23 +211,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/BNT3_HD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         },
         {
           "url": "http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -235,7 +235,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -243,9 +243,9 @@
     {
       "id": "BNT4.bg",
       "code": "BNT-BG-004",
-      "index": 1112,
+      "index": 1111,
       "tvg_id": null,
-      "tvg_chno": 1212,
+      "tvg_chno": 1211,
       "name_ar": "BNT 4",
       "name_en": "BNT 4",
       "country": "BG",
@@ -254,23 +254,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/BNT4_HD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         },
         {
           "url": "http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -278,7 +278,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -297,7 +297,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -305,7 +305,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -324,15 +324,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://213.91.179.28:8000/play/a03w",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -340,8 +340,8 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
@@ -359,7 +359,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -367,7 +367,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -386,7 +386,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -394,7 +394,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -413,7 +413,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -421,7 +421,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -440,7 +440,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -448,7 +448,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -467,7 +467,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -475,7 +475,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -483,9 +483,9 @@
     {
       "id": "cinebox.bg",
       "code": "CIN-BG-001",
-      "index": 1766,
+      "index": 1769,
       "tvg_id": null,
-      "tvg_chno": 1866,
+      "tvg_chno": 1869,
       "name_ar": "cine.box",
       "name_en": "cine.box",
       "country": "BG",
@@ -494,7 +494,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -502,7 +502,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -510,9 +510,9 @@
     {
       "id": "CineStar1Bulgaria.bg",
       "code": "CIN-BG-002",
-      "index": 1801,
+      "index": 1805,
       "tvg_id": null,
-      "tvg_chno": 1901,
+      "tvg_chno": 1905,
       "name_ar": "CineStar 1 Bulgaria",
       "name_en": "CineStar 1 Bulgaria",
       "country": "BG",
@@ -521,7 +521,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -529,7 +529,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -537,9 +537,9 @@
     {
       "id": "CityTV.bg",
       "code": "CIT-BG-001",
-      "index": 1842,
+      "index": 1846,
       "tvg_id": null,
-      "tvg_chno": 1942,
+      "tvg_chno": 1946,
       "name_ar": "City TV",
       "name_en": "City TV",
       "country": "BG",
@@ -548,7 +548,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -556,7 +556,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -564,9 +564,9 @@
     {
       "id": "CodeFashionTV.bg",
       "code": "COD-BG-001",
-      "index": 1934,
+      "index": 1938,
       "tvg_id": null,
-      "tvg_chno": 2034,
+      "tvg_chno": 2038,
       "name_ar": "Code Fashion TV",
       "name_en": "Code Fashion TV",
       "country": "BG",
@@ -575,7 +575,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -583,7 +583,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -591,9 +591,9 @@
     {
       "id": "CodeHealthTV.bg",
       "code": "COD-BG-002",
-      "index": 1935,
+      "index": 1939,
       "tvg_id": null,
-      "tvg_chno": 2035,
+      "tvg_chno": 2039,
       "name_ar": "Code Health TV",
       "name_en": "Code Health TV",
       "country": "BG",
@@ -602,7 +602,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -610,7 +610,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -618,9 +618,9 @@
     {
       "id": "Diema.bg",
       "code": "DIE-BG-001",
-      "index": 2277,
+      "index": 2281,
       "tvg_id": null,
-      "tvg_chno": 2377,
+      "tvg_chno": 2381,
       "name_ar": "Diema",
       "name_en": "Diema",
       "country": "BG",
@@ -629,7 +629,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -637,7 +637,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -645,9 +645,9 @@
     {
       "id": "DiemaFamily.bg",
       "code": "DIE-BG-002",
-      "index": 2278,
+      "index": 2282,
       "tvg_id": null,
-      "tvg_chno": 2378,
+      "tvg_chno": 2382,
       "name_ar": "Diema Family",
       "name_en": "Diema Family",
       "country": "BG",
@@ -656,7 +656,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -664,7 +664,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -672,9 +672,9 @@
     {
       "id": "DisneyChannel.bg",
       "code": "DIS-BG-001",
-      "index": 2314,
+      "index": 2318,
       "tvg_id": null,
-      "tvg_chno": 2414,
+      "tvg_chno": 2418,
       "name_ar": "Disney Channel",
       "name_en": "Disney Channel",
       "country": "BG",
@@ -683,7 +683,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -691,7 +691,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -699,9 +699,9 @@
     {
       "id": "DSTV.bg",
       "code": "DST-BG-001",
-      "index": 2415,
+      "index": 2419,
       "tvg_id": null,
-      "tvg_chno": 2515,
+      "tvg_chno": 2519,
       "name_ar": "DSTV",
       "name_en": "DSTV",
       "country": "BG",
@@ -710,7 +710,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -718,7 +718,7 @@
           "quality": "614p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -726,9 +726,9 @@
     {
       "id": "EKids.bg",
       "code": "EKI-BG-001",
-      "index": 2505,
+      "index": 2509,
       "tvg_id": null,
-      "tvg_chno": 2605,
+      "tvg_chno": 2609,
       "name_ar": "EKids",
       "name_en": "EKids",
       "country": "BG",
@@ -737,7 +737,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -745,7 +745,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -753,9 +753,9 @@
     {
       "id": "Eurocom.bg",
       "code": "EUR-BG-001",
-      "index": 2692,
+      "index": 2696,
       "tvg_id": null,
-      "tvg_chno": 2792,
+      "tvg_chno": 2796,
       "name_ar": "Eurocom",
       "name_en": "Eurocom",
       "country": "BG",
@@ -764,7 +764,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -772,7 +772,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -780,9 +780,9 @@
     {
       "id": "EuronewsBulgaria.bg",
       "code": "EUR-BG-002",
-      "index": 2696,
+      "index": 2700,
       "tvg_id": null,
-      "tvg_chno": 2796,
+      "tvg_chno": 2800,
       "name_ar": "Euronews Bulgaria",
       "name_en": "Euronews Bulgaria",
       "country": "BG",
@@ -791,7 +791,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -799,7 +799,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -807,7 +807,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -815,9 +815,9 @@
     {
       "id": "H2.bg",
       "code": "HXX-BG-001",
-      "index": 3196,
+      "index": 3198,
       "tvg_id": null,
-      "tvg_chno": 3296,
+      "tvg_chno": 3298,
       "name_ar": "H2",
       "name_en": "H2",
       "country": "BG",
@@ -826,7 +826,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -834,7 +834,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -842,9 +842,9 @@
     {
       "id": "History.bg",
       "code": "HIS-BG-001",
-      "index": 3298,
+      "index": 3306,
       "tvg_id": null,
-      "tvg_chno": 3398,
+      "tvg_chno": 3406,
       "name_ar": "History",
       "name_en": "History",
       "country": "BG",
@@ -853,7 +853,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -861,7 +861,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -869,9 +869,9 @@
     {
       "id": "HitMixMusic.bg",
       "code": "HIT-BG-001",
-      "index": 3309,
+      "index": 3317,
       "tvg_id": null,
-      "tvg_chno": 3409,
+      "tvg_chno": 3417,
       "name_ar": "Hit Mix Music",
       "name_en": "Hit Mix Music",
       "country": "BG",
@@ -880,7 +880,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -888,7 +888,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -896,9 +896,9 @@
     {
       "id": "HopeChannelBulgaria.bg",
       "code": "HOP-BG-001",
-      "index": 3368,
+      "index": 3376,
       "tvg_id": null,
-      "tvg_chno": 3468,
+      "tvg_chno": 3476,
       "name_ar": "Hope Channel Bulgaria",
       "name_en": "Hope Channel Bulgaria",
       "country": "BG",
@@ -907,7 +907,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -915,7 +915,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -923,9 +923,9 @@
     {
       "id": "ID.bg",
       "code": "IDX-BG-001",
-      "index": 3465,
+      "index": 3466,
       "tvg_id": null,
-      "tvg_chno": 3565,
+      "tvg_chno": 3566,
       "name_ar": "ID",
       "name_en": "ID",
       "country": "BG",
@@ -934,7 +934,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -942,7 +942,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -961,7 +961,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -969,7 +969,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -988,7 +988,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -996,7 +996,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1004,9 +1004,9 @@
     {
       "id": "MagicTV.bg",
       "code": "MAG-BG-001",
-      "index": 4310,
+      "index": 4308,
       "tvg_id": null,
-      "tvg_chno": 4410,
+      "tvg_chno": 4408,
       "name_ar": "Magic TV",
       "name_en": "Magic TV",
       "country": "BG",
@@ -1015,7 +1015,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1023,7 +1023,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1031,9 +1031,9 @@
     {
       "id": "MaxSport1.bg",
       "code": "MAX-BG-001",
-      "index": 4432,
+      "index": 4430,
       "tvg_id": null,
-      "tvg_chno": 4532,
+      "tvg_chno": 4530,
       "name_ar": "Max Sport 1",
       "name_en": "Max Sport 1",
       "country": "BG",
@@ -1042,7 +1042,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1050,7 +1050,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1058,7 +1058,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1066,9 +1066,9 @@
     {
       "id": "MaxSport2.bg",
       "code": "MAX-BG-002",
-      "index": 4433,
+      "index": 4431,
       "tvg_id": null,
-      "tvg_chno": 4533,
+      "tvg_chno": 4531,
       "name_ar": "Max Sport 2",
       "name_en": "Max Sport 2",
       "country": "BG",
@@ -1077,7 +1077,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1085,7 +1085,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1093,7 +1093,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1101,9 +1101,9 @@
     {
       "id": "MaxSport3.bg",
       "code": "MAX-BG-003",
-      "index": 4434,
+      "index": 4432,
       "tvg_id": null,
-      "tvg_chno": 4534,
+      "tvg_chno": 4532,
       "name_ar": "Max Sport 3",
       "name_en": "Max Sport 3",
       "country": "BG",
@@ -1112,7 +1112,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1120,7 +1120,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1128,7 +1128,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1136,9 +1136,9 @@
     {
       "id": "MaxSport4.bg",
       "code": "MAX-BG-004",
-      "index": 4435,
+      "index": 4433,
       "tvg_id": null,
-      "tvg_chno": 4535,
+      "tvg_chno": 4533,
       "name_ar": "Max Sport 4",
       "name_en": "Max Sport 4",
       "country": "BG",
@@ -1147,7 +1147,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1155,7 +1155,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1163,7 +1163,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1171,9 +1171,9 @@
     {
       "id": "MovieStar.bg",
       "code": "MOV-BG-001",
-      "index": 4702,
+      "index": 4700,
       "tvg_id": null,
-      "tvg_chno": 4802,
+      "tvg_chno": 4800,
       "name_ar": "Movie Star",
       "name_en": "Movie Star",
       "country": "BG",
@@ -1182,23 +1182,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/MovieStar/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         },
         {
           "url": "http://85.14.32.26:8800/udp/239.100.10.160:5000",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1206,9 +1206,9 @@
     {
       "id": "NationalGeographic.bg",
       "code": "NAT-BG-001",
-      "index": 4902,
+      "index": 4900,
       "tvg_id": null,
-      "tvg_chno": 5002,
+      "tvg_chno": 5000,
       "name_ar": "National Geographic",
       "name_en": "National Geographic",
       "country": "BG",
@@ -1217,7 +1217,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1225,7 +1225,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1233,7 +1233,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1241,9 +1241,9 @@
     {
       "id": "NationalGeographicWild.bg",
       "code": "NAT-BG-002",
-      "index": 4904,
+      "index": 4902,
       "tvg_id": null,
-      "tvg_chno": 5004,
+      "tvg_chno": 5002,
       "name_ar": "National Geographic Wild",
       "name_en": "National Geographic Wild",
       "country": "BG",
@@ -1252,7 +1252,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1260,7 +1260,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1268,7 +1268,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1276,9 +1276,9 @@
     {
       "id": "Nickelodeon.bg",
       "code": "NIC-BG-001",
-      "index": 5057,
+      "index": 5056,
       "tvg_id": null,
-      "tvg_chno": 5157,
+      "tvg_chno": 5156,
       "name_ar": "Nickelodeon",
       "name_en": "Nickelodeon",
       "country": "BG",
@@ -1287,7 +1287,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1295,7 +1295,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1303,7 +1303,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1311,9 +1311,9 @@
     {
       "id": "Nostalgia.bg",
       "code": "NOS-BG-001",
-      "index": 5125,
+      "index": 5123,
       "tvg_id": null,
-      "tvg_chno": 5225,
+      "tvg_chno": 5223,
       "name_ar": "Nostalgia",
       "name_en": "Nostalgia",
       "country": "BG",
@@ -1322,7 +1322,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1330,7 +1330,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1338,9 +1338,9 @@
     {
       "id": "Nova.bg",
       "code": "NOV-BG-001",
-      "index": 5142,
+      "index": 5140,
       "tvg_id": null,
-      "tvg_chno": 5242,
+      "tvg_chno": 5240,
       "name_ar": "Nova",
       "name_en": "Nova",
       "country": "BG",
@@ -1349,7 +1349,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1357,7 +1357,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1365,15 +1365,15 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         },
         {
           "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -1381,7 +1381,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1389,7 +1389,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1397,9 +1397,9 @@
     {
       "id": "NovaNews.bg",
       "code": "NOV-BG-002",
-      "index": 5144,
+      "index": 5142,
       "tvg_id": null,
-      "tvg_chno": 5244,
+      "tvg_chno": 5242,
       "name_ar": "Nova News",
       "name_en": "Nova News",
       "country": "BG",
@@ -1408,7 +1408,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1416,7 +1416,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1424,9 +1424,9 @@
     {
       "id": "PlovdivOrthodoxTV.bg",
       "code": "PLO-BG-001",
-      "index": 5604,
+      "index": 5601,
       "tvg_id": null,
-      "tvg_chno": 5704,
+      "tvg_chno": 5701,
       "name_ar": "Plovdiv Orthodox TV",
       "name_en": "Plovdiv Orthodox TV",
       "country": "BG",
@@ -1435,7 +1435,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1443,7 +1443,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1451,9 +1451,9 @@
     {
       "id": "RING.bg",
       "code": "RIN-BG-001",
-      "index": 6501,
+      "index": 6499,
       "tvg_id": null,
-      "tvg_chno": 6601,
+      "tvg_chno": 6599,
       "name_ar": "RING",
       "name_en": "RING",
       "country": "BG",
@@ -1462,7 +1462,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1470,7 +1470,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1478,9 +1478,9 @@
     {
       "id": "RMTV.bg",
       "code": "RMT-BG-001",
-      "index": 6513,
+      "index": 6511,
       "tvg_id": null,
-      "tvg_chno": 6613,
+      "tvg_chno": 6611,
       "name_ar": "RMTV",
       "name_en": "RMTV",
       "country": "BG",
@@ -1489,7 +1489,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1497,7 +1497,7 @@
           "quality": "288p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1505,9 +1505,9 @@
     {
       "id": "StarChannel.bg",
       "code": "STA-BG-001",
-      "index": 7248,
+      "index": 7245,
       "tvg_id": null,
-      "tvg_chno": 7348,
+      "tvg_chno": 7345,
       "name_ar": "Star Channel",
       "name_en": "Star Channel",
       "country": "BG",
@@ -1516,7 +1516,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1524,7 +1524,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1532,7 +1532,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1540,7 +1540,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -1548,7 +1548,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1556,9 +1556,9 @@
     {
       "id": "StarCrime.bg",
       "code": "STA-BG-002",
-      "index": 7253,
+      "index": 7250,
       "tvg_id": null,
-      "tvg_chno": 7353,
+      "tvg_chno": 7350,
       "name_ar": "Star Crime",
       "name_en": "Star Crime",
       "country": "BG",
@@ -1567,7 +1567,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1575,7 +1575,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1583,7 +1583,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1591,9 +1591,9 @@
     {
       "id": "StarLife.bg",
       "code": "STA-BG-003",
-      "index": 7260,
+      "index": 7257,
       "tvg_id": null,
-      "tvg_chno": 7360,
+      "tvg_chno": 7357,
       "name_ar": "Star Life",
       "name_en": "Star Life",
       "country": "BG",
@@ -1602,7 +1602,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1610,7 +1610,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1618,7 +1618,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1626,9 +1626,9 @@
     {
       "id": "TheVoice.bg",
       "code": "THE-BG-001",
-      "index": 7889,
+      "index": 7887,
       "tvg_id": null,
-      "tvg_chno": 7989,
+      "tvg_chno": 7987,
       "name_ar": "The Voice",
       "name_en": "The Voice",
       "country": "BG",
@@ -1637,7 +1637,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1645,7 +1645,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1653,9 +1653,9 @@
     {
       "id": "ThisisBulgariaHD.bg",
       "code": "THI-BG-001",
-      "index": 7900,
+      "index": 7898,
       "tvg_id": null,
-      "tvg_chno": 8000,
+      "tvg_chno": 7998,
       "name_ar": "This is Bulgaria HD",
       "name_en": "This is Bulgaria HD",
       "country": "BG",
@@ -1664,7 +1664,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1672,7 +1672,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1680,9 +1680,9 @@
     {
       "id": "TiankovFolk.bg",
       "code": "TIA-BG-001",
-      "index": 7907,
+      "index": 7905,
       "tvg_id": null,
-      "tvg_chno": 8007,
+      "tvg_chno": 8005,
       "name_ar": "Tiankov Folk",
       "name_en": "Tiankov Folk",
       "country": "BG",
@@ -1691,7 +1691,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1699,7 +1699,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1707,9 +1707,9 @@
     {
       "id": "TiankovOrientFolk.bg",
       "code": "TIA-BG-002",
-      "index": 7908,
+      "index": 7906,
       "tvg_id": null,
-      "tvg_chno": 8008,
+      "tvg_chno": 8006,
       "name_ar": "Tiankov Orient Folk",
       "name_en": "Tiankov Orient Folk",
       "country": "BG",
@@ -1718,7 +1718,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1726,42 +1726,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "TravelTV.bg",
-      "code": "TRA-BG-001",
-      "index": 8058,
-      "tvg_id": null,
-      "tvg_chno": 8158,
-      "name_ar": "Travel TV",
-      "name_en": "Travel TV",
-      "country": "BG",
-      "language": "unknown",
-      "category": "travel",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
-      "streams": [
-        {
-          "url": "https://streamer103.neterra.tv/travel/live.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1769,9 +1734,9 @@
     {
       "id": "TV1000.bg",
       "code": "TVX-BG-002",
-      "index": 8147,
+      "index": 8146,
       "tvg_id": null,
-      "tvg_chno": 8247,
+      "tvg_chno": 8246,
       "name_ar": "TV1000",
       "name_en": "TV1000",
       "country": "BG",
@@ -1780,7 +1745,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1788,7 +1753,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1796,7 +1761,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1815,16 +1780,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/RodinaTV/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
@@ -1842,7 +1807,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1850,7 +1815,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1869,7 +1834,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1877,7 +1842,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1896,16 +1861,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
@@ -1923,16 +1888,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/ViasatHistory_HD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
@@ -1950,16 +1915,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
@@ -1977,7 +1942,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1985,7 +1950,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1993,11 +1958,11 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-11T09:44:42.708504+00:00"
+  "last_updated": "2026-10-12T10:16:53.253771+00:00"
 }

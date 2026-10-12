@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "CZ",
-  "total_channels": 80,
+  "total_channels": 82,
   "channels": [
     {
       "id": "Ballcasterz.cz",
       "code": "BAL-CZ-001",
-      "index": 869,
+      "index": 868,
       "tvg_id": null,
-      "tvg_chno": 969,
+      "tvg_chno": 968,
       "name_ar": "Ballcasterz",
       "name_en": "Ballcasterz",
       "country": "CZ",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "BarrandovKrimi.cz",
       "code": "BAR-CZ-001",
-      "index": 895,
+      "index": 894,
       "tvg_id": null,
-      "tvg_chno": 995,
+      "tvg_chno": 994,
       "name_ar": "Barrandov Krimi",
       "name_en": "Barrandov Krimi",
       "country": "CZ",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,61 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Cinemax.cz",
+      "code": "CIN-CZ-001",
+      "index": 1783,
+      "tvg_id": null,
+      "tvg_chno": 1883,
+      "name_ar": "Cinemax",
+      "name_en": "Cinemax",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Cinemax2.cz",
+      "code": "CIN-CZ-002",
+      "index": 1784,
+      "tvg_id": null,
+      "tvg_chno": 1884,
+      "name_ar": "Cinemax 2",
+      "name_en": "Cinemax 2",
+      "country": "CZ",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -60,9 +114,9 @@
     {
       "id": "CNNPrimaNews.cz",
       "code": "CNN-CZ-001",
-      "index": 1931,
+      "index": 1935,
       "tvg_id": null,
-      "tvg_chno": 2031,
+      "tvg_chno": 2035,
       "name_ar": "CNN Prima News",
       "name_en": "CNN Prima News",
       "country": "CZ",
@@ -71,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,25 +133,25 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         },
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "CT1.cz",
       "code": "CTX-CZ-001",
-      "index": 2062,
+      "index": 2066,
       "tvg_id": null,
-      "tvg_chno": 2162,
+      "tvg_chno": 2166,
       "name_ar": "CT1",
       "name_en": "CT1",
       "country": "CZ",
@@ -106,25 +160,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "CT2.cz",
       "code": "CTX-CZ-002",
-      "index": 2063,
+      "index": 2067,
       "tvg_id": null,
-      "tvg_chno": 2163,
+      "tvg_chno": 2167,
       "name_ar": "CT2",
       "name_en": "CT2",
       "country": "CZ",
@@ -133,25 +187,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "CT24.cz",
       "code": "CTX-CZ-003",
-      "index": 2064,
+      "index": 2068,
       "tvg_id": null,
-      "tvg_chno": 2164,
+      "tvg_chno": 2168,
       "name_ar": "CT24",
       "name_en": "CT24",
       "country": "CZ",
@@ -160,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -168,15 +222,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         },
         {
           "url": "https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -184,9 +238,9 @@
     {
       "id": "CTDecko.cz",
       "code": "CTD-CZ-001",
-      "index": 2067,
+      "index": 2071,
       "tvg_id": null,
-      "tvg_chno": 2167,
+      "tvg_chno": 2171,
       "name_ar": "CT Decko",
       "name_en": "CT Decko",
       "country": "CZ",
@@ -195,25 +249,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "CTSport.cz",
       "code": "CTS-CZ-001",
-      "index": 2075,
+      "index": 2079,
       "tvg_id": null,
-      "tvg_chno": 2175,
+      "tvg_chno": 2179,
       "name_ar": "CT Sport",
       "name_en": "CT Sport",
       "country": "CZ",
@@ -222,25 +276,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "CurrentTimeTV.cz",
       "code": "CUR-CZ-001",
-      "index": 2096,
+      "index": 2100,
       "tvg_id": null,
-      "tvg_chno": 2196,
+      "tvg_chno": 2200,
       "name_ar": "Current Time TV",
       "name_en": "Current Time TV",
       "country": "CZ",
@@ -249,7 +303,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -257,7 +311,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -265,15 +319,15 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         },
         {
           "url": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -281,9 +335,9 @@
     {
       "id": "DisneyJunior.cz",
       "code": "DIS-CZ-001",
-      "index": 2319,
+      "index": 2323,
       "tvg_id": null,
-      "tvg_chno": 2419,
+      "tvg_chno": 2423,
       "name_ar": "Disney Junior",
       "name_en": "Disney Junior",
       "country": "CZ",
@@ -292,25 +346,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_disney_junior/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "DVTVExtra.cz",
       "code": "DVT-CZ-001",
-      "index": 2448,
+      "index": 2452,
       "tvg_id": null,
-      "tvg_chno": 2548,
+      "tvg_chno": 2552,
       "name_ar": "DVTV Extra",
       "name_en": "DVTV Extra",
       "country": "CZ",
@@ -319,7 +373,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -327,7 +381,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -335,9 +389,9 @@
     {
       "id": "ElektrikaTV.cz",
       "code": "ELE-CZ-001",
-      "index": 2525,
+      "index": 2529,
       "tvg_id": null,
-      "tvg_chno": 2625,
+      "tvg_chno": 2629,
       "name_ar": "Elektrika TV",
       "name_en": "Elektrika TV",
       "country": "CZ",
@@ -346,7 +400,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -354,7 +408,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -362,9 +416,9 @@
     {
       "id": "Eurosport4KCzechia.cz",
       "code": "EUR-CZ-001",
-      "index": 2716,
+      "index": 2720,
       "tvg_id": null,
-      "tvg_chno": 2816,
+      "tvg_chno": 2820,
       "name_ar": "Eurosport 4K Czechia",
       "name_en": "Eurosport 4K Czechia",
       "country": "CZ",
@@ -373,25 +427,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "FilmPlus.cz",
       "code": "FIL-CZ-001",
-      "index": 2857,
+      "index": 2861,
       "tvg_id": null,
-      "tvg_chno": 2957,
+      "tvg_chno": 2961,
       "name_ar": "Film+",
       "name_en": "Film+",
       "country": "CZ",
@@ -400,25 +454,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "GolfChannel.cz",
       "code": "GOL-CZ-001",
-      "index": 3108,
+      "index": 3110,
       "tvg_id": null,
-      "tvg_chno": 3208,
+      "tvg_chno": 3210,
       "name_ar": "Golf Channel",
       "name_en": "Golf Channel",
       "country": "CZ",
@@ -427,7 +481,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -435,7 +489,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -443,9 +497,9 @@
     {
       "id": "History2.cz",
       "code": "HIS-CZ-001",
-      "index": 3299,
+      "index": 3307,
       "tvg_id": null,
-      "tvg_chno": 3399,
+      "tvg_chno": 3407,
       "name_ar": "History2",
       "name_en": "History2",
       "country": "CZ",
@@ -454,25 +508,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_h2/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "JC1.cz",
       "code": "JCX-CZ-001",
-      "index": 3671,
+      "index": 3672,
       "tvg_id": null,
-      "tvg_chno": 3771,
+      "tvg_chno": 3772,
       "name_ar": "JC1",
       "name_en": "JC1",
       "country": "CZ",
@@ -481,7 +535,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -489,7 +543,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -497,9 +551,9 @@
     {
       "id": "Jihoceskatelevize.cz",
       "code": "JIH-CZ-001",
-      "index": 3700,
+      "index": 3701,
       "tvg_id": null,
-      "tvg_chno": 3800,
+      "tvg_chno": 3801,
       "name_ar": "Jihoceska televize",
       "name_en": "Jihoceska televize",
       "country": "CZ",
@@ -508,7 +562,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -516,7 +570,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -535,16 +589,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
@@ -562,7 +616,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -570,7 +624,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -578,9 +632,9 @@
     {
       "id": "MinimaxCEE.cz",
       "code": "MIN-CZ-001",
-      "index": 4581,
+      "index": 4579,
       "tvg_id": null,
-      "tvg_chno": 4681,
+      "tvg_chno": 4679,
       "name_ar": "Minimax CEE",
       "name_en": "Minimax CEE",
       "country": "CZ",
@@ -589,25 +643,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MnauTV.cz",
       "code": "MNA-CZ-001",
-      "index": 4620,
+      "index": 4618,
       "tvg_id": null,
-      "tvg_chno": 4720,
+      "tvg_chno": 4718,
       "name_ar": "Mnau TV",
       "name_en": "Mnau TV",
       "country": "CZ",
@@ -616,25 +670,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "MusicBox80s.cz",
       "code": "MUS-CZ-001",
-      "index": 4809,
+      "index": 4807,
       "tvg_id": null,
-      "tvg_chno": 4909,
+      "tvg_chno": 4907,
       "name_ar": "Music Box 80s",
       "name_en": "Music Box 80s",
       "country": "CZ",
@@ -643,7 +697,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -651,7 +705,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -659,9 +713,9 @@
     {
       "id": "MusicBoxClassic.cz",
       "code": "MUS-CZ-002",
-      "index": 4811,
+      "index": 4809,
       "tvg_id": null,
-      "tvg_chno": 4911,
+      "tvg_chno": 4909,
       "name_ar": "Music Box Classic",
       "name_en": "Music Box Classic",
       "country": "CZ",
@@ -670,25 +724,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MusicBoxDance.cz",
       "code": "MUS-CZ-003",
-      "index": 4812,
+      "index": 4810,
       "tvg_id": null,
-      "tvg_chno": 4912,
+      "tvg_chno": 4910,
       "name_ar": "Music Box Dance",
       "name_en": "Music Box Dance",
       "country": "CZ",
@@ -697,25 +751,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MusicBoxHits.cz",
       "code": "MUS-CZ-004",
-      "index": 4813,
+      "index": 4811,
       "tvg_id": null,
-      "tvg_chno": 4913,
+      "tvg_chno": 4911,
       "name_ar": "Music Box Hits",
       "name_en": "Music Box Hits",
       "country": "CZ",
@@ -724,25 +778,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "NickJr.cz",
       "code": "NIC-CZ-001",
-      "index": 5070,
+      "index": 5068,
       "tvg_id": null,
-      "tvg_chno": 5170,
+      "tvg_chno": 5168,
       "name_ar": "Nick Jr.",
       "name_en": "Nick Jr.",
       "country": "CZ",
@@ -751,25 +805,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Nicktoons.cz",
       "code": "NIC-CZ-002",
-      "index": 5076,
+      "index": 5074,
       "tvg_id": null,
-      "tvg_chno": 5176,
+      "tvg_chno": 5174,
       "name_ar": "Nicktoons",
       "name_en": "Nicktoons",
       "country": "CZ",
@@ -778,25 +832,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Ocko.cz",
       "code": "OCK-CZ-001",
-      "index": 5244,
+      "index": 5242,
       "tvg_id": null,
-      "tvg_chno": 5344,
+      "tvg_chno": 5342,
       "name_ar": "Ocko",
       "name_en": "Ocko",
       "country": "CZ",
@@ -805,7 +859,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -813,7 +867,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -821,7 +875,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -829,9 +883,9 @@
     {
       "id": "OckoBlack.cz",
       "code": "OCK-CZ-002",
-      "index": 5245,
+      "index": 5243,
       "tvg_id": null,
-      "tvg_chno": 5345,
+      "tvg_chno": 5343,
       "name_ar": "Ocko Black",
       "name_en": "Ocko Black",
       "country": "CZ",
@@ -840,7 +894,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -848,7 +902,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -856,9 +910,9 @@
     {
       "id": "OckoExpres.cz",
       "code": "OCK-CZ-003",
-      "index": 5246,
+      "index": 5244,
       "tvg_id": null,
-      "tvg_chno": 5346,
+      "tvg_chno": 5344,
       "name_ar": "Ocko Expres",
       "name_en": "Ocko Expres",
       "country": "CZ",
@@ -867,7 +921,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -875,7 +929,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -883,9 +937,9 @@
     {
       "id": "OckoGold.cz",
       "code": "OCK-CZ-004",
-      "index": 5247,
+      "index": 5245,
       "tvg_id": null,
-      "tvg_chno": 5347,
+      "tvg_chno": 5345,
       "name_ar": "Ocko Gold",
       "name_en": "Ocko Gold",
       "country": "CZ",
@@ -894,7 +948,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -902,7 +956,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -910,7 +964,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -918,9 +972,9 @@
     {
       "id": "OckoStar.cz",
       "code": "OCK-CZ-005",
-      "index": 5248,
+      "index": 5246,
       "tvg_id": null,
-      "tvg_chno": 5348,
+      "tvg_chno": 5346,
       "name_ar": "Ocko Star",
       "name_en": "Ocko Star",
       "country": "CZ",
@@ -929,7 +983,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -937,7 +991,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -945,9 +999,9 @@
     {
       "id": "PlzenTV.cz",
       "code": "PLZ-CZ-001",
-      "index": 5882,
+      "index": 5880,
       "tvg_id": null,
-      "tvg_chno": 5982,
+      "tvg_chno": 5980,
       "name_ar": "Plzen TV",
       "name_en": "Plzen TV",
       "country": "CZ",
@@ -956,7 +1010,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -964,7 +1018,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -972,9 +1026,9 @@
     {
       "id": "Prima.cz",
       "code": "PRI-CZ-001",
-      "index": 5972,
+      "index": 5971,
       "tvg_id": null,
-      "tvg_chno": 6072,
+      "tvg_chno": 6071,
       "name_ar": "Prima",
       "name_en": "Prima",
       "country": "CZ",
@@ -983,25 +1037,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PrimaCool.cz",
       "code": "PRI-CZ-002",
-      "index": 5973,
+      "index": 5972,
       "tvg_id": null,
-      "tvg_chno": 6073,
+      "tvg_chno": 6072,
       "name_ar": "Prima Cool",
       "name_en": "Prima Cool",
       "country": "CZ",
@@ -1010,25 +1064,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PrimaKrimi.cz",
       "code": "PRI-CZ-003",
-      "index": 5976,
+      "index": 5975,
       "tvg_id": null,
-      "tvg_chno": 6076,
+      "tvg_chno": 6075,
       "name_ar": "Prima Krimi",
       "name_en": "Prima Krimi",
       "country": "CZ",
@@ -1037,23 +1091,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         },
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1061,9 +1115,9 @@
     {
       "id": "PrimaLove.cz",
       "code": "PRI-CZ-004",
-      "index": 5978,
+      "index": 5977,
       "tvg_id": null,
-      "tvg_chno": 6078,
+      "tvg_chno": 6077,
       "name_ar": "Prima Love",
       "name_en": "Prima Love",
       "country": "CZ",
@@ -1072,25 +1126,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/prima_love_cz_avc/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PrimaMax.cz",
       "code": "PRI-CZ-005",
-      "index": 5980,
+      "index": 5979,
       "tvg_id": null,
-      "tvg_chno": 6080,
+      "tvg_chno": 6079,
       "name_ar": "Prima Max",
       "name_en": "Prima Max",
       "country": "CZ",
@@ -1099,23 +1153,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         },
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=PrimaMax",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1123,9 +1177,9 @@
     {
       "id": "PrimaShow.cz",
       "code": "PRI-CZ-006",
-      "index": 5983,
+      "index": 5982,
       "tvg_id": null,
-      "tvg_chno": 6083,
+      "tvg_chno": 6082,
       "name_ar": "Prima Show",
       "name_en": "Prima Show",
       "country": "CZ",
@@ -1134,25 +1188,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PrimaStar.cz",
       "code": "PRI-CZ-007",
-      "index": 5985,
+      "index": 5984,
       "tvg_id": null,
-      "tvg_chno": 6085,
+      "tvg_chno": 6084,
       "name_ar": "Prima Star",
       "name_en": "Prima Star",
       "country": "CZ",
@@ -1161,25 +1215,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PrimaZoom.cz",
       "code": "PRI-CZ-008",
-      "index": 5987,
+      "index": 5986,
       "tvg_id": null,
-      "tvg_chno": 6087,
+      "tvg_chno": 6086,
       "name_ar": "Prima Zoom",
       "name_en": "Prima Zoom",
       "country": "CZ",
@@ -1188,25 +1242,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "RetroMusicTV.cz",
       "code": "RET-CZ-001",
-      "index": 6461,
+      "index": 6459,
       "tvg_id": null,
-      "tvg_chno": 6561,
+      "tvg_chno": 6559,
       "name_ar": "Retro Music TV",
       "name_en": "Retro Music TV",
       "country": "CZ",
@@ -1215,7 +1269,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1223,7 +1277,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -1231,7 +1285,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1239,7 +1293,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1247,9 +1301,9 @@
     {
       "id": "RTMPlus.cz",
       "code": "RTM-CZ-001",
-      "index": 6614,
+      "index": 6609,
       "tvg_id": null,
-      "tvg_chno": 6714,
+      "tvg_chno": 6709,
       "name_ar": "RTM+",
       "name_en": "RTM+",
       "country": "CZ",
@@ -1258,7 +1312,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1266,7 +1320,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1274,9 +1328,9 @@
     {
       "id": "SlagerMuzika.cz",
       "code": "SLA-CZ-001",
-      "index": 7070,
+      "index": 7067,
       "tvg_id": null,
-      "tvg_chno": 7170,
+      "tvg_chno": 7167,
       "name_ar": "Slager Muzika",
       "name_en": "Slager Muzika",
       "country": "CZ",
@@ -1285,7 +1339,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1293,7 +1347,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1301,9 +1355,9 @@
     {
       "id": "SlagerOriginal.cz",
       "code": "SLA-CZ-002",
-      "index": 7071,
+      "index": 7068,
       "tvg_id": null,
-      "tvg_chno": 7171,
+      "tvg_chno": 7168,
       "name_ar": "Slager Original",
       "name_en": "Slager Original",
       "country": "CZ",
@@ -1312,7 +1366,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1320,7 +1374,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1328,9 +1382,9 @@
     {
       "id": "Spektrum.cz",
       "code": "SPE-CZ-001",
-      "index": 7200,
+      "index": 7197,
       "tvg_id": null,
-      "tvg_chno": 7300,
+      "tvg_chno": 7297,
       "name_ar": "Spektrum",
       "name_en": "Spektrum",
       "country": "CZ",
@@ -1339,25 +1393,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_spektrum/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SpektrumHome.cz",
       "code": "SPE-CZ-002",
-      "index": 7201,
+      "index": 7198,
       "tvg_id": null,
-      "tvg_chno": 7301,
+      "tvg_chno": 7298,
       "name_ar": "Spektrum Home",
       "name_en": "Spektrum Home",
       "country": "CZ",
@@ -1366,33 +1420,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_home_hevc/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         },
         {
           "url": "http://88.212.15.19/live/spektrum_home_hun/index.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Sport1.cz",
       "code": "SPO-CZ-001",
-      "index": 7213,
+      "index": 7210,
       "tvg_id": null,
-      "tvg_chno": 7313,
+      "tvg_chno": 7310,
       "name_ar": "Sport1",
       "name_en": "Sport1",
       "country": "CZ",
@@ -1401,25 +1455,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_sport1_25p/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Sport2.cz",
       "code": "SPO-CZ-002",
-      "index": 7215,
+      "index": 7212,
       "tvg_id": null,
-      "tvg_chno": 7315,
+      "tvg_chno": 7312,
       "name_ar": "Sport2",
       "name_en": "Sport2",
       "country": "CZ",
@@ -1428,25 +1482,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_sport_2/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SportyTV.cz",
       "code": "SPO-CZ-003",
-      "index": 7231,
+      "index": 7228,
       "tvg_id": null,
-      "tvg_chno": 7331,
+      "tvg_chno": 7328,
       "name_ar": "Sporty TV",
       "name_en": "Sporty TV",
       "country": "CZ",
@@ -1455,7 +1509,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1463,7 +1517,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1471,9 +1525,9 @@
     {
       "id": "TelevizePrerov.cz",
       "code": "TEL-CZ-001",
-      "index": 7771,
+      "index": 7769,
       "tvg_id": null,
-      "tvg_chno": 7871,
+      "tvg_chno": 7869,
       "name_ar": "Televize Prerov",
       "name_en": "Televize Prerov",
       "country": "CZ",
@@ -1482,7 +1536,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1490,7 +1544,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1498,9 +1552,9 @@
     {
       "id": "TelevizeSeznam.cz",
       "code": "TEL-CZ-002",
-      "index": 7772,
+      "index": 7770,
       "tvg_id": null,
-      "tvg_chno": 7872,
+      "tvg_chno": 7870,
       "name_ar": "Televize Seznam",
       "name_en": "Televize Seznam",
       "country": "CZ",
@@ -1509,25 +1563,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVBarrandov.cz",
       "code": "TVB-CZ-001",
-      "index": 8225,
+      "index": 8224,
       "tvg_id": null,
-      "tvg_chno": 8325,
+      "tvg_chno": 8324,
       "name_ar": "TV Barrandov",
       "name_en": "TV Barrandov",
       "country": "CZ",
@@ -1536,25 +1590,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_barrandov/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVBrno1.cz",
       "code": "TVB-CZ-002",
-      "index": 8239,
+      "index": 8238,
       "tvg_id": null,
-      "tvg_chno": 8339,
+      "tvg_chno": 8338,
       "name_ar": "TV Brno 1",
       "name_en": "TV Brno 1",
       "country": "CZ",
@@ -1563,7 +1617,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1571,7 +1625,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1579,9 +1633,9 @@
     {
       "id": "TVNoe.cz",
       "code": "TVN-CZ-001",
-      "index": 8429,
+      "index": 8428,
       "tvg_id": null,
-      "tvg_chno": 8529,
+      "tvg_chno": 8528,
       "name_ar": "TV Noe",
       "name_en": "TV Noe",
       "country": "CZ",
@@ -1590,7 +1644,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1598,7 +1652,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1606,9 +1660,9 @@
     {
       "id": "TVPaprika.cz",
       "code": "TVP-CZ-001",
-      "index": 8460,
+      "index": 8459,
       "tvg_id": null,
-      "tvg_chno": 8560,
+      "tvg_chno": 8559,
       "name_ar": "TV Paprika",
       "name_en": "TV Paprika",
       "country": "CZ",
@@ -1617,16 +1671,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
@@ -1644,7 +1698,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1652,7 +1706,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1660,9 +1714,9 @@
     {
       "id": "VychodoceskaTV.cz",
       "code": "VYC-CZ-001",
-      "index": 8975,
+      "index": 8981,
       "tvg_id": null,
-      "tvg_chno": 9075,
+      "tvg_chno": 9081,
       "name_ar": "Vychodoceska TV",
       "name_en": "Vychodoceska TV",
       "country": "CZ",
@@ -1671,7 +1725,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1679,7 +1733,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1687,9 +1741,9 @@
     {
       "id": "YachtingTV.cz",
       "code": "YAC-CZ-001",
-      "index": 9138,
+      "index": 9144,
       "tvg_id": null,
-      "tvg_chno": 9238,
+      "tvg_chno": 9244,
       "name_ar": "Yachting TV",
       "name_en": "Yachting TV",
       "country": "CZ",
@@ -1698,7 +1752,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1706,7 +1760,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1714,9 +1768,9 @@
     {
       "id": "t1",
       "code": "TXX-CZ-001",
-      "index": 9391,
+      "index": 9397,
       "tvg_id": null,
-      "tvg_chno": 9491,
+      "tvg_chno": 9497,
       "name_ar": "ČT1",
       "name_en": "ČT1",
       "country": "CZ",
@@ -1725,25 +1779,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct1-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "tsport",
       "code": "TSP-CZ-001",
-      "index": 9392,
+      "index": 9398,
       "tvg_id": null,
-      "tvg_chno": 9492,
+      "tvg_chno": 9498,
       "name_ar": "ČT sport",
       "name_en": "ČT sport",
       "country": "CZ",
@@ -1752,25 +1806,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "tart",
       "code": "TAR-CZ-001",
-      "index": 9393,
+      "index": 9399,
       "tvg_id": null,
-      "tvg_chno": 9493,
+      "tvg_chno": 9499,
       "name_ar": "ČT art",
       "name_en": "ČT art",
       "country": "CZ",
@@ -1779,25 +1833,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "novacinema",
       "code": "NOV-CZ-001",
-      "index": 9395,
+      "index": 9401,
       "tvg_id": null,
-      "tvg_chno": 9495,
+      "tvg_chno": 9501,
       "name_ar": "Nova Cinema",
       "name_en": "Nova Cinema",
       "country": "CZ",
@@ -1806,25 +1860,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "novaaction",
       "code": "NOV-CZ-002",
-      "index": 9396,
+      "index": 9402,
       "tvg_id": null,
-      "tvg_chno": 9496,
+      "tvg_chno": 9502,
       "name_ar": "Nova Action",
       "name_en": "Nova Action",
       "country": "CZ",
@@ -1833,25 +1887,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "novafun",
       "code": "NOV-CZ-003",
-      "index": 9397,
+      "index": 9403,
       "tvg_id": null,
-      "tvg_chno": 9497,
+      "tvg_chno": 9503,
       "name_ar": "Nova Fun",
       "name_en": "Nova Fun",
       "country": "CZ",
@@ -1860,25 +1914,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "novagold",
       "code": "NOV-CZ-004",
-      "index": 9398,
+      "index": 9404,
       "tvg_id": null,
-      "tvg_chno": 9498,
+      "tvg_chno": 9504,
       "name_ar": "Nova Gold",
       "name_en": "Nova Gold",
       "country": "CZ",
@@ -1887,7 +1941,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1895,7 +1949,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1903,9 +1957,9 @@
     {
       "id": "novalady",
       "code": "NOV-CZ-005",
-      "index": 9399,
+      "index": 9405,
       "tvg_id": null,
-      "tvg_chno": 9499,
+      "tvg_chno": 9505,
       "name_ar": "Nova Lady",
       "name_en": "Nova Lady",
       "country": "CZ",
@@ -1914,7 +1968,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1922,7 +1976,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1930,9 +1984,9 @@
     {
       "id": "jojcinema",
       "code": "JOJ-CZ-001",
-      "index": 9401,
+      "index": 9407,
       "tvg_id": null,
-      "tvg_chno": 9501,
+      "tvg_chno": 9507,
       "name_ar": "JOJ Cinema",
       "name_en": "JOJ Cinema",
       "country": "CZ",
@@ -1941,7 +1995,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1949,7 +2003,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1957,9 +2011,9 @@
     {
       "id": "csfilm",
       "code": "CSF-CZ-001",
-      "index": 9402,
+      "index": 9408,
       "tvg_id": null,
-      "tvg_chno": 9502,
+      "tvg_chno": 9508,
       "name_ar": "CS Film",
       "name_en": "CS Film",
       "country": "CZ",
@@ -1968,7 +2022,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1976,7 +2030,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1984,9 +2038,9 @@
     {
       "id": "cshistory",
       "code": "CSH-CZ-001",
-      "index": 9403,
+      "index": 9409,
       "tvg_id": null,
-      "tvg_chno": 9503,
+      "tvg_chno": 9509,
       "name_ar": "CS History",
       "name_en": "CS History",
       "country": "CZ",
@@ -1995,25 +2049,25 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-history-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=CS%20History",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "csmystery",
       "code": "CSM-CZ-001",
-      "index": 9404,
+      "index": 9410,
       "tvg_id": null,
-      "tvg_chno": 9504,
+      "tvg_chno": 9510,
       "name_ar": "CS Mystery",
       "name_en": "CS Mystery",
       "country": "CZ",
@@ -2022,7 +2076,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cs-mystery-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2030,7 +2084,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -2038,9 +2092,9 @@
     {
       "id": "ko",
       "code": "KOX-CZ-001",
-      "index": 9405,
+      "index": 9411,
       "tvg_id": null,
-      "tvg_chno": 9505,
+      "tvg_chno": 9511,
       "name_ar": "Óčko Ⓢ",
       "name_en": "Óčko Ⓢ",
       "country": "CZ",
@@ -2049,7 +2103,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2057,7 +2111,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -2065,9 +2119,9 @@
     {
       "id": "kostar",
       "code": "KOS-CZ-001",
-      "index": 9406,
+      "index": 9412,
       "tvg_id": null,
-      "tvg_chno": 9506,
+      "tvg_chno": 9512,
       "name_ar": "Óčko Star Ⓢ",
       "name_en": "Óčko Star Ⓢ",
       "country": "CZ",
@@ -2076,7 +2130,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2084,7 +2138,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -2092,9 +2146,9 @@
     {
       "id": "koexpres",
       "code": "KOE-CZ-001",
-      "index": 9407,
+      "index": 9413,
       "tvg_id": null,
-      "tvg_chno": 9507,
+      "tvg_chno": 9513,
       "name_ar": "Óčko Expres Ⓢ",
       "name_en": "Óčko Expres Ⓢ",
       "country": "CZ",
@@ -2103,7 +2157,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-expres-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2111,7 +2165,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -2119,9 +2173,9 @@
     {
       "id": "lgroriginl",
       "code": "LGR-CZ-001",
-      "index": 9408,
+      "index": 9414,
       "tvg_id": null,
-      "tvg_chno": 9508,
+      "tvg_chno": 9514,
       "name_ar": "Šlágr Originál Ⓢ",
       "name_en": "Šlágr Originál Ⓢ",
       "country": "CZ",
@@ -2130,7 +2184,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-original-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2138,7 +2192,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -2146,9 +2200,9 @@
     {
       "id": "lgrmuzika",
       "code": "LGR-CZ-002",
-      "index": 9409,
+      "index": 9415,
       "tvg_id": null,
-      "tvg_chno": 9509,
+      "tvg_chno": 9515,
       "name_ar": "Šlágr Muzika Ⓢ",
       "name_en": "Šlágr Muzika Ⓢ",
       "country": "CZ",
@@ -2157,7 +2211,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2165,7 +2219,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -2173,9 +2227,9 @@
     {
       "id": "lgrpremium",
       "code": "LGR-CZ-003",
-      "index": 9410,
+      "index": 9416,
       "tvg_id": null,
-      "tvg_chno": 9510,
+      "tvg_chno": 9516,
       "name_ar": "Šlágr Premium Ⓢ",
       "name_en": "Šlágr Premium Ⓢ",
       "country": "CZ",
@@ -2184,7 +2238,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2192,7 +2246,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -2200,9 +2254,9 @@
     {
       "id": "praha",
       "code": "PRA-CZ-001",
-      "index": 9411,
+      "index": 9417,
       "tvg_id": null,
-      "tvg_chno": 9511,
+      "tvg_chno": 9517,
       "name_ar": "Praha TV",
       "name_en": "Praha TV",
       "country": "CZ",
@@ -2211,7 +2265,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2219,7 +2273,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -2227,9 +2281,9 @@
     {
       "id": "vchodocesk",
       "code": "VCH-CZ-001",
-      "index": 9412,
+      "index": 9418,
       "tvg_id": null,
-      "tvg_chno": 9512,
+      "tvg_chno": 9518,
       "name_ar": "Východoceská TV",
       "name_en": "Východoceská TV",
       "country": "CZ",
@@ -2238,7 +2292,7 @@
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2246,11 +2300,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-11T09:44:42.708504+00:00"
+  "last_updated": "2026-10-12T10:16:53.253771+00:00"
 }

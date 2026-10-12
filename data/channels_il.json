@@ -1,100 +1,14 @@
 {
   "version": "1.0.0",
   "country": "IL",
-  "total_channels": 53,
+  "total_channels": 36,
   "channels": [
-    {
-      "id": "5Gold.il",
-      "code": "GOL-IL-001",
-      "index": 124,
-      "tvg_id": null,
-      "tvg_chno": 224,
-      "name_ar": "5Gold",
-      "name_en": "5Gold",
-      "country": "IL",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/sport5gold/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "5Live.il",
-      "code": "LIV-IL-001",
-      "index": 125,
-      "tvg_id": null,
-      "tvg_chno": 225,
-      "name_ar": "5Live",
-      "name_en": "5Live",
-      "country": "IL",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/5live/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        },
-        {
-          "url": "http://193.46.58.239:8080/Channel5/index.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
     {
       "id": "5Plus.il",
       "code": "PLU-IL-001",
-      "index": 127,
+      "index": 125,
       "tvg_id": null,
-      "tvg_chno": 227,
+      "tvg_chno": 225,
       "name_ar": "5Plus",
       "name_en": "5Plus",
       "country": "IL",
@@ -103,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -111,34 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "5Sport.il",
-      "code": "SPO-IL-001",
-      "index": 128,
-      "tvg_id": null,
-      "tvg_chno": 228,
-      "name_ar": "5Sport",
-      "name_en": "5Sport",
-      "country": "IL",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/5sport/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -146,9 +33,9 @@
     {
       "id": "5Stars.il",
       "code": "STA-IL-001",
-      "index": 129,
+      "index": 126,
       "tvg_id": null,
-      "tvg_chno": 229,
+      "tvg_chno": 226,
       "name_ar": "5Stars",
       "name_en": "5Stars",
       "country": "IL",
@@ -157,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -165,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -173,9 +60,9 @@
     {
       "id": "Channel13.il",
       "code": "CHA-IL-001",
-      "index": 1683,
+      "index": 1686,
       "tvg_id": null,
-      "tvg_chno": 1783,
+      "tvg_chno": 1786,
       "name_ar": "Channel 13",
       "name_en": "Channel 13",
       "country": "IL",
@@ -184,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -192,7 +79,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -200,7 +87,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -208,9 +95,9 @@
     {
       "id": "Channel16.il",
       "code": "CHA-IL-002",
-      "index": 1684,
+      "index": 1687,
       "tvg_id": null,
-      "tvg_chno": 1784,
+      "tvg_chno": 1787,
       "name_ar": "Channel 16",
       "name_en": "Channel 16",
       "country": "IL",
@@ -219,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -227,7 +114,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -235,7 +122,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -243,9 +130,9 @@
     {
       "id": "ComedyChannel.il",
       "code": "COM-IL-001",
-      "index": 1968,
+      "index": 1972,
       "tvg_id": null,
-      "tvg_chno": 2068,
+      "tvg_chno": 2072,
       "name_ar": "Comedy Channel",
       "name_en": "Comedy Channel",
       "country": "IL",
@@ -254,7 +141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -262,44 +149,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "FoodChannel.il",
-      "code": "FOO-IL-001",
-      "index": 2897,
-      "tvg_id": null,
-      "tvg_chno": 2997,
-      "name_ar": "Food Channel",
-      "name_en": "Food Channel",
-      "country": "IL",
-      "language": "unknown",
-      "category": "cooking",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "GoodLife.il",
       "code": "GOO-IL-001",
-      "index": 3117,
+      "index": 3119,
       "tvg_id": null,
-      "tvg_chno": 3217,
+      "tvg_chno": 3219,
       "name_ar": "Good Life",
       "name_en": "Good Life",
       "country": "IL",
@@ -308,25 +168,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://stream.mcquack.net/47/index.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "HalaTV.il",
       "code": "HAL-IL-001",
-      "index": 3209,
+      "index": 3211,
       "tvg_id": null,
-      "tvg_chno": 3309,
+      "tvg_chno": 3311,
       "name_ar": "Hala TV",
       "name_en": "Hala TV",
       "country": "IL",
@@ -335,7 +195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -343,7 +203,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -351,9 +211,9 @@
     {
       "id": "HealthChannel.il",
       "code": "HEA-IL-001",
-      "index": 3254,
+      "index": 3260,
       "tvg_id": null,
-      "tvg_chno": 3354,
+      "tvg_chno": 3360,
       "name_ar": "Health Channel",
       "name_en": "Health Channel",
       "country": "IL",
@@ -362,7 +222,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -370,7 +230,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -378,9 +238,9 @@
     {
       "id": "Hidabroot.il",
       "code": "HID-IL-001",
-      "index": 3280,
+      "index": 3288,
       "tvg_id": null,
-      "tvg_chno": 3380,
+      "tvg_chno": 3388,
       "name_ar": "Hidabroot",
       "name_en": "Hidabroot",
       "country": "IL",
@@ -389,7 +249,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -397,44 +257,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "HomePlus.il",
-      "code": "HOM-IL-001",
-      "index": 3359,
-      "tvg_id": null,
-      "tvg_chno": 3459,
-      "name_ar": "Home +",
-      "name_en": "Home +",
-      "country": "IL",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/home_plus/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "Hop.il",
       "code": "HOP-IL-001",
-      "index": 3364,
+      "index": 3372,
       "tvg_id": null,
-      "tvg_chno": 3464,
+      "tvg_chno": 3472,
       "name_ar": "Hop!",
       "name_en": "Hop!",
       "country": "IL",
@@ -443,7 +276,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -451,179 +284,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
     },
     {
-      "id": "HOT8.il",
-      "code": "HOT-IL-001",
-      "index": 3385,
-      "tvg_id": null,
-      "tvg_chno": 3485,
-      "name_ar": "HOT8",
-      "name_en": "HOT8",
-      "country": "IL",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/channel8/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "HOTCinema1.il",
-      "code": "HOT-IL-002",
-      "index": 3387,
-      "tvg_id": null,
-      "tvg_chno": 3487,
-      "name_ar": "HOT Cinema 1",
-      "name_en": "HOT Cinema 1",
-      "country": "IL",
-      "language": "unknown",
-      "category": "movies",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/Gold/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "HOTCinema2.il",
-      "code": "HOT-IL-003",
-      "index": 3388,
-      "tvg_id": null,
-      "tvg_chno": 3488,
-      "name_ar": "HOT Cinema 2",
-      "name_en": "HOT Cinema 2",
-      "country": "IL",
-      "language": "unknown",
-      "category": "movies",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/action/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "HOTCinema3.il",
-      "code": "HOT-IL-004",
-      "index": 3389,
-      "tvg_id": null,
-      "tvg_chno": 3489,
-      "name_ar": "HOT Cinema 3",
-      "name_en": "HOT Cinema 3",
-      "country": "IL",
-      "language": "unknown",
-      "category": "movies",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/fun/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "HOTCinema4.il",
-      "code": "HOT-IL-005",
-      "index": 3390,
-      "tvg_id": null,
-      "tvg_chno": 3490,
-      "name_ar": "HOT Cinema 4",
-      "name_en": "HOT Cinema 4",
-      "country": "IL",
-      "language": "unknown",
-      "category": "movies",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/drama/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "HOTComedy.il",
-      "code": "HOT-IL-006",
-      "index": 3391,
-      "tvg_id": null,
-      "tvg_chno": 3491,
-      "name_ar": "HOT Comedy",
-      "name_en": "HOT Comedy",
-      "country": "IL",
-      "language": "unknown",
-      "category": "comedy",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
       "id": "HOTDrama.il",
-      "code": "HOT-IL-007",
-      "index": 3392,
+      "code": "HOT-IL-001",
+      "index": 3394,
       "tvg_id": null,
-      "tvg_chno": 3492,
+      "tvg_chno": 3494,
       "name_ar": "HOT Drama",
       "name_en": "HOT Drama",
       "country": "IL",
@@ -632,7 +303,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -640,44 +311,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
     },
     {
-      "id": "HOTSenior.il",
-      "code": "HOT-IL-008",
-      "index": 3393,
-      "tvg_id": null,
-      "tvg_chno": 3493,
-      "name_ar": "HOT Senior",
-      "name_en": "HOT Senior",
-      "country": "IL",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
       "id": "HOTZone.il",
-      "code": "HOT-IL-009",
-      "index": 3394,
+      "code": "HOT-IL-002",
+      "index": 3395,
       "tvg_id": null,
-      "tvg_chno": 3494,
+      "tvg_chno": 3495,
       "name_ar": "HOT Zone",
       "name_en": "HOT Zone",
       "country": "IL",
@@ -686,7 +330,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -694,7 +338,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -702,9 +346,9 @@
     {
       "id": "i24NEWSArabic.il",
       "code": "INE-IL-001",
-      "index": 3438,
+      "index": 3439,
       "tvg_id": null,
-      "tvg_chno": 3538,
+      "tvg_chno": 3539,
       "name_ar": "i24NEWS Arabic",
       "name_en": "i24NEWS Arabic",
       "country": "IL",
@@ -713,7 +357,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -721,7 +365,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -729,7 +373,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -737,9 +381,9 @@
     {
       "id": "i24NEWSEnglishWorld.il",
       "code": "INE-IL-002",
-      "index": 3439,
+      "index": 3440,
       "tvg_id": null,
-      "tvg_chno": 3539,
+      "tvg_chno": 3540,
       "name_ar": "i24NEWS English World",
       "name_en": "i24NEWS English World",
       "country": "IL",
@@ -748,7 +392,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -756,7 +400,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -764,7 +408,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -772,9 +416,9 @@
     {
       "id": "i24NEWSFrench.il",
       "code": "INE-IL-003",
-      "index": 3440,
+      "index": 3441,
       "tvg_id": null,
-      "tvg_chno": 3540,
+      "tvg_chno": 3541,
       "name_ar": "i24NEWS French",
       "name_en": "i24NEWS French",
       "country": "IL",
@@ -783,7 +427,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -791,7 +435,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -799,7 +443,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -807,9 +451,9 @@
     {
       "id": "i24NEWSHebrew.il",
       "code": "INE-IL-004",
-      "index": 3441,
+      "index": 3442,
       "tvg_id": null,
-      "tvg_chno": 3541,
+      "tvg_chno": 3542,
       "name_ar": "i24NEWS Hebrew",
       "name_en": "i24NEWS Hebrew",
       "country": "IL",
@@ -818,7 +462,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -826,35 +470,8 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "Junior.il",
-      "code": "JUN-IL-001",
-      "index": 3749,
-      "tvg_id": null,
-      "tvg_chno": 3849,
-      "name_ar": "Junior",
-      "name_en": "Junior",
-      "country": "IL",
-      "language": "unknown",
-      "category": "kids",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/junior/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
         }
       ]
     },
@@ -872,7 +489,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -880,7 +497,7 @@
           "quality": "504p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -899,7 +516,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -907,7 +524,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -926,16 +543,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://stream.mcquack.net/378/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": true
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
+          "is_working": false
         }
       ]
     },
@@ -953,7 +570,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -961,7 +578,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -980,7 +597,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -988,7 +605,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         },
         {
@@ -996,34 +613,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "Luli.il",
-      "code": "LUL-IL-001",
-      "index": 4270,
-      "tvg_id": null,
-      "tvg_chno": 4370,
-      "name_ar": "Luli",
-      "name_en": "Luli",
-      "country": "IL",
-      "language": "unknown",
-      "category": "kids",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1031,9 +621,9 @@
     {
       "id": "Makan33.il",
       "code": "MAK-IL-001",
-      "index": 4333,
+      "index": 4331,
       "tvg_id": null,
-      "tvg_chno": 4433,
+      "tvg_chno": 4431,
       "name_ar": "Makan 33",
       "name_en": "Makan 33",
       "country": "IL",
@@ -1042,7 +632,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1050,7 +640,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1058,9 +648,9 @@
     {
       "id": "Now14.il",
       "code": "NOW-IL-001",
-      "index": 5155,
+      "index": 5153,
       "tvg_id": null,
-      "tvg_chno": 5255,
+      "tvg_chno": 5253,
       "name_ar": "Now 14",
       "name_en": "Now 14",
       "country": "IL",
@@ -1069,7 +659,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1077,44 +667,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "One2.il",
-      "code": "ONE-IL-001",
-      "index": 5334,
-      "tvg_id": null,
-      "tvg_chno": 5434,
-      "name_ar": "One 2",
-      "name_en": "One 2",
-      "country": "IL",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/One/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "RealityChannel.il",
       "code": "REA-IL-001",
-      "index": 6369,
+      "index": 6367,
       "tvg_id": null,
-      "tvg_chno": 6469,
+      "tvg_chno": 6467,
       "name_ar": "Reality Channel",
       "name_en": "Reality Channel",
       "country": "IL",
@@ -1123,7 +686,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1131,7 +694,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1139,9 +702,9 @@
     {
       "id": "ShelanuTV.il",
       "code": "SHE-IL-001",
-      "index": 6981,
+      "index": 6977,
       "tvg_id": null,
-      "tvg_chno": 7081,
+      "tvg_chno": 7077,
       "name_ar": "Shelanu.TV",
       "name_en": "Shelanu.TV",
       "country": "IL",
@@ -1150,7 +713,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1158,17 +721,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "Sport3.il",
-      "code": "SPO-IL-002",
-      "index": 7216,
+      "code": "SPO-IL-001",
+      "index": 7213,
       "tvg_id": null,
-      "tvg_chno": 7316,
+      "tvg_chno": 7313,
       "name_ar": "Sport 3",
       "name_en": "Sport 3",
       "country": "IL",
@@ -1177,7 +740,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1185,17 +748,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "Sport4.il",
-      "code": "SPO-IL-003",
-      "index": 7217,
+      "code": "SPO-IL-002",
+      "index": 7214,
       "tvg_id": null,
-      "tvg_chno": 7317,
+      "tvg_chno": 7314,
       "name_ar": "Sport 4",
       "name_en": "Sport 4",
       "country": "IL",
@@ -1204,7 +767,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1212,7 +775,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1220,9 +783,9 @@
     {
       "id": "TeenNick.il",
       "code": "TEE-IL-001",
-      "index": 7563,
+      "index": 7561,
       "tvg_id": null,
-      "tvg_chno": 7663,
+      "tvg_chno": 7661,
       "name_ar": "TeenNick",
       "name_en": "TeenNick",
       "country": "IL",
@@ -1231,7 +794,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1239,7 +802,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         },
         {
@@ -1247,7 +810,7 @@
           "quality": "406p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1255,9 +818,9 @@
     {
       "id": "VacationChannel.il",
       "code": "VAC-IL-001",
-      "index": 8750,
+      "index": 8749,
       "tvg_id": null,
-      "tvg_chno": 8850,
+      "tvg_chno": 8849,
       "name_ar": "Vacation Channel",
       "name_en": "Vacation Channel",
       "country": "IL",
@@ -1266,7 +829,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1274,44 +837,17 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
     },
     {
-      "id": "VivaIstanbul.il",
-      "code": "VIV-IL-001",
-      "index": 8903,
-      "tvg_id": null,
-      "tvg_chno": 9003,
-      "name_ar": "Viva Istanbul",
-      "name_en": "Viva Istanbul",
-      "country": "IL",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/viva_plus/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
       "id": "VivaPremium.il",
-      "code": "VIV-IL-002",
-      "index": 8907,
+      "code": "VIV-IL-001",
+      "index": 8906,
       "tvg_id": null,
-      "tvg_chno": 9007,
+      "tvg_chno": 9006,
       "name_ar": "Viva Premium",
       "name_en": "Viva Premium",
       "country": "IL",
@@ -1320,7 +856,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1328,44 +864,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "VivaTelenovelas.il",
-      "code": "VIV-IL-003",
-      "index": 8908,
-      "tvg_id": null,
-      "tvg_chno": 9008,
-      "name_ar": "Viva Telenovelas",
-      "name_en": "Viva Telenovelas",
-      "country": "IL",
-      "language": "unknown",
-      "category": "series",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://str2.iptvhd.ru:8080/VIVA/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "YamTichoni.il",
       "code": "YAM-IL-001",
-      "index": 9142,
+      "index": 9148,
       "tvg_id": null,
-      "tvg_chno": 9242,
+      "tvg_chno": 9248,
       "name_ar": "Yam Tichoni",
       "name_en": "Yam Tichoni",
       "country": "IL",
@@ -1374,7 +883,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1382,7 +891,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1390,9 +899,9 @@
     {
       "id": "YesMoviesAction.il",
       "code": "YES-IL-001",
-      "index": 9150,
+      "index": 9156,
       "tvg_id": null,
-      "tvg_chno": 9250,
+      "tvg_chno": 9256,
       "name_ar": "Yes Movies Action",
       "name_en": "Yes Movies Action",
       "country": "IL",
@@ -1401,7 +910,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1409,7 +918,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1417,9 +926,9 @@
     {
       "id": "14",
       "code": "XXX-IL-001",
-      "index": 9567,
+      "index": 9572,
       "tvg_id": null,
-      "tvg_chno": 9667,
+      "tvg_chno": 9672,
       "name_ar": "ערוץ 14",
       "name_en": "ערוץ 14",
       "country": "IL",
@@ -1428,7 +937,7 @@
       "logo": "https://i.imgur.com/Iq2Kb69.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1436,7 +945,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1444,9 +953,9 @@
     {
       "id": "theshopping",
       "code": "THE-IL-001",
-      "index": 9568,
+      "index": 9573,
       "tvg_id": null,
-      "tvg_chno": 9668,
+      "tvg_chno": 9673,
       "name_ar": "The Shopping Channel",
       "name_en": "The Shopping Channel",
       "country": "IL",
@@ -1455,7 +964,7 @@
       "logo": "https://i.imgur.com/PEdXHSE.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1463,7 +972,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
@@ -1471,9 +980,9 @@
     {
       "id": "مكان33",
       "code": "XXX-IL-002",
-      "index": 9569,
+      "index": 9574,
       "tvg_id": null,
-      "tvg_chno": 9669,
+      "tvg_chno": 9674,
       "name_ar": "مكان 33",
       "name_en": "مكان 33",
       "country": "IL",
@@ -1482,7 +991,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1490,7 +999,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": true
         }
       ]
@@ -1498,9 +1007,9 @@
     {
       "id": "i24news",
       "code": "INE-IL-005",
-      "index": 10094,
+      "index": 10100,
       "tvg_id": null,
-      "tvg_chno": 10194,
+      "tvg_chno": 10200,
       "name_ar": "i24 News",
       "name_en": "i24 News",
       "country": "IL",
@@ -1509,7 +1018,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/500px-LOGO_i24NEWS.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-11T09:44:42.708504+00:00",
+      "last_checked": "2026-10-12T10:16:53.253771+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1517,11 +1026,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-11T09:44:42.708504+00:00",
+          "last_checked": "2026-10-12T10:16:53.253771+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-11T09:44:42.708504+00:00"
+  "last_updated": "2026-10-12T10:16:53.253771+00:00"
 }
