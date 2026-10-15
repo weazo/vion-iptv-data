@@ -44,3 +44,14 @@ jobs:
           else
             echo "لا توجد تغييرات"
           fi
+
+
+
+# ---- الخطوة الجديدة: الحفاظ على نشاط المستودع ----
+      - name: Keepalive Commit
+        run: |
+          if git diff --staged --quiet; then
+            echo "لا توجد تغييرات في البيانات، سيتم إنشاء commit فارغ للحفاظ على نشاط المستودع."
+            git commit --allow-empty -m "Keepalive commit [skip ci]"
+            git push
+          fi
