@@ -1,9 +1,9 @@
 name: Update and Check Channels
 
 on:
-  # كل 24 ساعات
+  # كل 24 ساعة
   schedule:
-        - cron: '0 3 * * *'
+    - cron: '0 3 * * *'
   # تشغيل يدوي
   workflow_dispatch:
 
@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -45,9 +47,6 @@ jobs:
             echo "لا توجد تغييرات"
           fi
 
-
-
-# ---- الخطوة الجديدة: الحفاظ على نشاط المستودع ----
       - name: Keepalive Commit
         run: |
           if git diff --staged --quiet; then
