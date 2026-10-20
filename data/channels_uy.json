@@ -6,9 +6,9 @@
     {
       "id": "CanalMas.uy",
       "code": "CAN-UY-001",
-      "index": 1470,
+      "index": 1469,
       "tvg_id": null,
-      "tvg_chno": 1570,
+      "tvg_chno": 1569,
       "name_ar": "Canal Mas",
       "name_en": "Canal Mas",
       "country": "UY",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-19T08:32:59.777589+00:00",
+      "last_checked": "2026-10-20T08:16:06.880421+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,15 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-19T08:32:59.777589+00:00",
+          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://canalmasuruguay.com/hls/720p/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-10-20T08:16:06.880421+00:00",
           "is_working": true
         }
       ]
@@ -33,9 +41,9 @@
     {
       "id": "UCL.uy",
       "code": "UCL-UY-001",
-      "index": 8734,
+      "index": 8739,
       "tvg_id": null,
-      "tvg_chno": 8834,
+      "tvg_chno": 8839,
       "name_ar": "UCL",
       "name_en": "UCL",
       "country": "UY",
@@ -44,7 +52,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-19T08:32:59.777589+00:00",
+      "last_checked": "2026-10-20T08:16:06.880421+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +60,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-19T08:32:59.777589+00:00",
+          "last_checked": "2026-10-20T08:16:06.880421+00:00",
           "is_working": true
         },
         {
@@ -60,7 +68,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-19T08:32:59.777589+00:00",
+          "last_checked": "2026-10-20T08:16:06.880421+00:00",
           "is_working": true
         },
         {
@@ -68,11 +76,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-19T08:32:59.777589+00:00",
+          "last_checked": "2026-10-20T08:16:06.880421+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-19T08:32:59.777589+00:00"
+  "last_updated": "2026-10-20T08:16:06.880421+00:00"
 }
