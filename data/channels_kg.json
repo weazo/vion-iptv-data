@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "406p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "406p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": true
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "AlaToo24.kg",
       "code": "ALA-KG-001",
-      "index": 369,
+      "index": 370,
       "tvg_id": null,
-      "tvg_chno": 469,
+      "tvg_chno": 470,
       "name_ar": "Ala-Too 24",
       "name_en": "Ala-Too 24",
       "country": "KG",
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": false,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": false
         }
       ]
@@ -87,9 +87,9 @@
     {
       "id": "BilimIlim.kg",
       "code": "BIL-KG-001",
-      "index": 1087,
+      "index": 1089,
       "tvg_id": null,
-      "tvg_chno": 1187,
+      "tvg_chno": 1189,
       "name_ar": "Bilim Ilim",
       "name_en": "Bilim Ilim",
       "country": "KG",
@@ -98,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": false,
       "streams": [
         {
@@ -106,7 +106,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": false
         }
       ]
@@ -114,9 +114,9 @@
     {
       "id": "ElTR.kg",
       "code": "ELT-KG-001",
-      "index": 2605,
+      "index": 2610,
       "tvg_id": null,
-      "tvg_chno": 2705,
+      "tvg_chno": 2710,
       "name_ar": "ElTR",
       "name_en": "ElTR",
       "country": "KG",
@@ -125,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": false,
       "streams": [
         {
@@ -133,7 +133,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": false
         }
       ]
@@ -141,9 +141,9 @@
     {
       "id": "ManasTV.kg",
       "code": "MAN-KG-001",
-      "index": 4409,
+      "index": 4414,
       "tvg_id": null,
-      "tvg_chno": 4509,
+      "tvg_chno": 4514,
       "name_ar": "Manas TV",
       "name_en": "Manas TV",
       "country": "KG",
@@ -152,25 +152,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://212.42.111.152:8080/hls/manas.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
-          "is_working": true
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "OshPirim.kg",
       "code": "OSH-KG-001",
-      "index": 5451,
+      "index": 5457,
       "tvg_id": null,
-      "tvg_chno": 5551,
+      "tvg_chno": 5557,
       "name_ar": "Osh Pirim",
       "name_en": "Osh Pirim",
       "country": "KG",
@@ -179,7 +187,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": false,
       "streams": [
         {
@@ -187,7 +195,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": false
         }
       ]
@@ -195,9 +203,9 @@
     {
       "id": "Sport.kg",
       "code": "SPO-KG-001",
-      "index": 7294,
+      "index": 7300,
       "tvg_id": null,
-      "tvg_chno": 7394,
+      "tvg_chno": 7400,
       "name_ar": "Sport",
       "name_en": "Sport",
       "country": "KG",
@@ -206,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": false,
       "streams": [
         {
@@ -214,7 +222,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": false
         }
       ]
@@ -222,9 +230,9 @@
     {
       "id": "TV1KG.kg",
       "code": "TVK-KG-001",
-      "index": 8237,
+      "index": 8242,
       "tvg_id": null,
-      "tvg_chno": 8337,
+      "tvg_chno": 8342,
       "name_ar": "TV1.KG",
       "name_en": "TV1.KG",
       "country": "KG",
@@ -233,7 +241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-20T08:16:06.880421+00:00",
+      "last_checked": "2026-10-21T08:20:35.109094+00:00",
       "is_working": true,
       "streams": [
         {
@@ -241,11 +249,11 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-20T08:16:06.880421+00:00",
+          "last_checked": "2026-10-21T08:20:35.109094+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-20T08:16:06.880421+00:00"
+  "last_updated": "2026-10-21T08:20:35.109094+00:00"
 }
