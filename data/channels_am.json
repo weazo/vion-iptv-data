@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         },
         {
@@ -33,7 +33,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         },
         {
@@ -41,7 +41,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": false
         },
         {
@@ -49,7 +49,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -68,7 +68,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -76,7 +76,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -95,7 +95,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -103,7 +103,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -122,7 +122,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -130,7 +130,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -138,9 +138,9 @@
     {
       "id": "ATV.am",
       "code": "ATV-AM-001",
-      "index": 758,
+      "index": 759,
       "tvg_id": null,
-      "tvg_chno": 858,
+      "tvg_chno": 859,
       "name_ar": "ATV",
       "name_en": "ATV",
       "country": "AM",
@@ -149,7 +149,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -157,7 +157,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         },
         {
@@ -165,15 +165,23 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://141.94.193.53:80/ATV_HD/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "is_working": true
         },
         {
           "url": "https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -181,9 +189,9 @@
     {
       "id": "FirstChannelNews.am",
       "code": "FIR-AM-001",
-      "index": 2925,
+      "index": 2918,
       "tvg_id": null,
-      "tvg_chno": 3025,
+      "tvg_chno": 3018,
       "name_ar": "First Channel News",
       "name_en": "First Channel News",
       "country": "AM",
@@ -192,7 +200,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -200,7 +208,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         },
         {
@@ -208,7 +216,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -216,9 +224,9 @@
     {
       "id": "KentronTV.am",
       "code": "KEN-AM-001",
-      "index": 3921,
+      "index": 3911,
       "tvg_id": null,
-      "tvg_chno": 4021,
+      "tvg_chno": 4011,
       "name_ar": "Kentron TV",
       "name_en": "Kentron TV",
       "country": "AM",
@@ -227,7 +235,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -235,7 +243,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -243,9 +251,9 @@
     {
       "id": "ShantTV.am",
       "code": "SHA-AM-001",
-      "index": 7058,
+      "index": 7045,
       "tvg_id": null,
-      "tvg_chno": 7158,
+      "tvg_chno": 7145,
       "name_ar": "Shant TV",
       "name_en": "Shant TV",
       "country": "AM",
@@ -254,7 +262,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -262,7 +270,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -270,9 +278,9 @@
     {
       "id": "YerkirMedia.am",
       "code": "YER-AM-001",
-      "index": 9264,
+      "index": 9244,
       "tvg_id": null,
-      "tvg_chno": 9364,
+      "tvg_chno": 9344,
       "name_ar": "Yerkir Media",
       "name_en": "Yerkir Media",
       "country": "AM",
@@ -281,7 +289,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -289,7 +297,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
@@ -297,9 +305,9 @@
     {
       "id": "armenia",
       "code": "ARM-AM-005",
-      "index": 9413,
+      "index": 9389,
       "tvg_id": null,
-      "tvg_chno": 9513,
+      "tvg_chno": 9489,
       "name_ar": "Armenia TV Ⓢ",
       "name_en": "Armenia TV Ⓢ",
       "country": "AM",
@@ -308,7 +316,7 @@
       "logo": "https://i.imgur.com/UnoI5uM.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-22T08:22:23.915119+00:00",
+      "last_checked": "2026-10-23T08:19:50.594120+00:00",
       "is_working": true,
       "streams": [
         {
@@ -316,11 +324,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-22T08:22:23.915119+00:00",
+          "last_checked": "2026-10-23T08:19:50.594120+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-22T08:22:23.915119+00:00"
+  "last_updated": "2026-10-23T08:19:50.594120+00:00"
 }
