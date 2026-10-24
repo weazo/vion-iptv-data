@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "HU",
-  "total_channels": 123,
+  "total_channels": 128,
   "channels": [
     {
       "id": "16tvBudapest.hu",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "ApostolTV.hu",
       "code": "APO-HU-001",
-      "index": 629,
+      "index": 630,
       "tvg_id": null,
-      "tvg_chno": 729,
+      "tvg_chno": 730,
       "name_ar": "Apostol TV",
       "name_en": "Apostol TV",
       "country": "HU",
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -87,9 +87,9 @@
     {
       "id": "Arena4.hu",
       "code": "ARE-HU-001",
-      "index": 653,
+      "index": 654,
       "tvg_id": null,
-      "tvg_chno": 753,
+      "tvg_chno": 754,
       "name_ar": "Arena4",
       "name_en": "Arena4",
       "country": "HU",
@@ -98,25 +98,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/arena4/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "ATVSpirit.hu",
       "code": "ATV-HU-001",
-      "index": 763,
+      "index": 765,
       "tvg_id": null,
-      "tvg_chno": 863,
+      "tvg_chno": 865,
       "name_ar": "ATV Spirit",
       "name_en": "ATV Spirit",
       "country": "HU",
@@ -125,15 +125,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8",
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -141,17 +141,17 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "AXNSpin.hu",
       "code": "AXN-HU-001",
-      "index": 820,
+      "index": 822,
       "tvg_id": null,
-      "tvg_chno": 920,
+      "tvg_chno": 922,
       "name_ar": "AXN Spin",
       "name_en": "AXN Spin",
       "country": "HU",
@@ -160,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -168,7 +168,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -176,7 +176,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -184,9 +184,9 @@
     {
       "id": "BajaiTV.hu",
       "code": "BAJ-HU-001",
-      "index": 870,
+      "index": 872,
       "tvg_id": null,
-      "tvg_chno": 970,
+      "tvg_chno": 972,
       "name_ar": "Bajai TV",
       "name_en": "Bajai TV",
       "country": "HU",
@@ -195,7 +195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -203,7 +203,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -211,9 +211,9 @@
     {
       "id": "BalatonTV.hu",
       "code": "BAL-HU-001",
-      "index": 877,
+      "index": 879,
       "tvg_id": null,
-      "tvg_chno": 977,
+      "tvg_chno": 979,
       "name_ar": "Balaton TV",
       "name_en": "Balaton TV",
       "country": "HU",
@@ -222,7 +222,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -230,7 +230,7 @@
           "quality": "432p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -238,9 +238,9 @@
     {
       "id": "BerenteTV.hu",
       "code": "BER-HU-001",
-      "index": 1024,
+      "index": 1027,
       "tvg_id": null,
-      "tvg_chno": 1124,
+      "tvg_chno": 1127,
       "name_ar": "Berente TV",
       "name_en": "Berente TV",
       "country": "HU",
@@ -249,7 +249,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -257,7 +257,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -265,9 +265,9 @@
     {
       "id": "BudapestEuropaTelevizio.hu",
       "code": "BUD-HU-001",
-      "index": 1236,
+      "index": 1241,
       "tvg_id": null,
-      "tvg_chno": 1336,
+      "tvg_chno": 1341,
       "name_ar": "Budapest Europa Televizio",
       "name_en": "Budapest Europa Televizio",
       "country": "HU",
@@ -276,7 +276,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -284,7 +284,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -292,9 +292,9 @@
     {
       "id": "CsurgoTV.hu",
       "code": "CSU-HU-001",
-      "index": 2102,
+      "index": 2108,
       "tvg_id": null,
-      "tvg_chno": 2202,
+      "tvg_chno": 2208,
       "name_ar": "Csurgo TV",
       "name_en": "Csurgo TV",
       "country": "HU",
@@ -303,7 +303,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -311,7 +311,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -319,7 +319,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -327,7 +327,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -335,9 +335,9 @@
     {
       "id": "DaruTV.hu",
       "code": "DAR-HU-001",
-      "index": 2188,
+      "index": 2194,
       "tvg_id": null,
-      "tvg_chno": 2288,
+      "tvg_chno": 2294,
       "name_ar": "Daru TV",
       "name_en": "Daru TV",
       "country": "HU",
@@ -346,7 +346,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -354,7 +354,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -362,9 +362,9 @@
     {
       "id": "DikhTV.hu",
       "code": "DIK-HU-001",
-      "index": 2336,
+      "index": 2343,
       "tvg_id": null,
-      "tvg_chno": 2436,
+      "tvg_chno": 2443,
       "name_ar": "Dikh TV",
       "name_en": "Dikh TV",
       "country": "HU",
@@ -373,7 +373,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -381,15 +381,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "https://www.youtube.com/c/DikhTvGipsyTv/live",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -397,9 +397,9 @@
     {
       "id": "DTV.hu",
       "code": "DTV-HU-001",
-      "index": 2463,
+      "index": 2471,
       "tvg_id": null,
-      "tvg_chno": 2563,
+      "tvg_chno": 2571,
       "name_ar": "DTV",
       "name_en": "DTV",
       "country": "HU",
@@ -408,25 +408,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
+        },
+        {
+          "url": "https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "Duna.hu",
       "code": "DUN-HU-001",
-      "index": 2479,
+      "index": 2487,
       "tvg_id": null,
-      "tvg_chno": 2579,
+      "tvg_chno": 2587,
       "name_ar": "Duna",
       "name_en": "Duna",
       "country": "HU",
@@ -435,7 +443,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -443,15 +451,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "http://141.94.193.53:80/Duna_HD/index.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -459,9 +467,9 @@
     {
       "id": "DunaWorld.hu",
       "code": "DUN-HU-002",
-      "index": 2481,
+      "index": 2489,
       "tvg_id": null,
-      "tvg_chno": 2581,
+      "tvg_chno": 2589,
       "name_ar": "Duna World",
       "name_en": "Duna World",
       "country": "HU",
@@ -470,25 +478,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/duna_world_hun/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "EgykerTV.hu",
       "code": "EGY-HU-001",
-      "index": 2550,
+      "index": 2558,
       "tvg_id": null,
-      "tvg_chno": 2650,
+      "tvg_chno": 2658,
       "name_ar": "Egyker TV",
       "name_en": "Egyker TV",
       "country": "HU",
@@ -497,7 +505,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -505,7 +513,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -513,9 +521,9 @@
     {
       "id": "ESTV.hu",
       "code": "EST-HU-001",
-      "index": 2714,
+      "index": 2722,
       "tvg_id": null,
-      "tvg_chno": 2814,
+      "tvg_chno": 2822,
       "name_ar": "ESTV",
       "name_en": "ESTV",
       "country": "HU",
@@ -524,7 +532,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -532,7 +540,7 @@
           "quality": "420p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         },
         {
@@ -540,7 +548,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -548,9 +556,9 @@
     {
       "id": "EWTNBonumTV.hu",
       "code": "EWT-HU-001",
-      "index": 2791,
+      "index": 2799,
       "tvg_id": null,
-      "tvg_chno": 2891,
+      "tvg_chno": 2899,
       "name_ar": "EWTN/Bonum TV",
       "name_en": "EWTN/Bonum TV",
       "country": "HU",
@@ -559,7 +567,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -567,7 +575,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -575,9 +583,9 @@
     {
       "id": "FehervarTV.hu",
       "code": "FEH-HU-001",
-      "index": 2868,
+      "index": 2876,
       "tvg_id": null,
-      "tvg_chno": 2968,
+      "tvg_chno": 2976,
       "name_ar": "Fehervar TV",
       "name_en": "Fehervar TV",
       "country": "HU",
@@ -586,7 +594,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -594,7 +602,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -602,9 +610,9 @@
     {
       "id": "FEM3.hu",
       "code": "FEM-HU-001",
-      "index": 2869,
+      "index": 2877,
       "tvg_id": null,
-      "tvg_chno": 2969,
+      "tvg_chno": 2977,
       "name_ar": "FEM3",
       "name_en": "FEM3",
       "country": "HU",
@@ -613,25 +621,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Film4.hu",
       "code": "FIL-HU-001",
-      "index": 2892,
+      "index": 2901,
       "tvg_id": null,
-      "tvg_chno": 2992,
+      "tvg_chno": 3001,
       "name_ar": "Film4",
       "name_en": "Film4",
       "country": "HU",
@@ -640,7 +648,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -648,7 +656,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://141.94.193.53:80/Film4_HD/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -656,9 +672,9 @@
     {
       "id": "FilmCafe.hu",
       "code": "FIL-HU-002",
-      "index": 2903,
+      "index": 2912,
       "tvg_id": null,
-      "tvg_chno": 3003,
+      "tvg_chno": 3012,
       "name_ar": "Film Cafe",
       "name_en": "Film Cafe",
       "country": "HU",
@@ -667,23 +683,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/film_cafe/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -691,9 +707,9 @@
     {
       "id": "FIXTV.hu",
       "code": "FIX-HU-001",
-      "index": 2925,
+      "index": 2934,
       "tvg_id": null,
-      "tvg_chno": 3025,
+      "tvg_chno": 3034,
       "name_ar": "FIX TV",
       "name_en": "FIX TV",
       "country": "HU",
@@ -702,7 +718,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -710,7 +726,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -718,9 +734,9 @@
     {
       "id": "Galaxy4.hu",
       "code": "GAL-HU-001",
-      "index": 3034,
+      "index": 3042,
       "tvg_id": null,
-      "tvg_chno": 3134,
+      "tvg_chno": 3142,
       "name_ar": "Galaxy4",
       "name_en": "Galaxy4",
       "country": "HU",
@@ -729,7 +745,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -737,7 +753,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://141.94.193.53:80/Galaxy4_HD/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -745,9 +769,9 @@
     {
       "id": "GolyaTV.hu",
       "code": "GOL-HU-001",
-      "index": 3162,
+      "index": 3172,
       "tvg_id": null,
-      "tvg_chno": 3262,
+      "tvg_chno": 3272,
       "name_ar": "Golya TV",
       "name_en": "Golya TV",
       "country": "HU",
@@ -756,7 +780,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -764,7 +788,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -772,9 +796,9 @@
     {
       "id": "GranTV.hu",
       "code": "GRA-HU-001",
-      "index": 3187,
+      "index": 3198,
       "tvg_id": null,
-      "tvg_chno": 3287,
+      "tvg_chno": 3298,
       "name_ar": "Gran TV",
       "name_en": "Gran TV",
       "country": "HU",
@@ -783,7 +807,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -791,7 +815,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -799,9 +823,9 @@
     {
       "id": "GyongyosiTV.hu",
       "code": "GYO-HU-001",
-      "index": 3244,
+      "index": 3256,
       "tvg_id": null,
-      "tvg_chno": 3344,
+      "tvg_chno": 3356,
       "name_ar": "Gyongyosi TV",
       "name_en": "Gyongyosi TV",
       "country": "HU",
@@ -810,7 +834,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -818,7 +842,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         },
         {
@@ -826,7 +850,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -834,9 +858,9 @@
     {
       "id": "HalomTV.hu",
       "code": "HAL-HU-001",
-      "index": 3263,
+      "index": 3275,
       "tvg_id": null,
-      "tvg_chno": 3363,
+      "tvg_chno": 3375,
       "name_ar": "Halom TV",
       "name_en": "Halom TV",
       "country": "HU",
@@ -845,7 +869,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -853,7 +877,7 @@
           "quality": "576i",
           "protocol": "rtmp",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -861,9 +885,9 @@
     {
       "id": "HangulatTV.hu",
       "code": "HAN-HU-001",
-      "index": 3271,
+      "index": 3283,
       "tvg_id": null,
-      "tvg_chno": 3371,
+      "tvg_chno": 3383,
       "name_ar": "Hangulat TV",
       "name_en": "Hangulat TV",
       "country": "HU",
@@ -872,7 +896,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -880,7 +904,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -888,9 +912,9 @@
     {
       "id": "HegyvidekTV.hu",
       "code": "HEG-HU-001",
-      "index": 3318,
+      "index": 3329,
       "tvg_id": null,
-      "tvg_chno": 3418,
+      "tvg_chno": 3429,
       "name_ar": "Hegyvidek TV",
       "name_en": "Hegyvidek TV",
       "country": "HU",
@@ -899,7 +923,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -907,7 +931,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -915,7 +939,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -923,9 +947,9 @@
     {
       "id": "HeviziTV.hu",
       "code": "HEV-HU-001",
-      "index": 3330,
+      "index": 3341,
       "tvg_id": null,
-      "tvg_chno": 3430,
+      "tvg_chno": 3441,
       "name_ar": "Hevizi TV",
       "name_en": "Hevizi TV",
       "country": "HU",
@@ -934,7 +958,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -942,7 +966,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -950,9 +974,9 @@
     {
       "id": "IzauraTV.hu",
       "code": "IZA-HU-001",
-      "index": 3694,
+      "index": 3707,
       "tvg_id": null,
-      "tvg_chno": 3794,
+      "tvg_chno": 3807,
       "name_ar": "Izaura TV",
       "name_en": "Izaura TV",
       "country": "HU",
@@ -961,7 +985,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -969,7 +993,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://141.94.193.53:80/Izaura_TV_HD/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -977,9 +1009,9 @@
     {
       "id": "JaszsagiTersegiTV.hu",
       "code": "JAS-HU-001",
-      "index": 3720,
+      "index": 3733,
       "tvg_id": null,
-      "tvg_chno": 3820,
+      "tvg_chno": 3833,
       "name_ar": "Jaszsagi Tersegi TV",
       "name_en": "Jaszsagi Tersegi TV",
       "country": "HU",
@@ -988,7 +1020,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -996,7 +1028,7 @@
           "quality": "440p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1004,9 +1036,9 @@
     {
       "id": "JimJam.hu",
       "code": "JIM-HU-001",
-      "index": 3764,
+      "index": 3777,
       "tvg_id": null,
-      "tvg_chno": 3864,
+      "tvg_chno": 3877,
       "name_ar": "JimJam",
       "name_en": "JimJam",
       "country": "HU",
@@ -1015,25 +1047,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "JockyTV.hu",
       "code": "JOC-HU-001",
-      "index": 3773,
+      "index": 3786,
       "tvg_id": null,
-      "tvg_chno": 3873,
+      "tvg_chno": 3886,
       "name_ar": "Jocky TV",
       "name_en": "Jocky TV",
       "country": "HU",
@@ -1042,25 +1074,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/jocky/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "KanizsaTV.hu",
       "code": "KAN-HU-001",
-      "index": 3871,
+      "index": 3884,
       "tvg_id": null,
-      "tvg_chno": 3971,
+      "tvg_chno": 3984,
       "name_ar": "Kanizsa TV",
       "name_en": "Kanizsa TV",
       "country": "HU",
@@ -1069,7 +1101,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1077,7 +1109,7 @@
           "quality": "400p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1085,9 +1117,9 @@
     {
       "id": "KaposTV.hu",
       "code": "KAP-HU-001",
-      "index": 3878,
+      "index": 3891,
       "tvg_id": null,
-      "tvg_chno": 3978,
+      "tvg_chno": 3991,
       "name_ar": "Kapos TV",
       "name_en": "Kapos TV",
       "country": "HU",
@@ -1096,7 +1128,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1104,7 +1136,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -1112,7 +1144,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1120,9 +1152,9 @@
     {
       "id": "KarcagTV.hu",
       "code": "KAR-HU-001",
-      "index": 3881,
+      "index": 3894,
       "tvg_id": null,
-      "tvg_chno": 3981,
+      "tvg_chno": 3994,
       "name_ar": "Karcag TV",
       "name_en": "Karcag TV",
       "country": "HU",
@@ -1131,7 +1163,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1139,7 +1171,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -1147,9 +1179,9 @@
     {
       "id": "KecskemetiTV.hu",
       "code": "KEC-HU-001",
-      "index": 3907,
+      "index": 3920,
       "tvg_id": null,
-      "tvg_chno": 4007,
+      "tvg_chno": 4020,
       "name_ar": "Kecskemeti TV",
       "name_en": "Kecskemeti TV",
       "country": "HU",
@@ -1158,7 +1190,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1166,7 +1198,7 @@
           "quality": "416p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         },
         {
@@ -1174,7 +1206,7 @@
           "quality": "416p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -1182,9 +1214,9 @@
     {
       "id": "KiskorosTV.hu",
       "code": "KIS-HU-001",
-      "index": 3972,
+      "index": 3985,
       "tvg_id": null,
-      "tvg_chno": 4072,
+      "tvg_chno": 4085,
       "name_ar": "Kiskoros TV",
       "name_en": "Kiskoros TV",
       "country": "HU",
@@ -1193,7 +1225,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1201,7 +1233,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -1209,9 +1241,9 @@
     {
       "id": "Kolyokklub.hu",
       "code": "KOL-HU-001",
-      "index": 4006,
+      "index": 4019,
       "tvg_id": null,
-      "tvg_chno": 4106,
+      "tvg_chno": 4119,
       "name_ar": "Kolyokklub",
       "name_en": "Kolyokklub",
       "country": "HU",
@@ -1220,25 +1252,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/kolyokklub_atk/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "KomaromiTelevizio.hu",
       "code": "KOM-HU-001",
-      "index": 4008,
+      "index": 4021,
       "tvg_id": null,
-      "tvg_chno": 4108,
+      "tvg_chno": 4121,
       "name_ar": "Komaromi Televizio",
       "name_en": "Komaromi Televizio",
       "country": "HU",
@@ -1247,7 +1279,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1255,7 +1287,7 @@
           "quality": "400p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1263,9 +1295,9 @@
     {
       "id": "KomlosTV.hu",
       "code": "KOM-HU-002",
-      "index": 4011,
+      "index": 4024,
       "tvg_id": null,
-      "tvg_chno": 4111,
+      "tvg_chno": 4124,
       "name_ar": "Komlos TV",
       "name_en": "Komlos TV",
       "country": "HU",
@@ -1274,7 +1306,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1282,7 +1314,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -1290,9 +1322,9 @@
     {
       "id": "LiceumTV.hu",
       "code": "LIC-HU-001",
-      "index": 4223,
+      "index": 4237,
       "tvg_id": null,
-      "tvg_chno": 4323,
+      "tvg_chno": 4337,
       "name_ar": "Liceum TV",
       "name_en": "Liceum TV",
       "country": "HU",
@@ -1301,7 +1333,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1309,7 +1341,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1317,9 +1349,9 @@
     {
       "id": "Loversenykozvetites.hu",
       "code": "LOV-HU-001",
-      "index": 4301,
+      "index": 4315,
       "tvg_id": null,
-      "tvg_chno": 4401,
+      "tvg_chno": 4415,
       "name_ar": "Loverseny kozvetites",
       "name_en": "Loverseny kozvetites",
       "country": "HU",
@@ -1328,7 +1360,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1336,7 +1368,7 @@
           "quality": "420p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -1344,9 +1376,9 @@
     {
       "id": "M1.hu",
       "code": "MXX-HU-001",
-      "index": 4337,
+      "index": 4351,
       "tvg_id": null,
-      "tvg_chno": 4437,
+      "tvg_chno": 4451,
       "name_ar": "M1",
       "name_en": "M1",
       "country": "HU",
@@ -1355,7 +1387,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1363,15 +1395,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "http://141.94.193.53:80/M1_HD/index.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         },
         {
@@ -1379,7 +1411,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1387,9 +1419,9 @@
     {
       "id": "M2.hu",
       "code": "MXX-HU-002",
-      "index": 4338,
+      "index": 4352,
       "tvg_id": null,
-      "tvg_chno": 4438,
+      "tvg_chno": 4452,
       "name_ar": "M2",
       "name_en": "M2",
       "country": "HU",
@@ -1398,7 +1430,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1406,15 +1438,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "http://stream.mcquack.net/330/index.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1422,9 +1454,9 @@
     {
       "id": "M4Sport.hu",
       "code": "MSP-HU-001",
-      "index": 4340,
+      "index": 4354,
       "tvg_id": null,
-      "tvg_chno": 4440,
+      "tvg_chno": 4454,
       "name_ar": "M4 Sport",
       "name_en": "M4 Sport",
       "country": "HU",
@@ -1433,7 +1465,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1441,25 +1473,33 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "http://88.212.15.17/live/m4_hun/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://141.94.193.53:80/M4_Sport_HD/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "M5.hu",
       "code": "MXX-HU-003",
-      "index": 4341,
+      "index": 4355,
       "tvg_id": null,
-      "tvg_chno": 4441,
+      "tvg_chno": 4455,
       "name_ar": "M5",
       "name_en": "M5",
       "country": "HU",
@@ -1468,25 +1508,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MagyarMoziTV.hu",
       "code": "MAG-HU-001",
-      "index": 4371,
+      "index": 4385,
       "tvg_id": null,
-      "tvg_chno": 4471,
+      "tvg_chno": 4485,
       "name_ar": "Magyar Mozi TV",
       "name_en": "Magyar Mozi TV",
       "country": "HU",
@@ -1495,25 +1535,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/mozi/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MakoiVarosiTelevizio.hu",
       "code": "MAK-HU-001",
-      "index": 4393,
+      "index": 4409,
       "tvg_id": null,
-      "tvg_chno": 4493,
+      "tvg_chno": 4509,
       "name_ar": "Makoi Varosi Televizio",
       "name_en": "Makoi Varosi Televizio",
       "country": "HU",
@@ -1522,7 +1562,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1530,7 +1570,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1538,9 +1578,9 @@
     {
       "id": "Match4.hu",
       "code": "MAT-HU-001",
-      "index": 4463,
+      "index": 4479,
       "tvg_id": null,
-      "tvg_chno": 4563,
+      "tvg_chno": 4579,
       "name_ar": "Match4",
       "name_en": "Match4",
       "country": "HU",
@@ -1549,7 +1589,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1557,7 +1597,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1565,9 +1605,9 @@
     {
       "id": "MAX4.hu",
       "code": "MAX-HU-001",
-      "index": 4478,
+      "index": 4493,
       "tvg_id": null,
-      "tvg_chno": 4578,
+      "tvg_chno": 4593,
       "name_ar": "MAX4",
       "name_en": "MAX4",
       "country": "HU",
@@ -1576,7 +1616,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1584,7 +1624,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1592,9 +1632,9 @@
     {
       "id": "MezokovesdiTelevizio.hu",
       "code": "MEZ-HU-001",
-      "index": 4595,
+      "index": 4610,
       "tvg_id": null,
-      "tvg_chno": 4695,
+      "tvg_chno": 4710,
       "name_ar": "Mezokovesdi Televizio",
       "name_en": "Mezokovesdi Televizio",
       "country": "HU",
@@ -1603,7 +1643,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1611,7 +1651,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1619,9 +1659,9 @@
     {
       "id": "Minimax.hu",
       "code": "MIN-HU-001",
-      "index": 4639,
+      "index": 4655,
       "tvg_id": null,
-      "tvg_chno": 4739,
+      "tvg_chno": 4755,
       "name_ar": "Minimax",
       "name_en": "Minimax",
       "country": "HU",
@@ -1630,25 +1670,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/minimax_hun/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MoraNetTV.hu",
       "code": "MOR-HU-001",
-      "index": 4731,
+      "index": 4748,
       "tvg_id": null,
-      "tvg_chno": 4831,
+      "tvg_chno": 4848,
       "name_ar": "Mora-Net TV",
       "name_en": "Mora-Net TV",
       "country": "HU",
@@ -1657,7 +1697,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1665,7 +1705,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1673,9 +1713,9 @@
     {
       "id": "Moziklub.hu",
       "code": "MOZ-HU-001",
-      "index": 4770,
+      "index": 4787,
       "tvg_id": null,
-      "tvg_chno": 4870,
+      "tvg_chno": 4887,
       "name_ar": "Moziklub",
       "name_en": "Moziklub",
       "country": "HU",
@@ -1684,25 +1724,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/moziklub_atk/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MoziPlus.hu",
       "code": "MOZ-HU-002",
-      "index": 4771,
+      "index": 4788,
       "tvg_id": null,
-      "tvg_chno": 4871,
+      "tvg_chno": 4888,
       "name_ar": "Mozi+",
       "name_en": "Mozi+",
       "country": "HU",
@@ -1711,7 +1751,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1719,7 +1759,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://141.94.193.53:80/Mozi+_HD/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1727,9 +1775,9 @@
     {
       "id": "Moziverzum.hu",
       "code": "MOZ-HU-003",
-      "index": 4772,
+      "index": 4789,
       "tvg_id": null,
-      "tvg_chno": 4872,
+      "tvg_chno": 4889,
       "name_ar": "Moziverzum",
       "name_en": "Moziverzum",
       "country": "HU",
@@ -1738,25 +1786,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/moziverzum/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MuzsikaTV.hu",
       "code": "MUZ-HU-001",
-      "index": 4884,
+      "index": 4901,
       "tvg_id": null,
-      "tvg_chno": 4984,
+      "tvg_chno": 5001,
       "name_ar": "Muzsika TV",
       "name_en": "Muzsika TV",
       "country": "HU",
@@ -1765,25 +1813,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "OroszlanyiVarosiTelevizio.hu",
       "code": "ORO-HU-001",
-      "index": 5443,
+      "index": 5460,
       "tvg_id": null,
-      "tvg_chno": 5543,
+      "tvg_chno": 5560,
       "name_ar": "Oroszlanyi Varosi Televizio",
       "name_en": "Oroszlanyi Varosi Televizio",
       "country": "HU",
@@ -1792,7 +1840,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1800,7 +1848,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1808,9 +1856,9 @@
     {
       "id": "OrszaggyulesOGYplenaris.hu",
       "code": "ORS-HU-001",
-      "index": 5444,
+      "index": 5461,
       "tvg_id": null,
-      "tvg_chno": 5544,
+      "tvg_chno": 5561,
       "name_ar": "Orszaggyules: OGY plenaris",
       "name_en": "Orszaggyules: OGY plenaris",
       "country": "HU",
@@ -1819,7 +1867,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1827,7 +1875,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -1835,7 +1883,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1843,9 +1891,9 @@
     {
       "id": "OrszaggyulesOGYTAB.hu",
       "code": "ORS-HU-002",
-      "index": 5445,
+      "index": 5462,
       "tvg_id": null,
-      "tvg_chno": 5545,
+      "tvg_chno": 5562,
       "name_ar": "Orszaggyules: OGY TAB",
       "name_en": "Orszaggyules: OGY TAB",
       "country": "HU",
@@ -1854,7 +1902,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1862,7 +1910,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         },
         {
@@ -1870,7 +1918,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1878,9 +1926,9 @@
     {
       "id": "OxygenMusic.hu",
       "code": "OXY-HU-001",
-      "index": 5478,
+      "index": 5495,
       "tvg_id": null,
-      "tvg_chno": 5578,
+      "tvg_chno": 5595,
       "name_ar": "Oxygen Music",
       "name_en": "Oxygen Music",
       "country": "HU",
@@ -1889,7 +1937,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1897,7 +1945,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1905,9 +1953,9 @@
     {
       "id": "OzdiVarosiTV.hu",
       "code": "OZD-HU-001",
-      "index": 5482,
+      "index": 5499,
       "tvg_id": null,
-      "tvg_chno": 5582,
+      "tvg_chno": 5599,
       "name_ar": "Ozdi Varosi TV",
       "name_en": "Ozdi Varosi TV",
       "country": "HU",
@@ -1916,7 +1964,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1924,7 +1972,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -1932,9 +1980,9 @@
     {
       "id": "OzoneTV.hu",
       "code": "OZO-HU-001",
-      "index": 5483,
+      "index": 5500,
       "tvg_id": null,
-      "tvg_chno": 5583,
+      "tvg_chno": 5600,
       "name_ar": "Ozone TV",
       "name_en": "Ozone TV",
       "country": "HU",
@@ -1943,25 +1991,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/ozone/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PilisTV.hu",
       "code": "PIL-HU-001",
-      "index": 5637,
+      "index": 5654,
       "tvg_id": null,
-      "tvg_chno": 5737,
+      "tvg_chno": 5754,
       "name_ar": "PilisTV",
       "name_en": "PilisTV",
       "country": "HU",
@@ -1970,7 +2018,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1978,7 +2026,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -1986,9 +2034,9 @@
     {
       "id": "Prime.hu",
       "code": "PRI-HU-001",
-      "index": 6053,
+      "index": 6070,
       "tvg_id": null,
-      "tvg_chno": 6153,
+      "tvg_chno": 6170,
       "name_ar": "Prime",
       "name_en": "Prime",
       "country": "HU",
@@ -1997,25 +2045,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/prime/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "PVTV.hu",
       "code": "PVT-HU-001",
-      "index": 6145,
+      "index": 6164,
       "tvg_id": null,
-      "tvg_chno": 6245,
+      "tvg_chno": 6264,
       "name_ar": "PVTV",
       "name_en": "PVTV",
       "country": "HU",
@@ -2024,7 +2072,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2032,7 +2080,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2040,9 +2088,9 @@
     {
       "id": "RakosmenteTV.hu",
       "code": "RAK-HU-001",
-      "index": 6387,
+      "index": 6406,
       "tvg_id": null,
-      "tvg_chno": 6487,
+      "tvg_chno": 6506,
       "name_ar": "Rakosmente TV",
       "name_en": "Rakosmente TV",
       "country": "HU",
@@ -2051,7 +2099,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2059,7 +2107,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2067,9 +2115,9 @@
     {
       "id": "RegioPluszTV.hu",
       "code": "REG-HU-001",
-      "index": 6501,
+      "index": 6520,
       "tvg_id": null,
-      "tvg_chno": 6601,
+      "tvg_chno": 6620,
       "name_ar": "RegioPlusz TV",
       "name_en": "RegioPlusz TV",
       "country": "HU",
@@ -2078,7 +2126,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2086,7 +2134,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2094,9 +2142,9 @@
     {
       "id": "RTLGold.hu",
       "code": "RTL-HU-001",
-      "index": 6677,
+      "index": 6696,
       "tvg_id": null,
-      "tvg_chno": 6777,
+      "tvg_chno": 6796,
       "name_ar": "RTL Gold",
       "name_en": "RTL Gold",
       "country": "HU",
@@ -2105,7 +2153,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2113,7 +2161,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2121,9 +2169,9 @@
     {
       "id": "RTLHarom.hu",
       "code": "RTL-HU-002",
-      "index": 6678,
+      "index": 6697,
       "tvg_id": null,
-      "tvg_chno": 6778,
+      "tvg_chno": 6797,
       "name_ar": "RTL Harom",
       "name_en": "RTL Harom",
       "country": "HU",
@@ -2132,25 +2180,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "RTLKetto.hu",
       "code": "RTL-HU-003",
-      "index": 6679,
+      "index": 6698,
       "tvg_id": null,
-      "tvg_chno": 6779,
+      "tvg_chno": 6798,
       "name_ar": "RTL Ketto",
       "name_en": "RTL Ketto",
       "country": "HU",
@@ -2159,25 +2207,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "RTLOtthon.hu",
       "code": "RTL-HU-004",
-      "index": 6680,
+      "index": 6699,
       "tvg_id": null,
-      "tvg_chno": 6780,
+      "tvg_chno": 6799,
       "name_ar": "RTL Otthon",
       "name_en": "RTL Otthon",
       "country": "HU",
@@ -2186,25 +2234,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/rtl_otthon_atk/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SIXOTV.hu",
       "code": "SIX-HU-001",
-      "index": 7125,
+      "index": 7144,
       "tvg_id": null,
-      "tvg_chno": 7225,
+      "tvg_chno": 7244,
       "name_ar": "SIXO TV",
       "name_en": "SIXO TV",
       "country": "HU",
@@ -2213,7 +2261,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2221,7 +2269,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2229,9 +2277,9 @@
     {
       "id": "SlagerTV.hu",
       "code": "SLA-HU-001",
-      "index": 7153,
+      "index": 7172,
       "tvg_id": null,
-      "tvg_chno": 7253,
+      "tvg_chno": 7272,
       "name_ar": "Slager TV",
       "name_en": "Slager TV",
       "country": "HU",
@@ -2240,25 +2288,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SoltvadkertiTelevizio.hu",
       "code": "SOL-HU-001",
-      "index": 7195,
+      "index": 7214,
       "tvg_id": null,
-      "tvg_chno": 7295,
+      "tvg_chno": 7314,
       "name_ar": "Soltvadkerti Televizio",
       "name_en": "Soltvadkerti Televizio",
       "country": "HU",
@@ -2267,7 +2315,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2275,7 +2323,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2283,9 +2331,9 @@
     {
       "id": "Sorozatklub.hu",
       "code": "SOR-HU-001",
-      "index": 7238,
+      "index": 7258,
       "tvg_id": null,
-      "tvg_chno": 7338,
+      "tvg_chno": 7358,
       "name_ar": "Sorozatklub",
       "name_en": "Sorozatklub",
       "country": "HU",
@@ -2294,25 +2342,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/sorozatklub_atk/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SorozatPlus.hu",
       "code": "SOR-HU-002",
-      "index": 7239,
+      "index": 7259,
       "tvg_id": null,
-      "tvg_chno": 7339,
+      "tvg_chno": 7359,
       "name_ar": "Sorozat+",
       "name_en": "Sorozat+",
       "country": "HU",
@@ -2321,25 +2369,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Spiler1.hu",
       "code": "SPI-HU-001",
-      "index": 7287,
+      "index": 7307,
       "tvg_id": null,
-      "tvg_chno": 7387,
+      "tvg_chno": 7407,
       "name_ar": "Spiler 1",
       "name_en": "Spiler 1",
       "country": "HU",
@@ -2348,25 +2396,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/spiler1/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Spiler2.hu",
       "code": "SPI-HU-002",
-      "index": 7288,
+      "index": 7308,
       "tvg_id": null,
-      "tvg_chno": 7388,
+      "tvg_chno": 7408,
       "name_ar": "Spiler 2",
       "name_en": "Spiler 2",
       "country": "HU",
@@ -2375,25 +2423,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/spiler2/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Story4.hu",
       "code": "STO-HU-001",
-      "index": 7410,
+      "index": 7430,
       "tvg_id": null,
-      "tvg_chno": 7510,
+      "tvg_chno": 7530,
       "name_ar": "Story4",
       "name_en": "Story4",
       "country": "HU",
@@ -2402,33 +2450,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/story_4_cze_atk/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "http://88.212.15.17/live/test_story_4_atk_1200/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SuperTV2.hu",
       "code": "SUP-HU-001",
-      "index": 7482,
+      "index": 7502,
       "tvg_id": null,
-      "tvg_chno": 7582,
+      "tvg_chno": 7602,
       "name_ar": "Super TV2",
       "name_en": "Super TV2",
       "country": "HU",
@@ -2437,25 +2485,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "SzecsenyTV.hu",
       "code": "SZE-HU-001",
-      "index": 7546,
+      "index": 7566,
       "tvg_id": null,
-      "tvg_chno": 7646,
+      "tvg_chno": 7666,
       "name_ar": "Szecseny TV",
       "name_en": "Szecseny TV",
       "country": "HU",
@@ -2464,7 +2512,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2472,7 +2520,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2480,9 +2528,9 @@
     {
       "id": "SzolnokTV.hu",
       "code": "SZO-HU-001",
-      "index": 7548,
+      "index": 7568,
       "tvg_id": null,
-      "tvg_chno": 7648,
+      "tvg_chno": 7668,
       "name_ar": "Szolnok TV",
       "name_en": "Szolnok TV",
       "country": "HU",
@@ -2491,7 +2539,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2499,7 +2547,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2507,9 +2555,9 @@
     {
       "id": "TataiTV.hu",
       "code": "TAT-HU-001",
-      "index": 7601,
+      "index": 7621,
       "tvg_id": null,
-      "tvg_chno": 7701,
+      "tvg_chno": 7721,
       "name_ar": "Tatai TV",
       "name_en": "Tatai TV",
       "country": "HU",
@@ -2518,7 +2566,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2526,7 +2574,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2534,9 +2582,9 @@
     {
       "id": "TelePaks.hu",
       "code": "TEL-HU-001",
-      "index": 7781,
+      "index": 7801,
       "tvg_id": null,
-      "tvg_chno": 7881,
+      "tvg_chno": 7901,
       "name_ar": "TelePaks",
       "name_en": "TelePaks",
       "country": "HU",
@@ -2545,7 +2593,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2553,7 +2601,7 @@
           "quality": "396p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2561,9 +2609,9 @@
     {
       "id": "TheFishingHuntingChannel.hu",
       "code": "THE-HU-001",
-      "index": 7941,
+      "index": 7960,
       "tvg_id": null,
-      "tvg_chno": 8041,
+      "tvg_chno": 8060,
       "name_ar": "The Fishing & Hunting Channel",
       "name_en": "The Fishing & Hunting Channel",
       "country": "HU",
@@ -2572,33 +2620,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/fishing_hun/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         },
         {
           "url": "http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TiszaTV.hu",
       "code": "TIS-HU-001",
-      "index": 8013,
+      "index": 8032,
       "tvg_id": null,
-      "tvg_chno": 8113,
+      "tvg_chno": 8132,
       "name_ar": "Tisza TV",
       "name_en": "Tisza TV",
       "country": "HU",
@@ -2607,7 +2655,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2615,7 +2663,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2623,9 +2671,9 @@
     {
       "id": "TrimedioTV.hu",
       "code": "TRI-HU-001",
-      "index": 8154,
+      "index": 8173,
       "tvg_id": null,
-      "tvg_chno": 8254,
+      "tvg_chno": 8273,
       "name_ar": "Trimedio TV",
       "name_en": "Trimedio TV",
       "country": "HU",
@@ -2634,7 +2682,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2642,7 +2690,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2650,9 +2698,9 @@
     {
       "id": "TV2Comedy.hu",
       "code": "TVC-HU-001",
-      "index": 8244,
+      "index": 8263,
       "tvg_id": null,
-      "tvg_chno": 8344,
+      "tvg_chno": 8363,
       "name_ar": "TV2 Comedy",
       "name_en": "TV2 Comedy",
       "country": "HU",
@@ -2661,25 +2709,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/tv2_comedy/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TV2Kids.hu",
       "code": "TVK-HU-001",
-      "index": 8245,
+      "index": 8264,
       "tvg_id": null,
-      "tvg_chno": 8345,
+      "tvg_chno": 8364,
       "name_ar": "TV2 Kids",
       "name_en": "TV2 Kids",
       "country": "HU",
@@ -2688,25 +2736,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/tv2_kids/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TV2Sef.hu",
       "code": "TVS-HU-001",
-      "index": 8246,
+      "index": 8265,
       "tvg_id": null,
-      "tvg_chno": 8346,
+      "tvg_chno": 8365,
       "name_ar": "TV2 Sef",
       "name_en": "TV2 Sef",
       "country": "HU",
@@ -2715,25 +2763,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/test_lichi_tv_atk_tv/playlist.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVBudakalasz.hu",
       "code": "TVB-HU-002",
-      "index": 8326,
+      "index": 8345,
       "tvg_id": null,
-      "tvg_chno": 8426,
+      "tvg_chno": 8445,
       "name_ar": "TV Budakalasz",
       "name_en": "TV Budakalasz",
       "country": "HU",
@@ -2742,7 +2790,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2750,7 +2798,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2758,9 +2806,9 @@
     {
       "id": "TVEger.hu",
       "code": "TVE-HU-001",
-      "index": 8391,
+      "index": 8410,
       "tvg_id": null,
-      "tvg_chno": 8491,
+      "tvg_chno": 8510,
       "name_ar": "TV Eger",
       "name_en": "TV Eger",
       "country": "HU",
@@ -2769,7 +2817,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2777,7 +2825,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2785,9 +2833,9 @@
     {
       "id": "TVKeszthely.hu",
       "code": "TVK-HU-002",
-      "index": 8445,
+      "index": 8464,
       "tvg_id": null,
-      "tvg_chno": 8545,
+      "tvg_chno": 8564,
       "name_ar": "TV Keszthely",
       "name_en": "TV Keszthely",
       "country": "HU",
@@ -2796,7 +2844,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2804,7 +2852,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2812,9 +2860,9 @@
     {
       "id": "TVSzentendre.hu",
       "code": "TVS-HU-002",
-      "index": 8674,
+      "index": 8693,
       "tvg_id": null,
-      "tvg_chno": 8774,
+      "tvg_chno": 8793,
       "name_ar": "TV Szentendre",
       "name_en": "TV Szentendre",
       "country": "HU",
@@ -2823,7 +2871,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2831,7 +2879,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2839,9 +2887,9 @@
     {
       "id": "VasarhelyiTelevizio.hu",
       "code": "VAS-HU-001",
-      "index": 8853,
+      "index": 8873,
       "tvg_id": null,
-      "tvg_chno": 8953,
+      "tvg_chno": 8973,
       "name_ar": "Vasarhelyi Televizio",
       "name_en": "Vasarhelyi Televizio",
       "country": "HU",
@@ -2850,7 +2898,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2858,7 +2906,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -2866,9 +2914,9 @@
     {
       "id": "Viasat2.hu",
       "code": "VIA-HU-001",
-      "index": 8914,
+      "index": 8934,
       "tvg_id": null,
-      "tvg_chno": 9014,
+      "tvg_chno": 9034,
       "name_ar": "Viasat2",
       "name_en": "Viasat2",
       "country": "HU",
@@ -2877,25 +2925,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/viasat2/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Viasat3.hu",
       "code": "VIA-HU-002",
-      "index": 8915,
+      "index": 8935,
       "tvg_id": null,
-      "tvg_chno": 9015,
+      "tvg_chno": 9035,
       "name_ar": "Viasat 3",
       "name_en": "Viasat 3",
       "country": "HU",
@@ -2904,25 +2952,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/viasat3/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "Viasat6.hu",
       "code": "VIA-HU-003",
-      "index": 8916,
+      "index": 8936,
       "tvg_id": null,
-      "tvg_chno": 9016,
+      "tvg_chno": 9036,
       "name_ar": "Viasat 6",
       "name_en": "Viasat 6",
       "country": "HU",
@@ -2931,25 +2979,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/viasat6/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "VolgyhidTV.hu",
       "code": "VOL-HU-001",
-      "index": 9016,
+      "index": 9036,
       "tvg_id": null,
-      "tvg_chno": 9116,
+      "tvg_chno": 9136,
       "name_ar": "Volgyhid TV",
       "name_en": "Volgyhid TV",
       "country": "HU",
@@ -2958,7 +3006,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2966,7 +3014,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -2974,9 +3022,9 @@
     {
       "id": "VTVFuzesabony.hu",
       "code": "VTV-HU-001",
-      "index": 9060,
+      "index": 9080,
       "tvg_id": null,
-      "tvg_chno": 9160,
+      "tvg_chno": 9180,
       "name_ar": "VTV Fuzesabony",
       "name_en": "VTV Fuzesabony",
       "country": "HU",
@@ -2985,7 +3033,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2993,7 +3041,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -3001,9 +3049,9 @@
     {
       "id": "VTVMor.hu",
       "code": "VTV-HU-002",
-      "index": 9061,
+      "index": 9081,
       "tvg_id": null,
-      "tvg_chno": 9161,
+      "tvg_chno": 9181,
       "name_ar": "VTV Mor",
       "name_en": "VTV Mor",
       "country": "HU",
@@ -3012,7 +3060,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3020,7 +3068,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3028,9 +3076,9 @@
     {
       "id": "WilliamsTV.hu",
       "code": "WIL-HU-001",
-      "index": 9141,
+      "index": 9161,
       "tvg_id": null,
-      "tvg_chno": 9241,
+      "tvg_chno": 9261,
       "name_ar": "Williams TV",
       "name_en": "Williams TV",
       "country": "HU",
@@ -3039,7 +3087,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3047,7 +3095,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
@@ -3055,9 +3103,9 @@
     {
       "id": "XVTV.hu",
       "code": "XVT-HU-001",
-      "index": 9231,
+      "index": 9251,
       "tvg_id": null,
-      "tvg_chno": 9331,
+      "tvg_chno": 9351,
       "name_ar": "XV TV",
       "name_en": "XV TV",
       "country": "HU",
@@ -3066,7 +3114,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3074,7 +3122,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3082,9 +3130,9 @@
     {
       "id": "ZalaegerszegiTV.hu",
       "code": "ZAL-HU-001",
-      "index": 9283,
+      "index": 9303,
       "tvg_id": null,
-      "tvg_chno": 9383,
+      "tvg_chno": 9403,
       "name_ar": "Zalaegerszegi TV",
       "name_en": "Zalaegerszegi TV",
       "country": "HU",
@@ -3093,7 +3141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3101,7 +3149,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3109,9 +3157,9 @@
     {
       "id": "Zenebutik.hu",
       "code": "ZEN-HU-001",
-      "index": 9330,
+      "index": 9351,
       "tvg_id": null,
-      "tvg_chno": 9430,
+      "tvg_chno": 9451,
       "name_ar": "Zenebutik",
       "name_en": "Zenebutik",
       "country": "HU",
@@ -3120,25 +3168,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
-      "is_working": true,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://88.212.15.17/live/zenebutik/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
-          "is_working": true
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "ZugloTV.hu",
       "code": "ZUG-HU-001",
-      "index": 9363,
+      "index": 9384,
       "tvg_id": null,
-      "tvg_chno": 9463,
+      "tvg_chno": 9484,
       "name_ar": "Zuglo TV",
       "name_en": "Zuglo TV",
       "country": "HU",
@@ -3147,7 +3195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3155,7 +3203,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3163,9 +3211,9 @@
     {
       "id": "m2petfi",
       "code": "MPE-HU-001",
-      "index": 9591,
+      "index": 9611,
       "tvg_id": null,
-      "tvg_chno": 9691,
+      "tvg_chno": 9711,
       "name_ar": "M2 / Petőfi TV Ⓖ",
       "name_en": "M2 / Petőfi TV Ⓖ",
       "country": "HU",
@@ -3174,7 +3222,7 @@
       "logo": "https://i.imgur.com/CzaDhmA.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3182,7 +3230,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3190,9 +3238,9 @@
     {
       "id": "m5hungary",
       "code": "MHU-HU-001",
-      "index": 9592,
+      "index": 9612,
       "tvg_id": null,
-      "tvg_chno": 9692,
+      "tvg_chno": 9712,
       "name_ar": "M5 Hungary Ⓖ",
       "name_en": "M5 Hungary Ⓖ",
       "country": "HU",
@@ -3201,7 +3249,7 @@
       "logo": "https://i.imgur.com/qLQz2V6.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3209,7 +3257,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3217,9 +3265,9 @@
     {
       "id": "rtlklub",
       "code": "RTL-HU-005",
-      "index": 9594,
+      "index": 9614,
       "tvg_id": null,
-      "tvg_chno": 9694,
+      "tvg_chno": 9714,
       "name_ar": "RTL Klub",
       "name_en": "RTL Klub",
       "country": "HU",
@@ -3228,7 +3276,7 @@
       "logo": "https://i.imgur.com/ruRshE1.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3236,7 +3284,142 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "fem32klub",
+      "code": "FEM-HU-002",
+      "index": 9615,
+      "tvg_id": null,
+      "tvg_chno": 9715,
+      "name_ar": "FEM3 (TV2 Klub)",
+      "name_en": "FEM3 (TV2 Klub)",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "https://i.imgur.com/AF4Sz8Z.png",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "kossuthrdi",
+      "code": "KOS-HU-001",
+      "index": 9616,
+      "tvg_id": null,
+      "tvg_chno": 9716,
+      "name_ar": "Kossuth Rádió",
+      "name_en": "Kossuth Rádió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "petfirdi",
+      "code": "PET-HU-001",
+      "index": 9617,
+      "tvg_id": null,
+      "tvg_chno": 9717,
+      "name_ar": "Petőfi Rádió",
+      "name_en": "Petőfi Rádió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "bartkrdi",
+      "code": "BAR-HU-001",
+      "index": 9618,
+      "tvg_id": null,
+      "tvg_chno": 9718,
+      "name_ar": "Bartók Rádió",
+      "name_en": "Bartók Rádió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8",
+          "quality": "unknown",
+          "protocol": "hls",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "dankrdi",
+      "code": "DAN-HU-001",
+      "index": 9619,
+      "tvg_id": null,
+      "tvg_chno": 9719,
+      "name_ar": "Dankó Rádió",
+      "name_en": "Dankó Rádió",
+      "country": "HU",
+      "language": "unknown",
+      "category": "Hungary",
+      "logo": "",
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://icast.connectmedia.hu/4747/mr7.aac",
+          "quality": "unknown",
+          "protocol": "unknown",
+          "priority": 5,
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3244,9 +3427,9 @@
     {
       "id": "zdivrosi",
       "code": "ZDI-HU-001",
-      "index": 9597,
+      "index": 9629,
       "tvg_id": null,
-      "tvg_chno": 9697,
+      "tvg_chno": 9729,
       "name_ar": "Ózdi Városi TV",
       "name_en": "Ózdi Városi TV",
       "country": "HU",
@@ -3255,7 +3438,7 @@
       "logo": "https://i.imgur.com/5cOpdRp.jpg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3263,7 +3446,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3271,9 +3454,9 @@
     {
       "id": "gyngys",
       "code": "GYN-HU-001",
-      "index": 9601,
+      "index": 9633,
       "tvg_id": null,
-      "tvg_chno": 9701,
+      "tvg_chno": 9733,
       "name_ar": "Gyöngyös TV",
       "name_en": "Gyöngyös TV",
       "country": "HU",
@@ -3282,7 +3465,7 @@
       "logo": "https://i.imgur.com/RHgaPCk.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3290,7 +3473,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3298,9 +3481,9 @@
     {
       "id": "kecskemt",
       "code": "KEC-HU-002",
-      "index": 9602,
+      "index": 9634,
       "tvg_id": null,
-      "tvg_chno": 9702,
+      "tvg_chno": 9734,
       "name_ar": "Kecskemét TV",
       "name_en": "Kecskemét TV",
       "country": "HU",
@@ -3309,7 +3492,7 @@
       "logo": "https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3317,7 +3500,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3325,9 +3508,9 @@
     {
       "id": "zalaegerszeg",
       "code": "ZAL-HU-002",
-      "index": 9603,
+      "index": 9635,
       "tvg_id": null,
-      "tvg_chno": 9703,
+      "tvg_chno": 9735,
       "name_ar": "Zalaegerszeg TV",
       "name_en": "Zalaegerszeg TV",
       "country": "HU",
@@ -3336,7 +3519,7 @@
       "logo": "https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3344,7 +3527,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3352,9 +3535,9 @@
     {
       "id": "vsrhelyitelevzi",
       "code": "VSR-HU-001",
-      "index": 9604,
+      "index": 9636,
       "tvg_id": null,
-      "tvg_chno": 9704,
+      "tvg_chno": 9736,
       "name_ar": "Vásárhelyi Televízió",
       "name_en": "Vásárhelyi Televízió",
       "country": "HU",
@@ -3363,7 +3546,7 @@
       "logo": "https://i.imgur.com/WOEqdmx.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3371,7 +3554,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3379,9 +3562,9 @@
     {
       "id": "oroszlnyivrositelevzi",
       "code": "ORO-HU-002",
-      "index": 9605,
+      "index": 9637,
       "tvg_id": null,
-      "tvg_chno": 9705,
+      "tvg_chno": 9737,
       "name_ar": "Oroszlányi Városi Televízió",
       "name_en": "Oroszlányi Városi Televízió",
       "country": "HU",
@@ -3390,7 +3573,7 @@
       "logo": "https://i.imgur.com/P0fxUH5.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3398,7 +3581,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3406,9 +3589,9 @@
     {
       "id": "esesztergom",
       "code": "EST-HU-002",
-      "index": 9612,
+      "index": 9644,
       "tvg_id": null,
-      "tvg_chno": 9712,
+      "tvg_chno": 9744,
       "name_ar": "ES TV (Esztergom)",
       "name_en": "ES TV (Esztergom)",
       "country": "HU",
@@ -3417,7 +3600,7 @@
       "logo": "",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3425,7 +3608,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3433,9 +3616,9 @@
     {
       "id": "komromitelevzi",
       "code": "KOM-HU-003",
-      "index": 9613,
+      "index": 9645,
       "tvg_id": null,
-      "tvg_chno": 9713,
+      "tvg_chno": 9745,
       "name_ar": "Komáromi Televízió",
       "name_en": "Komáromi Televízió",
       "country": "HU",
@@ -3444,7 +3627,7 @@
       "logo": "",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3452,7 +3635,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": true
         }
       ]
@@ -3460,9 +3643,9 @@
     {
       "id": "putnokvrosi",
       "code": "PUT-HU-001",
-      "index": 9614,
+      "index": 9646,
       "tvg_id": null,
-      "tvg_chno": 9714,
+      "tvg_chno": 9746,
       "name_ar": "Putnok Városi TV",
       "name_en": "Putnok Városi TV",
       "country": "HU",
@@ -3471,7 +3654,7 @@
       "logo": "https://i.imgur.com/eKXPBFb.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-23T08:19:50.594120+00:00",
+      "last_checked": "2026-10-24T07:58:04.659153+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3479,11 +3662,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-23T08:19:50.594120+00:00",
+          "last_checked": "2026-10-24T07:58:04.659153+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-23T08:19:50.594120+00:00"
+  "last_updated": "2026-10-24T07:58:04.659153+00:00"
 }
