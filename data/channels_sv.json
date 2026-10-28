@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "SV",
-  "total_channels": 31,
+  "total_channels": 30,
   "channels": [
     {
       "id": "AgapeTV.sv",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         },
         {
@@ -33,7 +33,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -41,9 +41,9 @@
     {
       "id": "ArboldeVidaTV.sv",
       "code": "ARB-SV-001",
-      "index": 651,
+      "index": 650,
       "tvg_id": null,
-      "tvg_chno": 751,
+      "tvg_chno": 750,
       "name_ar": "Arbol de Vida TV",
       "name_en": "Arbol de Vida TV",
       "country": "SV",
@@ -52,7 +52,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -60,7 +60,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -79,7 +79,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -87,7 +87,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -95,9 +95,9 @@
     {
       "id": "Canal11TuTV.sv",
       "code": "CAN-SV-001",
-      "index": 1313,
+      "index": 1293,
       "tvg_id": null,
-      "tvg_chno": 1413,
+      "tvg_chno": 1393,
       "name_ar": "Canal 11 TuTV",
       "name_en": "Canal 11 TuTV",
       "country": "SV",
@@ -106,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -114,52 +114,17 @@
           "quality": "349p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
     },
     {
-      "id": "Canal12.sv",
-      "code": "CAN-SV-002",
-      "index": 1314,
-      "tvg_id": null,
-      "tvg_chno": 1414,
-      "name_ar": "Canal 12",
-      "name_en": "Canal 12",
-      "country": "SV",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8",
-          "quality": "480i",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
-          "is_working": false
-        },
-        {
-          "url": "http://186.33.26.18:8000/play/a0nw/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
       "id": "Canal15ElZamorano.sv",
-      "code": "CAN-SV-003",
-      "index": 1333,
+      "code": "CAN-SV-002",
+      "index": 1313,
       "tvg_id": null,
-      "tvg_chno": 1433,
+      "tvg_chno": 1413,
       "name_ar": "Canal 15 El Zamorano",
       "name_en": "Canal 15 El Zamorano",
       "country": "SV",
@@ -168,7 +133,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -176,17 +141,17 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "Canal3Impresionante.sv",
-      "code": "CAN-SV-004",
-      "index": 1366,
+      "code": "CAN-SV-003",
+      "index": 1346,
       "tvg_id": null,
-      "tvg_chno": 1466,
+      "tvg_chno": 1446,
       "name_ar": "Canal 3 Impresionante",
       "name_en": "Canal 3 Impresionante",
       "country": "SV",
@@ -195,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -203,17 +168,17 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "Canal65.sv",
-      "code": "CAN-SV-005",
-      "index": 1399,
+      "code": "CAN-SV-004",
+      "index": 1379,
       "tvg_id": null,
-      "tvg_chno": 1499,
+      "tvg_chno": 1479,
       "name_ar": "Canal 65",
       "name_en": "Canal 65",
       "country": "SV",
@@ -222,7 +187,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -230,17 +195,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "Canal9LaUnion.sv",
-      "code": "CAN-SV-006",
-      "index": 1427,
+      "code": "CAN-SV-005",
+      "index": 1407,
       "tvg_id": null,
-      "tvg_chno": 1527,
+      "tvg_chno": 1507,
       "name_ar": "Canal 9 La Union",
       "name_en": "Canal 9 La Union",
       "country": "SV",
@@ -249,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -257,17 +222,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "CanalTRV.sv",
-      "code": "CAN-SV-007",
-      "index": 1540,
+      "code": "CAN-SV-006",
+      "index": 1519,
       "tvg_id": null,
-      "tvg_chno": 1640,
+      "tvg_chno": 1619,
       "name_ar": "Canal TRV",
       "name_en": "Canal TRV",
       "country": "SV",
@@ -276,7 +241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -284,7 +249,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -292,9 +257,9 @@
     {
       "id": "El15TV.sv",
       "code": "ELT-SV-001",
-      "index": 2570,
+      "index": 2556,
       "tvg_id": null,
-      "tvg_chno": 2670,
+      "tvg_chno": 2656,
       "name_ar": "El 15 TV",
       "name_en": "El 15 TV",
       "country": "SV",
@@ -303,7 +268,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -311,7 +276,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -319,9 +284,9 @@
     {
       "id": "ElCaminoTV.sv",
       "code": "ELC-SV-001",
-      "index": 2576,
+      "index": 2562,
       "tvg_id": null,
-      "tvg_chno": 2676,
+      "tvg_chno": 2662,
       "name_ar": "El Camino TV",
       "name_en": "El Camino TV",
       "country": "SV",
@@ -330,25 +295,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
-      "is_working": false,
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8",
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
-          "is_working": false
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "ElimTV.sv",
       "code": "ELI-SV-001",
-      "index": 2597,
+      "index": 2583,
       "tvg_id": null,
-      "tvg_chno": 2697,
+      "tvg_chno": 2683,
       "name_ar": "Elim TV",
       "name_en": "Elim TV",
       "country": "SV",
@@ -357,7 +322,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -365,7 +330,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         },
         {
@@ -373,7 +338,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         },
         {
@@ -381,7 +346,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -389,9 +354,9 @@
     {
       "id": "GSGTV.sv",
       "code": "GSG-SV-001",
-      "index": 3225,
+      "index": 3210,
       "tvg_id": null,
-      "tvg_chno": 3325,
+      "tvg_chno": 3310,
       "name_ar": "GSG TV",
       "name_en": "GSG TV",
       "country": "SV",
@@ -400,7 +365,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -408,7 +373,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         },
         {
@@ -416,7 +381,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -424,9 +389,9 @@
     {
       "id": "JFVTV.sv",
       "code": "JFV-SV-001",
-      "index": 3766,
+      "index": 3755,
       "tvg_id": null,
-      "tvg_chno": 3866,
+      "tvg_chno": 3855,
       "name_ar": "JFV TV",
       "name_en": "JFV TV",
       "country": "SV",
@@ -435,7 +400,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -443,7 +408,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -451,9 +416,9 @@
     {
       "id": "JosueTV.sv",
       "code": "JOS-SV-001",
-      "index": 3818,
+      "index": 3807,
       "tvg_id": null,
-      "tvg_chno": 3918,
+      "tvg_chno": 3907,
       "name_ar": "Josue TV",
       "name_en": "Josue TV",
       "country": "SV",
@@ -462,7 +427,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -470,7 +435,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -478,9 +443,9 @@
     {
       "id": "LegislativeAssemblyofElSalvador.sv",
       "code": "LEG-SV-001",
-      "index": 4216,
+      "index": 4202,
       "tvg_id": null,
-      "tvg_chno": 4316,
+      "tvg_chno": 4302,
       "name_ar": "Legislative Assembly of El Salvador",
       "name_en": "Legislative Assembly of El Salvador",
       "country": "SV",
@@ -489,7 +454,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -497,7 +462,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -505,9 +470,9 @@
     {
       "id": "MegavisionCanal19.sv",
       "code": "MEG-SV-001",
-      "index": 4586,
+      "index": 4574,
       "tvg_id": null,
-      "tvg_chno": 4686,
+      "tvg_chno": 4674,
       "name_ar": "Megavision Canal 19",
       "name_en": "Megavision Canal 19",
       "country": "SV",
@@ -516,7 +481,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -524,7 +489,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         },
         {
@@ -532,7 +497,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -540,9 +505,9 @@
     {
       "id": "MegavisionCanal21.sv",
       "code": "MEG-SV-002",
-      "index": 4587,
+      "index": 4575,
       "tvg_id": null,
-      "tvg_chno": 4687,
+      "tvg_chno": 4675,
       "name_ar": "Megavision Canal 21",
       "name_en": "Megavision Canal 21",
       "country": "SV",
@@ -551,7 +516,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -559,7 +524,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -567,9 +532,9 @@
     {
       "id": "MizpaTV.sv",
       "code": "MIZ-SV-001",
-      "index": 4698,
+      "index": 4686,
       "tvg_id": null,
-      "tvg_chno": 4798,
+      "tvg_chno": 4786,
       "name_ar": "Mizpa TV",
       "name_en": "Mizpa TV",
       "country": "SV",
@@ -578,7 +543,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -586,7 +551,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -594,9 +559,9 @@
     {
       "id": "MorazanTV.sv",
       "code": "MOR-SV-001",
-      "index": 4760,
+      "index": 4746,
       "tvg_id": null,
-      "tvg_chno": 4860,
+      "tvg_chno": 4846,
       "name_ar": "Morazan TV",
       "name_en": "Morazan TV",
       "country": "SV",
@@ -605,7 +570,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -613,7 +578,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -621,9 +586,9 @@
     {
       "id": "RTVCanal57.sv",
       "code": "RTV-SV-001",
-      "index": 6769,
+      "index": 6764,
       "tvg_id": null,
-      "tvg_chno": 6869,
+      "tvg_chno": 6864,
       "name_ar": "RTV Canal 57",
       "name_en": "RTV Canal 57",
       "country": "SV",
@@ -632,7 +597,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -640,7 +605,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -648,9 +613,9 @@
     {
       "id": "SVPlus.sv",
       "code": "SVX-SV-001",
-      "index": 7556,
+      "index": 7555,
       "tvg_id": null,
-      "tvg_chno": 7656,
+      "tvg_chno": 7655,
       "name_ar": "SV+",
       "name_en": "SV+",
       "country": "SV",
@@ -659,7 +624,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -667,7 +632,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         },
         {
@@ -675,7 +640,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -683,9 +648,9 @@
     {
       "id": "TribunaTV.sv",
       "code": "TRI-SV-001",
-      "index": 8187,
+      "index": 8186,
       "tvg_id": null,
-      "tvg_chno": 8287,
+      "tvg_chno": 8286,
       "name_ar": "Tribuna TV",
       "name_en": "Tribuna TV",
       "country": "SV",
@@ -694,7 +659,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -702,7 +667,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -721,7 +686,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -729,7 +694,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -748,7 +713,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -756,7 +721,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -775,7 +740,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -783,7 +748,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -802,7 +767,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -810,7 +775,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         }
       ]
@@ -829,7 +794,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -837,7 +802,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -856,7 +821,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": true,
       "streams": [
         {
@@ -864,7 +829,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": true
         },
         {
@@ -872,7 +837,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
@@ -891,7 +856,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-27T08:42:52.781703+00:00",
+      "last_checked": "2026-10-28T09:22:58.790607+00:00",
       "is_working": false,
       "streams": [
         {
@@ -899,7 +864,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         },
         {
@@ -907,11 +872,11 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-27T08:42:52.781703+00:00",
+          "last_checked": "2026-10-28T09:22:58.790607+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-27T08:42:52.781703+00:00"
+  "last_updated": "2026-10-28T09:22:58.790607+00:00"
 }
