@@ -1,41 +1,14 @@
 {
   "version": "1.0.0",
   "country": "IS",
-  "total_channels": 8,
+  "total_channels": 6,
   "channels": [
-    {
-      "id": "Althingi.is",
-      "code": "ALT-IS-001",
-      "index": 488,
-      "tvg_id": null,
-      "tvg_chno": 588,
-      "name_ar": "Althingi",
-      "name_en": "Althingi",
-      "country": "IS",
-      "language": "unknown",
-      "category": "legislative",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
-          "is_working": false
-        }
-      ]
-    },
     {
       "id": "K100.is",
       "code": "KXX-IS-001",
-      "index": 3838,
+      "index": 3836,
       "tvg_id": null,
-      "tvg_chno": 3938,
+      "tvg_chno": 3936,
       "name_ar": "K100",
       "name_en": "K100",
       "country": "IS",
@@ -44,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
+      "last_checked": "2026-10-30T09:40:06.994310+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,44 +25,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "Omega.is",
-      "code": "OME-IS-001",
-      "index": 5392,
-      "tvg_id": null,
-      "tvg_chno": 5492,
-      "name_ar": "Omega",
-      "name_en": "Omega",
-      "country": "IS",
-      "language": "unknown",
-      "category": "religious",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "RUV.is",
       "code": "RUV-IS-001",
-      "index": 6841,
+      "index": 6840,
       "tvg_id": null,
-      "tvg_chno": 6941,
+      "tvg_chno": 6940,
       "name_ar": "RUV",
       "name_en": "RUV",
       "country": "IS",
@@ -98,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
+      "last_checked": "2026-10-30T09:40:06.994310+00:00",
       "is_working": true,
       "streams": [
         {
@@ -106,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
         },
         {
@@ -114,7 +60,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
         },
         {
@@ -122,7 +68,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
         }
       ]
@@ -130,9 +76,9 @@
     {
       "id": "RUV2.is",
       "code": "RUV-IS-002",
-      "index": 6842,
+      "index": 6841,
       "tvg_id": null,
-      "tvg_chno": 6942,
+      "tvg_chno": 6941,
       "name_ar": "RUV 2",
       "name_en": "RUV 2",
       "country": "IS",
@@ -141,7 +87,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
+      "last_checked": "2026-10-30T09:40:06.994310+00:00",
       "is_working": true,
       "streams": [
         {
@@ -149,7 +95,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
         }
       ]
@@ -157,9 +103,9 @@
     {
       "id": "Visir.is",
       "code": "VIS-IS-001",
-      "index": 9037,
+      "index": 9036,
       "tvg_id": null,
-      "tvg_chno": 9137,
+      "tvg_chno": 9136,
       "name_ar": "Visir",
       "name_en": "Visir",
       "country": "IS",
@@ -168,7 +114,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
+      "last_checked": "2026-10-30T09:40:06.994310+00:00",
       "is_working": true,
       "streams": [
         {
@@ -176,7 +122,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
         }
       ]
@@ -184,9 +130,9 @@
     {
       "id": "rv2",
       "code": "RVX-IS-001",
-      "index": 9683,
+      "index": 9681,
       "tvg_id": null,
-      "tvg_chno": 9783,
+      "tvg_chno": 9781,
       "name_ar": "RÚV 2",
       "name_en": "RÚV 2",
       "country": "IS",
@@ -195,7 +141,7 @@
       "logo": "https://i.imgur.com/yDKRuXQ.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
+      "last_checked": "2026-10-30T09:40:06.994310+00:00",
       "is_working": true,
       "streams": [
         {
@@ -203,7 +149,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": true
         }
       ]
@@ -211,9 +157,9 @@
     {
       "id": "alingi",
       "code": "ALI-IS-001",
-      "index": 9684,
+      "index": 9682,
       "tvg_id": null,
-      "tvg_chno": 9784,
+      "tvg_chno": 9782,
       "name_ar": "Alþingi",
       "name_en": "Alþingi",
       "country": "IS",
@@ -222,7 +168,7 @@
       "logo": "https://i.imgur.com/n170HMm.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-29T09:23:43.185883+00:00",
+      "last_checked": "2026-10-30T09:40:06.994310+00:00",
       "is_working": false,
       "streams": [
         {
@@ -230,11 +176,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-29T09:23:43.185883+00:00",
+          "last_checked": "2026-10-30T09:40:06.994310+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-29T09:23:43.185883+00:00"
+  "last_updated": "2026-10-30T09:40:06.994310+00:00"
 }
