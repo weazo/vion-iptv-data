@@ -6,9 +6,9 @@
     {
       "id": "CGNTVJapan.jp",
       "code": "CGN-JP-001",
-      "index": 1686,
+      "index": 1683,
       "tvg_id": null,
-      "tvg_chno": 1786,
+      "tvg_chno": 1783,
       "name_ar": "CGNTV Japan",
       "name_en": "CGNTV Japan",
       "country": "JP",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "NHKGeneralTV.jp",
       "code": "NHK-JP-001",
-      "index": 5140,
+      "index": 5124,
       "tvg_id": null,
-      "tvg_chno": 5240,
+      "tvg_chno": 5224,
       "name_ar": "NHK General TV",
       "name_en": "NHK General TV",
       "country": "JP",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "NHKWorldJapan.jp",
       "code": "NHK-JP-002",
-      "index": 5141,
+      "index": 5125,
       "tvg_id": null,
-      "tvg_chno": 5241,
+      "tvg_chno": 5225,
       "name_ar": "NHK World-Japan",
       "name_en": "NHK World-Japan",
       "country": "JP",
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -87,7 +87,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": false
         },
         {
@@ -95,7 +95,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -103,7 +103,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -111,7 +111,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -119,7 +119,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -127,7 +127,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -135,7 +135,15 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://fta.ektv.in/live/417/master.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -143,7 +151,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         },
         {
@@ -151,7 +159,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         }
       ]
@@ -159,9 +167,9 @@
     {
       "id": "NHKWorldPremium.jp",
       "code": "NHK-JP-003",
-      "index": 5142,
+      "index": 5126,
       "tvg_id": null,
-      "tvg_chno": 5242,
+      "tvg_chno": 5226,
       "name_ar": "NHK World Premium",
       "name_en": "NHK World Premium",
       "country": "JP",
@@ -170,7 +178,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": true,
       "streams": [
         {
@@ -178,7 +186,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         }
       ]
@@ -186,9 +194,9 @@
     {
       "id": "ShopChannel.jp",
       "code": "SHO-JP-001",
-      "index": 7116,
+      "index": 7092,
       "tvg_id": null,
-      "tvg_chno": 7216,
+      "tvg_chno": 7192,
       "name_ar": "Shop Channel",
       "name_en": "Shop Channel",
       "country": "JP",
@@ -197,7 +205,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": true,
       "streams": [
         {
@@ -205,7 +213,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         }
       ]
@@ -213,9 +221,9 @@
     {
       "id": "Weathernews.jp",
       "code": "WEA-JP-001",
-      "index": 9162,
+      "index": 9141,
       "tvg_id": null,
-      "tvg_chno": 9262,
+      "tvg_chno": 9241,
       "name_ar": "Weathernews",
       "name_en": "Weathernews",
       "country": "JP",
@@ -224,7 +232,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": true,
       "streams": [
         {
@@ -232,7 +240,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": true
         }
       ]
@@ -240,9 +248,9 @@
     {
       "id": "nhk",
       "code": "NHK-JP-004",
-      "index": 9979,
+      "index": 9960,
       "tvg_id": null,
-      "tvg_chno": 10079,
+      "tvg_chno": 10060,
       "name_ar": "NHK総合 (東京) Ⓖ",
       "name_en": "NHK総合 (東京) Ⓖ",
       "country": "JP",
@@ -251,7 +259,7 @@
       "logo": "https://i.imgur.com/fAZ2BEZ.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-30T09:40:06.994310+00:00",
+      "last_checked": "2026-10-31T09:21:21.282742+00:00",
       "is_working": false,
       "streams": [
         {
@@ -259,11 +267,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-30T09:40:06.994310+00:00",
+          "last_checked": "2026-10-31T09:21:21.282742+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-10-30T09:40:06.994310+00:00"
+  "last_updated": "2026-10-31T09:21:21.282742+00:00"
 }
