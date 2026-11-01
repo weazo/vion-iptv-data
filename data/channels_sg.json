@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "SG",
-  "total_channels": 21,
+  "total_channels": 24,
   "channels": [
     {
       "id": "AnimaxAsia.sg",
       "code": "ANI-SG-001",
-      "index": 580,
+      "index": 581,
       "tvg_id": null,
-      "tvg_chno": 680,
+      "tvg_chno": 681,
       "name_ar": "Animax Asia",
       "name_en": "Animax Asia",
       "country": "SG",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -33,7 +33,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -41,9 +41,9 @@
     {
       "id": "AniplusAsia.sg",
       "code": "ANI-SG-002",
-      "index": 584,
+      "index": 585,
       "tvg_id": null,
-      "tvg_chno": 684,
+      "tvg_chno": 685,
       "name_ar": "Aniplus Asia",
       "name_en": "Aniplus Asia",
       "country": "SG",
@@ -52,7 +52,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -60,7 +60,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -68,9 +68,9 @@
     {
       "id": "AsianFoodNetwork.sg",
       "code": "ASI-SG-001",
-      "index": 718,
+      "index": 720,
       "tvg_id": null,
-      "tvg_chno": 818,
+      "tvg_chno": 820,
       "name_ar": "Asian Food Network",
       "name_en": "Asian Food Network",
       "country": "SG",
@@ -79,7 +79,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": false,
       "streams": [
         {
@@ -87,7 +87,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
         }
       ]
@@ -95,9 +95,9 @@
     {
       "id": "AXNAsia.sg",
       "code": "AXN-SG-001",
-      "index": 815,
+      "index": 817,
       "tvg_id": null,
-      "tvg_chno": 915,
+      "tvg_chno": 917,
       "name_ar": "AXN Asia",
       "name_en": "AXN Asia",
       "country": "SG",
@@ -106,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -114,7 +114,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -122,7 +122,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -130,9 +130,9 @@
     {
       "id": "CartoonitoAsia.sg",
       "code": "CAR-SG-001",
-      "index": 1571,
+      "index": 1573,
       "tvg_id": null,
-      "tvg_chno": 1671,
+      "tvg_chno": 1673,
       "name_ar": "Cartoonito Asia",
       "name_en": "Cartoonito Asia",
       "country": "SG",
@@ -141,25 +141,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "CartoonNetworkAsia.sg",
       "code": "CAR-SG-002",
-      "index": 1576,
+      "index": 1578,
       "tvg_id": null,
-      "tvg_chno": 1676,
+      "tvg_chno": 1678,
       "name_ar": "Cartoon Network Asia",
       "name_en": "Cartoon Network Asia",
       "country": "SG",
@@ -168,25 +176,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
+        },
+        {
+          "url": "http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "ChannelU.sg",
       "code": "CHA-SG-001",
-      "index": 1720,
+      "index": 1722,
       "tvg_id": null,
-      "tvg_chno": 1820,
+      "tvg_chno": 1822,
       "name_ar": "Channel U",
       "name_en": "Channel U",
       "country": "SG",
@@ -195,7 +211,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -203,7 +219,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -211,7 +227,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -219,9 +235,9 @@
     {
       "id": "CinemaxAsia.sg",
       "code": "CIN-SG-001",
-      "index": 1802,
+      "index": 1804,
       "tvg_id": null,
-      "tvg_chno": 1902,
+      "tvg_chno": 1904,
       "name_ar": "Cinemax Asia",
       "name_en": "Cinemax Asia",
       "country": "SG",
@@ -230,7 +246,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -238,7 +254,15 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -246,7 +270,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -254,9 +278,9 @@
     {
       "id": "CNAInternational.sg",
       "code": "CNA-SG-001",
-      "index": 1921,
+      "index": 1923,
       "tvg_id": null,
-      "tvg_chno": 2021,
+      "tvg_chno": 2023,
       "name_ar": "CNA International",
       "name_en": "CNA International",
       "country": "SG",
@@ -265,7 +289,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -273,7 +297,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
         },
         {
@@ -281,7 +305,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -289,9 +313,9 @@
     {
       "id": "CNAOriginals.sg",
       "code": "CNA-SG-002",
-      "index": 1922,
+      "index": 1924,
       "tvg_id": null,
-      "tvg_chno": 2022,
+      "tvg_chno": 2024,
       "name_ar": "CNA Originals",
       "name_en": "CNA Originals",
       "country": "SG",
@@ -300,7 +324,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -308,7 +332,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -316,7 +340,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -324,9 +348,9 @@
     {
       "id": "CNBCAsia.sg",
       "code": "CNB-SG-001",
-      "index": 1925,
+      "index": 1927,
       "tvg_id": null,
-      "tvg_chno": 2025,
+      "tvg_chno": 2027,
       "name_ar": "CNBC Asia",
       "name_en": "CNBC Asia",
       "country": "SG",
@@ -335,7 +359,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": false,
       "streams": [
         {
@@ -343,7 +367,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
         }
       ]
@@ -351,9 +375,9 @@
     {
       "id": "CrimePlusInvestigationAsia.sg",
       "code": "CRI-SG-001",
-      "index": 2061,
+      "index": 2063,
       "tvg_id": null,
-      "tvg_chno": 2161,
+      "tvg_chno": 2163,
       "name_ar": "Crime + Investigation Asia",
       "name_en": "Crime + Investigation Asia",
       "country": "SG",
@@ -362,7 +386,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -370,7 +394,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -378,9 +402,9 @@
     {
       "id": "HBOAsia.sg",
       "code": "HBO-SG-001",
-      "index": 3289,
+      "index": 3293,
       "tvg_id": null,
-      "tvg_chno": 3389,
+      "tvg_chno": 3393,
       "name_ar": "HBO Asia",
       "name_en": "HBO Asia",
       "country": "SG",
@@ -389,15 +413,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
+        },
         {
           "url": "http://125.227.210.55:1003/VideoInput/play.ts",
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -405,7 +437,88 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HBOFamilyAsia.sg",
+      "code": "HBO-SG-002",
+      "index": 3294,
+      "tvg_id": null,
+      "tvg_chno": 3394,
+      "name_ar": "HBO Family Asia",
+      "name_en": "HBO Family Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "family",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HBOHitsAsia.sg",
+      "code": "HBO-SG-003",
+      "index": 3297,
+      "tvg_id": null,
+      "tvg_chno": 3397,
+      "name_ar": "HBO Hits Asia",
+      "name_en": "HBO Hits Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "HBOSignatureAsia.sg",
+      "code": "HBO-SG-004",
+      "index": 3300,
+      "tvg_id": null,
+      "tvg_chno": 3400,
+      "name_ar": "HBO Signature Asia",
+      "name_en": "HBO Signature Asia",
+      "country": "SG",
+      "language": "unknown",
+      "category": "movies",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -413,9 +526,9 @@
     {
       "id": "HITSMovies.sg",
       "code": "HIT-SG-001",
-      "index": 3365,
+      "index": 3372,
       "tvg_id": null,
-      "tvg_chno": 3465,
+      "tvg_chno": 3472,
       "name_ar": "HITS Movies",
       "name_en": "HITS Movies",
       "country": "SG",
@@ -424,7 +537,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": false,
       "streams": [
         {
@@ -432,7 +545,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
         }
       ]
@@ -440,9 +553,9 @@
     {
       "id": "KCM.sg",
       "code": "KCM-SG-001",
-      "index": 3911,
+      "index": 3916,
       "tvg_id": null,
-      "tvg_chno": 4011,
+      "tvg_chno": 4016,
       "name_ar": "KCM",
       "name_en": "KCM",
       "country": "SG",
@@ -451,7 +564,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -459,7 +572,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -467,9 +580,9 @@
     {
       "id": "meWATCHLIVE1.sg",
       "code": "MEW-SG-001",
-      "index": 4600,
+      "index": 4605,
       "tvg_id": null,
-      "tvg_chno": 4700,
+      "tvg_chno": 4705,
       "name_ar": "meWATCH LIVE 1",
       "name_en": "meWATCH LIVE 1",
       "country": "SG",
@@ -478,7 +591,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -486,7 +599,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -494,9 +607,9 @@
     {
       "id": "Suria.sg",
       "code": "SUR-SG-001",
-      "index": 7514,
+      "index": 7531,
       "tvg_id": null,
-      "tvg_chno": 7614,
+      "tvg_chno": 7631,
       "name_ar": "Suria",
       "name_en": "Suria",
       "country": "SG",
@@ -505,7 +618,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": false,
       "streams": [
         {
@@ -513,7 +626,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
         }
       ]
@@ -521,9 +634,9 @@
     {
       "id": "TechStorm.sg",
       "code": "TEC-SG-001",
-      "index": 7662,
+      "index": 7679,
       "tvg_id": null,
-      "tvg_chno": 7762,
+      "tvg_chno": 7779,
       "name_ar": "TechStorm",
       "name_en": "TechStorm",
       "country": "SG",
@@ -532,7 +645,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": false,
       "streams": [
         {
@@ -540,7 +653,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": false
         }
       ]
@@ -548,9 +661,9 @@
     {
       "id": "ZeeTVAsiaPacific.sg",
       "code": "ZEE-SG-001",
-      "index": 9362,
+      "index": 9382,
       "tvg_id": null,
-      "tvg_chno": 9462,
+      "tvg_chno": 9482,
       "name_ar": "Zee TV Asia Pacific",
       "name_en": "Zee TV Asia Pacific",
       "country": "SG",
@@ -559,7 +672,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -567,7 +680,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -575,9 +688,9 @@
     {
       "id": "ZooMoo.sg",
       "code": "ZOO-SG-001",
-      "index": 9395,
+      "index": 9415,
       "tvg_id": null,
-      "tvg_chno": 9495,
+      "tvg_chno": 9515,
       "name_ar": "ZooMoo",
       "name_en": "ZooMoo",
       "country": "SG",
@@ -586,7 +699,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -594,7 +707,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -602,7 +715,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -610,7 +723,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -618,7 +731,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         },
         {
@@ -626,7 +739,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
@@ -634,9 +747,9 @@
     {
       "id": "newsasia",
       "code": "CHA-SG-002",
-      "index": 10200,
+      "index": 10220,
       "tvg_id": null,
-      "tvg_chno": 10300,
+      "tvg_chno": 10320,
       "name_ar": "Channel News Asia Ⓨ",
       "name_en": "Channel News Asia Ⓨ",
       "country": "SG",
@@ -645,7 +758,7 @@
       "logo": "https://i.imgur.com/xWglicB.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-10-31T09:21:21.282742+00:00",
+      "last_checked": "2026-11-01T10:07:31.049737+00:00",
       "is_working": true,
       "streams": [
         {
@@ -653,11 +766,11 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-10-31T09:21:21.282742+00:00",
+          "last_checked": "2026-11-01T10:07:31.049737+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-10-31T09:21:21.282742+00:00"
+  "last_updated": "2026-11-01T10:07:31.049737+00:00"
 }
