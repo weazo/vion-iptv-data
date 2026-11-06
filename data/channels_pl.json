@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -60,7 +60,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -79,23 +79,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
-          "quality": "288p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
-        },
         {
           "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
+          "quality": "288p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -114,16 +114,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://92.114.85.87:8010/play/a00p/index.m3u8",
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
@@ -141,15 +141,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -168,16 +168,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://92.114.85.87:8010/play/a00g/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
@@ -195,7 +195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -203,7 +203,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -222,7 +222,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -230,7 +230,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -249,7 +249,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -257,7 +257,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -276,7 +276,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -284,7 +284,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -292,7 +292,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -311,7 +311,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -319,7 +319,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -338,15 +338,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -365,7 +365,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -373,7 +373,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -381,7 +381,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -400,7 +400,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -408,7 +408,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -416,7 +416,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -435,7 +435,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -443,7 +443,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -462,7 +462,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -470,15 +470,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -486,7 +478,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -505,15 +505,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -532,7 +532,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -540,7 +540,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -559,7 +559,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -567,7 +567,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -586,7 +586,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -594,7 +594,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -613,7 +613,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -621,7 +621,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -640,15 +640,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -667,7 +667,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -675,7 +675,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -694,7 +694,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -702,7 +702,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -710,7 +710,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -718,7 +718,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -737,7 +737,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -745,7 +745,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -764,23 +764,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
-        },
         {
           "url": "http://92.114.85.87:8014/play/a007/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -799,7 +799,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -807,7 +807,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -826,15 +826,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -853,7 +853,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -861,7 +861,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -880,7 +880,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -888,7 +888,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -907,7 +907,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -915,7 +915,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -934,7 +934,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -942,7 +942,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -961,7 +961,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -969,7 +969,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -988,7 +988,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -996,7 +996,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1015,7 +1015,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1023,7 +1023,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1042,7 +1042,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1050,7 +1050,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1069,7 +1069,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1077,7 +1077,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1085,7 +1085,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1093,7 +1093,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1101,7 +1101,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1109,7 +1109,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1128,7 +1128,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1136,7 +1136,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1155,7 +1155,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1163,7 +1163,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1182,7 +1182,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1190,7 +1190,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1209,7 +1209,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1217,7 +1217,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1236,7 +1236,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1244,7 +1244,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1263,7 +1263,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1271,7 +1271,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1279,7 +1279,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1287,7 +1287,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1295,7 +1295,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1314,7 +1314,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1322,31 +1322,31 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
+        },
+        {
+          "url": "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         },
         {
           "url": "http://92.114.85.87:8008/play/a008/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
-        },
-        {
-          "url": "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8",
-          "quality": null,
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
         },
         {
           "url": "http://213.91.179.28:8000/play/a04r",
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1354,7 +1354,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1362,7 +1362,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1381,7 +1381,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1389,7 +1389,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1397,7 +1397,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1405,7 +1405,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1413,7 +1413,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1432,15 +1432,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
           "url": "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1448,7 +1448,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1456,7 +1456,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1464,7 +1464,15 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1472,16 +1480,8 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
-        },
-        {
-          "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
         }
       ]
     },
@@ -1499,15 +1499,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
           "url": "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1515,7 +1515,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1523,7 +1523,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1531,7 +1531,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1539,7 +1539,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1558,7 +1558,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1566,7 +1566,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1574,7 +1574,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1582,7 +1582,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -1590,15 +1590,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
-          "quality": null,
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1606,15 +1598,23 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
+        },
+        {
+          "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         },
         {
           "url": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
           "quality": "450p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1633,7 +1633,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1641,7 +1641,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1660,7 +1660,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1668,7 +1668,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1687,15 +1687,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1714,15 +1714,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1741,15 +1741,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
           "url": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1757,7 +1757,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1776,15 +1776,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
-          "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
+          "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1803,7 +1803,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1811,7 +1811,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1830,24 +1830,24 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0",
-          "quality": null,
-          "protocol": "unknown",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
-        },
         {
           "url": "http://92.114.85.87:8014/play/a006/index.m3u8",
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
+        },
+        {
+          "url": "http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0",
+          "quality": null,
+          "protocol": "unknown",
+          "priority": 3,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
@@ -1865,7 +1865,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1873,7 +1873,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1892,7 +1892,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1900,7 +1900,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -1919,7 +1919,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1927,7 +1927,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -1946,15 +1946,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -1962,8 +1962,8 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
@@ -1981,7 +1981,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1989,7 +1989,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2008,7 +2008,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2016,7 +2016,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2035,7 +2035,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2043,7 +2043,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2062,23 +2062,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
-          "quality": "576p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
-        },
         {
           "url": "http://92.114.85.87:8014/play/a00d/index.m3u8",
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
+        },
+        {
+          "url": "http://185.227.34.179:8080/jimjam/index.m3u8",
+          "quality": "576p",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2097,7 +2097,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2105,7 +2105,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2124,7 +2124,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2132,7 +2132,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -2140,7 +2140,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2159,7 +2159,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2167,7 +2167,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2186,7 +2186,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2194,7 +2194,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -2202,7 +2202,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2221,7 +2221,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2229,7 +2229,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -2237,7 +2237,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2256,7 +2256,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2264,7 +2264,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -2272,7 +2272,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2291,23 +2291,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
-        {
-          "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
-          "quality": "1080p",
-          "protocol": "unknown",
-          "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
-        },
         {
           "url": "http://57.128.210.196:8080/193/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
+        },
+        {
+          "url": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd",
+          "quality": "1080p",
+          "protocol": "unknown",
+          "priority": 1,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2326,7 +2326,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2334,7 +2334,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -2342,7 +2342,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2361,7 +2361,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2369,7 +2369,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2388,7 +2388,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2396,7 +2396,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2415,7 +2415,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2423,7 +2423,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2442,7 +2442,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2450,7 +2450,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -2458,7 +2458,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2477,7 +2477,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2485,7 +2485,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2504,7 +2504,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2512,7 +2512,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -2520,7 +2520,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2539,7 +2539,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2547,7 +2547,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2566,7 +2566,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2574,7 +2574,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2593,7 +2593,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2601,7 +2601,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2620,7 +2620,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2628,7 +2628,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2647,7 +2647,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2655,7 +2655,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2674,7 +2674,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2682,7 +2682,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2701,15 +2701,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -2728,7 +2728,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2736,7 +2736,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2755,7 +2755,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2763,7 +2763,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2782,7 +2782,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2790,7 +2790,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2809,7 +2809,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2817,7 +2817,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2836,7 +2836,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2844,7 +2844,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2863,7 +2863,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2871,7 +2871,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2890,16 +2890,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://92.114.85.87:8010/play/a00l/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
@@ -2917,7 +2917,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2925,7 +2925,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2944,7 +2944,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2952,7 +2952,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2971,7 +2971,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2979,7 +2979,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -2998,7 +2998,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3006,7 +3006,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3025,7 +3025,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3033,7 +3033,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3052,16 +3052,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
         }
       ]
     },
@@ -3079,7 +3079,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3087,7 +3087,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3095,9 +3095,9 @@
     {
       "id": "TNAWrestlingChannel.pl",
       "code": "TNA-PL-001",
-      "index": 8078,
+      "index": 8079,
       "tvg_id": null,
-      "tvg_chno": 8178,
+      "tvg_chno": 8179,
       "name_ar": "TNA Wrestling Channel",
       "name_en": "TNA Wrestling Channel",
       "country": "PL",
@@ -3106,33 +3106,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
+        },
         {
           "url": "https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
-        },
-        {
-          "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039",
-          "quality": null,
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "TOPBarca.pl",
       "code": "TOP-PL-001",
-      "index": 8123,
+      "index": 8124,
       "tvg_id": null,
-      "tvg_chno": 8223,
+      "tvg_chno": 8224,
       "name_ar": "TOP Barca",
       "name_en": "TOP Barca",
       "country": "PL",
@@ -3141,7 +3141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3149,7 +3149,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -3157,7 +3157,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -3165,7 +3165,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -3173,7 +3173,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -3181,7 +3181,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3189,9 +3189,9 @@
     {
       "id": "TopMoviesPolska.pl",
       "code": "TOP-PL-002",
-      "index": 8130,
+      "index": 8131,
       "tvg_id": null,
-      "tvg_chno": 8230,
+      "tvg_chno": 8231,
       "name_ar": "Top Movies Polska",
       "name_en": "Top Movies Polska",
       "country": "PL",
@@ -3200,7 +3200,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3208,7 +3208,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -3216,9 +3216,9 @@
     {
       "id": "TVASTA.pl",
       "code": "TVA-PL-001",
-      "index": 8349,
+      "index": 8350,
       "tvg_id": null,
-      "tvg_chno": 8449,
+      "tvg_chno": 8450,
       "name_ar": "TV ASTA",
       "name_en": "TV ASTA",
       "country": "PL",
@@ -3227,7 +3227,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3235,7 +3235,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3243,9 +3243,9 @@
     {
       "id": "TVCSuper.pl",
       "code": "TVC-PL-001",
-      "index": 8417,
+      "index": 8418,
       "tvg_id": null,
-      "tvg_chno": 8517,
+      "tvg_chno": 8518,
       "name_ar": "TVC Super",
       "name_en": "TVC Super",
       "country": "PL",
@@ -3254,25 +3254,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://92.114.85.87:8010/play/a00n/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVKStella.pl",
       "code": "TVK-PL-001",
-      "index": 8494,
+      "index": 8495,
       "tvg_id": null,
-      "tvg_chno": 8594,
+      "tvg_chno": 8595,
       "name_ar": "TVK Stella",
       "name_en": "TVK Stella",
       "country": "PL",
@@ -3281,7 +3281,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3289,7 +3289,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3297,9 +3297,9 @@
     {
       "id": "TVKujawy.pl",
       "code": "TVK-PL-002",
-      "index": 8496,
+      "index": 8497,
       "tvg_id": null,
-      "tvg_chno": 8596,
+      "tvg_chno": 8597,
       "name_ar": "TV Kujawy",
       "name_en": "TV Kujawy",
       "country": "PL",
@@ -3308,7 +3308,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3316,7 +3316,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3324,9 +3324,9 @@
     {
       "id": "TVOkazje.pl",
       "code": "TVO-PL-001",
-      "index": 8571,
+      "index": 8572,
       "tvg_id": null,
-      "tvg_chno": 8671,
+      "tvg_chno": 8672,
       "name_ar": "TV Okazje",
       "name_en": "TV Okazje",
       "country": "PL",
@@ -3335,7 +3335,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3343,7 +3343,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -3351,7 +3351,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3359,9 +3359,9 @@
     {
       "id": "TVP1.pl",
       "code": "TVP-PL-001",
-      "index": 8581,
+      "index": 8582,
       "tvg_id": null,
-      "tvg_chno": 8681,
+      "tvg_chno": 8682,
       "name_ar": "TVP1",
       "name_en": "TVP1",
       "country": "PL",
@@ -3370,7 +3370,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3378,7 +3378,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -3386,15 +3386,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         },
         {
           "url": "http://92.114.85.87:8009/play/a009/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3402,9 +3402,9 @@
     {
       "id": "TVP2.pl",
       "code": "TVP-PL-002",
-      "index": 8582,
+      "index": 8583,
       "tvg_id": null,
-      "tvg_chno": 8682,
+      "tvg_chno": 8683,
       "name_ar": "TVP2",
       "name_en": "TVP2",
       "country": "PL",
@@ -3413,15 +3413,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://57.128.210.196:8080/143/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -3429,17 +3429,17 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVP3Warszawa.pl",
       "code": "TVP-PL-003",
-      "index": 8583,
+      "index": 8584,
       "tvg_id": null,
-      "tvg_chno": 8683,
+      "tvg_chno": 8684,
       "name_ar": "TVP 3 Warszawa",
       "name_en": "TVP 3 Warszawa",
       "country": "PL",
@@ -3448,25 +3448,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://92.114.85.87:8010/play/a006/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TVPABC.pl",
       "code": "TVP-PL-004",
-      "index": 8584,
+      "index": 8585,
       "tvg_id": null,
-      "tvg_chno": 8684,
+      "tvg_chno": 8685,
       "name_ar": "TVP ABC",
       "name_en": "TVP ABC",
       "country": "PL",
@@ -3475,7 +3475,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3483,7 +3483,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3491,9 +3491,9 @@
     {
       "id": "TVPHistoria.pl",
       "code": "TVP-PL-005",
-      "index": 8599,
+      "index": 8600,
       "tvg_id": null,
-      "tvg_chno": 8699,
+      "tvg_chno": 8700,
       "name_ar": "TVP Historia",
       "name_en": "TVP Historia",
       "country": "PL",
@@ -3502,7 +3502,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3510,7 +3510,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3518,9 +3518,9 @@
     {
       "id": "TVPInfo.pl",
       "code": "TVP-PL-006",
-      "index": 8601,
+      "index": 8602,
       "tvg_id": null,
-      "tvg_chno": 8701,
+      "tvg_chno": 8702,
       "name_ar": "TVP Info",
       "name_en": "TVP Info",
       "country": "PL",
@@ -3529,7 +3529,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3537,7 +3537,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3545,9 +3545,9 @@
     {
       "id": "TVPKultura.pl",
       "code": "TVP-PL-007",
-      "index": 8604,
+      "index": 8605,
       "tvg_id": null,
-      "tvg_chno": 8704,
+      "tvg_chno": 8705,
       "name_ar": "TVP Kultura",
       "name_en": "TVP Kultura",
       "country": "PL",
@@ -3556,7 +3556,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3564,7 +3564,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3572,9 +3572,9 @@
     {
       "id": "TVPPolonia.pl",
       "code": "TVP-PL-008",
-      "index": 8614,
+      "index": 8615,
       "tvg_id": null,
-      "tvg_chno": 8714,
+      "tvg_chno": 8715,
       "name_ar": "TVP Polonia",
       "name_en": "TVP Polonia",
       "country": "PL",
@@ -3583,7 +3583,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3591,7 +3591,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3599,9 +3599,9 @@
     {
       "id": "TVPRozrywka.pl",
       "code": "TVP-PL-009",
-      "index": 8617,
+      "index": 8618,
       "tvg_id": null,
-      "tvg_chno": 8717,
+      "tvg_chno": 8718,
       "name_ar": "TVP Rozrywka",
       "name_en": "TVP Rozrywka",
       "country": "PL",
@@ -3610,7 +3610,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3618,7 +3618,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3626,9 +3626,9 @@
     {
       "id": "TVPSeriale.pl",
       "code": "TVP-PL-010",
-      "index": 8618,
+      "index": 8619,
       "tvg_id": null,
-      "tvg_chno": 8718,
+      "tvg_chno": 8719,
       "name_ar": "TVP Seriale",
       "name_en": "TVP Seriale",
       "country": "PL",
@@ -3637,7 +3637,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3645,7 +3645,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3653,9 +3653,9 @@
     {
       "id": "TVPSport.pl",
       "code": "TVP-PL-011",
-      "index": 8619,
+      "index": 8620,
       "tvg_id": null,
-      "tvg_chno": 8719,
+      "tvg_chno": 8720,
       "name_ar": "TVP Sport",
       "name_en": "TVP Sport",
       "country": "PL",
@@ -3664,7 +3664,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3672,7 +3672,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -3680,9 +3680,9 @@
     {
       "id": "TVPuls.pl",
       "code": "TVP-PL-012",
-      "index": 8622,
+      "index": 8623,
       "tvg_id": null,
-      "tvg_chno": 8722,
+      "tvg_chno": 8723,
       "name_ar": "TV Puls",
       "name_en": "TV Puls",
       "country": "PL",
@@ -3691,7 +3691,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3699,7 +3699,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -3707,7 +3707,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3715,9 +3715,9 @@
     {
       "id": "TVPWilno.pl",
       "code": "TVP-PL-013",
-      "index": 8624,
+      "index": 8625,
       "tvg_id": null,
-      "tvg_chno": 8724,
+      "tvg_chno": 8725,
       "name_ar": "TVP Wilno",
       "name_en": "TVP Wilno",
       "country": "PL",
@@ -3726,7 +3726,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3734,7 +3734,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -3742,9 +3742,9 @@
     {
       "id": "TVPWorld.pl",
       "code": "TVP-PL-014",
-      "index": 8625,
+      "index": 8626,
       "tvg_id": null,
-      "tvg_chno": 8725,
+      "tvg_chno": 8726,
       "name_ar": "TVP World",
       "name_en": "TVP World",
       "country": "PL",
@@ -3753,7 +3753,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3761,7 +3761,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3769,9 +3769,9 @@
     {
       "id": "TVRegionalnaLubin.pl",
       "code": "TVR-PL-001",
-      "index": 8634,
+      "index": 8635,
       "tvg_id": null,
-      "tvg_chno": 8734,
+      "tvg_chno": 8735,
       "name_ar": "TV Regionalna Lubin",
       "name_en": "TV Regionalna Lubin",
       "country": "PL",
@@ -3780,25 +3780,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": false
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "TVRepublika.pl",
       "code": "TVR-PL-002",
-      "index": 8635,
+      "index": 8636,
       "tvg_id": null,
-      "tvg_chno": 8735,
+      "tvg_chno": 8736,
       "name_ar": "TV Republika",
       "name_en": "TV Republika",
       "country": "PL",
@@ -3807,7 +3807,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3815,7 +3815,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3823,9 +3823,9 @@
     {
       "id": "TVTorun.pl",
       "code": "TVT-PL-001",
-      "index": 8730,
+      "index": 8731,
       "tvg_id": null,
-      "tvg_chno": 8830,
+      "tvg_chno": 8831,
       "name_ar": "TV Torun",
       "name_en": "TV Torun",
       "country": "PL",
@@ -3834,7 +3834,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3842,7 +3842,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3850,9 +3850,9 @@
     {
       "id": "TVTrwam.pl",
       "code": "TVT-PL-002",
-      "index": 8731,
+      "index": 8732,
       "tvg_id": null,
-      "tvg_chno": 8831,
+      "tvg_chno": 8832,
       "name_ar": "TV Trwam",
       "name_en": "TV Trwam",
       "country": "PL",
@@ -3861,7 +3861,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3869,7 +3869,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3877,9 +3877,9 @@
     {
       "id": "TVTZgorzelec.pl",
       "code": "TVT-PL-003",
-      "index": 8733,
+      "index": 8734,
       "tvg_id": null,
-      "tvg_chno": 8833,
+      "tvg_chno": 8834,
       "name_ar": "TVT Zgorzelec",
       "name_en": "TVT Zgorzelec",
       "country": "PL",
@@ -3888,7 +3888,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3896,7 +3896,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -3904,9 +3904,9 @@
     {
       "id": "TwojaTV.pl",
       "code": "TWO-PL-001",
-      "index": 8773,
+      "index": 8774,
       "tvg_id": null,
-      "tvg_chno": 8873,
+      "tvg_chno": 8874,
       "name_ar": "Twoja.TV",
       "name_en": "Twoja.TV",
       "country": "PL",
@@ -3915,7 +3915,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3923,7 +3923,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         },
         {
@@ -3931,7 +3931,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -3939,9 +3939,9 @@
     {
       "id": "ViasatExploreClassic.pl",
       "code": "VIA-PL-001",
-      "index": 8968,
+      "index": 8969,
       "tvg_id": null,
-      "tvg_chno": 9068,
+      "tvg_chno": 9069,
       "name_ar": "Viasat Explore Classic",
       "name_en": "Viasat Explore Classic",
       "country": "PL",
@@ -3950,7 +3950,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3958,7 +3958,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -3966,9 +3966,9 @@
     {
       "id": "ViasatTrueCrime.pl",
       "code": "VIA-PL-002",
-      "index": 8976,
+      "index": 8977,
       "tvg_id": null,
-      "tvg_chno": 9076,
+      "tvg_chno": 9077,
       "name_ar": "Viasat True Crime",
       "name_en": "Viasat True Crime",
       "country": "PL",
@@ -3977,25 +3977,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://92.114.85.87:8010/play/a00a/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
-          "is_working": true
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "VOD205.pl",
       "code": "VOD-PL-001",
-      "index": 9057,
+      "index": 9058,
       "tvg_id": null,
-      "tvg_chno": 9157,
+      "tvg_chno": 9158,
       "name_ar": "VOD 205",
       "name_en": "VOD 205",
       "country": "PL",
@@ -4004,7 +4004,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4012,7 +4012,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -4020,9 +4020,9 @@
     {
       "id": "VOD206.pl",
       "code": "VOD-PL-002",
-      "index": 9058,
+      "index": 9059,
       "tvg_id": null,
-      "tvg_chno": 9158,
+      "tvg_chno": 9159,
       "name_ar": "VOD 206",
       "name_en": "VOD 206",
       "country": "PL",
@@ -4031,7 +4031,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4039,7 +4039,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -4047,9 +4047,9 @@
     {
       "id": "VOD207.pl",
       "code": "VOD-PL-003",
-      "index": 9059,
+      "index": 9060,
       "tvg_id": null,
-      "tvg_chno": 9159,
+      "tvg_chno": 9160,
       "name_ar": "VOD 207",
       "name_en": "VOD 207",
       "country": "PL",
@@ -4058,7 +4058,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4066,7 +4066,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -4074,9 +4074,9 @@
     {
       "id": "VOD208.pl",
       "code": "VOD-PL-004",
-      "index": 9060,
+      "index": 9061,
       "tvg_id": null,
-      "tvg_chno": 9160,
+      "tvg_chno": 9161,
       "name_ar": "VOD 208",
       "name_en": "VOD 208",
       "country": "PL",
@@ -4085,7 +4085,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4093,7 +4093,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -4101,9 +4101,9 @@
     {
       "id": "VOXMusicTV.pl",
       "code": "VOX-PL-001",
-      "index": 9077,
+      "index": 9078,
       "tvg_id": null,
-      "tvg_chno": 9177,
+      "tvg_chno": 9178,
       "name_ar": "VOX Music TV",
       "name_en": "VOX Music TV",
       "country": "PL",
@@ -4112,7 +4112,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4120,7 +4120,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -4128,9 +4128,9 @@
     {
       "id": "wedotvAuta.pl",
       "code": "WED-PL-001",
-      "index": 9162,
+      "index": 9163,
       "tvg_id": null,
-      "tvg_chno": 9262,
+      "tvg_chno": 9263,
       "name_ar": "wedotv Auta",
       "name_en": "wedotv Auta",
       "country": "PL",
@@ -4139,7 +4139,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4147,7 +4147,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -4155,9 +4155,9 @@
     {
       "id": "WorldBilliards.pl",
       "code": "WOR-PL-001",
-      "index": 9211,
+      "index": 9212,
       "tvg_id": null,
-      "tvg_chno": 9311,
+      "tvg_chno": 9312,
       "name_ar": "World Billiards",
       "name_en": "World Billiards",
       "country": "PL",
@@ -4166,15 +4166,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
           "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -4182,9 +4182,9 @@
     {
       "id": "WPolscePL.pl",
       "code": "WPO-PL-001",
-      "index": 9222,
+      "index": 9223,
       "tvg_id": null,
-      "tvg_chno": 9322,
+      "tvg_chno": 9323,
       "name_ar": "W Polsce PL",
       "name_en": "W Polsce PL",
       "country": "PL",
@@ -4193,7 +4193,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4201,7 +4201,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
@@ -4209,9 +4209,9 @@
     {
       "id": "WPTV.pl",
       "code": "WPT-PL-001",
-      "index": 9224,
+      "index": 9225,
       "tvg_id": null,
-      "tvg_chno": 9324,
+      "tvg_chno": 9325,
       "name_ar": "WP TV",
       "name_en": "WP TV",
       "country": "PL",
@@ -4220,7 +4220,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4228,7 +4228,7 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         },
         {
@@ -4236,7 +4236,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": false
         }
       ]
@@ -4244,9 +4244,9 @@
     {
       "id": "Wydarzenia24.pl",
       "code": "WYD-PL-001",
-      "index": 9237,
+      "index": 9238,
       "tvg_id": null,
-      "tvg_chno": 9337,
+      "tvg_chno": 9338,
       "name_ar": "Wydarzenia 24",
       "name_en": "Wydarzenia 24",
       "country": "PL",
@@ -4255,7 +4255,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-05T10:23:15.588821+00:00",
+      "last_checked": "2026-11-06T10:26:16.476178+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4263,11 +4263,11 @@
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-05T10:23:15.588821+00:00",
+          "last_checked": "2026-11-06T10:26:16.476178+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-05T10:23:15.588821+00:00"
+  "last_updated": "2026-11-06T10:26:16.476178+00:00"
 }
