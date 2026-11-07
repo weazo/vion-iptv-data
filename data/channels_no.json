@@ -6,9 +6,9 @@
     {
       "id": "CanalMotor.no",
       "code": "CAN-NO-001",
-      "index": 1462,
+      "index": 1468,
       "tvg_id": null,
-      "tvg_chno": 1562,
+      "tvg_chno": 1568,
       "name_ar": "Canal Motor",
       "name_en": "Canal Motor",
       "country": "NO",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": true
         },
         {
@@ -33,7 +33,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": true
         }
       ]
@@ -41,9 +41,9 @@
     {
       "id": "Frikanalen.no",
       "code": "FRI-NO-001",
-      "index": 2993,
+      "index": 3006,
       "tvg_id": null,
-      "tvg_chno": 3093,
+      "tvg_chno": 3106,
       "name_ar": "Frikanalen",
       "name_en": "Frikanalen",
       "country": "NO",
@@ -52,25 +52,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://frikanalen.no/stream/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
-          "is_working": false
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "NRK1.no",
       "code": "NRK-NO-001",
-      "index": 5244,
+      "index": 5265,
       "tvg_id": null,
-      "tvg_chno": 5344,
+      "tvg_chno": 5365,
       "name_ar": "NRK1",
       "name_en": "NRK1",
       "country": "NO",
@@ -79,15 +79,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
+      "is_working": true,
       "streams": [
+        {
+          "url": "http://185.19.191.171:8090/NRK1/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
+          "is_working": true
+        },
         {
           "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -95,7 +103,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -103,7 +111,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -111,7 +119,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -119,7 +127,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -127,7 +135,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -135,7 +143,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -143,7 +151,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -151,7 +159,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         },
         {
@@ -159,7 +167,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         }
       ]
@@ -167,9 +175,9 @@
     {
       "id": "NRK2.no",
       "code": "NRK-NO-002",
-      "index": 5245,
+      "index": 5266,
       "tvg_id": null,
-      "tvg_chno": 5345,
+      "tvg_chno": 5366,
       "name_ar": "NRK2",
       "name_en": "NRK2",
       "country": "NO",
@@ -178,7 +186,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": false,
       "streams": [
         {
@@ -186,7 +194,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         }
       ]
@@ -194,9 +202,9 @@
     {
       "id": "NRK3.no",
       "code": "NRK-NO-003",
-      "index": 5246,
+      "index": 5267,
       "tvg_id": null,
-      "tvg_chno": 5346,
+      "tvg_chno": 5367,
       "name_ar": "NRK3",
       "name_en": "NRK3",
       "country": "NO",
@@ -205,7 +213,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": false,
       "streams": [
         {
@@ -213,7 +221,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         }
       ]
@@ -221,9 +229,9 @@
     {
       "id": "NRKSuper.no",
       "code": "NRK-NO-004",
-      "index": 5247,
+      "index": 5268,
       "tvg_id": null,
-      "tvg_chno": 5347,
+      "tvg_chno": 5368,
       "name_ar": "NRK Super",
       "name_en": "NRK Super",
       "country": "NO",
@@ -232,7 +240,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": false,
       "streams": [
         {
@@ -240,7 +248,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         }
       ]
@@ -248,9 +256,9 @@
     {
       "id": "NRKTegnsprak.no",
       "code": "NRK-NO-005",
-      "index": 5248,
+      "index": 5269,
       "tvg_id": null,
-      "tvg_chno": 5348,
+      "tvg_chno": 5369,
       "name_ar": "NRK Tegnsprak",
       "name_en": "NRK Tegnsprak",
       "country": "NO",
@@ -259,7 +267,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": false,
       "streams": [
         {
@@ -267,7 +275,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": false
         }
       ]
@@ -275,9 +283,9 @@
     {
       "id": "TVModum.no",
       "code": "TVM-NO-001",
-      "index": 8544,
+      "index": 8575,
       "tvg_id": null,
-      "tvg_chno": 8644,
+      "tvg_chno": 8675,
       "name_ar": "TVModum",
       "name_en": "TVModum",
       "country": "NO",
@@ -286,7 +294,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": true,
       "streams": [
         {
@@ -294,7 +302,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": true
         }
       ]
@@ -302,9 +310,9 @@
     {
       "id": "TVOstfold.no",
       "code": "TVO-NO-001",
-      "index": 8580,
+      "index": 8611,
       "tvg_id": null,
-      "tvg_chno": 8680,
+      "tvg_chno": 8711,
       "name_ar": "TV Ostfold",
       "name_en": "TV Ostfold",
       "country": "NO",
@@ -313,7 +321,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": true,
       "streams": [
         {
@@ -321,7 +329,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": true
         }
       ]
@@ -329,9 +337,9 @@
     {
       "id": "kanal10norge",
       "code": "KAN-NO-001",
-      "index": 10046,
+      "index": 10071,
       "tvg_id": null,
-      "tvg_chno": 10146,
+      "tvg_chno": 10171,
       "name_ar": "Kanal 10 Norge Ⓨ",
       "name_en": "Kanal 10 Norge Ⓨ",
       "country": "NO",
@@ -340,7 +348,7 @@
       "logo": "https://i.imgur.com/2fOcZfK.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-06T10:26:16.476178+00:00",
+      "last_checked": "2026-11-07T09:41:26.392920+00:00",
       "is_working": true,
       "streams": [
         {
@@ -348,11 +356,11 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-06T10:26:16.476178+00:00",
+          "last_checked": "2026-11-07T09:41:26.392920+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-06T10:26:16.476178+00:00"
+  "last_updated": "2026-11-07T09:41:26.392920+00:00"
 }
