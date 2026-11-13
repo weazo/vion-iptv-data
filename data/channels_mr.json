@@ -6,9 +6,9 @@
     {
       "id": "Sahara24.mr",
       "code": "SAH-MR-001",
-      "index": 6907,
+      "index": 6910,
       "tvg_id": null,
-      "tvg_chno": 7007,
+      "tvg_chno": 7010,
       "name_ar": "Sahara 24",
       "name_en": "Sahara 24",
       "country": "MR",
@@ -17,25 +17,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
-          "is_working": true
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "sahara24صحراء",
       "code": "SAH-MR-002",
-      "index": 10379,
+      "index": 10384,
       "tvg_id": null,
-      "tvg_chno": 10479,
+      "tvg_chno": 10484,
       "name_ar": "Sahara 24 صحراء",
       "name_en": "Sahara 24 صحراء",
       "country": "MR",
@@ -44,19 +44,19 @@
       "logo": "https://i.imgur.com/nOkf1fU.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://live.saharamedias.net:3317/live/shara24live.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
-          "is_working": true
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
+          "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-12T10:42:32.863983+00:00"
+  "last_updated": "2026-11-13T10:34:34.942287+00:00"
 }

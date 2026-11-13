@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "TH",
-  "total_channels": 63,
+  "total_channels": 64,
   "channels": [
     {
       "id": "13SiamThai.th",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -60,7 +60,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         },
         {
@@ -68,7 +68,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -76,7 +76,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -95,7 +95,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -103,7 +103,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         },
         {
@@ -111,7 +111,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -130,7 +130,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -138,7 +138,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -146,7 +146,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -154,9 +154,9 @@
     {
       "id": "BaanBaanTV73.th",
       "code": "BAA-TH-001",
-      "index": 857,
+      "index": 853,
       "tvg_id": null,
-      "tvg_chno": 957,
+      "tvg_chno": 953,
       "name_ar": "Baan Baan TV 73",
       "name_en": "Baan Baan TV 73",
       "country": "TH",
@@ -165,7 +165,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -173,17 +173,44 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Boomerang.th",
+      "code": "BOO-TH-001",
+      "index": 1159,
+      "tvg_id": null,
+      "tvg_chno": 1259,
+      "name_ar": "Boomerang",
+      "name_en": "Boomerang",
+      "country": "TH",
+      "language": "unknown",
+      "category": "kids",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "BoonniyomTV.th",
-      "code": "BOO-TH-001",
-      "index": 1162,
+      "code": "BOO-TH-002",
+      "index": 1161,
       "tvg_id": null,
-      "tvg_chno": 1262,
+      "tvg_chno": 1261,
       "name_ar": "Boonniyom TV",
       "name_en": "Boonniyom TV",
       "country": "TH",
@@ -192,7 +219,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -200,7 +227,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -208,9 +235,9 @@
     {
       "id": "CharoenCable37TV.th",
       "code": "CHA-TH-001",
-      "index": 1746,
+      "index": 1743,
       "tvg_id": null,
-      "tvg_chno": 1846,
+      "tvg_chno": 1843,
       "name_ar": "Charoen Cable 37 TV",
       "name_en": "Charoen Cable 37 TV",
       "country": "TH",
@@ -219,7 +246,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -227,7 +254,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -235,9 +262,9 @@
     {
       "id": "CoolChannel.th",
       "code": "COO-TH-001",
-      "index": 2040,
+      "index": 2037,
       "tvg_id": null,
-      "tvg_chno": 2140,
+      "tvg_chno": 2137,
       "name_ar": "Cool Channel",
       "name_en": "Cool Channel",
       "country": "TH",
@@ -246,7 +273,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -254,7 +281,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -262,7 +289,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -270,7 +297,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -278,9 +305,9 @@
     {
       "id": "DLTV1.th",
       "code": "DLT-TH-001",
-      "index": 2392,
+      "index": 2390,
       "tvg_id": null,
-      "tvg_chno": 2492,
+      "tvg_chno": 2490,
       "name_ar": "DLTV 1",
       "name_en": "DLTV 1",
       "country": "TH",
@@ -289,7 +316,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -297,7 +324,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -305,9 +332,9 @@
     {
       "id": "DLTV10.th",
       "code": "DLT-TH-002",
-      "index": 2393,
+      "index": 2391,
       "tvg_id": null,
-      "tvg_chno": 2493,
+      "tvg_chno": 2491,
       "name_ar": "DLTV 10",
       "name_en": "DLTV 10",
       "country": "TH",
@@ -316,7 +343,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -324,7 +351,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -332,9 +359,9 @@
     {
       "id": "DLTV11.th",
       "code": "DLT-TH-003",
-      "index": 2394,
+      "index": 2392,
       "tvg_id": null,
-      "tvg_chno": 2494,
+      "tvg_chno": 2492,
       "name_ar": "DLTV 11",
       "name_en": "DLTV 11",
       "country": "TH",
@@ -343,7 +370,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -351,7 +378,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -359,9 +386,9 @@
     {
       "id": "DLTV12.th",
       "code": "DLT-TH-004",
-      "index": 2395,
+      "index": 2393,
       "tvg_id": null,
-      "tvg_chno": 2495,
+      "tvg_chno": 2493,
       "name_ar": "DLTV 12",
       "name_en": "DLTV 12",
       "country": "TH",
@@ -370,7 +397,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -378,7 +405,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -386,9 +413,9 @@
     {
       "id": "DLTV13.th",
       "code": "DLT-TH-005",
-      "index": 2396,
+      "index": 2394,
       "tvg_id": null,
-      "tvg_chno": 2496,
+      "tvg_chno": 2494,
       "name_ar": "DLTV 13",
       "name_en": "DLTV 13",
       "country": "TH",
@@ -397,7 +424,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -405,7 +432,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -413,9 +440,9 @@
     {
       "id": "DLTV14.th",
       "code": "DLT-TH-006",
-      "index": 2397,
+      "index": 2395,
       "tvg_id": null,
-      "tvg_chno": 2497,
+      "tvg_chno": 2495,
       "name_ar": "DLTV 14",
       "name_en": "DLTV 14",
       "country": "TH",
@@ -424,7 +451,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -432,7 +459,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -440,9 +467,9 @@
     {
       "id": "DLTV15.th",
       "code": "DLT-TH-007",
-      "index": 2398,
+      "index": 2396,
       "tvg_id": null,
-      "tvg_chno": 2498,
+      "tvg_chno": 2496,
       "name_ar": "DLTV 15",
       "name_en": "DLTV 15",
       "country": "TH",
@@ -451,7 +478,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -459,7 +486,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -467,9 +494,9 @@
     {
       "id": "DLTV2.th",
       "code": "DLT-TH-008",
-      "index": 2399,
+      "index": 2397,
       "tvg_id": null,
-      "tvg_chno": 2499,
+      "tvg_chno": 2497,
       "name_ar": "DLTV 2",
       "name_en": "DLTV 2",
       "country": "TH",
@@ -478,7 +505,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -486,7 +513,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -494,9 +521,9 @@
     {
       "id": "DLTV3.th",
       "code": "DLT-TH-009",
-      "index": 2400,
+      "index": 2398,
       "tvg_id": null,
-      "tvg_chno": 2500,
+      "tvg_chno": 2498,
       "name_ar": "DLTV 3",
       "name_en": "DLTV 3",
       "country": "TH",
@@ -505,7 +532,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -513,7 +540,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -521,9 +548,9 @@
     {
       "id": "DLTV4.th",
       "code": "DLT-TH-010",
-      "index": 2401,
+      "index": 2399,
       "tvg_id": null,
-      "tvg_chno": 2501,
+      "tvg_chno": 2499,
       "name_ar": "DLTV 4",
       "name_en": "DLTV 4",
       "country": "TH",
@@ -532,7 +559,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -540,7 +567,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -548,9 +575,9 @@
     {
       "id": "DLTV5.th",
       "code": "DLT-TH-011",
-      "index": 2402,
+      "index": 2400,
       "tvg_id": null,
-      "tvg_chno": 2502,
+      "tvg_chno": 2500,
       "name_ar": "DLTV 5",
       "name_en": "DLTV 5",
       "country": "TH",
@@ -559,7 +586,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -567,7 +594,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -575,9 +602,9 @@
     {
       "id": "DLTV6.th",
       "code": "DLT-TH-012",
-      "index": 2403,
+      "index": 2401,
       "tvg_id": null,
-      "tvg_chno": 2503,
+      "tvg_chno": 2501,
       "name_ar": "DLTV 6",
       "name_en": "DLTV 6",
       "country": "TH",
@@ -586,7 +613,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -594,7 +621,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -602,9 +629,9 @@
     {
       "id": "DLTV7.th",
       "code": "DLT-TH-013",
-      "index": 2404,
+      "index": 2402,
       "tvg_id": null,
-      "tvg_chno": 2504,
+      "tvg_chno": 2502,
       "name_ar": "DLTV 7",
       "name_en": "DLTV 7",
       "country": "TH",
@@ -613,7 +640,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -621,7 +648,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -629,9 +656,9 @@
     {
       "id": "DLTV8.th",
       "code": "DLT-TH-014",
-      "index": 2405,
+      "index": 2403,
       "tvg_id": null,
-      "tvg_chno": 2505,
+      "tvg_chno": 2503,
       "name_ar": "DLTV 8",
       "name_en": "DLTV 8",
       "country": "TH",
@@ -640,7 +667,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -648,7 +675,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -656,9 +683,9 @@
     {
       "id": "DLTV9.th",
       "code": "DLT-TH-015",
-      "index": 2406,
+      "index": 2404,
       "tvg_id": null,
-      "tvg_chno": 2506,
+      "tvg_chno": 2504,
       "name_ar": "DLTV 9",
       "name_en": "DLTV 9",
       "country": "TH",
@@ -667,7 +694,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -675,7 +702,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -683,9 +710,9 @@
     {
       "id": "DopaChannel.th",
       "code": "DOP-TH-001",
-      "index": 2443,
+      "index": 2441,
       "tvg_id": null,
-      "tvg_chno": 2543,
+      "tvg_chno": 2541,
       "name_ar": "Dopa Channel",
       "name_en": "Dopa Channel",
       "country": "TH",
@@ -694,7 +721,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -702,7 +729,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -710,9 +737,9 @@
     {
       "id": "DramaChannel.th",
       "code": "DRA-TH-001",
-      "index": 2457,
+      "index": 2455,
       "tvg_id": null,
-      "tvg_chno": 2557,
+      "tvg_chno": 2555,
       "name_ar": "Drama Channel",
       "name_en": "Drama Channel",
       "country": "TH",
@@ -721,7 +748,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -729,7 +756,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -737,9 +764,9 @@
     {
       "id": "GMM25.th",
       "code": "GMM-TH-001",
-      "index": 3137,
+      "index": 3136,
       "tvg_id": null,
-      "tvg_chno": 3237,
+      "tvg_chno": 3236,
       "name_ar": "GMM 25",
       "name_en": "GMM 25",
       "country": "TH",
@@ -748,7 +775,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -756,7 +783,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         },
         {
@@ -764,7 +791,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -772,7 +799,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -780,9 +807,9 @@
     {
       "id": "GoodIdeaTV.th",
       "code": "GOO-TH-001",
-      "index": 3174,
+      "index": 3173,
       "tvg_id": null,
-      "tvg_chno": 3274,
+      "tvg_chno": 3273,
       "name_ar": "Good Idea TV",
       "name_en": "Good Idea TV",
       "country": "TH",
@@ -791,7 +818,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -799,7 +826,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -807,9 +834,9 @@
     {
       "id": "HalalTV.th",
       "code": "HAL-TH-001",
-      "index": 3267,
+      "index": 3265,
       "tvg_id": null,
-      "tvg_chno": 3367,
+      "tvg_chno": 3365,
       "name_ar": "Halal TV",
       "name_en": "Halal TV",
       "country": "TH",
@@ -818,7 +845,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -826,7 +853,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -834,9 +861,9 @@
     {
       "id": "JKN18.th",
       "code": "JKN-TH-001",
-      "index": 3793,
+      "index": 3792,
       "tvg_id": null,
-      "tvg_chno": 3893,
+      "tvg_chno": 3892,
       "name_ar": "JKN 18",
       "name_en": "JKN 18",
       "country": "TH",
@@ -845,7 +872,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -853,7 +880,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -872,7 +899,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -880,7 +907,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -899,7 +926,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -907,7 +934,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -926,7 +953,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -934,7 +961,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -953,7 +980,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -961,7 +988,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -969,7 +996,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -977,7 +1004,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -996,7 +1023,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1004,7 +1031,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1012,7 +1039,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1031,7 +1058,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1039,7 +1066,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1058,7 +1085,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1066,7 +1093,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1085,7 +1112,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1093,7 +1120,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1112,7 +1139,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1120,7 +1147,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1128,7 +1155,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1136,9 +1163,9 @@
     {
       "id": "One31.th",
       "code": "ONE-TH-001",
-      "index": 5438,
+      "index": 5439,
       "tvg_id": null,
-      "tvg_chno": 5538,
+      "tvg_chno": 5539,
       "name_ar": "One 31",
       "name_en": "One 31",
       "country": "TH",
@@ -1147,7 +1174,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1155,7 +1182,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         },
         {
@@ -1163,7 +1190,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1171,7 +1198,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1179,9 +1206,9 @@
     {
       "id": "PoliceTV.th",
       "code": "POL-TH-001",
-      "index": 6017,
+      "index": 6019,
       "tvg_id": null,
-      "tvg_chno": 6117,
+      "tvg_chno": 6119,
       "name_ar": "Police TV",
       "name_en": "Police TV",
       "country": "TH",
@@ -1190,7 +1217,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1198,7 +1225,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1206,9 +1233,9 @@
     {
       "id": "RamaChannel.th",
       "code": "RAM-TH-001",
-      "index": 6457,
+      "index": 6459,
       "tvg_id": null,
-      "tvg_chno": 6557,
+      "tvg_chno": 6559,
       "name_ar": "Rama Channel",
       "name_en": "Rama Channel",
       "country": "TH",
@@ -1217,7 +1244,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1225,7 +1252,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1233,9 +1260,9 @@
     {
       "id": "RChannel.th",
       "code": "RCH-TH-001",
-      "index": 6485,
+      "index": 6487,
       "tvg_id": null,
-      "tvg_chno": 6585,
+      "tvg_chno": 6587,
       "name_ar": "R Channel",
       "name_en": "R Channel",
       "country": "TH",
@@ -1244,7 +1271,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1252,7 +1279,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1260,7 +1287,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1268,9 +1295,9 @@
     {
       "id": "SBBTV.th",
       "code": "SBB-TH-001",
-      "index": 6994,
+      "index": 6997,
       "tvg_id": null,
-      "tvg_chno": 7094,
+      "tvg_chno": 7097,
       "name_ar": "SBB TV",
       "name_en": "SBB TV",
       "country": "TH",
@@ -1279,7 +1306,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1287,7 +1314,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1295,9 +1322,9 @@
     {
       "id": "SBTTV.th",
       "code": "SBT-TH-001",
-      "index": 7007,
+      "index": 7010,
       "tvg_id": null,
-      "tvg_chno": 7107,
+      "tvg_chno": 7110,
       "name_ar": "SBT TV",
       "name_en": "SBT TV",
       "country": "TH",
@@ -1306,7 +1333,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1314,7 +1341,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1322,7 +1349,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1330,9 +1357,9 @@
     {
       "id": "STOUChannel.th",
       "code": "STO-TH-001",
-      "index": 7498,
+      "index": 7501,
       "tvg_id": null,
-      "tvg_chno": 7598,
+      "tvg_chno": 7601,
       "name_ar": "STOU Channel",
       "name_en": "STOU Channel",
       "country": "TH",
@@ -1341,7 +1368,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1349,7 +1376,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1357,9 +1384,9 @@
     {
       "id": "SuwannabhumiChannel.th",
       "code": "SUW-TH-001",
-      "index": 7589,
+      "index": 7592,
       "tvg_id": null,
-      "tvg_chno": 7689,
+      "tvg_chno": 7692,
       "name_ar": "Suwannabhumi Channel",
       "name_en": "Suwannabhumi Channel",
       "country": "TH",
@@ -1368,7 +1395,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1376,7 +1403,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1384,9 +1411,9 @@
     {
       "id": "Thaiban83.th",
       "code": "THA-TH-001",
-      "index": 7993,
+      "index": 7995,
       "tvg_id": null,
-      "tvg_chno": 8093,
+      "tvg_chno": 8095,
       "name_ar": "Thaiban 83",
       "name_en": "Thaiban 83",
       "country": "TH",
@@ -1395,7 +1422,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1403,7 +1430,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1411,9 +1438,9 @@
     {
       "id": "ThaiChaiyo.th",
       "code": "THA-TH-002",
-      "index": 7994,
+      "index": 7996,
       "tvg_id": null,
-      "tvg_chno": 8094,
+      "tvg_chno": 8096,
       "name_ar": "Thai Chaiyo",
       "name_en": "Thai Chaiyo",
       "country": "TH",
@@ -1422,7 +1449,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1430,7 +1457,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1438,9 +1465,9 @@
     {
       "id": "ThaiParliamentTelevision.th",
       "code": "THA-TH-003",
-      "index": 7996,
+      "index": 7998,
       "tvg_id": null,
-      "tvg_chno": 8096,
+      "tvg_chno": 8098,
       "name_ar": "Thai Parliament Television",
       "name_en": "Thai Parliament Television",
       "country": "TH",
@@ -1449,7 +1476,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1457,7 +1484,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1465,9 +1492,9 @@
     {
       "id": "ThaiPBS.th",
       "code": "THA-TH-004",
-      "index": 7997,
+      "index": 7999,
       "tvg_id": null,
-      "tvg_chno": 8097,
+      "tvg_chno": 8099,
       "name_ar": "Thai PBS",
       "name_en": "Thai PBS",
       "country": "TH",
@@ -1476,7 +1503,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1484,7 +1511,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1492,7 +1519,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1500,9 +1527,9 @@
     {
       "id": "ThairathTV.th",
       "code": "THA-TH-005",
-      "index": 7998,
+      "index": 8000,
       "tvg_id": null,
-      "tvg_chno": 8098,
+      "tvg_chno": 8100,
       "name_ar": "Thairath TV",
       "name_en": "Thairath TV",
       "country": "TH",
@@ -1511,7 +1538,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1519,7 +1546,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1527,7 +1554,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1535,9 +1562,9 @@
     {
       "id": "TNN16.th",
       "code": "TNN-TH-001",
-      "index": 8140,
+      "index": 8142,
       "tvg_id": null,
-      "tvg_chno": 8240,
+      "tvg_chno": 8242,
       "name_ar": "TNN16",
       "name_en": "TNN16",
       "country": "TH",
@@ -1546,7 +1573,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1554,7 +1581,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         },
         {
@@ -1562,7 +1589,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1570,9 +1597,9 @@
     {
       "id": "TopNews.th",
       "code": "TOP-TH-001",
-      "index": 8189,
+      "index": 8191,
       "tvg_id": null,
-      "tvg_chno": 8289,
+      "tvg_chno": 8291,
       "name_ar": "Top News",
       "name_en": "Top News",
       "country": "TH",
@@ -1581,7 +1608,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1589,7 +1616,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1597,7 +1624,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1605,9 +1632,9 @@
     {
       "id": "True4U.th",
       "code": "TRU-TH-001",
-      "index": 8287,
+      "index": 8289,
       "tvg_id": null,
-      "tvg_chno": 8387,
+      "tvg_chno": 8389,
       "name_ar": "True4U",
       "name_en": "True4U",
       "country": "TH",
@@ -1616,7 +1643,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1624,7 +1651,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1632,7 +1659,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1640,9 +1667,9 @@
     {
       "id": "TSports7.th",
       "code": "TSP-TH-001",
-      "index": 8304,
+      "index": 8306,
       "tvg_id": null,
-      "tvg_chno": 8404,
+      "tvg_chno": 8406,
       "name_ar": "T Sports 7",
       "name_en": "T Sports 7",
       "country": "TH",
@@ -1651,7 +1678,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1659,7 +1686,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1667,9 +1694,9 @@
     {
       "id": "TVMuslimThailand.th",
       "code": "TVM-TH-001",
-      "index": 8607,
+      "index": 8608,
       "tvg_id": null,
-      "tvg_chno": 8707,
+      "tvg_chno": 8708,
       "name_ar": "TV Muslim Thailand",
       "name_en": "TV Muslim Thailand",
       "country": "TH",
@@ -1678,7 +1705,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1686,7 +1713,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1694,9 +1721,9 @@
     {
       "id": "UmmTV.th",
       "code": "UMM-TH-001",
-      "index": 8853,
+      "index": 8856,
       "tvg_id": null,
-      "tvg_chno": 8953,
+      "tvg_chno": 8956,
       "name_ar": "Umm TV",
       "name_en": "Umm TV",
       "country": "TH",
@@ -1705,7 +1732,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1713,7 +1740,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1721,9 +1748,9 @@
     {
       "id": "VipaTV.th",
       "code": "VIP-TH-001",
-      "index": 9066,
+      "index": 9069,
       "tvg_id": null,
-      "tvg_chno": 9166,
+      "tvg_chno": 9169,
       "name_ar": "Vipa TV",
       "name_en": "Vipa TV",
       "country": "TH",
@@ -1732,7 +1759,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1740,7 +1767,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1748,9 +1775,9 @@
     {
       "id": "WhiteChannel.th",
       "code": "WHI-TH-001",
-      "index": 9233,
+      "index": 9236,
       "tvg_id": null,
-      "tvg_chno": 9333,
+      "tvg_chno": 9336,
       "name_ar": "White Channel",
       "name_en": "White Channel",
       "country": "TH",
@@ -1759,7 +1786,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1767,7 +1794,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1775,9 +1802,9 @@
     {
       "id": "WorkpointTV.th",
       "code": "WOR-TH-001",
-      "index": 9264,
+      "index": 9267,
       "tvg_id": null,
-      "tvg_chno": 9364,
+      "tvg_chno": 9367,
       "name_ar": "Workpoint TV",
       "name_en": "Workpoint TV",
       "country": "TH",
@@ -1786,7 +1813,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1794,7 +1821,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         },
         {
@@ -1802,7 +1829,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
@@ -1810,9 +1837,9 @@
     {
       "id": "WorldEntertainmentTV42.th",
       "code": "WOR-TH-002",
-      "index": 9267,
+      "index": 9270,
       "tvg_id": null,
-      "tvg_chno": 9367,
+      "tvg_chno": 9370,
       "name_ar": "World Entertainment TV 42",
       "name_en": "World Entertainment TV 42",
       "country": "TH",
@@ -1821,7 +1848,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1829,7 +1856,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1837,9 +1864,9 @@
     {
       "id": "ZabbChannel.th",
       "code": "ZAB-TH-001",
-      "index": 9380,
+      "index": 9383,
       "tvg_id": null,
-      "tvg_chno": 9480,
+      "tvg_chno": 9483,
       "name_ar": "Zabb Channel",
       "name_en": "Zabb Channel",
       "country": "TH",
@@ -1848,7 +1875,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1856,7 +1883,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": true
         }
       ]
@@ -1864,9 +1891,9 @@
     {
       "id": "ZeeNung.th",
       "code": "ZEE-TH-001",
-      "index": 9421,
+      "index": 9425,
       "tvg_id": null,
-      "tvg_chno": 9521,
+      "tvg_chno": 9525,
       "name_ar": "Zee Nung",
       "name_en": "Zee Nung",
       "country": "TH",
@@ -1875,7 +1902,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-12T10:42:32.863983+00:00",
+      "last_checked": "2026-11-13T10:34:34.942287+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1883,11 +1910,11 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-12T10:42:32.863983+00:00",
+          "last_checked": "2026-11-13T10:34:34.942287+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-12T10:42:32.863983+00:00"
+  "last_updated": "2026-11-13T10:34:34.942287+00:00"
 }
