@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "country": "AR",
-  "total_channels": 191,
+  "total_channels": 190,
   "channels": [
     {
       "id": "247CanaldeNoticias.ar",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,84 +25,17 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
-        }
-      ]
-    },
-    {
-      "id": "5tv.ar",
-      "code": "TVX-AR-001",
-      "index": 126,
-      "tvg_id": null,
-      "tvg_chno": 226,
-      "name_ar": "5tv",
-      "name_en": "5tv",
-      "country": "AR",
-      "language": "unknown",
-      "category": "general",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
-      "streams": [
-        {
-          "url": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8",
-          "quality": null,
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
-        },
-        {
-          "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
-          "quality": "480p",
-          "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
-        },
-        {
-          "url": "https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
-        },
-        {
-          "url": "http://193.46.58.239:8080/Channel5/index.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
         }
       ]
     },
     {
       "id": "A24.ar",
       "code": "AXX-AR-001",
-      "index": 170,
+      "index": 172,
       "tvg_id": null,
-      "tvg_chno": 270,
+      "tvg_chno": 272,
       "name_ar": "A24",
       "name_en": "A24",
       "country": "AR",
@@ -111,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -119,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -127,7 +60,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -135,7 +68,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -143,7 +76,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -151,9 +84,9 @@
     {
       "id": "ABTVBariloche.ar",
       "code": "ABT-AR-001",
-      "index": 241,
+      "index": 243,
       "tvg_id": null,
-      "tvg_chno": 341,
+      "tvg_chno": 343,
       "name_ar": "ABTV Bariloche",
       "name_en": "ABTV Bariloche",
       "country": "AR",
@@ -162,7 +95,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -170,7 +103,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -178,9 +111,9 @@
     {
       "id": "AiredeSantaFe.ar",
       "code": "AIR-AR-001",
-      "index": 344,
+      "index": 346,
       "tvg_id": null,
-      "tvg_chno": 444,
+      "tvg_chno": 446,
       "name_ar": "Aire de Santa Fe",
       "name_en": "Aire de Santa Fe",
       "country": "AR",
@@ -189,7 +122,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -197,7 +130,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -205,7 +138,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -213,9 +146,9 @@
     {
       "id": "AllegroHD.ar",
       "code": "ALL-AR-001",
-      "index": 437,
+      "index": 439,
       "tvg_id": null,
-      "tvg_chno": 537,
+      "tvg_chno": 539,
       "name_ar": "Allegro HD",
       "name_en": "Allegro HD",
       "country": "AR",
@@ -224,7 +157,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -232,7 +165,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -240,9 +173,9 @@
     {
       "id": "AlternaTV.ar",
       "code": "ALT-AR-001",
-      "index": 494,
+      "index": 496,
       "tvg_id": null,
-      "tvg_chno": 594,
+      "tvg_chno": 596,
       "name_ar": "AlternaTV",
       "name_en": "AlternaTV",
       "country": "AR",
@@ -251,25 +184,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "AmericaTV.ar",
       "code": "AME-AR-001",
-      "index": 543,
+      "index": 544,
       "tvg_id": null,
-      "tvg_chno": 643,
+      "tvg_chno": 644,
       "name_ar": "America TV",
       "name_en": "America TV",
       "country": "AR",
@@ -278,7 +211,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -286,7 +219,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -305,7 +238,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -313,7 +246,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -332,7 +265,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -340,7 +273,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -348,7 +281,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -367,7 +300,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -375,7 +308,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -394,7 +327,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -402,7 +335,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -421,7 +354,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -429,7 +362,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -448,7 +381,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -456,7 +389,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -464,7 +397,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -483,7 +416,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -491,7 +424,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -510,7 +443,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -518,7 +451,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -537,7 +470,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -545,7 +478,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -553,7 +486,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -572,7 +505,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -580,7 +513,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -599,7 +532,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -607,7 +540,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -626,7 +559,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -634,7 +567,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -653,7 +586,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -661,7 +594,7 @@
           "quality": "1080i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -680,7 +613,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -688,7 +621,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -696,7 +629,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -715,7 +648,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -723,7 +656,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -742,7 +675,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -750,7 +683,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -769,7 +702,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -777,7 +710,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -796,7 +729,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -804,7 +737,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -823,7 +756,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -831,7 +764,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -850,7 +783,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -858,7 +791,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -877,7 +810,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -885,7 +818,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -893,7 +826,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -912,7 +845,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -920,7 +853,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -939,15 +872,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
           "url": "https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8",
-          "quality": null,
+          "quality": "1080p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "priority": 1,
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -966,7 +899,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -974,7 +907,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -993,7 +926,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1001,7 +934,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1020,7 +953,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1028,7 +961,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1047,7 +980,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1055,7 +988,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1074,7 +1007,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1082,7 +1015,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1101,7 +1034,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1109,7 +1042,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1128,7 +1061,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1136,7 +1069,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1155,16 +1088,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "http://intelincloud01.com.ar/hls/cn3/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         }
       ]
     },
@@ -1182,7 +1115,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1190,7 +1123,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1209,7 +1142,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1217,7 +1150,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1236,7 +1169,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1244,7 +1177,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1263,7 +1196,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1271,15 +1204,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         },
         {
           "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1298,7 +1231,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1306,7 +1239,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1325,7 +1258,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1333,7 +1266,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1352,7 +1285,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1360,7 +1293,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1379,7 +1312,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1387,7 +1320,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1406,7 +1339,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1414,7 +1347,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1433,16 +1366,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         }
       ]
     },
@@ -1460,7 +1393,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1468,7 +1401,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1487,7 +1420,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1495,7 +1428,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1514,7 +1447,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1522,7 +1455,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1541,7 +1474,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1549,7 +1482,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1568,7 +1501,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1576,7 +1509,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1595,7 +1528,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1603,7 +1536,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1622,7 +1555,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1630,7 +1563,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1649,7 +1582,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1657,7 +1590,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1676,15 +1609,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
           "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1703,7 +1636,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1711,7 +1644,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1730,7 +1663,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1738,7 +1671,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -1746,7 +1679,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1765,7 +1698,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1773,7 +1706,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1792,7 +1725,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1800,7 +1733,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -1819,7 +1752,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1827,7 +1760,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -1846,16 +1779,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "priority": 2,
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
@@ -1873,7 +1806,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1881,7 +1814,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -1900,16 +1833,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
@@ -1927,7 +1860,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1935,7 +1868,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -1954,7 +1887,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1962,7 +1895,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -1981,7 +1914,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1989,7 +1922,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2008,7 +1941,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2016,7 +1949,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2035,16 +1968,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         }
       ]
     },
@@ -2062,7 +1995,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2070,7 +2003,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2089,16 +2022,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://livestream.lumpentv.com.ar/hls/lumpen.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         }
       ]
     },
@@ -2116,7 +2049,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2124,7 +2057,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2143,7 +2076,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2151,7 +2084,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2170,7 +2103,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2178,7 +2111,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2197,7 +2130,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2205,7 +2138,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2224,7 +2157,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2232,7 +2165,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2251,7 +2184,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2259,7 +2192,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2278,7 +2211,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2286,7 +2219,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2305,7 +2238,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2313,7 +2246,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2332,16 +2265,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
@@ -2359,15 +2292,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
           "url": "https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "priority": 2,
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2386,16 +2319,16 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8",
-          "quality": null,
+          "quality": "352p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
@@ -2413,7 +2346,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2421,7 +2354,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2429,7 +2362,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2437,7 +2370,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2456,7 +2389,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2464,7 +2397,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2483,7 +2416,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2491,7 +2424,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -2499,7 +2432,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -2507,7 +2440,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2526,7 +2459,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2534,7 +2467,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2542,7 +2475,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2561,7 +2494,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2569,7 +2502,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2577,7 +2510,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2585,7 +2518,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2593,7 +2526,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2601,7 +2534,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -2609,7 +2542,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2617,7 +2550,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2625,7 +2558,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2633,7 +2566,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2641,7 +2574,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2649,7 +2582,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2668,7 +2601,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2676,7 +2609,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2684,15 +2617,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         },
         {
           "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2700,7 +2633,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -2708,7 +2641,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2716,7 +2649,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2724,9 +2657,9 @@
     {
       "id": "EcoTV.ar",
       "code": "ECO-AR-001",
-      "index": 2561,
+      "index": 2560,
       "tvg_id": null,
-      "tvg_chno": 2661,
+      "tvg_chno": 2660,
       "name_ar": "Eco TV",
       "name_en": "Eco TV",
       "country": "AR",
@@ -2735,25 +2668,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8",
-          "quality": null,
+          "quality": "1080p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "priority": 1,
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "ElGourmet.ar",
       "code": "ELG-AR-001",
-      "index": 2610,
+      "index": 2609,
       "tvg_id": null,
-      "tvg_chno": 2710,
+      "tvg_chno": 2709,
       "name_ar": "El Gourmet",
       "name_en": "El Gourmet",
       "country": "AR",
@@ -2762,7 +2695,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2770,7 +2703,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2778,7 +2711,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2786,7 +2719,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2794,7 +2727,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2802,9 +2735,9 @@
     {
       "id": "ElNueve.ar",
       "code": "ELN-AR-001",
-      "index": 2618,
+      "index": 2617,
       "tvg_id": null,
-      "tvg_chno": 2718,
+      "tvg_chno": 2717,
       "name_ar": "El Nueve",
       "name_en": "El Nueve",
       "country": "AR",
@@ -2813,23 +2746,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         },
         {
           "url": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2837,9 +2770,9 @@
     {
       "id": "ElSiete.ar",
       "code": "ELS-AR-001",
-      "index": 2629,
+      "index": 2628,
       "tvg_id": null,
-      "tvg_chno": 2729,
+      "tvg_chno": 2728,
       "name_ar": "El Siete",
       "name_en": "El Siete",
       "country": "AR",
@@ -2848,7 +2781,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2856,7 +2789,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -2864,9 +2797,9 @@
     {
       "id": "ElTrece.ar",
       "code": "ELT-AR-001",
-      "index": 2634,
+      "index": 2633,
       "tvg_id": null,
-      "tvg_chno": 2734,
+      "tvg_chno": 2733,
       "name_ar": "El Trece",
       "name_en": "El Trece",
       "country": "AR",
@@ -2875,7 +2808,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2883,7 +2816,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2891,7 +2824,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2899,9 +2832,9 @@
     {
       "id": "ElTreceInternacionalLatinAmerica.ar",
       "code": "ELT-AR-002",
-      "index": 2635,
+      "index": 2634,
       "tvg_id": null,
-      "tvg_chno": 2735,
+      "tvg_chno": 2734,
       "name_ar": "El Trece Internacional Latin America",
       "name_en": "El Trece Internacional Latin America",
       "country": "AR",
@@ -2910,7 +2843,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2918,7 +2851,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2926,9 +2859,9 @@
     {
       "id": "Encuentro.ar",
       "code": "ENC-AR-001",
-      "index": 2650,
+      "index": 2649,
       "tvg_id": null,
-      "tvg_chno": 2750,
+      "tvg_chno": 2749,
       "name_ar": "Encuentro",
       "name_en": "Encuentro",
       "country": "AR",
@@ -2937,7 +2870,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2945,7 +2878,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2953,7 +2886,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -2961,7 +2894,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -2969,9 +2902,9 @@
     {
       "id": "ESPNPremium.ar",
       "code": "ESP-AR-001",
-      "index": 2726,
+      "index": 2725,
       "tvg_id": null,
-      "tvg_chno": 2826,
+      "tvg_chno": 2825,
       "name_ar": "ESPN Premium",
       "name_en": "ESPN Premium",
       "country": "AR",
@@ -2980,7 +2913,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2988,7 +2921,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -2996,7 +2929,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3004,7 +2937,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3012,9 +2945,9 @@
     {
       "id": "EuropaEuropa.ar",
       "code": "EUR-AR-001",
-      "index": 2787,
+      "index": 2786,
       "tvg_id": null,
-      "tvg_chno": 2887,
+      "tvg_chno": 2886,
       "name_ar": "Europa Europa",
       "name_en": "Europa Europa",
       "country": "AR",
@@ -3023,7 +2956,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3031,7 +2964,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -3039,7 +2972,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3047,7 +2980,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3055,7 +2988,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3063,9 +2996,9 @@
     {
       "id": "FilmArts.ar",
       "code": "FIL-AR-001",
-      "index": 2911,
+      "index": 2910,
       "tvg_id": null,
-      "tvg_chno": 3011,
+      "tvg_chno": 3010,
       "name_ar": "Film & Arts",
       "name_en": "Film & Arts",
       "country": "AR",
@@ -3074,7 +3007,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3082,7 +3015,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -3090,15 +3023,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         },
         {
           "url": "http://45.228.234.9:8000/play/a06g/index.m3u8",
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3106,9 +3039,9 @@
     {
       "id": "FolcloreandoTV.ar",
       "code": "FOL-AR-001",
-      "index": 2958,
+      "index": 2957,
       "tvg_id": null,
-      "tvg_chno": 3058,
+      "tvg_chno": 3057,
       "name_ar": "Folcloreando TV",
       "name_en": "Folcloreando TV",
       "country": "AR",
@@ -3117,7 +3050,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3125,7 +3058,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3133,9 +3066,9 @@
     {
       "id": "FoxSports.ar",
       "code": "FOX-AR-001",
-      "index": 2998,
+      "index": 2997,
       "tvg_id": null,
-      "tvg_chno": 3098,
+      "tvg_chno": 3097,
       "name_ar": "Fox Sports",
       "name_en": "Fox Sports",
       "country": "AR",
@@ -3144,7 +3077,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3152,7 +3085,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3160,7 +3093,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3168,7 +3101,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3176,9 +3109,9 @@
     {
       "id": "GarageTVLatinAmerica.ar",
       "code": "GAR-AR-001",
-      "index": 3074,
+      "index": 3073,
       "tvg_id": null,
-      "tvg_chno": 3174,
+      "tvg_chno": 3173,
       "name_ar": "Garage TV Latin America",
       "name_en": "Garage TV Latin America",
       "country": "AR",
@@ -3187,7 +3120,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3195,7 +3128,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3203,9 +3136,9 @@
     {
       "id": "ItelTVCanal2.ar",
       "code": "ITE-AR-001",
-      "index": 3726,
+      "index": 3724,
       "tvg_id": null,
-      "tvg_chno": 3826,
+      "tvg_chno": 3824,
       "name_ar": "Itel TV Canal 2",
       "name_en": "Itel TV Canal 2",
       "country": "AR",
@@ -3214,7 +3147,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3222,7 +3155,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3230,9 +3163,9 @@
     {
       "id": "KpopMix.ar",
       "code": "KPO-AR-001",
-      "index": 4074,
+      "index": 4071,
       "tvg_id": null,
-      "tvg_chno": 4174,
+      "tvg_chno": 4171,
       "name_ar": "Kpop Mix",
       "name_en": "Kpop Mix",
       "country": "AR",
@@ -3241,7 +3174,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3249,7 +3182,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3257,9 +3190,9 @@
     {
       "id": "La100.ar",
       "code": "LAX-AR-001",
-      "index": 4123,
+      "index": 4120,
       "tvg_id": null,
-      "tvg_chno": 4223,
+      "tvg_chno": 4220,
       "name_ar": "La 100",
       "name_en": "La 100",
       "country": "AR",
@@ -3268,7 +3201,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3276,7 +3209,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3284,9 +3217,9 @@
     {
       "id": "LAMIL35TV.ar",
       "code": "LAM-AR-001",
-      "index": 4164,
+      "index": 4161,
       "tvg_id": null,
-      "tvg_chno": 4264,
+      "tvg_chno": 4261,
       "name_ar": "LAMIL35 TV",
       "name_en": "LAMIL35 TV",
       "country": "AR",
@@ -3295,7 +3228,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3303,7 +3236,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3311,9 +3244,9 @@
     {
       "id": "LitusTV.ar",
       "code": "LIT-AR-001",
-      "index": 4296,
+      "index": 4293,
       "tvg_id": null,
-      "tvg_chno": 4396,
+      "tvg_chno": 4393,
       "name_ar": "Litus TV",
       "name_en": "Litus TV",
       "country": "AR",
@@ -3322,7 +3255,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3330,7 +3263,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3338,9 +3271,9 @@
     {
       "id": "MasFM.ar",
       "code": "MAS-AR-001",
-      "index": 4505,
+      "index": 4502,
       "tvg_id": null,
-      "tvg_chno": 4605,
+      "tvg_chno": 4602,
       "name_ar": "Mas FM",
       "name_en": "Mas FM",
       "country": "AR",
@@ -3349,7 +3282,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3357,7 +3290,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3365,9 +3298,9 @@
     {
       "id": "MercurioNoticias.ar",
       "code": "MER-AR-001",
-      "index": 4634,
+      "index": 4630,
       "tvg_id": null,
-      "tvg_chno": 4734,
+      "tvg_chno": 4730,
       "name_ar": "Mercurio Noticias",
       "name_en": "Mercurio Noticias",
       "country": "AR",
@@ -3376,7 +3309,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3384,7 +3317,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3392,9 +3325,9 @@
     {
       "id": "MetroTV.ar",
       "code": "MET-AR-001",
-      "index": 4652,
+      "index": 4648,
       "tvg_id": null,
-      "tvg_chno": 4752,
+      "tvg_chno": 4748,
       "name_ar": "Metro TV",
       "name_en": "Metro TV",
       "country": "AR",
@@ -3403,7 +3336,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3411,7 +3344,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3419,7 +3352,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -3427,7 +3360,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -3435,9 +3368,9 @@
     {
       "id": "MisionesCuatro.ar",
       "code": "MIS-AR-001",
-      "index": 4721,
+      "index": 4717,
       "tvg_id": null,
-      "tvg_chno": 4821,
+      "tvg_chno": 4817,
       "name_ar": "Misiones Cuatro",
       "name_en": "Misiones Cuatro",
       "country": "AR",
@@ -3446,7 +3379,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3454,7 +3387,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3462,9 +3395,9 @@
     {
       "id": "MultivisionFederal.ar",
       "code": "MUL-AR-001",
-      "index": 4921,
+      "index": 4917,
       "tvg_id": null,
-      "tvg_chno": 5021,
+      "tvg_chno": 5017,
       "name_ar": "Multivision Federal",
       "name_en": "Multivision Federal",
       "country": "AR",
@@ -3473,25 +3406,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "MusicTop.ar",
       "code": "MUS-AR-001",
-      "index": 4938,
+      "index": 4934,
       "tvg_id": null,
-      "tvg_chno": 5038,
+      "tvg_chno": 5034,
       "name_ar": "MusicTop",
       "name_en": "MusicTop",
       "country": "AR",
@@ -3500,23 +3433,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://190.128.214.97:64333/play/a06o/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         },
         {
           "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -3524,9 +3457,9 @@
     {
       "id": "NeoTV.ar",
       "code": "NEO-AR-001",
-      "index": 5089,
+      "index": 5083,
       "tvg_id": null,
-      "tvg_chno": 5189,
+      "tvg_chno": 5183,
       "name_ar": "Neo TV",
       "name_en": "Neo TV",
       "country": "AR",
@@ -3535,7 +3468,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3543,7 +3476,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3551,9 +3484,9 @@
     {
       "id": "NGFederal.ar",
       "code": "NGF-AR-001",
-      "index": 5177,
+      "index": 5171,
       "tvg_id": null,
-      "tvg_chno": 5277,
+      "tvg_chno": 5271,
       "name_ar": "NG Federal",
       "name_en": "NG Federal",
       "country": "AR",
@@ -3562,33 +3495,33 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://www.coninfo.net:1935/tvlink/live/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         },
         {
           "url": "https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8",
-          "quality": null,
+          "quality": "720p",
           "protocol": "hls",
-          "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "priority": 2,
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "NorteTV.ar",
       "code": "NOR-AR-001",
-      "index": 5255,
+      "index": 5249,
       "tvg_id": null,
-      "tvg_chno": 5355,
+      "tvg_chno": 5349,
       "name_ar": "Norte TV",
       "name_en": "Norte TV",
       "country": "AR",
@@ -3597,7 +3530,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3605,7 +3538,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -3613,9 +3546,9 @@
     {
       "id": "Pakapaka.ar",
       "code": "PAK-AR-001",
-      "index": 5577,
+      "index": 5571,
       "tvg_id": null,
-      "tvg_chno": 5677,
+      "tvg_chno": 5671,
       "name_ar": "Pakapaka",
       "name_en": "Pakapaka",
       "country": "AR",
@@ -3624,7 +3557,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3632,7 +3565,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3640,7 +3573,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -3648,7 +3581,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3656,9 +3589,9 @@
     {
       "id": "PancTV.ar",
       "code": "PAN-AR-001",
-      "index": 5592,
+      "index": 5586,
       "tvg_id": null,
-      "tvg_chno": 5692,
+      "tvg_chno": 5686,
       "name_ar": "Panc TV",
       "name_en": "Panc TV",
       "country": "AR",
@@ -3667,7 +3600,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3675,7 +3608,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -3683,9 +3616,9 @@
     {
       "id": "PlimPlim.ar",
       "code": "PLI-AR-001",
-      "index": 5754,
+      "index": 5748,
       "tvg_id": null,
-      "tvg_chno": 5854,
+      "tvg_chno": 5848,
       "name_ar": "Plim Plim",
       "name_en": "Plim Plim",
       "country": "AR",
@@ -3694,7 +3627,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3702,7 +3635,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3710,7 +3643,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -3718,7 +3651,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3726,9 +3659,9 @@
     {
       "id": "PowerHD.ar",
       "code": "POW-AR-001",
-      "index": 6097,
+      "index": 6091,
       "tvg_id": null,
-      "tvg_chno": 6197,
+      "tvg_chno": 6191,
       "name_ar": "PowerHD",
       "name_en": "PowerHD",
       "country": "AR",
@@ -3737,7 +3670,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3745,7 +3678,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3753,9 +3686,9 @@
     {
       "id": "PowerMaxRadioTV.ar",
       "code": "POW-AR-002",
-      "index": 6100,
+      "index": 6094,
       "tvg_id": null,
-      "tvg_chno": 6200,
+      "tvg_chno": 6194,
       "name_ar": "Power Max Radio TV",
       "name_en": "Power Max Radio TV",
       "country": "AR",
@@ -3764,7 +3697,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3772,7 +3705,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3780,9 +3713,9 @@
     {
       "id": "QuanticaTV.ar",
       "code": "QUA-AR-001",
-      "index": 6276,
+      "index": 6270,
       "tvg_id": null,
-      "tvg_chno": 6376,
+      "tvg_chno": 6370,
       "name_ar": "Quantica TV",
       "name_en": "Quantica TV",
       "country": "AR",
@@ -3791,7 +3724,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3799,7 +3732,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3807,9 +3740,9 @@
     {
       "id": "QuieroMusicaenmiIdioma.ar",
       "code": "QUI-AR-001",
-      "index": 6281,
+      "index": 6275,
       "tvg_id": null,
-      "tvg_chno": 6381,
+      "tvg_chno": 6375,
       "name_ar": "Quiero Musica en mi Idioma",
       "name_en": "Quiero Musica en mi Idioma",
       "country": "AR",
@@ -3818,7 +3751,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3826,7 +3759,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3834,9 +3767,9 @@
     {
       "id": "Radiocanal.ar",
       "code": "RAD-AR-001",
-      "index": 6331,
+      "index": 6325,
       "tvg_id": null,
-      "tvg_chno": 6431,
+      "tvg_chno": 6425,
       "name_ar": "Radiocanal",
       "name_en": "Radiocanal",
       "country": "AR",
@@ -3845,7 +3778,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3853,7 +3786,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3861,9 +3794,9 @@
     {
       "id": "RadioConexionWebTV.ar",
       "code": "RAD-AR-002",
-      "index": 6341,
+      "index": 6335,
       "tvg_id": null,
-      "tvg_chno": 6441,
+      "tvg_chno": 6435,
       "name_ar": "Radio Conexion Web TV",
       "name_en": "Radio Conexion Web TV",
       "country": "AR",
@@ -3872,7 +3805,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3880,7 +3813,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3888,9 +3821,9 @@
     {
       "id": "RadioMariaTV.ar",
       "code": "RAD-AR-003",
-      "index": 6372,
+      "index": 6366,
       "tvg_id": null,
-      "tvg_chno": 6472,
+      "tvg_chno": 6466,
       "name_ar": "Radio Maria TV",
       "name_en": "Radio Maria TV",
       "country": "AR",
@@ -3899,7 +3832,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3907,7 +3840,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -3915,9 +3848,9 @@
     {
       "id": "RadioRealpolitik.ar",
       "code": "RAD-AR-004",
-      "index": 6394,
+      "index": 6388,
       "tvg_id": null,
-      "tvg_chno": 6494,
+      "tvg_chno": 6488,
       "name_ar": "Radio Realpolitik",
       "name_en": "Radio Realpolitik",
       "country": "AR",
@@ -3926,7 +3859,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3934,7 +3867,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3942,9 +3875,9 @@
     {
       "id": "RadioSublimeGraciaTV.ar",
       "code": "RAD-AR-005",
-      "index": 6410,
+      "index": 6404,
       "tvg_id": null,
-      "tvg_chno": 6510,
+      "tvg_chno": 6504,
       "name_ar": "Radio Sublime Gracia TV",
       "name_en": "Radio Sublime Gracia TV",
       "country": "AR",
@@ -3953,7 +3886,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -3961,7 +3894,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -3969,9 +3902,9 @@
     {
       "id": "RadioTVNeuquen.ar",
       "code": "RAD-AR-006",
-      "index": 6435,
+      "index": 6429,
       "tvg_id": null,
-      "tvg_chno": 6535,
+      "tvg_chno": 6529,
       "name_ar": "Radio TV Neuquen",
       "name_en": "Radio TV Neuquen",
       "country": "AR",
@@ -3980,7 +3913,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -3988,7 +3921,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -3996,9 +3929,9 @@
     {
       "id": "RadioUP.ar",
       "code": "RAD-AR-007",
-      "index": 6442,
+      "index": 6436,
       "tvg_id": null,
-      "tvg_chno": 6542,
+      "tvg_chno": 6536,
       "name_ar": "Radio UP",
       "name_en": "Radio UP",
       "country": "AR",
@@ -4007,7 +3940,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4015,7 +3948,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4023,9 +3956,9 @@
     {
       "id": "RadioYguazuTV.ar",
       "code": "RAD-AR-008",
-      "index": 6450,
+      "index": 6444,
       "tvg_id": null,
-      "tvg_chno": 6550,
+      "tvg_chno": 6544,
       "name_ar": "Radio Yguazu TV",
       "name_en": "Radio Yguazu TV",
       "country": "AR",
@@ -4034,7 +3967,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4042,7 +3975,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4050,9 +3983,9 @@
     {
       "id": "RockPop.ar",
       "code": "ROC-AR-001",
-      "index": 6705,
+      "index": 6699,
       "tvg_id": null,
-      "tvg_chno": 6805,
+      "tvg_chno": 6799,
       "name_ar": "Rock & Pop",
       "name_en": "Rock & Pop",
       "country": "AR",
@@ -4061,25 +3994,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://190.128.214.97:64333/play/a032/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "RTN.ar",
       "code": "RTN-AR-001",
-      "index": 6796,
+      "index": 6790,
       "tvg_id": null,
-      "tvg_chno": 6896,
+      "tvg_chno": 6890,
       "name_ar": "RTN",
       "name_en": "RTN",
       "country": "AR",
@@ -4088,7 +4021,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4096,7 +4029,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4104,9 +4037,9 @@
     {
       "id": "SanLuisPlus.ar",
       "code": "SAN-AR-001",
-      "index": 6997,
+      "index": 6991,
       "tvg_id": null,
-      "tvg_chno": 7097,
+      "tvg_chno": 7091,
       "name_ar": "San Luis +",
       "name_en": "San Luis +",
       "country": "AR",
@@ -4115,7 +4048,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4123,7 +4056,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4131,9 +4064,9 @@
     {
       "id": "SanPedroTV.ar",
       "code": "SAN-AR-002",
-      "index": 7001,
+      "index": 6995,
       "tvg_id": null,
-      "tvg_chno": 7101,
+      "tvg_chno": 7095,
       "name_ar": "San Pedro TV",
       "name_en": "San Pedro TV",
       "country": "AR",
@@ -4142,7 +4075,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4150,7 +4083,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4158,9 +4091,9 @@
     {
       "id": "SantaFeCanal.ar",
       "code": "SAN-AR-003",
-      "index": 7010,
+      "index": 7004,
       "tvg_id": null,
-      "tvg_chno": 7110,
+      "tvg_chno": 7104,
       "name_ar": "Santa Fe Canal",
       "name_en": "Santa Fe Canal",
       "country": "AR",
@@ -4169,7 +4102,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4177,7 +4110,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4185,9 +4118,9 @@
     {
       "id": "SenalU.ar",
       "code": "SEN-AR-001",
-      "index": 7097,
+      "index": 7091,
       "tvg_id": null,
-      "tvg_chno": 7197,
+      "tvg_chno": 7191,
       "name_ar": "Senal U",
       "name_en": "Senal U",
       "country": "AR",
@@ -4196,7 +4129,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4204,7 +4137,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4212,9 +4145,9 @@
     {
       "id": "SenillosaTV.ar",
       "code": "SEN-AR-002",
-      "index": 7101,
+      "index": 7095,
       "tvg_id": null,
-      "tvg_chno": 7201,
+      "tvg_chno": 7195,
       "name_ar": "Senillosa TV",
       "name_en": "Senillosa TV",
       "country": "AR",
@@ -4223,7 +4156,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4231,7 +4164,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4239,9 +4172,9 @@
     {
       "id": "SicardiTV.ar",
       "code": "SIC-AR-001",
-      "index": 7205,
+      "index": 7199,
       "tvg_id": null,
-      "tvg_chno": 7305,
+      "tvg_chno": 7299,
       "name_ar": "Sicardi TV",
       "name_en": "Sicardi TV",
       "country": "AR",
@@ -4250,7 +4183,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4258,7 +4191,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4266,9 +4199,9 @@
     {
       "id": "SoliveTV.ar",
       "code": "SOL-AR-001",
-      "index": 7330,
+      "index": 7324,
       "tvg_id": null,
-      "tvg_chno": 7430,
+      "tvg_chno": 7424,
       "name_ar": "Solive TV",
       "name_en": "Solive TV",
       "country": "AR",
@@ -4277,7 +4210,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4285,7 +4218,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4293,9 +4226,9 @@
     {
       "id": "SomosEntreRios.ar",
       "code": "SOM-AR-001",
-      "index": 7339,
+      "index": 7333,
       "tvg_id": null,
-      "tvg_chno": 7439,
+      "tvg_chno": 7433,
       "name_ar": "Somos Entre Rios",
       "name_en": "Somos Entre Rios",
       "country": "AR",
@@ -4304,7 +4237,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4312,7 +4245,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4320,9 +4253,9 @@
     {
       "id": "SonyChannel.ar",
       "code": "SON-AR-001",
-      "index": 7352,
+      "index": 7346,
       "tvg_id": null,
-      "tvg_chno": 7452,
+      "tvg_chno": 7446,
       "name_ar": "Sony Channel",
       "name_en": "Sony Channel",
       "country": "AR",
@@ -4331,7 +4264,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4339,7 +4272,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4347,9 +4280,9 @@
     {
       "id": "Space.ar",
       "code": "SPA-AR-001",
-      "index": 7407,
+      "index": 7402,
       "tvg_id": null,
-      "tvg_chno": 7507,
+      "tvg_chno": 7502,
       "name_ar": "Space",
       "name_en": "Space",
       "country": "AR",
@@ -4358,7 +4291,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4366,7 +4299,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -4374,7 +4307,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4382,9 +4315,9 @@
     {
       "id": "T5Satelital.ar",
       "code": "TSA-AR-001",
-      "index": 7687,
+      "index": 7682,
       "tvg_id": null,
-      "tvg_chno": 7787,
+      "tvg_chno": 7782,
       "name_ar": "T5 Satelital",
       "name_en": "T5 Satelital",
       "country": "AR",
@@ -4393,7 +4326,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4401,7 +4334,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4409,9 +4342,9 @@
     {
       "id": "Telecinco.ar",
       "code": "TEL-AR-001",
-      "index": 7821,
+      "index": 7817,
       "tvg_id": null,
-      "tvg_chno": 7921,
+      "tvg_chno": 7917,
       "name_ar": "Telecinco",
       "name_en": "Telecinco",
       "country": "AR",
@@ -4420,7 +4353,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4428,7 +4361,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -4436,7 +4369,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4444,9 +4377,9 @@
     {
       "id": "Telefe.ar",
       "code": "TEL-AR-002",
-      "index": 7841,
+      "index": 7837,
       "tvg_id": null,
-      "tvg_chno": 7941,
+      "tvg_chno": 7937,
       "name_ar": "Telefe",
       "name_en": "Telefe",
       "country": "AR",
@@ -4455,7 +4388,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4463,7 +4396,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -4471,7 +4404,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -4479,7 +4412,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4487,9 +4420,9 @@
     {
       "id": "TelefeBuenosAires.ar",
       "code": "TEL-AR-003",
-      "index": 7843,
+      "index": 7839,
       "tvg_id": null,
-      "tvg_chno": 7943,
+      "tvg_chno": 7939,
       "name_ar": "Telefe Buenos Aires",
       "name_en": "Telefe Buenos Aires",
       "country": "AR",
@@ -4498,7 +4431,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4506,7 +4439,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4514,9 +4447,9 @@
     {
       "id": "TelefeInternacional.ar",
       "code": "TEL-AR-004",
-      "index": 7844,
+      "index": 7840,
       "tvg_id": null,
-      "tvg_chno": 7944,
+      "tvg_chno": 7940,
       "name_ar": "Telefe Internacional",
       "name_en": "Telefe Internacional",
       "country": "AR",
@@ -4525,7 +4458,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4533,15 +4466,15 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         },
         {
           "url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4549,9 +4482,9 @@
     {
       "id": "TelefeRosario.ar",
       "code": "TEL-AR-005",
-      "index": 7845,
+      "index": 7841,
       "tvg_id": null,
-      "tvg_chno": 7945,
+      "tvg_chno": 7941,
       "name_ar": "Telefe Rosario",
       "name_en": "Telefe Rosario",
       "country": "AR",
@@ -4560,7 +4493,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4568,7 +4501,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4576,9 +4509,9 @@
     {
       "id": "TelefeSalta.ar",
       "code": "TEL-AR-006",
-      "index": 7846,
+      "index": 7842,
       "tvg_id": null,
-      "tvg_chno": 7946,
+      "tvg_chno": 7942,
       "name_ar": "Telefe Salta",
       "name_en": "Telefe Salta",
       "country": "AR",
@@ -4587,7 +4520,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4595,7 +4528,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4603,9 +4536,9 @@
     {
       "id": "TelefeTucuman.ar",
       "code": "TEL-AR-007",
-      "index": 7847,
+      "index": 7843,
       "tvg_id": null,
-      "tvg_chno": 7947,
+      "tvg_chno": 7943,
       "name_ar": "Telefe Tucuman",
       "name_en": "Telefe Tucuman",
       "country": "AR",
@@ -4614,7 +4547,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4622,7 +4555,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4630,9 +4563,9 @@
     {
       "id": "Telemax.ar",
       "code": "TEL-AR-008",
-      "index": 7876,
+      "index": 7872,
       "tvg_id": null,
-      "tvg_chno": 7976,
+      "tvg_chno": 7972,
       "name_ar": "Telemax",
       "name_en": "Telemax",
       "country": "AR",
@@ -4641,7 +4574,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4649,7 +4582,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4657,9 +4590,9 @@
     {
       "id": "Telenord.ar",
       "code": "TEL-AR-009",
-      "index": 7900,
+      "index": 7896,
       "tvg_id": null,
-      "tvg_chno": 8000,
+      "tvg_chno": 7996,
       "name_ar": "Telenord",
       "name_en": "Telenord",
       "country": "AR",
@@ -4668,7 +4601,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4676,7 +4609,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         },
         {
@@ -4684,7 +4617,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4692,9 +4625,9 @@
     {
       "id": "Telesol.ar",
       "code": "TEL-AR-010",
-      "index": 7947,
+      "index": 7943,
       "tvg_id": null,
-      "tvg_chno": 8047,
+      "tvg_chno": 8043,
       "name_ar": "Telesol",
       "name_en": "Telesol",
       "country": "AR",
@@ -4703,7 +4636,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4711,7 +4644,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4719,9 +4652,9 @@
     {
       "id": "TelevisionPublica.ar",
       "code": "TEL-AR-011",
-      "index": 7988,
+      "index": 7984,
       "tvg_id": null,
-      "tvg_chno": 8088,
+      "tvg_chno": 8084,
       "name_ar": "Television Publica",
       "name_en": "Television Publica",
       "country": "AR",
@@ -4730,7 +4663,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4738,7 +4671,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4746,9 +4679,9 @@
     {
       "id": "TheCabbinFM.ar",
       "code": "THE-AR-001",
-      "index": 8065,
+      "index": 8061,
       "tvg_id": null,
-      "tvg_chno": 8165,
+      "tvg_chno": 8161,
       "name_ar": "The Cabbin FM",
       "name_en": "The Cabbin FM",
       "country": "AR",
@@ -4757,7 +4690,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4765,7 +4698,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4773,9 +4706,9 @@
     {
       "id": "TIVTelevision.ar",
       "code": "TIV-AR-001",
-      "index": 8159,
+      "index": 8155,
       "tvg_id": null,
-      "tvg_chno": 8259,
+      "tvg_chno": 8255,
       "name_ar": "TIV Television",
       "name_en": "TIV Television",
       "country": "AR",
@@ -4784,25 +4717,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://videohd.live:19360/8008/8008.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": true
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "TN.ar",
       "code": "TNX-AR-001",
-      "index": 8183,
+      "index": 8179,
       "tvg_id": null,
-      "tvg_chno": 8283,
+      "tvg_chno": 8279,
       "name_ar": "TN",
       "name_en": "TN",
       "country": "AR",
@@ -4811,23 +4744,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "http://158.172.155.130:8000/play/a0dp/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
-          "is_working": false
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
+          "is_working": true
         },
         {
           "url": "https://sktv.mxnticek.eu/new/stream.php?ch=Nova%20TN%20Live",
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -4835,9 +4768,9 @@
     {
       "id": "TNTSports.ar",
       "code": "TNT-AR-001",
-      "index": 8203,
+      "index": 8199,
       "tvg_id": null,
-      "tvg_chno": 8303,
+      "tvg_chno": 8299,
       "name_ar": "TNT Sports",
       "name_en": "TNT Sports",
       "country": "AR",
@@ -4846,7 +4779,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4854,7 +4787,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -4862,7 +4795,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4870,9 +4803,9 @@
     {
       "id": "TVCanal72.ar",
       "code": "TVC-AR-001",
-      "index": 8492,
+      "index": 8487,
       "tvg_id": null,
-      "tvg_chno": 8592,
+      "tvg_chno": 8587,
       "name_ar": "TV Canal 72",
       "name_en": "TV Canal 72",
       "country": "AR",
@@ -4881,7 +4814,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4889,7 +4822,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4897,9 +4830,9 @@
     {
       "id": "TVManaArgentina.ar",
       "code": "TVM-AR-001",
-      "index": 8630,
+      "index": 8625,
       "tvg_id": null,
-      "tvg_chno": 8730,
+      "tvg_chno": 8725,
       "name_ar": "TV Mana Argentina",
       "name_en": "TV Mana Argentina",
       "country": "AR",
@@ -4908,7 +4841,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4916,7 +4849,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4924,9 +4857,9 @@
     {
       "id": "TVPublicaFueguina.ar",
       "code": "TVP-AR-001",
-      "index": 8728,
+      "index": 8723,
       "tvg_id": null,
-      "tvg_chno": 8828,
+      "tvg_chno": 8823,
       "name_ar": "TV Publica Fueguina",
       "name_en": "TV Publica Fueguina",
       "country": "AR",
@@ -4935,7 +4868,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4943,7 +4876,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4951,9 +4884,9 @@
     {
       "id": "TVPublicaMarcosPaz.ar",
       "code": "TVP-AR-002",
-      "index": 8729,
+      "index": 8724,
       "tvg_id": null,
-      "tvg_chno": 8829,
+      "tvg_chno": 8824,
       "name_ar": "TV Publica Marcos Paz",
       "name_en": "TV Publica Marcos Paz",
       "country": "AR",
@@ -4962,7 +4895,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -4970,7 +4903,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -4978,9 +4911,9 @@
     {
       "id": "TVUniversidad.ar",
       "code": "TVU-AR-001",
-      "index": 8849,
+      "index": 8844,
       "tvg_id": null,
-      "tvg_chno": 8949,
+      "tvg_chno": 8944,
       "name_ar": "TV Universidad",
       "name_en": "TV Universidad",
       "country": "AR",
@@ -4989,7 +4922,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -4997,7 +4930,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -5005,9 +4938,9 @@
     {
       "id": "TyCSports.ar",
       "code": "TYC-AR-001",
-      "index": 8882,
+      "index": 8877,
       "tvg_id": null,
-      "tvg_chno": 8982,
+      "tvg_chno": 8977,
       "name_ar": "TyC Sports",
       "name_en": "TyC Sports",
       "country": "AR",
@@ -5016,7 +4949,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5024,7 +4957,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         },
         {
@@ -5032,7 +4965,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5040,9 +4973,9 @@
     {
       "id": "TyCSportsUSA.ar",
       "code": "TYC-AR-002",
-      "index": 8883,
+      "index": 8878,
       "tvg_id": null,
-      "tvg_chno": 8983,
+      "tvg_chno": 8978,
       "name_ar": "TyC Sports USA",
       "name_en": "TyC Sports USA",
       "country": "AR",
@@ -5051,7 +4984,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5059,7 +4992,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5067,9 +5000,9 @@
     {
       "id": "UnifeTV.ar",
       "code": "UNI-AR-001",
-      "index": 8931,
+      "index": 8926,
       "tvg_id": null,
-      "tvg_chno": 9031,
+      "tvg_chno": 9026,
       "name_ar": "Unife TV",
       "name_en": "Unife TV",
       "country": "AR",
@@ -5078,7 +5011,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5086,7 +5019,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5094,9 +5027,9 @@
     {
       "id": "Uniteve.ar",
       "code": "UNI-AR-002",
-      "index": 8943,
+      "index": 8938,
       "tvg_id": null,
-      "tvg_chno": 9043,
+      "tvg_chno": 9038,
       "name_ar": "Uniteve",
       "name_en": "Uniteve",
       "country": "AR",
@@ -5105,7 +5038,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5113,7 +5046,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5121,9 +5054,9 @@
     {
       "id": "UrbanMix.ar",
       "code": "URB-AR-001",
-      "index": 8968,
+      "index": 8963,
       "tvg_id": null,
-      "tvg_chno": 9068,
+      "tvg_chno": 9063,
       "name_ar": "Urban Mix",
       "name_en": "Urban Mix",
       "country": "AR",
@@ -5132,7 +5065,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5140,7 +5073,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5148,9 +5081,9 @@
     {
       "id": "VillaManteroTV.ar",
       "code": "VIL-AR-001",
-      "index": 9119,
+      "index": 9114,
       "tvg_id": null,
-      "tvg_chno": 9219,
+      "tvg_chno": 9214,
       "name_ar": "Villa Mantero TV",
       "name_en": "Villa Mantero TV",
       "country": "AR",
@@ -5159,7 +5092,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5167,7 +5100,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5175,9 +5108,9 @@
     {
       "id": "Volver.ar",
       "code": "VOL-AR-001",
-      "index": 9180,
+      "index": 9175,
       "tvg_id": null,
-      "tvg_chno": 9280,
+      "tvg_chno": 9275,
       "name_ar": "Volver",
       "name_en": "Volver",
       "country": "AR",
@@ -5186,7 +5119,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -5194,7 +5127,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -5202,9 +5135,9 @@
     {
       "id": "VTV.ar",
       "code": "VTV-AR-001",
-      "index": 9208,
+      "index": 9203,
       "tvg_id": null,
-      "tvg_chno": 9308,
+      "tvg_chno": 9303,
       "name_ar": "VTV",
       "name_en": "VTV",
       "country": "AR",
@@ -5213,7 +5146,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -5221,7 +5154,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -5229,9 +5162,9 @@
     {
       "id": "XamaTV.ar",
       "code": "XAM-AR-001",
-      "index": 9353,
+      "index": 9348,
       "tvg_id": null,
-      "tvg_chno": 9453,
+      "tvg_chno": 9448,
       "name_ar": "Xama TV",
       "name_en": "Xama TV",
       "country": "AR",
@@ -5240,7 +5173,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -5248,7 +5181,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -5256,9 +5189,9 @@
     {
       "id": "XtremaAccion.ar",
       "code": "XTR-AR-001",
-      "index": 9388,
+      "index": 9383,
       "tvg_id": null,
-      "tvg_chno": 9488,
+      "tvg_chno": 9483,
       "name_ar": "Xtrema Accion",
       "name_en": "Xtrema Accion",
       "country": "AR",
@@ -5267,7 +5200,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5275,7 +5208,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5283,9 +5216,9 @@
     {
       "id": "XtremaCartoons.ar",
       "code": "XTR-AR-002",
-      "index": 9389,
+      "index": 9384,
       "tvg_id": null,
-      "tvg_chno": 9489,
+      "tvg_chno": 9484,
       "name_ar": "Xtrema Cartoons",
       "name_en": "Xtrema Cartoons",
       "country": "AR",
@@ -5294,7 +5227,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5302,7 +5235,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5310,9 +5243,9 @@
     {
       "id": "XtremaCineClasico.ar",
       "code": "XTR-AR-003",
-      "index": 9390,
+      "index": 9385,
       "tvg_id": null,
-      "tvg_chno": 9490,
+      "tvg_chno": 9485,
       "name_ar": "Xtrema Cine Clasico",
       "name_en": "Xtrema Cine Clasico",
       "country": "AR",
@@ -5321,7 +5254,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5329,7 +5262,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5337,9 +5270,9 @@
     {
       "id": "tntodonoticias",
       "code": "TNT-AR-002",
-      "index": 9542,
+      "index": 9537,
       "tvg_id": null,
-      "tvg_chno": 9642,
+      "tvg_chno": 9637,
       "name_ar": "TN Todo Noticias Ⓨ",
       "name_en": "TN Todo Noticias Ⓨ",
       "country": "AR",
@@ -5348,7 +5281,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5356,7 +5289,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5364,9 +5297,9 @@
     {
       "id": "cinear",
       "code": "CIN-AR-001",
-      "index": 9543,
+      "index": 9538,
       "tvg_id": null,
-      "tvg_chno": 9643,
+      "tvg_chno": 9638,
       "name_ar": "Cine.AR",
       "name_en": "Cine.AR",
       "country": "AR",
@@ -5375,7 +5308,7 @@
       "logo": "https://i.imgur.com/RPLyrIC.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -5383,7 +5316,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -5391,9 +5324,9 @@
     {
       "id": "tec",
       "code": "TEC-AR-001",
-      "index": 9544,
+      "index": 9539,
       "tvg_id": null,
-      "tvg_chno": 9644,
+      "tvg_chno": 9639,
       "name_ar": "Tec TV",
       "name_en": "Tec TV",
       "country": "AR",
@@ -5402,7 +5335,7 @@
       "logo": "https://i.imgur.com/EGCq1wc.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": false,
       "streams": [
         {
@@ -5410,7 +5343,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": false
         }
       ]
@@ -5418,9 +5351,9 @@
     {
       "id": "televisinpblica",
       "code": "TEL-AR-012",
-      "index": 9545,
+      "index": 9540,
       "tvg_id": null,
-      "tvg_chno": 9645,
+      "tvg_chno": 9640,
       "name_ar": "Televisión Pública Ⓨ",
       "name_en": "Televisión Pública Ⓨ",
       "country": "AR",
@@ -5429,7 +5362,7 @@
       "logo": "https://i.imgur.com/4hYYpiu.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5437,7 +5370,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5445,9 +5378,9 @@
     {
       "id": "crnica",
       "code": "CRN-AR-001",
-      "index": 9546,
+      "index": 9541,
       "tvg_id": null,
-      "tvg_chno": 9646,
+      "tvg_chno": 9641,
       "name_ar": "Crónica TV Ⓨ",
       "name_en": "Crónica TV Ⓨ",
       "country": "AR",
@@ -5456,7 +5389,7 @@
       "logo": "https://i.imgur.com/k2Ku8Ib.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5464,7 +5397,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5472,9 +5405,9 @@
     {
       "id": "argentina12",
       "code": "ARG-AR-002",
-      "index": 9547,
+      "index": 9542,
       "tvg_id": null,
-      "tvg_chno": 9647,
+      "tvg_chno": 9642,
       "name_ar": "Argentina 12 Ⓨ",
       "name_en": "Argentina 12 Ⓨ",
       "country": "AR",
@@ -5483,7 +5416,7 @@
       "logo": "https://i.imgur.com/atGKPhi.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5491,7 +5424,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5499,9 +5432,9 @@
     {
       "id": "eldestape",
       "code": "ELD-AR-001",
-      "index": 9548,
+      "index": 9543,
       "tvg_id": null,
-      "tvg_chno": 9648,
+      "tvg_chno": 9643,
       "name_ar": "El Destape Ⓨ",
       "name_en": "El Destape Ⓨ",
       "country": "AR",
@@ -5510,7 +5443,7 @@
       "logo": "https://yt3.ggpht.com/a-/AAuE7mAuXDwiY8UPwtAHrGXTXkAxBjdRqws2MJIN2A=s900-mo-c-c0xffffffff-rj-k-no",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5518,7 +5451,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5526,9 +5459,9 @@
     {
       "id": "c5n",
       "code": "CNX-AR-001",
-      "index": 9549,
+      "index": 9544,
       "tvg_id": null,
-      "tvg_chno": 9649,
+      "tvg_chno": 9644,
       "name_ar": "C5N Ⓨ",
       "name_en": "C5N Ⓨ",
       "country": "AR",
@@ -5537,7 +5470,7 @@
       "logo": "https://i.imgur.com/E3pamA5.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5545,7 +5478,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5553,9 +5486,9 @@
     {
       "id": "ln",
       "code": "LNX-AR-001",
-      "index": 9550,
+      "index": 9545,
       "tvg_id": null,
-      "tvg_chno": 9650,
+      "tvg_chno": 9645,
       "name_ar": "LN+ Ⓨ",
       "name_en": "LN+ Ⓨ",
       "country": "AR",
@@ -5564,7 +5497,7 @@
       "logo": "https://i.imgur.com/vJYzGt1.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5572,7 +5505,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5580,9 +5513,9 @@
     {
       "id": "perfil",
       "code": "PER-AR-001",
-      "index": 9551,
+      "index": 9546,
       "tvg_id": null,
-      "tvg_chno": 9651,
+      "tvg_chno": 9646,
       "name_ar": "+Perfil",
       "name_en": "+Perfil",
       "country": "AR",
@@ -5591,7 +5524,7 @@
       "logo": "https://i.imgur.com/3wZdPwN.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5599,7 +5532,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5607,9 +5540,9 @@
     {
       "id": "barricada",
       "code": "BAR-AR-001",
-      "index": 9552,
+      "index": 9547,
       "tvg_id": null,
-      "tvg_chno": 9652,
+      "tvg_chno": 9647,
       "name_ar": "Barricada TV",
       "name_en": "Barricada TV",
       "country": "AR",
@@ -5618,7 +5551,7 @@
       "logo": "https://www.barricadatv.org/?p=23082",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5626,7 +5559,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5634,9 +5567,9 @@
     {
       "id": "urbanatev",
       "code": "URB-AR-002",
-      "index": 9553,
+      "index": 9548,
       "tvg_id": null,
-      "tvg_chno": 9653,
+      "tvg_chno": 9648,
       "name_ar": "Urbana Tevé",
       "name_en": "Urbana Tevé",
       "country": "AR",
@@ -5645,7 +5578,7 @@
       "logo": "https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s900-c-k-c0x00ffffff-no-rj",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5653,7 +5586,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5661,9 +5594,9 @@
     {
       "id": "comarca",
       "code": "COM-AR-001",
-      "index": 9554,
+      "index": 9549,
       "tvg_id": null,
-      "tvg_chno": 9654,
+      "tvg_chno": 9649,
       "name_ar": "Comarca TV",
       "name_en": "Comarca TV",
       "country": "AR",
@@ -5672,7 +5605,7 @@
       "logo": "http://directostv.teleame.com/wp-content/uploads/2020/10/Comarca-TV-en-vivo-Online.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5680,7 +5613,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
@@ -5688,9 +5621,9 @@
     {
       "id": "amrica",
       "code": "AMR-AR-001",
-      "index": 9555,
+      "index": 9550,
       "tvg_id": null,
-      "tvg_chno": 9655,
+      "tvg_chno": 9650,
       "name_ar": "América",
       "name_en": "América",
       "country": "AR",
@@ -5699,7 +5632,7 @@
       "logo": "https://i.imgur.com/Jt7dOQm.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-17T11:33:35.397661+00:00",
+      "last_checked": "2026-11-18T11:09:41.230702+00:00",
       "is_working": true,
       "streams": [
         {
@@ -5707,11 +5640,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-17T11:33:35.397661+00:00",
+          "last_checked": "2026-11-18T11:09:41.230702+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-17T11:33:35.397661+00:00"
+  "last_updated": "2026-11-18T11:09:41.230702+00:00"
 }
