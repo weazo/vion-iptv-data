@@ -10,11 +10,26 @@ USER_AGENT = "VionIPTVBuilder/1.0"
 IPTV_ORG_API = "https://iptv-org.github.io/api"
 
 # مصادر M3U الإضافية
+# YueChan-Live (روابط rtp:// داخل شبكة مزود صيني، لا تعمل خارجها) و joevess-IPTV
+# (ملف فارغ) أزيلا: لم يضيفا أي قناة، ومصدرهما غير موثوق من ناحية الحقوق.
 M3U_SOURCES = [
     {"name": "Free-TV", "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"},
-    {"name": "YueChan-Live", "url": "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
-    {"name": "joevess-IPTV", "url": "https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u"},
 ]
+
+# ==================== القنوات المدفوعة ====================
+# قنوات اشتراك معروفة: أي بث مجاني لها في القوائم العامة غالباً غير مرخّص،
+# وهو أكثر ما يسبب بلاغات DMCA ورفض Google Play. تطابق كلمة كاملة في الاسم.
+PREMIUM_BRANDS = [
+    "bein", "osn", "sky sport", "sky sports", "sky cinema", "sky movies",
+    "hbo", "cinemax", "showtime", "starz", "disney", "nickelodeon", "nick jr",
+    "cartoon network", "national geographic", "nat geo", "discovery",
+    "animal planet", "espn", "espnu", "dazn", "eurosport", "fox sports",
+    "premier sports", "nova cinema", "nova sport", "canal\\+", "supersport",
+    "star sports", "movistar",
+]
+PREMIUM_RE = re.compile(r"(?<![a-z0-9])(" + "|".join(PREMIUM_BRANDS) + r")(?![a-z])")  # يسمح برقم بعد العلامة: ESPN2, HBO3
+# منصات مجانية مرخّصة تبث نسخاً مجانية من هذه العلامات (مثل "Nick Jr. Pluto TV")
+FREE_PLATFORMS = ["pluto", "samsung tv plus", "rakuten", "roku", "asharq"]
 
 # ==================== قوائم الحظر ====================
 ADULT_KEYWORDS = [
@@ -78,6 +93,23 @@ def is_blocked(text):
         return False
     text_lower = text.lower()
     return any(kw in text_lower for kw in ALL_BLOCKED_KEYWORDS)
+
+def is_premium(name):
+    """قناة اشتراك معروفة (beIN, OSN, Sky Sport, HBO...)"""
+    if not name:
+        return False
+    lower = name.lower()
+    if any(p in lower for p in FREE_PLATFORMS):
+        return False
+    return PREMIUM_RE.search(lower) is not None
+
+def country_code(tvg_id):
+    """رمز الدولة من tvg-id مثل 'AlJazeera.qa' -> 'QA'؛ غير ذلك 'XX'"""
+    if tvg_id and '.' in tvg_id:
+        code = tvg_id.rsplit('.', 1)[-1].split('@')[0].upper()
+        if re.fullmatch(r'[A-Z]{2}', code):
+            return code
+    return 'XX'
 
 def fetch_url(url):
     """جلب محتوى URL"""
@@ -156,9 +188,27 @@ def build_channels():
 
     # ---------- 1. جلب iptv-org ----------
     print("\n[1/4] جلب بيانات iptv-org...")
-    channels_data = fetch_json(f"{IPTV_ORG_API}/channels.json") or []
-    streams_data = fetch_json(f"{IPTV_ORG_API}/streams.json") or []
-    print(f"  تم جلب {len(channels_data)} قناة، {len(streams_data)} رابط")
+    channels_data = fetch_json(f"{IPTV_ORG_API}/channels.json")
+    streams_data = fetch_json(f"{IPTV_ORG_API}/streams.json")
+    blocklist = fetch_json(f"{IPTV_ORG_API}/blocklist.json")
+    # فشل أي ملف أساسي = توقف بدون حفظ؛ وإلا تُنشر قائمة ناقصة أو بلا حظر
+    if not channels_data or not streams_data or not blocklist:
+        raise SystemExit("فشل جلب ملفات iptv-org الأساسية، لم يتم تحديث القائمة")
+    print(f"  تم جلب {len(channels_data)} قناة، {len(streams_data)} رابط، {len(blocklist)} محظورة")
+
+    # قائمة الحظر الرسمية (DMCA + اباحي). قنوات iptv-org: بالمعرّف فقط.
+    # مصادر M3U: بالمعرّف أو (الاسم + الدولة)؛ الاسم وحده يخلط قنوات مختلفة
+    # لأن normalize_name يحذف "channel"/"tv" ("Channel 4" -> "4").
+    blocked_ids = {b['channel'].lower() for b in blocklist if b.get('channel')}
+    blocked_pairs = set()
+    for ch in channels_data:
+        if (ch.get('id') or '').lower() in blocked_ids:
+            for n in [ch.get('name')] + (ch.get('alt_names') or []):
+                key = normalize_name(n)
+                if key:
+                    blocked_pairs.add((key, (ch.get('country') or 'XX').upper()))
+    dmca_count = 0
+    premium_count = 0
 
     streams_by_channel = defaultdict(list)
     for s in streams_data:
@@ -177,6 +227,12 @@ def build_channels():
 
         if is_blocked(name) or is_blocked(category):
             blocked_count += 1
+            continue
+        if ch_id.lower() in blocked_ids:
+            dmca_count += 1
+            continue
+        if is_premium(name) or is_premium(ch_id):
+            premium_count += 1
             continue
 
         streams = streams_by_channel.get(ch_id, [])
@@ -206,7 +262,7 @@ def build_channels():
         all_channels_dict[key] = {
             'id': ch_id,
             'name': name,
-            'country': ch.get('country', 'XX'),
+            'country': ch.get('country') or 'XX',
             'language': (ch.get('languages') or ['unknown'])[0],
             'category': category,
             'logo': None,
@@ -239,6 +295,16 @@ def build_channels():
             if not key:
                 continue
 
+            tvg_id = (ch.get('tvg_id') or '').split('@')[0].lower()
+            cc = country_code(ch.get('tvg_id'))
+            if (tvg_id in blocked_ids or (key, cc) in blocked_pairs
+                    or (normalize_name(name), cc) in blocked_pairs):
+                dmca_count += 1
+                continue
+            if is_premium(name) or is_premium(ch.get('tvg_name')) or is_premium(tvg_id):
+                premium_count += 1
+                continue
+
             if key in all_channels_dict:
                 # أضف رابط بديل
                 url = ch['url']
@@ -254,9 +320,7 @@ def build_channels():
                         "is_working": None
                     })
             else:
-                country = 'XX'
-                if ch.get('tvg_id') and '.' in ch['tvg_id']:
-                    country = ch['tvg_id'].split('.')[-1].upper()
+                country = country_code(ch.get('tvg_id'))
 
                 all_channels_dict[key] = {
                     'id': key,
@@ -323,6 +387,13 @@ def build_channels():
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+    # دولة لم يبق لها قنوات: احذف ملفها القديم حتى لا تبقى قنوات محظورة منشورة
+    keep = {f"channels_{c.lower()}.json" for c in channels_by_country}
+    for old in os.listdir(OUTPUT_DIR):
+        if old.startswith("channels_") and old.endswith(".json") and old not in keep:
+            os.remove(os.path.join(OUTPUT_DIR, old))
+            print(f"  🗑️ {old}")
+
     # ملف الفهرس
     index_data = {
         "version": "1.0.0",
@@ -330,7 +401,9 @@ def build_channels():
         "sources_used": ["iptv-org"] + [s['name'] for s in M3U_SOURCES],
         "filtering": {
             "total_blocked_keywords": len(ALL_BLOCKED_KEYWORDS),
-            "blocked_channels_count": blocked_count
+            "blocked_channels_count": blocked_count,
+            "iptv_org_blocklist_count": dmca_count,
+            "premium_brands_count": premium_count
         },
         "countries": [
             {"code": code, "channel_count": len(chs)}
@@ -356,7 +429,8 @@ def build_channels():
 
     print("\n" + "=" * 60)
     print(f"✅ اكتمل! إجمالي: {len(all_channels)} قناة")
-    print(f"🚫 تم استبعاد: {blocked_count} قناة")
+    print(f"🚫 تم استبعاد: {blocked_count} قناة (كلمات محظورة)")
+    print(f"🚫 قائمة حظر iptv-org: {dmca_count} | قنوات مدفوعة: {premium_count}")
     print("=" * 60)
 
 if __name__ == '__main__':
