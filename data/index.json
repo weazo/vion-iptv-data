@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
-  "total_channels": 10586,
+  "total_channels": 10389,
   "sources_used": [
     "iptv-org",
-    "Free-TV",
-    "YueChan-Live",
-    "joevess-IPTV"
+    "Free-TV"
   ],
   "filtering": {
     "total_blocked_keywords": 173,
-    "blocked_channels_count": 2079
+    "blocked_channels_count": 2079,
+    "iptv_org_blocklist_count": 363,
+    "premium_brands_count": 895
   },
   "countries": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "code": "AE",
-      "channel_count": 65
+      "channel_count": 60
     },
     {
       "code": "AF",
@@ -42,7 +42,7 @@
     },
     {
       "code": "AR",
-      "channel_count": 190
+      "channel_count": 186
     },
     {
       "code": "AT",
@@ -50,7 +50,7 @@
     },
     {
       "code": "AU",
-      "channel_count": 59
+      "channel_count": 57
     },
     {
       "code": "AW",
@@ -82,7 +82,7 @@
     },
     {
       "code": "BG",
-      "channel_count": 67
+      "channel_count": 62
     },
     {
       "code": "BH",
@@ -110,7 +110,7 @@
     },
     {
       "code": "BR",
-      "channel_count": 271
+      "channel_count": 268
     },
     {
       "code": "BS",
@@ -154,15 +154,11 @@
     },
     {
       "code": "CN",
-      "channel_count": 166
+      "channel_count": 165
     },
     {
       "code": "CO",
       "channel_count": 115
-    },
-    {
-      "code": "COM",
-      "channel_count": 7
     },
     {
       "code": "CR",
@@ -186,11 +182,11 @@
     },
     {
       "code": "CZ",
-      "channel_count": 87
+      "channel_count": 70
     },
     {
       "code": "DE",
-      "channel_count": 397
+      "channel_count": 389
     },
     {
       "code": "DK",
@@ -234,7 +230,7 @@
     },
     {
       "code": "FI",
-      "channel_count": 35
+      "channel_count": 33
     },
     {
       "code": "FO",
@@ -242,7 +238,7 @@
     },
     {
       "code": "FR",
-      "channel_count": 200
+      "channel_count": 195
     },
     {
       "code": "GE",
@@ -302,7 +298,7 @@
     },
     {
       "code": "HR",
-      "channel_count": 28
+      "channel_count": 26
     },
     {
       "code": "HT",
@@ -326,7 +322,7 @@
     },
     {
       "code": "IN",
-      "channel_count": 738
+      "channel_count": 737
     },
     {
       "code": "IQ",
@@ -342,7 +338,7 @@
     },
     {
       "code": "IT",
-      "channel_count": 314
+      "channel_count": 304
     },
     {
       "code": "JM",
@@ -386,7 +382,7 @@
     },
     {
       "code": "KZ",
-      "channel_count": 44
+      "channel_count": 43
     },
     {
       "code": "LA",
@@ -474,7 +470,7 @@
     },
     {
       "code": "MX",
-      "channel_count": 174
+      "channel_count": 171
     },
     {
       "code": "MY",
@@ -506,7 +502,7 @@
     },
     {
       "code": "NL",
-      "channel_count": 172
+      "channel_count": 169
     },
     {
       "code": "NO",
@@ -518,7 +514,7 @@
     },
     {
       "code": "NZ",
-      "channel_count": 18
+      "channel_count": 10
     },
     {
       "code": "OM",
@@ -530,11 +526,11 @@
     },
     {
       "code": "PE",
-      "channel_count": 153
+      "channel_count": 151
     },
     {
       "code": "PH",
-      "channel_count": 13
+      "channel_count": 11
     },
     {
       "code": "PK",
@@ -542,7 +538,7 @@
     },
     {
       "code": "PL",
-      "channel_count": 231
+      "channel_count": 208
     },
     {
       "code": "PR",
@@ -562,7 +558,7 @@
     },
     {
       "code": "QA",
-      "channel_count": 23
+      "channel_count": 22
     },
     {
       "code": "RO",
@@ -574,7 +570,7 @@
     },
     {
       "code": "RU",
-      "channel_count": 428
+      "channel_count": 427
     },
     {
       "code": "RW",
@@ -594,7 +590,7 @@
     },
     {
       "code": "SG",
-      "channel_count": 26
+      "channel_count": 18
     },
     {
       "code": "SI",
@@ -602,7 +598,7 @@
     },
     {
       "code": "SK",
-      "channel_count": 54
+      "channel_count": 44
     },
     {
       "code": "SM",
@@ -658,7 +654,7 @@
     },
     {
       "code": "TR",
-      "channel_count": 172
+      "channel_count": 170
     },
     {
       "code": "TT",
@@ -666,7 +662,7 @@
     },
     {
       "code": "TW",
-      "channel_count": 35
+      "channel_count": 34
     },
     {
       "code": "TZ",
@@ -682,11 +678,11 @@
     },
     {
       "code": "UK",
-      "channel_count": 221
+      "channel_count": 207
     },
     {
       "code": "US",
-      "channel_count": 1531
+      "channel_count": 1479
     },
     {
       "code": "UY",
@@ -722,7 +718,7 @@
     },
     {
       "code": "XX",
-      "channel_count": 389
+      "channel_count": 395
     },
     {
       "code": "YE",
@@ -737,7 +733,7 @@
       "channel_count": 1
     }
   ],
-  "last_updated": "2026-11-18T11:09:41.230702+00:00",
-  "total_working_channels": 7806,
-  "total_broken_channels": 2780
+  "last_updated": "2026-11-18T12:31:46.404698+00:00",
+  "total_working_channels": 7725,
+  "total_broken_channels": 2664
 }
