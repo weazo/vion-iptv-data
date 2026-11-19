@@ -6,9 +6,9 @@
     {
       "id": "AhasaTV.lk",
       "code": "AHA-LK-001",
-      "index": 339,
+      "index": 340,
       "tvg_id": null,
-      "tvg_chno": 439,
+      "tvg_chno": 440,
       "name_ar": "Ahasa TV",
       "name_en": "Ahasa TV",
       "country": "LK",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -33,9 +33,9 @@
     {
       "id": "AsiaTV.lk",
       "code": "ASI-LK-001",
-      "index": 729,
+      "index": 732,
       "tvg_id": null,
-      "tvg_chno": 829,
+      "tvg_chno": 832,
       "name_ar": "Asia TV",
       "name_en": "Asia TV",
       "country": "LK",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -60,9 +60,9 @@
     {
       "id": "CharanaTV.lk",
       "code": "CHA-LK-001",
-      "index": 1718,
+      "index": 1727,
       "tvg_id": null,
-      "tvg_chno": 1818,
+      "tvg_chno": 1827,
       "name_ar": "Charana TV",
       "name_en": "Charana TV",
       "country": "LK",
@@ -71,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -79,7 +79,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -87,9 +87,9 @@
     {
       "id": "HiruTV.lk",
       "code": "HIR-LK-001",
-      "index": 3278,
+      "index": 3294,
       "tvg_id": null,
-      "tvg_chno": 3378,
+      "tvg_chno": 3394,
       "name_ar": "Hiru TV",
       "name_en": "Hiru TV",
       "country": "LK",
@@ -98,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": true,
       "streams": [
         {
@@ -106,7 +106,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         }
       ]
@@ -114,9 +114,9 @@
     {
       "id": "ImaiTV.lk",
       "code": "IMA-LK-001",
-      "index": 3477,
+      "index": 3493,
       "tvg_id": null,
-      "tvg_chno": 3577,
+      "tvg_chno": 3593,
       "name_ar": "Imai TV",
       "name_en": "Imai TV",
       "country": "LK",
@@ -125,15 +125,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
+      "is_working": true,
       "streams": [
+        {
+          "url": "https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8",
+          "quality": "576i",
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
+          "is_working": true
+        },
         {
           "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
           "quality": "576i",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -141,9 +149,9 @@
     {
       "id": "JayaTV.lk",
       "code": "JAY-LK-001",
-      "index": 3657,
+      "index": 3673,
       "tvg_id": null,
-      "tvg_chno": 3757,
+      "tvg_chno": 3773,
       "name_ar": "Jaya TV",
       "name_en": "Jaya TV",
       "country": "LK",
@@ -152,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": true,
       "streams": [
         {
@@ -160,7 +168,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         },
         {
@@ -168,7 +176,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         }
       ]
@@ -176,9 +184,9 @@
     {
       "id": "MonaraTV.lk",
       "code": "MON-LK-001",
-      "index": 4664,
+      "index": 4683,
       "tvg_id": null,
-      "tvg_chno": 4764,
+      "tvg_chno": 4783,
       "name_ar": "Monara TV",
       "name_en": "Monara TV",
       "country": "LK",
@@ -187,7 +195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -195,7 +203,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -203,9 +211,9 @@
     {
       "id": "NDTVLANKA.lk",
       "code": "NDT-LK-001",
-      "index": 4957,
+      "index": 4977,
       "tvg_id": null,
-      "tvg_chno": 5057,
+      "tvg_chno": 5077,
       "name_ar": "NDTV LANKA",
       "name_en": "NDTV LANKA",
       "country": "LK",
@@ -214,7 +222,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -222,7 +230,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -230,9 +238,9 @@
     {
       "id": "Rupavahini.lk",
       "code": "RUP-LK-001",
-      "index": 6746,
+      "index": 6780,
       "tvg_id": null,
-      "tvg_chno": 6846,
+      "tvg_chno": 6880,
       "name_ar": "Rupavahini",
       "name_en": "Rupavahini",
       "country": "LK",
@@ -241,7 +249,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": true,
       "streams": [
         {
@@ -249,7 +257,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         }
       ]
@@ -257,9 +265,9 @@
     {
       "id": "ShakthiTV.lk",
       "code": "SHA-LK-001",
-      "index": 7004,
+      "index": 7040,
       "tvg_id": null,
-      "tvg_chno": 7104,
+      "tvg_chno": 7140,
       "name_ar": "Shakthi TV",
       "name_en": "Shakthi TV",
       "country": "LK",
@@ -268,7 +276,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": true,
       "streams": [
         {
@@ -276,7 +284,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         }
       ]
@@ -284,9 +292,9 @@
     {
       "id": "ShraddhaTV.lk",
       "code": "SHR-LK-001",
-      "index": 7055,
+      "index": 7091,
       "tvg_id": null,
-      "tvg_chno": 7155,
+      "tvg_chno": 7191,
       "name_ar": "Shraddha TV",
       "name_en": "Shraddha TV",
       "country": "LK",
@@ -295,7 +303,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -303,7 +311,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -311,9 +319,9 @@
     {
       "id": "SiyathaTV.lk",
       "code": "SIY-LK-001",
-      "index": 7105,
+      "index": 7144,
       "tvg_id": null,
-      "tvg_chno": 7205,
+      "tvg_chno": 7244,
       "name_ar": "Siyatha TV",
       "name_en": "Siyatha TV",
       "country": "LK",
@@ -322,25 +330,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
-          "is_working": false
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "StarTamilTelevision.lk",
       "code": "STA-LK-001",
-      "index": 7322,
+      "index": 7363,
       "tvg_id": null,
-      "tvg_chno": 7422,
+      "tvg_chno": 7463,
       "name_ar": "Star Tamil Television",
       "name_en": "Star Tamil Television",
       "country": "LK",
@@ -349,7 +357,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -357,7 +365,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -365,9 +373,9 @@
     {
       "id": "Swarnavahini.lk",
       "code": "SWA-LK-001",
-      "index": 7493,
+      "index": 7534,
       "tvg_id": null,
-      "tvg_chno": 7593,
+      "tvg_chno": 7634,
       "name_ar": "Swarnavahini",
       "name_en": "Swarnavahini",
       "country": "LK",
@@ -376,7 +384,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -384,7 +392,7 @@
           "quality": "480p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -392,9 +400,9 @@
     {
       "id": "TalentTV.lk",
       "code": "TAL-LK-001",
-      "index": 7535,
+      "index": 7576,
       "tvg_id": null,
-      "tvg_chno": 7635,
+      "tvg_chno": 7676,
       "name_ar": "Talent TV",
       "name_en": "Talent TV",
       "country": "LK",
@@ -403,7 +411,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": true,
       "streams": [
         {
@@ -411,7 +419,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         },
         {
@@ -419,7 +427,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         }
       ]
@@ -427,9 +435,9 @@
     {
       "id": "TheBuddhist.lk",
       "code": "THE-LK-001",
-      "index": 7894,
+      "index": 7936,
       "tvg_id": null,
-      "tvg_chno": 7994,
+      "tvg_chno": 8036,
       "name_ar": "The Buddhist",
       "name_en": "The Buddhist",
       "country": "LK",
@@ -438,7 +446,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": false,
       "streams": [
         {
@@ -446,7 +454,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
@@ -454,9 +462,9 @@
     {
       "id": "VerbumTV.lk",
       "code": "VER-LK-001",
-      "index": 8878,
+      "index": 8922,
       "tvg_id": null,
-      "tvg_chno": 8978,
+      "tvg_chno": 9022,
       "name_ar": "Verbum TV",
       "name_en": "Verbum TV",
       "country": "LK",
@@ -465,7 +473,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-18T12:39:40.503130+00:00",
+      "last_checked": "2026-11-19T11:10:01.380667+00:00",
       "is_working": true,
       "streams": [
         {
@@ -473,7 +481,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": true
         },
         {
@@ -481,11 +489,11 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-18T12:39:40.503130+00:00",
+          "last_checked": "2026-11-19T11:10:01.380667+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-18T12:39:40.503130+00:00"
+  "last_updated": "2026-11-19T11:10:01.380667+00:00"
 }
