@@ -1,95 +1,14 @@
 {
   "version": "1.0.0",
   "country": "BA",
-  "total_channels": 26,
+  "total_channels": 23,
   "channels": [
-    {
-      "id": "AdriaticSport1.ba",
-      "code": "ADR-BA-001",
-      "index": 286,
-      "tvg_id": null,
-      "tvg_chno": 386,
-      "name_ar": "Adriatic Sport 1",
-      "name_en": "Adriatic Sport 1",
-      "country": "BA",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205",
-          "quality": null,
-          "protocol": "unknown",
-          "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "AdriaticSport2.ba",
-      "code": "ADR-BA-002",
-      "index": 287,
-      "tvg_id": null,
-      "tvg_chno": 387,
-      "name_ar": "Adriatic Sport 2",
-      "name_en": "Adriatic Sport 2",
-      "country": "BA",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
-          "quality": null,
-          "protocol": "unknown",
-          "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "AdriaticSport3.ba",
-      "code": "ADR-BA-003",
-      "index": 288,
-      "tvg_id": null,
-      "tvg_chno": 388,
-      "name_ar": "Adriatic Sport 3",
-      "name_en": "Adriatic Sport 3",
-      "country": "BA",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-          "quality": null,
-          "protocol": "unknown",
-          "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
-          "is_working": false
-        }
-      ]
-    },
     {
       "id": "BHRT.ba",
       "code": "BHR-BA-001",
-      "index": 1064,
+      "index": 1062,
       "tvg_id": null,
-      "tvg_chno": 1164,
+      "tvg_chno": 1162,
       "name_ar": "BHRT",
       "name_en": "BHRT",
       "country": "BA",
@@ -98,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -106,7 +25,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         },
         {
@@ -114,7 +33,7 @@
           "quality": "270p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -122,9 +41,9 @@
     {
       "id": "BHT1.ba",
       "code": "BHT-BA-001",
-      "index": 1065,
+      "index": 1063,
       "tvg_id": null,
-      "tvg_chno": 1165,
+      "tvg_chno": 1163,
       "name_ar": "BHT 1",
       "name_en": "BHT 1",
       "country": "BA",
@@ -133,7 +52,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -141,7 +60,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         },
         {
@@ -149,7 +68,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         },
         {
@@ -157,7 +76,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -165,9 +84,9 @@
     {
       "id": "Federalnatelevizija.ba",
       "code": "FED-BA-001",
-      "index": 2808,
+      "index": 2805,
       "tvg_id": null,
-      "tvg_chno": 2908,
+      "tvg_chno": 2905,
       "name_ar": "Federalna televizija",
       "name_en": "Federalna televizija",
       "country": "BA",
@@ -176,7 +95,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -184,7 +103,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -192,9 +111,9 @@
     {
       "id": "Kanal6.ba",
       "code": "KAN-BA-001",
-      "index": 3813,
+      "index": 3806,
       "tvg_id": null,
-      "tvg_chno": 3913,
+      "tvg_chno": 3906,
       "name_ar": "Kanal 6",
       "name_en": "Kanal 6",
       "country": "BA",
@@ -203,7 +122,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -211,7 +130,7 @@
           "quality": "288p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -219,9 +138,9 @@
     {
       "id": "MariaPlusVisionMedjugorje.ba",
       "code": "MAR-BA-001",
-      "index": 4401,
+      "index": 4395,
       "tvg_id": null,
-      "tvg_chno": 4501,
+      "tvg_chno": 4495,
       "name_ar": "Maria+Vision Medjugorje",
       "name_en": "Maria+Vision Medjugorje",
       "country": "BA",
@@ -230,7 +149,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -238,7 +157,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -246,9 +165,9 @@
     {
       "id": "NewsmaxBalkans.ba",
       "code": "NEW-BA-001",
-      "index": 5058,
+      "index": 5052,
       "tvg_id": null,
-      "tvg_chno": 5158,
+      "tvg_chno": 5152,
       "name_ar": "Newsmax Balkans",
       "name_en": "Newsmax Balkans",
       "country": "BA",
@@ -257,7 +176,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -265,7 +184,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -273,9 +192,9 @@
     {
       "id": "RTRSplus.ba",
       "code": "RTR-BA-001",
-      "index": 6708,
+      "index": 6703,
       "tvg_id": null,
-      "tvg_chno": 6808,
+      "tvg_chno": 6803,
       "name_ar": "RTRS plus",
       "name_en": "RTRS plus",
       "country": "BA",
@@ -284,25 +203,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
-          "is_working": false
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "RTRSTV.ba",
       "code": "RTR-BA-002",
-      "index": 6709,
+      "index": 6704,
       "tvg_id": null,
-      "tvg_chno": 6809,
+      "tvg_chno": 6804,
       "name_ar": "RTRS TV",
       "name_en": "RTRS TV",
       "country": "BA",
@@ -311,7 +230,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -319,7 +238,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -327,9 +246,9 @@
     {
       "id": "RTVGlasDrine.ba",
       "code": "RTV-BA-001",
-      "index": 6733,
+      "index": 6728,
       "tvg_id": null,
-      "tvg_chno": 6833,
+      "tvg_chno": 6828,
       "name_ar": "RTV Glas Drine",
       "name_en": "RTV Glas Drine",
       "country": "BA",
@@ -338,7 +257,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -346,7 +265,7 @@
           "quality": "404p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -354,9 +273,9 @@
     {
       "id": "RTVHB.ba",
       "code": "RTV-BA-002",
-      "index": 6735,
+      "index": 6730,
       "tvg_id": null,
-      "tvg_chno": 6835,
+      "tvg_chno": 6830,
       "name_ar": "RTV HB",
       "name_en": "RTV HB",
       "country": "BA",
@@ -365,7 +284,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -373,7 +292,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -381,9 +300,9 @@
     {
       "id": "RTVZenica.ba",
       "code": "RTV-BA-003",
-      "index": 6762,
+      "index": 6757,
       "tvg_id": null,
-      "tvg_chno": 6862,
+      "tvg_chno": 6857,
       "name_ar": "RTV Zenica",
       "name_en": "RTV Zenica",
       "country": "BA",
@@ -392,7 +311,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -400,7 +319,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -408,9 +327,9 @@
     {
       "id": "Televizija5.ba",
       "code": "TEL-BA-001",
-      "index": 7869,
+      "index": 7875,
       "tvg_id": null,
-      "tvg_chno": 7969,
+      "tvg_chno": 7975,
       "name_ar": "Televizija 5",
       "name_en": "Televizija 5",
       "country": "BA",
@@ -419,7 +338,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -427,7 +346,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -435,9 +354,9 @@
     {
       "id": "TelevizijaM.ba",
       "code": "TEL-BA-002",
-      "index": 7871,
+      "index": 7877,
       "tvg_id": null,
-      "tvg_chno": 7971,
+      "tvg_chno": 7977,
       "name_ar": "Televizija M",
       "name_en": "Televizija M",
       "country": "BA",
@@ -446,7 +365,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -454,7 +373,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -462,9 +381,9 @@
     {
       "id": "TNTKidsTV.ba",
       "code": "TNT-BA-001",
-      "index": 8076,
+      "index": 8083,
       "tvg_id": null,
-      "tvg_chno": 8176,
+      "tvg_chno": 8183,
       "name_ar": "TNT Kids TV",
       "name_en": "TNT Kids TV",
       "country": "BA",
@@ -473,7 +392,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -481,7 +400,7 @@
           "quality": "288p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -489,9 +408,9 @@
     {
       "id": "TVSlonExtra.ba",
       "code": "TVS-BA-001",
-      "index": 8672,
+      "index": 8680,
       "tvg_id": null,
-      "tvg_chno": 8772,
+      "tvg_chno": 8780,
       "name_ar": "TV Slon Extra",
       "name_en": "TV Slon Extra",
       "country": "BA",
@@ -500,7 +419,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -508,7 +427,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -516,9 +435,9 @@
     {
       "id": "federalnatelevizijaf",
       "code": "FED-BA-002",
-      "index": 9471,
+      "index": 9484,
       "tvg_id": null,
-      "tvg_chno": 9571,
+      "tvg_chno": 9584,
       "name_ar": "Federalna televizija (FTV) Ⓢ",
       "name_en": "Federalna televizija (FTV) Ⓢ",
       "country": "BA",
@@ -527,7 +446,7 @@
       "logo": "https://i.imgur.com/Jpvs4u3.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -535,7 +454,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -543,9 +462,9 @@
     {
       "id": "televizijarepublikesrpskertrs",
       "code": "TEL-BA-003",
-      "index": 9472,
+      "index": 9485,
       "tvg_id": null,
-      "tvg_chno": 9572,
+      "tvg_chno": 9585,
       "name_ar": "Televizija Republike Srpske (RTRS)",
       "name_en": "Televizija Republike Srpske (RTRS)",
       "country": "BA",
@@ -554,25 +473,25 @@
       "logo": "https://i.imgur.com/2Sgs5gM.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://parh.rtrs.tv/tv/live/playlist.m3u8",
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
-          "is_working": false
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "n1bosnaihercegovina",
       "code": "NBO-BA-001",
-      "index": 9473,
+      "index": 9486,
       "tvg_id": null,
-      "tvg_chno": 9573,
+      "tvg_chno": 9586,
       "name_ar": "N1 Bosna i Hercegovina",
       "name_en": "N1 Bosna i Hercegovina",
       "country": "BA",
@@ -581,7 +500,7 @@
       "logo": "https://i.imgur.com/72oMSWz.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -589,7 +508,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -597,9 +516,9 @@
     {
       "id": "rbn",
       "code": "RTV-BA-004",
-      "index": 9474,
+      "index": 9487,
       "tvg_id": null,
-      "tvg_chno": 9574,
+      "tvg_chno": 9587,
       "name_ar": "RTV BN",
       "name_en": "RTV BN",
       "country": "BA",
@@ -608,7 +527,7 @@
       "logo": "https://i.imgur.com/DUBvfWb.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -616,7 +535,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -624,9 +543,9 @@
     {
       "id": "rusk",
       "code": "RTV-BA-005",
-      "index": 9475,
+      "index": 9488,
       "tvg_id": null,
-      "tvg_chno": 9575,
+      "tvg_chno": 9588,
       "name_ar": "RTV USK Ⓨ",
       "name_en": "RTV USK Ⓨ",
       "country": "BA",
@@ -635,7 +554,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -643,7 +562,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -651,9 +570,9 @@
     {
       "id": "rze",
       "code": "RTV-BA-006",
-      "index": 9476,
+      "index": 9489,
       "tvg_id": null,
-      "tvg_chno": 9576,
+      "tvg_chno": 9589,
       "name_ar": "RTV ZE Ⓢ",
       "name_en": "RTV ZE Ⓢ",
       "country": "BA",
@@ -662,7 +581,7 @@
       "logo": "https://i.imgur.com/TKUaflB.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": true,
       "streams": [
         {
@@ -670,7 +589,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": true
         }
       ]
@@ -678,9 +597,9 @@
     {
       "id": "bpk",
       "code": "TVB-BA-001",
-      "index": 9477,
+      "index": 9490,
       "tvg_id": null,
-      "tvg_chno": 9577,
+      "tvg_chno": 9590,
       "name_ar": "TV BPK Ⓢ",
       "name_en": "TV BPK Ⓢ",
       "country": "BA",
@@ -689,7 +608,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -697,7 +616,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
@@ -705,9 +624,9 @@
     {
       "id": "aljazeerabalkans",
       "code": "ALJ-BA-001",
-      "index": 9523,
+      "index": 9536,
       "tvg_id": null,
-      "tvg_chno": 9623,
+      "tvg_chno": 9636,
       "name_ar": "Al Jazeera Balkans",
       "name_en": "Al Jazeera Balkans",
       "country": "BA",
@@ -716,7 +635,7 @@
       "logo": "https://i.imgur.com/Z1FB6wl.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-20T10:58:22.512423+00:00",
+      "last_checked": "2026-11-21T10:42:24.551048+00:00",
       "is_working": false,
       "streams": [
         {
@@ -724,11 +643,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-20T10:58:22.512423+00:00",
+          "last_checked": "2026-11-21T10:42:24.551048+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-20T10:58:22.512423+00:00"
+  "last_updated": "2026-11-21T10:42:24.551048+00:00"
 }
