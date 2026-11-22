@@ -1,14 +1,41 @@
 {
   "version": "1.0.0",
   "country": "TT",
-  "total_channels": 10,
+  "total_channels": 11,
   "channels": [
+    {
+      "id": "AtlanticTV.tt",
+      "code": "ATL-TT-001",
+      "index": 757,
+      "tvg_id": null,
+      "tvg_chno": 857,
+      "name_ar": "Atlantic TV",
+      "name_en": "Atlantic TV",
+      "country": "TT",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://trinicricket.com/hls/0/stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
+          "is_working": true
+        }
+      ]
+    },
     {
       "id": "BizzTV.tt",
       "code": "BIZ-TT-001",
-      "index": 1105,
+      "index": 1098,
       "tvg_id": null,
-      "tvg_chno": 1205,
+      "tvg_chno": 1198,
       "name_ar": "Bizz TV",
       "name_en": "Bizz TV",
       "country": "TT",
@@ -17,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": true
         }
       ]
@@ -33,9 +60,9 @@
     {
       "id": "RiddimHopeTV.tt",
       "code": "RID-TT-001",
-      "index": 6557,
+      "index": 6522,
       "tvg_id": null,
-      "tvg_chno": 6657,
+      "tvg_chno": 6622,
       "name_ar": "Riddim & Hope TV",
       "name_en": "Riddim & Hope TV",
       "country": "TT",
@@ -44,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +79,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": true
         }
       ]
@@ -60,9 +87,9 @@
     {
       "id": "SankhyaTV.tt",
       "code": "SAN-TT-001",
-      "index": 6880,
+      "index": 6845,
       "tvg_id": null,
-      "tvg_chno": 6980,
+      "tvg_chno": 6945,
       "name_ar": "Sankhya TV",
       "name_en": "Sankhya TV",
       "country": "TT",
@@ -71,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +106,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": true
         }
       ]
@@ -87,9 +114,9 @@
     {
       "id": "ScorchTV.tt",
       "code": "SCO-TT-001",
-      "index": 6946,
+      "index": 6911,
       "tvg_id": null,
-      "tvg_chno": 7046,
+      "tvg_chno": 7011,
       "name_ar": "Scorch TV",
       "name_en": "Scorch TV",
       "country": "TT",
@@ -98,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": true,
       "streams": [
         {
@@ -106,7 +133,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": true
         }
       ]
@@ -114,9 +141,9 @@
     {
       "id": "SmashRadioTT.tt",
       "code": "SMA-TT-001",
-      "index": 7166,
+      "index": 7131,
       "tvg_id": null,
-      "tvg_chno": 7266,
+      "tvg_chno": 7231,
       "name_ar": "Smash Radio TT",
       "name_en": "Smash Radio TT",
       "country": "TT",
@@ -125,7 +152,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": true,
       "streams": [
         {
@@ -133,7 +160,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": true
         }
       ]
@@ -141,9 +168,9 @@
     {
       "id": "TheIslamicNetwork.tt",
       "code": "THE-TT-001",
-      "index": 7969,
+      "index": 7930,
       "tvg_id": null,
-      "tvg_chno": 8069,
+      "tvg_chno": 8030,
       "name_ar": "The Islamic Network",
       "name_en": "The Islamic Network",
       "country": "TT",
@@ -152,7 +179,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": true,
       "streams": [
         {
@@ -160,7 +187,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": true
         },
         {
@@ -168,7 +195,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": false
         }
       ]
@@ -176,9 +203,9 @@
     {
       "id": "TrinityTV.tt",
       "code": "TRI-TT-001",
-      "index": 8190,
+      "index": 8150,
       "tvg_id": null,
-      "tvg_chno": 8290,
+      "tvg_chno": 8250,
       "name_ar": "Trinity TV",
       "name_en": "Trinity TV",
       "country": "TT",
@@ -187,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": false,
       "streams": [
         {
@@ -195,7 +222,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": false
         },
         {
@@ -203,7 +230,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": false
         }
       ]
@@ -211,9 +238,9 @@
     {
       "id": "cnc3",
       "code": "CNC-TT-001",
-      "index": 10212,
+      "index": 10173,
       "tvg_id": null,
-      "tvg_chno": 10312,
+      "tvg_chno": 10273,
       "name_ar": "CNC3",
       "name_en": "CNC3",
       "country": "TT",
@@ -222,7 +249,7 @@
       "logo": "https://i.imgur.com/1E73l2j.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": false,
       "streams": [
         {
@@ -230,7 +257,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": false
         }
       ]
@@ -238,9 +265,9 @@
     {
       "id": "synergy",
       "code": "SYN-TT-001",
-      "index": 10214,
+      "index": 10175,
       "tvg_id": null,
-      "tvg_chno": 10314,
+      "tvg_chno": 10275,
       "name_ar": "Synergy TV",
       "name_en": "Synergy TV",
       "country": "TT",
@@ -249,7 +276,7 @@
       "logo": "https://i.imgur.com/ugAy0UG.jpg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": false,
       "streams": [
         {
@@ -257,7 +284,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": false
         }
       ]
@@ -265,9 +292,9 @@
     {
       "id": "ttt",
       "code": "TTT-TT-001",
-      "index": 10215,
+      "index": 10176,
       "tvg_id": null,
-      "tvg_chno": 10315,
+      "tvg_chno": 10276,
       "name_ar": "TTT",
       "name_en": "TTT",
       "country": "TT",
@@ -276,7 +303,7 @@
       "logo": "https://i.imgur.com/rxf4x8J.jpg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-21T10:42:24.551048+00:00",
+      "last_checked": "2026-11-22T10:46:25.340789+00:00",
       "is_working": false,
       "streams": [
         {
@@ -284,11 +311,11 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-21T10:42:24.551048+00:00",
+          "last_checked": "2026-11-22T10:46:25.340789+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-21T10:42:24.551048+00:00"
+  "last_updated": "2026-11-22T10:46:25.340789+00:00"
 }
