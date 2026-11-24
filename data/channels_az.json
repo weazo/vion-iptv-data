@@ -1,14 +1,49 @@
 {
   "version": "1.0.0",
   "country": "AZ",
-  "total_channels": 14,
+  "total_channels": 23,
   "channels": [
+    {
+      "id": "AnewZTV.az",
+      "code": "ANE-AZ-001",
+      "index": 570,
+      "tvg_id": null,
+      "tvg_chno": 670,
+      "name_ar": "AnewZ TV",
+      "name_en": "AnewZ TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://svln.li/anewz.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        }
+      ]
+    },
     {
       "id": "ARB24.az",
       "code": "ARB-AZ-001",
-      "index": 652,
+      "index": 650,
       "tvg_id": null,
-      "tvg_chno": 752,
+      "tvg_chno": 750,
       "name_ar": "ARB 24",
       "name_en": "ARB 24",
       "country": "AZ",
@@ -17,23 +52,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": false,
       "streams": [
-        {
-          "url": "https://operativmm.az/tvs/arb24/stream/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
-          "is_working": true
-        },
         {
           "url": "http://185.32.44.154/arb24/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         },
         {
@@ -41,34 +68,15 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "ARBGunes.az",
-      "code": "ARB-AZ-002",
-      "index": 653,
-      "tvg_id": null,
-      "tvg_chno": 753,
-      "name_ar": "ARB Gunes",
-      "name_en": "ARB Gunes",
-      "country": "AZ",
-      "language": "unknown",
-      "category": "kids",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
-      "is_working": false,
-      "streams": [
+        },
         {
-          "url": "http://185.118.50.218/arbgunesh/video.m3u8",
+          "url": "https://operativmm.az/tvs/arb24/stream/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         }
       ]
@@ -76,9 +84,9 @@
     {
       "id": "AyazTV.az",
       "code": "AYA-AZ-001",
-      "index": 832,
+      "index": 828,
       "tvg_id": null,
-      "tvg_chno": 932,
+      "tvg_chno": 928,
       "name_ar": "Ayaz TV",
       "name_en": "Ayaz TV",
       "country": "AZ",
@@ -87,15 +95,31 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": true,
       "streams": [
         {
-          "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
-          "quality": "1080p",
+          "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8",
+          "quality": null,
           "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": true
         }
       ]
@@ -103,9 +127,9 @@
     {
       "id": "AzadTV.az",
       "code": "AZA-AZ-001",
-      "index": 838,
+      "index": 834,
       "tvg_id": null,
-      "tvg_chno": 938,
+      "tvg_chno": 934,
       "name_ar": "Azad TV",
       "name_en": "Azad TV",
       "country": "AZ",
@@ -114,7 +138,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": true,
       "streams": [
         {
@@ -122,7 +146,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": true
         }
       ]
@@ -130,9 +154,9 @@
     {
       "id": "AzTV.az",
       "code": "AZT-AZ-001",
-      "index": 851,
+      "index": 847,
       "tvg_id": null,
-      "tvg_chno": 951,
+      "tvg_chno": 947,
       "name_ar": "Az TV",
       "name_en": "Az TV",
       "country": "AZ",
@@ -141,31 +165,31 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "https://az.tvstream.az/hls/stream9/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
-          "is_working": false
-        },
-        {
-          "url": "https://operativmm.az/tvs/az/stream9/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
-          "is_working": true
-        },
         {
           "url": "http://185.32.44.154/aztv/index.m3u8",
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://az.tvstream.az/hls/stream9/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://operativmm.az/tvs/az/stream9/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         },
         {
@@ -173,7 +197,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": true
         },
         {
@@ -181,17 +205,52 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "BakuTV.az",
+      "code": "BAK-AZ-001",
+      "index": 876,
+      "tvg_id": null,
+      "tvg_chno": 976,
+      "name_ar": "Baku.TV",
+      "name_en": "Baku.TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "news",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "CBC.az",
       "code": "CBC-AZ-001",
-      "index": 1589,
+      "index": 1594,
       "tvg_id": null,
-      "tvg_chno": 1689,
+      "tvg_chno": 1694,
       "name_ar": "CBC",
       "name_en": "CBC",
       "country": "AZ",
@@ -200,7 +259,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": false,
       "streams": [
         {
@@ -208,7 +267,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         }
       ]
@@ -216,9 +275,9 @@
     {
       "id": "CBCSport.az",
       "code": "CBC-AZ-002",
-      "index": 1591,
+      "index": 1596,
       "tvg_id": null,
-      "tvg_chno": 1691,
+      "tvg_chno": 1696,
       "name_ar": "CBC Sport",
       "name_en": "CBC Sport",
       "country": "AZ",
@@ -227,7 +286,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": false,
       "streams": [
         {
@@ -235,7 +294,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         },
         {
@@ -243,7 +302,88 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "DunyaTV.az",
+      "code": "DUN-AZ-001",
+      "index": 2448,
+      "tvg_id": null,
+      "tvg_chno": 2548,
+      "name_ar": "Dunya TV",
+      "name_en": "Dunya TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://185.118.50.218/dunyatv/video.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "ELTV.az",
+      "code": "ELT-AZ-001",
+      "index": 2570,
+      "tvg_id": null,
+      "tvg_chno": 2670,
+      "name_ar": "EL TV",
+      "name_en": "EL TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://live.eltv.az/live/eltv/playlist.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "IctimaiTV.az",
+      "code": "ICT-AZ-001",
+      "index": 3448,
+      "tvg_id": null,
+      "tvg_chno": 3548,
+      "name_ar": "Ictimai TV",
+      "name_en": "Ictimai TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "https://live.itv.az/itv.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         }
       ]
@@ -251,9 +391,9 @@
     {
       "id": "KanalS.az",
       "code": "KAN-AZ-001",
-      "index": 3801,
+      "index": 3807,
       "tvg_id": null,
-      "tvg_chno": 3901,
+      "tvg_chno": 3907,
       "name_ar": "Kanal S",
       "name_en": "Kanal S",
       "country": "AZ",
@@ -262,7 +402,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": true,
       "streams": [
         {
@@ -270,34 +410,239 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": true
         }
       ]
     },
     {
-      "id": "baku",
-      "code": "BAK-AZ-001",
-      "index": 9419,
+      "id": "KapazTV.az",
+      "code": "KAP-AZ-001",
+      "index": 3817,
       "tvg_id": null,
-      "tvg_chno": 9519,
-      "name_ar": "Baku TV",
-      "name_en": "Baku TV",
+      "tvg_chno": 3917,
+      "name_ar": "Kapaz TV",
+      "name_en": "Kapaz TV",
       "country": "AZ",
       "language": "unknown",
-      "category": "Azerbaijan",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png",
+      "category": "news",
+      "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": true,
       "streams": [
         {
-          "url": "https://rtmp.baku.tv/hls/bakutv.m3u8",
-          "quality": "unknown",
+          "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
+          "quality": null,
           "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "KNMusicTV.az",
+      "code": "KNM-AZ-001",
+      "index": 3935,
+      "tvg_id": null,
+      "tvg_chno": 4035,
+      "name_ar": "KN Music TV",
+      "name_en": "KN Music TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "music",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://cdn4.yayin.com.tr/kntv/video.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "MedeniyyetTV.az",
+      "code": "MED-AZ-001",
+      "index": 4497,
+      "tvg_id": null,
+      "tvg_chno": 4597,
+      "name_ar": "Medeniyyet TV",
+      "name_en": "Medeniyyet TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "culture",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": false,
+      "streams": [
+        {
+          "url": "http://185.32.44.154/medeniyyet/index.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        }
+      ]
+    },
+    {
+      "id": "RealTV.az",
+      "code": "REA-AZ-001",
+      "index": 6422,
+      "tvg_id": null,
+      "tvg_chno": 6522,
+      "name_ar": "Real TV",
+      "name_en": "Real TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://185.118.50.218/realtv/video.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": false
+        },
+        {
+          "url": "https://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live",
+          "quality": "unknown",
+          "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "SesTV.az",
+      "code": "SES-AZ-001",
+      "index": 6989,
+      "tvg_id": null,
+      "tvg_chno": 7089,
+      "name_ar": "Ses TV",
+      "name_en": "Ses TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "ShowPlusTV.az",
+      "code": "SHO-AZ-001",
+      "index": 7061,
+      "tvg_id": null,
+      "tvg_chno": 7161,
+      "name_ar": "Show Plus TV",
+      "name_en": "Show Plus TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "entertainment",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://rtmp.showplus.tv/hls/myshow.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "VilayetTV.az",
+      "code": "VIL-AZ-001",
+      "index": 8974,
+      "tvg_id": null,
+      "tvg_chno": 9074,
+      "name_ar": "Vilayet TV",
+      "name_en": "Vilayet TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://nl.livekadeh.com/hls2/vilayet.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "XezerTV.az",
+      "code": "XEZ-AZ-001",
+      "index": 9216,
+      "tvg_id": null,
+      "tvg_chno": 9316,
+      "name_ar": "Xezer TV",
+      "name_en": "Xezer TV",
+      "country": "AZ",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://xezer.tvstream.az/hls/stream/main_stream.m3u8",
+          "quality": null,
+          "protocol": "hls",
+          "priority": 3,
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": true
         }
       ]
@@ -305,9 +650,9 @@
     {
       "id": "mdniyyt",
       "code": "MDN-AZ-001",
-      "index": 9420,
+      "index": 9431,
       "tvg_id": null,
-      "tvg_chno": 9520,
+      "tvg_chno": 9531,
       "name_ar": "Mədəniyyət TV Ⓢ",
       "name_en": "Mədəniyyət TV Ⓢ",
       "country": "AZ",
@@ -316,7 +661,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": false,
       "streams": [
         {
@@ -324,7 +669,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
         }
       ]
@@ -332,9 +677,9 @@
     {
       "id": "xzrxbr",
       "code": "XZR-AZ-001",
-      "index": 9421,
+      "index": 9432,
       "tvg_id": null,
-      "tvg_chno": 9521,
+      "tvg_chno": 9532,
       "name_ar": "Xəzər Xəbər",
       "name_en": "Xəzər Xəbər",
       "country": "AZ",
@@ -343,7 +688,7 @@
       "logo": "https://i.imgur.com/AuB8bnq.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": false,
       "streams": [
         {
@@ -351,71 +696,17 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "ictimai",
-      "code": "CTI-AZ-001",
-      "index": 9422,
-      "tvg_id": null,
-      "tvg_chno": 9522,
-      "name_ar": "İctimai TV Ⓢ",
-      "name_en": "İctimai TV Ⓢ",
-      "country": "AZ",
-      "language": "unknown",
-      "category": "Azerbaijan",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%C4%B0ctimai_TV_%282021%29.png/120px-%C4%B0ctimai_TV_%282021%29.png",
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://live.itv.az/itv.m3u8",
-          "quality": "unknown",
-          "protocol": "hls",
-          "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "real",
-      "code": "REA-AZ-001",
-      "index": 9423,
-      "tvg_id": null,
-      "tvg_chno": 9523,
-      "name_ar": "Real TV Ⓨ",
-      "name_en": "Real TV Ⓨ",
-      "country": "AZ",
-      "language": "unknown",
-      "category": "Azerbaijan",
-      "logo": "https://i.imgur.com/e2KFL0R.png",
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
-      "is_working": true,
-      "streams": [
-        {
-          "url": "https://www.youtube.com/channel/UCjpoTfA8TXO6QfAWiAB67eA/live",
-          "quality": "unknown",
-          "protocol": "unknown",
-          "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
-          "is_working": true
         }
       ]
     },
     {
       "id": "mazerbaijan",
       "code": "MTV-AZ-001",
-      "index": 9424,
+      "index": 9433,
       "tvg_id": null,
-      "tvg_chno": 9524,
+      "tvg_chno": 9533,
       "name_ar": "MTV Azerbaijan Ⓢ Ⓨ",
       "name_en": "MTV Azerbaijan Ⓢ Ⓨ",
       "country": "AZ",
@@ -424,7 +715,7 @@
       "logo": "https://i.imgur.com/lSBMeBU.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-23T11:50:53.583751+00:00",
+      "last_checked": "2026-11-24T13:20:42.831000+00:00",
       "is_working": true,
       "streams": [
         {
@@ -432,11 +723,11 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-23T11:50:53.583751+00:00",
+          "last_checked": "2026-11-24T13:20:42.831000+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-23T11:50:53.583751+00:00"
+  "last_updated": "2026-11-24T13:20:42.831000+00:00"
 }
