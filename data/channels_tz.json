@@ -6,9 +6,9 @@
     {
       "id": "DodomaTV.tz",
       "code": "DOD-TZ-001",
-      "index": 2376,
+      "index": 2383,
       "tvg_id": null,
-      "tvg_chno": 2476,
+      "tvg_chno": 2483,
       "name_ar": "Dodoma TV",
       "name_en": "Dodoma TV",
       "country": "TZ",
@@ -17,25 +17,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
-          "is_working": false
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "IBNTV.tz",
       "code": "IBN-TZ-001",
-      "index": 3433,
+      "index": 3443,
       "tvg_id": null,
-      "tvg_chno": 3533,
+      "tvg_chno": 3543,
       "name_ar": "IBN TV",
       "name_en": "IBN TV",
       "country": "TZ",
@@ -44,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +52,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -60,7 +60,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -68,9 +68,9 @@
     {
       "id": "IBNTVAfrica.tz",
       "code": "IBN-TZ-002",
-      "index": 3434,
+      "index": 3444,
       "tvg_id": null,
-      "tvg_chno": 3534,
+      "tvg_chno": 3544,
       "name_ar": "IBN TV Africa",
       "name_en": "IBN TV Africa",
       "country": "TZ",
@@ -79,7 +79,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -87,7 +87,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -95,9 +95,9 @@
     {
       "id": "MahaasinTV.tz",
       "code": "MAH-TZ-001",
-      "index": 4326,
+      "index": 4338,
       "tvg_id": null,
-      "tvg_chno": 4426,
+      "tvg_chno": 4438,
       "name_ar": "Mahaasin TV",
       "name_en": "Mahaasin TV",
       "country": "TZ",
@@ -106,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -114,7 +114,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -122,9 +122,9 @@
     {
       "id": "TanzaniaSafariChannel.tz",
       "code": "TAN-TZ-001",
-      "index": 7571,
+      "index": 7587,
       "tvg_id": null,
-      "tvg_chno": 7671,
+      "tvg_chno": 7687,
       "name_ar": "Tanzania Safari Channel",
       "name_en": "Tanzania Safari Channel",
       "country": "TZ",
@@ -133,15 +133,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
+        {
+          "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_12bb7dc0590211f1951119e8afeb4224/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "is_working": false
+        },
         {
           "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -149,9 +157,9 @@
     {
       "id": "TBC1.tz",
       "code": "TBC-TZ-001",
-      "index": 7594,
+      "index": 7610,
       "tvg_id": null,
-      "tvg_chno": 7694,
+      "tvg_chno": 7710,
       "name_ar": "TBC1",
       "name_en": "TBC1",
       "country": "TZ",
@@ -160,7 +168,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -168,7 +176,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -176,7 +184,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -184,9 +192,9 @@
     {
       "id": "TBC2.tz",
       "code": "TBC-TZ-002",
-      "index": 7595,
+      "index": 7611,
       "tvg_id": null,
-      "tvg_chno": 7695,
+      "tvg_chno": 7711,
       "name_ar": "TBC2",
       "name_en": "TBC2",
       "country": "TZ",
@@ -195,15 +203,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -211,11 +219,11 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
-          "is_working": true
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-24T13:20:42.831000+00:00"
+  "last_updated": "2026-11-25T12:10:11.030082+00:00"
 }

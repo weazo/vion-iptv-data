@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "KP",
-  "total_channels": 6,
+  "total_channels": 3,
   "channels": [
     {
       "id": "KoreanCentralTelevision.kp",
       "code": "KOR-KP-001",
-      "index": 3965,
+      "index": 3977,
       "tvg_id": null,
-      "tvg_chno": 4065,
+      "tvg_chno": 4077,
       "name_ar": "Korean Central Television",
       "name_en": "Korean Central Television",
       "country": "KP",
@@ -17,23 +17,15 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
-        {
-          "url": "https://live.koryocdn.org/kctv/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
-          "is_working": false
-        },
         {
           "url": "https://stream.intchoson.com/kctv/index.m3u8",
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -41,7 +33,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -49,7 +41,7 @@
           "quality": "576p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -57,98 +49,17 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "MansudaeTelevision.kp",
-      "code": "MAN-KP-001",
-      "index": 4377,
-      "tvg_id": null,
-      "tvg_chno": 4477,
-      "name_ar": "Mansudae Television",
-      "name_en": "Mansudae Television",
-      "country": "KP",
-      "language": "unknown",
-      "category": "entertainment",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://live.koryocdn.org/mansudae/index.m3u8",
-          "quality": "1080p",
-          "protocol": "hls",
-          "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "RyongnamsanTelevision.kp",
-      "code": "RYO-KP-001",
-      "index": 6780,
-      "tvg_id": null,
-      "tvg_chno": 6880,
-      "name_ar": "Ryongnamsan Television",
-      "name_en": "Ryongnamsan Television",
-      "country": "KP",
-      "language": "unknown",
-      "category": "education",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://live.koryocdn.org/ryongnamsan/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
-          "is_working": false
-        }
-      ]
-    },
-    {
-      "id": "SportsTelevision.kp",
-      "code": "SPO-KP-001",
-      "index": 7299,
-      "tvg_id": null,
-      "tvg_chno": 7399,
-      "name_ar": "Sports Television",
-      "name_en": "Sports Television",
-      "country": "KP",
-      "language": "unknown",
-      "category": "sports",
-      "logo": null,
-      "website": null,
-      "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
-      "is_working": false,
-      "streams": [
-        {
-          "url": "https://live.koryocdn.org/sports/index.m3u8",
-          "quality": "720p",
-          "protocol": "hls",
-          "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "ryongnamsan",
-      "code": "RYO-KP-002",
-      "index": 9989,
+      "code": "RYO-KP-001",
+      "index": 10010,
       "tvg_id": null,
-      "tvg_chno": 10089,
+      "tvg_chno": 10110,
       "name_ar": "Ryongnamsan TV",
       "name_en": "Ryongnamsan TV",
       "country": "KP",
@@ -157,7 +68,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RyongnamsanTV_DPRK.png/500px-RyongnamsanTV_DPRK.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -165,7 +76,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -173,9 +84,9 @@
     {
       "id": "sportstelevisionnot247satsun18002200kst",
       "code": "SAT-KP-001",
-      "index": 9990,
+      "index": 10011,
       "tvg_id": null,
-      "tvg_chno": 10090,
+      "tvg_chno": 10111,
       "name_ar": "Sat/Sun 18:00-22:00 KST)\" tvg-logo=\"https://i.imgur.com/HvFpGeH.png\" tvg-id=\"SportsTelevision.kp\" tvg-chno=\"4\" tvg-country=\"KP\" group-title=\"North Korea\",Sports Television (not 24/7, Sat/Sun 18:00-22:00 KST)",
       "name_en": "Sat/Sun 18:00-22:00 KST)\" tvg-logo=\"https://i.imgur.com/HvFpGeH.png\" tvg-id=\"SportsTelevision.kp\" tvg-chno=\"4\" tvg-country=\"KP\" group-title=\"North Korea\",Sports Television (not 24/7, Sat/Sun 18:00-22:00 KST)",
       "country": "KP",
@@ -184,7 +95,7 @@
       "logo": "https://i.imgur.com/HvFpGeH.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -192,11 +103,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
     }
   ],
-  "last_updated": "2026-11-24T13:20:42.831000+00:00"
+  "last_updated": "2026-11-25T12:10:11.030082+00:00"
 }

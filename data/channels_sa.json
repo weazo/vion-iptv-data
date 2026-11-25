@@ -1,8 +1,35 @@
 {
   "version": "1.0.0",
   "country": "SA",
-  "total_channels": 58,
+  "total_channels": 59,
   "channels": [
+    {
+      "id": "316Channel.sa",
+      "code": "CHA-SA-001",
+      "index": 67,
+      "tvg_id": null,
+      "tvg_chno": 167,
+      "name_ar": "3.16 Channel",
+      "name_en": "3.16 Channel",
+      "country": "SA",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://316hls.wns.live/hls/stream.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "is_working": true
+        }
+      ]
+    },
     {
       "id": "AbdulmajeedAbdullah.sa",
       "code": "ABD-SA-001",
@@ -17,7 +44,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +52,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -44,7 +71,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -52,7 +79,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -71,7 +98,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -79,7 +106,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -98,7 +125,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -106,7 +133,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -114,7 +141,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -133,7 +160,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -141,7 +168,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -149,7 +176,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -168,7 +195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -176,7 +203,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -184,7 +211,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -192,7 +219,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -211,7 +238,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -219,7 +246,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -238,7 +265,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -246,7 +273,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -254,7 +281,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -262,7 +289,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -270,7 +297,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -289,7 +316,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -297,7 +324,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -316,7 +343,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -324,7 +351,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -343,7 +370,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -351,7 +378,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -359,7 +386,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -367,7 +394,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -386,7 +413,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -394,7 +421,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -413,7 +440,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -421,7 +448,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -429,7 +456,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -437,7 +464,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -456,7 +483,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -464,7 +491,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -483,7 +510,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -491,7 +518,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -510,7 +537,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -518,7 +545,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -537,7 +564,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -545,7 +572,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -553,7 +580,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -561,7 +588,7 @@
           "quality": "1080p",
           "protocol": "unknown",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -569,7 +596,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -588,7 +615,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -596,7 +623,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -615,7 +642,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -623,7 +650,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -631,7 +658,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -650,7 +677,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -658,7 +685,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -666,9 +693,9 @@
     {
       "id": "BigTimePlus.sa",
       "code": "BIG-SA-001",
-      "index": 1072,
+      "index": 1073,
       "tvg_id": null,
-      "tvg_chno": 1172,
+      "tvg_chno": 1173,
       "name_ar": "Big Time Plus",
       "name_en": "Big Time Plus",
       "country": "SA",
@@ -677,7 +704,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -685,7 +712,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -693,9 +720,9 @@
     {
       "id": "DrPalTV.sa",
       "code": "DRP-SA-001",
-      "index": 2416,
+      "index": 2425,
       "tvg_id": null,
-      "tvg_chno": 2516,
+      "tvg_chno": 2525,
       "name_ar": "Dr Pal TV",
       "name_en": "Dr Pal TV",
       "country": "SA",
@@ -704,7 +731,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -712,7 +739,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -720,9 +747,9 @@
     {
       "id": "Fairuz.sa",
       "code": "FAI-SA-001",
-      "index": 2745,
+      "index": 2754,
       "tvg_id": null,
-      "tvg_chno": 2845,
+      "tvg_chno": 2854,
       "name_ar": "Fairuz",
       "name_en": "Fairuz",
       "country": "SA",
@@ -731,7 +758,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -739,7 +766,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -747,9 +774,9 @@
     {
       "id": "HolyQuranRadio.sa",
       "code": "HOL-SA-001",
-      "index": 3341,
+      "index": 3350,
       "tvg_id": null,
-      "tvg_chno": 3441,
+      "tvg_chno": 3450,
       "name_ar": "Holy Quran Radio",
       "name_en": "Holy Quran Radio",
       "country": "SA",
@@ -758,7 +785,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -766,7 +793,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -774,9 +801,9 @@
     {
       "id": "IqraaAfricaEurope.sa",
       "code": "IQR-SA-001",
-      "index": 3570,
+      "index": 3579,
       "tvg_id": null,
-      "tvg_chno": 3670,
+      "tvg_chno": 3679,
       "name_ar": "Iqraa Africa & Europe",
       "name_en": "Iqraa Africa & Europe",
       "country": "SA",
@@ -785,7 +812,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -793,7 +820,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -801,9 +828,9 @@
     {
       "id": "IqraaArabic.sa",
       "code": "IQR-SA-002",
-      "index": 3571,
+      "index": 3580,
       "tvg_id": null,
-      "tvg_chno": 3671,
+      "tvg_chno": 3680,
       "name_ar": "Iqraa Arabic",
       "name_en": "Iqraa Arabic",
       "country": "SA",
@@ -812,7 +839,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -820,7 +847,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -828,9 +855,9 @@
     {
       "id": "IqraaQuran.sa",
       "code": "IQR-SA-003",
-      "index": 3572,
+      "index": 3581,
       "tvg_id": null,
-      "tvg_chno": 3672,
+      "tvg_chno": 3681,
       "name_ar": "Iqraa Quran",
       "name_en": "Iqraa Quran",
       "country": "SA",
@@ -839,7 +866,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -847,7 +874,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -855,9 +882,9 @@
     {
       "id": "JeddahRadio.sa",
       "code": "JED-SA-001",
-      "index": 3665,
+      "index": 3674,
       "tvg_id": null,
-      "tvg_chno": 3765,
+      "tvg_chno": 3774,
       "name_ar": "Jeddah Radio",
       "name_en": "Jeddah Radio",
       "country": "SA",
@@ -866,7 +893,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -874,7 +901,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -882,9 +909,9 @@
     {
       "id": "LBC.sa",
       "code": "LBC-SA-001",
-      "index": 4128,
+      "index": 4140,
       "tvg_id": null,
-      "tvg_chno": 4228,
+      "tvg_chno": 4240,
       "name_ar": "LBC",
       "name_en": "LBC",
       "country": "SA",
@@ -893,7 +920,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -901,7 +928,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -909,7 +936,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -917,7 +944,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -925,9 +952,9 @@
     {
       "id": "MajidAlMohandis.sa",
       "code": "MAJ-SA-001",
-      "index": 4342,
+      "index": 4354,
       "tvg_id": null,
-      "tvg_chno": 4442,
+      "tvg_chno": 4454,
       "name_ar": "Majid Al Mohandis",
       "name_en": "Majid Al Mohandis",
       "country": "SA",
@@ -936,7 +963,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -944,7 +971,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -952,9 +979,9 @@
     {
       "id": "MakkahTV.sa",
       "code": "MAK-SA-001",
-      "index": 4346,
+      "index": 4358,
       "tvg_id": null,
-      "tvg_chno": 4446,
+      "tvg_chno": 4458,
       "name_ar": "Makkah TV",
       "name_en": "Makkah TV",
       "country": "SA",
@@ -963,7 +990,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -971,7 +998,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -979,7 +1006,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -987,9 +1014,9 @@
     {
       "id": "Maraya.sa",
       "code": "MAR-SA-001",
-      "index": 4381,
+      "index": 4394,
       "tvg_id": null,
-      "tvg_chno": 4481,
+      "tvg_chno": 4494,
       "name_ar": "Maraya",
       "name_en": "Maraya",
       "country": "SA",
@@ -998,7 +1025,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1006,7 +1033,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1014,9 +1041,9 @@
     {
       "id": "MBCLoud.sa",
       "code": "MBC-SA-001",
-      "index": 4472,
+      "index": 4485,
       "tvg_id": null,
-      "tvg_chno": 4572,
+      "tvg_chno": 4585,
       "name_ar": "MBC Loud",
       "name_en": "MBC Loud",
       "country": "SA",
@@ -1025,7 +1052,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1033,7 +1060,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1041,9 +1068,9 @@
     {
       "id": "MBCMasrDrama.sa",
       "code": "MBC-SA-002",
-      "index": 4475,
+      "index": 4488,
       "tvg_id": null,
-      "tvg_chno": 4575,
+      "tvg_chno": 4588,
       "name_ar": "MBC Masr Drama",
       "name_en": "MBC Masr Drama",
       "country": "SA",
@@ -1052,7 +1079,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1060,7 +1087,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1068,9 +1095,9 @@
     {
       "id": "MBCMood.sa",
       "code": "MBC-SA-003",
-      "index": 4477,
+      "index": 4490,
       "tvg_id": null,
-      "tvg_chno": 4577,
+      "tvg_chno": 4590,
       "name_ar": "MBC Mood",
       "name_en": "MBC Mood",
       "country": "SA",
@@ -1079,7 +1106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1087,7 +1114,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -1095,7 +1122,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1103,9 +1130,9 @@
     {
       "id": "MohammedAbdo.sa",
       "code": "MOH-SA-001",
-      "index": 4664,
+      "index": 4677,
       "tvg_id": null,
-      "tvg_chno": 4764,
+      "tvg_chno": 4777,
       "name_ar": "Mohammed Abdo",
       "name_en": "Mohammed Abdo",
       "country": "SA",
@@ -1114,7 +1141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1122,7 +1149,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1130,9 +1157,9 @@
     {
       "id": "MoviesAction.sa",
       "code": "MOV-SA-001",
-      "index": 4718,
+      "index": 4731,
       "tvg_id": null,
-      "tvg_chno": 4818,
+      "tvg_chno": 4831,
       "name_ar": "Movies Action",
       "name_en": "Movies Action",
       "country": "SA",
@@ -1141,7 +1168,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1149,7 +1176,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1157,9 +1184,9 @@
     {
       "id": "MoviesThriller.sa",
       "code": "MOV-SA-002",
-      "index": 4724,
+      "index": 4737,
       "tvg_id": null,
-      "tvg_chno": 4824,
+      "tvg_chno": 4837,
       "name_ar": "Movies Thriller",
       "name_en": "Movies Thriller",
       "country": "SA",
@@ -1168,7 +1195,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1176,7 +1203,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1184,9 +1211,9 @@
     {
       "id": "NidaeAlIslamRadio.sa",
       "code": "NID-SA-001",
-      "index": 5089,
+      "index": 5104,
       "tvg_id": null,
-      "tvg_chno": 5189,
+      "tvg_chno": 5204,
       "name_ar": "Nidae AlIslam Radio",
       "name_en": "Nidae AlIslam Radio",
       "country": "SA",
@@ -1195,7 +1222,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1203,7 +1230,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1211,9 +1238,9 @@
     {
       "id": "PanoramaFM.sa",
       "code": "PAN-SA-001",
-      "index": 5474,
+      "index": 5491,
       "tvg_id": null,
-      "tvg_chno": 5574,
+      "tvg_chno": 5591,
       "name_ar": "Panorama FM",
       "name_en": "Panorama FM",
       "country": "SA",
@@ -1222,7 +1249,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1230,7 +1257,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -1238,7 +1265,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1246,9 +1273,9 @@
     {
       "id": "RabehSaqer.sa",
       "code": "RAB-SA-001",
-      "index": 6171,
+      "index": 6190,
       "tvg_id": null,
-      "tvg_chno": 6271,
+      "tvg_chno": 6290,
       "name_ar": "Rabeh Saqer",
       "name_en": "Rabeh Saqer",
       "country": "SA",
@@ -1257,7 +1284,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1265,7 +1292,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1273,9 +1300,9 @@
     {
       "id": "RashidAlMajed.sa",
       "code": "RAS-SA-001",
-      "index": 6377,
+      "index": 6396,
       "tvg_id": null,
-      "tvg_chno": 6477,
+      "tvg_chno": 6496,
       "name_ar": "Rashid AlMajed",
       "name_en": "Rashid AlMajed",
       "country": "SA",
@@ -1284,7 +1311,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1292,7 +1319,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1300,9 +1327,9 @@
     {
       "id": "RotanaCinemaKSA.sa",
       "code": "ROT-SA-001",
-      "index": 6595,
+      "index": 6612,
       "tvg_id": null,
-      "tvg_chno": 6695,
+      "tvg_chno": 6712,
       "name_ar": "Rotana Cinema KSA",
       "name_en": "Rotana Cinema KSA",
       "country": "SA",
@@ -1311,7 +1338,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1319,7 +1346,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -1327,7 +1354,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1335,9 +1362,9 @@
     {
       "id": "RotanaClassic.sa",
       "code": "ROT-SA-002",
-      "index": 6596,
+      "index": 6613,
       "tvg_id": null,
-      "tvg_chno": 6696,
+      "tvg_chno": 6713,
       "name_ar": "Rotana Classic",
       "name_en": "Rotana Classic",
       "country": "SA",
@@ -1346,7 +1373,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1354,7 +1381,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -1362,7 +1389,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         },
         {
@@ -1370,7 +1397,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -1378,9 +1405,9 @@
     {
       "id": "RotanaClip.sa",
       "code": "ROT-SA-003",
-      "index": 6597,
+      "index": 6614,
       "tvg_id": null,
-      "tvg_chno": 6697,
+      "tvg_chno": 6714,
       "name_ar": "Rotana Clip",
       "name_en": "Rotana Clip",
       "country": "SA",
@@ -1389,7 +1416,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1397,7 +1424,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -1405,7 +1432,7 @@
           "quality": "540p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1413,9 +1440,9 @@
     {
       "id": "RotanaComedy.sa",
       "code": "ROT-SA-004",
-      "index": 6598,
+      "index": 6615,
       "tvg_id": null,
-      "tvg_chno": 6698,
+      "tvg_chno": 6715,
       "name_ar": "Rotana Comedy",
       "name_en": "Rotana Comedy",
       "country": "SA",
@@ -1424,7 +1451,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1432,7 +1459,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -1440,9 +1467,9 @@
     {
       "id": "RotanaDrama.sa",
       "code": "ROT-SA-005",
-      "index": 6599,
+      "index": 6616,
       "tvg_id": null,
-      "tvg_chno": 6699,
+      "tvg_chno": 6716,
       "name_ar": "Rotana Drama",
       "name_en": "Rotana Drama",
       "country": "SA",
@@ -1451,7 +1478,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1459,7 +1486,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -1467,9 +1494,9 @@
     {
       "id": "RotanaFMKSA.sa",
       "code": "ROT-SA-006",
-      "index": 6600,
+      "index": 6617,
       "tvg_id": null,
-      "tvg_chno": 6700,
+      "tvg_chno": 6717,
       "name_ar": "Rotana FM KSA",
       "name_en": "Rotana FM KSA",
       "country": "SA",
@@ -1478,7 +1505,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1486,7 +1513,7 @@
           "quality": "720p",
           "protocol": "rtmp",
           "priority": 2,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -1494,9 +1521,9 @@
     {
       "id": "RotanaKhalijia.sa",
       "code": "ROT-SA-007",
-      "index": 6601,
+      "index": 6618,
       "tvg_id": null,
-      "tvg_chno": 6701,
+      "tvg_chno": 6718,
       "name_ar": "Rotana Khalijia",
       "name_en": "Rotana Khalijia",
       "country": "SA",
@@ -1505,7 +1532,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1513,7 +1540,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -1521,9 +1548,9 @@
     {
       "id": "RotanaMusic.sa",
       "code": "ROT-SA-008",
-      "index": 6602,
+      "index": 6619,
       "tvg_id": null,
-      "tvg_chno": 6702,
+      "tvg_chno": 6719,
       "name_ar": "Rotana Music",
       "name_en": "Rotana Music",
       "country": "SA",
@@ -1532,7 +1559,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1540,7 +1567,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         },
         {
@@ -1548,7 +1575,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1556,9 +1583,9 @@
     {
       "id": "SaudiaRadio.sa",
       "code": "SAU-SA-001",
-      "index": 6900,
+      "index": 6916,
       "tvg_id": null,
-      "tvg_chno": 7000,
+      "tvg_chno": 7016,
       "name_ar": "Saudia Radio",
       "name_en": "Saudia Radio",
       "country": "SA",
@@ -1567,7 +1594,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1575,7 +1602,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1583,9 +1610,9 @@
     {
       "id": "SaudiThaqafiyaTV.sa",
       "code": "SAU-SA-002",
-      "index": 6901,
+      "index": 6917,
       "tvg_id": null,
-      "tvg_chno": 7001,
+      "tvg_chno": 7017,
       "name_ar": "Saudi Thaqafiya TV",
       "name_en": "Saudi Thaqafiya TV",
       "country": "SA",
@@ -1594,7 +1621,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1602,7 +1629,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1610,9 +1637,9 @@
     {
       "id": "SBC.sa",
       "code": "SBC-SA-001",
-      "index": 6906,
+      "index": 6922,
       "tvg_id": null,
-      "tvg_chno": 7006,
+      "tvg_chno": 7022,
       "name_ar": "SBC",
       "name_en": "SBC",
       "country": "SA",
@@ -1621,7 +1648,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1629,7 +1656,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1637,9 +1664,9 @@
     {
       "id": "Tarab.sa",
       "code": "TAR-SA-001",
-      "index": 7577,
+      "index": 7593,
       "tvg_id": null,
-      "tvg_chno": 7677,
+      "tvg_chno": 7693,
       "name_ar": "Tarab",
       "name_en": "Tarab",
       "country": "SA",
@@ -1648,7 +1675,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1656,7 +1683,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1664,9 +1691,9 @@
     {
       "id": "ThikrayatTV.sa",
       "code": "THI-SA-001",
-      "index": 7977,
+      "index": 7994,
       "tvg_id": null,
-      "tvg_chno": 8077,
+      "tvg_chno": 8094,
       "name_ar": "Thikrayat TV",
       "name_en": "Thikrayat TV",
       "country": "SA",
@@ -1675,7 +1702,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1683,7 +1710,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1691,9 +1718,9 @@
     {
       "id": "sbcsaudiarabia",
       "code": "SBC-SA-002",
-      "index": 10125,
+      "index": 10146,
       "tvg_id": null,
-      "tvg_chno": 10225,
+      "tvg_chno": 10246,
       "name_ar": "SBC Saudi Arabia",
       "name_en": "SBC Saudi Arabia",
       "country": "SA",
@@ -1702,7 +1729,7 @@
       "logo": "https://i.imgur.com/9JSQglj.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1710,7 +1737,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
@@ -1718,9 +1745,9 @@
     {
       "id": "rotanaciip",
       "code": "ROT-SA-009",
-      "index": 10126,
+      "index": 10147,
       "tvg_id": null,
-      "tvg_chno": 10226,
+      "tvg_chno": 10247,
       "name_ar": "Rotana Ciip",
       "name_en": "Rotana Ciip",
       "country": "SA",
@@ -1729,7 +1756,7 @@
       "logo": "https://i.imgur.com/nhREk0o.png",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1737,7 +1764,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": false
         }
       ]
@@ -1745,9 +1772,9 @@
     {
       "id": "alhadathالعربية",
       "code": "ALH-SA-002",
-      "index": 10263,
+      "index": 10284,
       "tvg_id": null,
-      "tvg_chno": 10363,
+      "tvg_chno": 10384,
       "name_ar": "Al Hadath العربية",
       "name_en": "Al Hadath العربية",
       "country": "SA",
@@ -1756,7 +1783,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg",
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-24T13:20:42.831000+00:00",
+      "last_checked": "2026-11-25T12:10:11.030082+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1764,11 +1791,11 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-24T13:20:42.831000+00:00",
+          "last_checked": "2026-11-25T12:10:11.030082+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-24T13:20:42.831000+00:00"
+  "last_updated": "2026-11-25T12:10:11.030082+00:00"
 }
