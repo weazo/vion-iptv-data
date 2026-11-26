@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
   "country": "GT",
-  "total_channels": 55,
+  "total_channels": 56,
   "channels": [
     {
       "id": "AmigosTVChiquimula.gt",
       "code": "AMI-GT-001",
-      "index": 541,
+      "index": 544,
       "tvg_id": null,
-      "tvg_chno": 641,
+      "tvg_chno": 644,
       "name_ar": "Amigos TV Chiquimula",
       "name_en": "Amigos TV Chiquimula",
       "country": "GT",
@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -33,7 +33,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -41,9 +41,9 @@
     {
       "id": "AuroraMediaFilms.gt",
       "code": "AUR-GT-001",
-      "index": 785,
+      "index": 788,
       "tvg_id": null,
-      "tvg_chno": 885,
+      "tvg_chno": 888,
       "name_ar": "Aurora Media Films",
       "name_en": "Aurora Media Films",
       "country": "GT",
@@ -52,7 +52,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -60,7 +60,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -68,9 +68,9 @@
     {
       "id": "BarbeTV.gt",
       "code": "BAR-GT-001",
-      "index": 908,
+      "index": 911,
       "tvg_id": null,
-      "tvg_chno": 1008,
+      "tvg_chno": 1011,
       "name_ar": "Barbe TV",
       "name_en": "Barbe TV",
       "country": "GT",
@@ -79,25 +79,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
-      "is_working": false,
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "is_working": true,
       "streams": [
         {
           "url": "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
-          "is_working": false
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "is_working": true
         }
       ]
     },
     {
       "id": "BDTelevision.gt",
       "code": "BDT-GT-001",
-      "index": 971,
+      "index": 974,
       "tvg_id": null,
-      "tvg_chno": 1071,
+      "tvg_chno": 1074,
       "name_ar": "BD Television",
       "name_en": "BD Television",
       "country": "GT",
@@ -106,7 +106,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -114,7 +114,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -122,9 +122,9 @@
     {
       "id": "Canal100Chinique.gt",
       "code": "CAN-GT-001",
-      "index": 1301,
+      "index": 1304,
       "tvg_id": null,
-      "tvg_chno": 1401,
+      "tvg_chno": 1404,
       "name_ar": "Canal 100 Chinique",
       "name_en": "Canal 100 Chinique",
       "country": "GT",
@@ -133,7 +133,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -141,17 +141,44 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "is_working": true
+        }
+      ]
+    },
+    {
+      "id": "Canal13Chiquimula.gt",
+      "code": "CAN-GT-002",
+      "index": 1323,
+      "tvg_id": null,
+      "tvg_chno": 1423,
+      "name_ar": "Canal 13 Chiquimula",
+      "name_en": "Canal 13 Chiquimula",
+      "country": "GT",
+      "language": "unknown",
+      "category": "general",
+      "logo": null,
+      "website": null,
+      "priority": 1,
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "is_working": true,
+      "streams": [
+        {
+          "url": "https://www.tl.com.gt/live.php?file=0.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "Canal13Esquipulas.gt",
-      "code": "CAN-GT-002",
-      "index": 1320,
+      "code": "CAN-GT-003",
+      "index": 1324,
       "tvg_id": null,
-      "tvg_chno": 1420,
+      "tvg_chno": 1424,
       "name_ar": "Canal 13 Esquipulas",
       "name_en": "Canal 13 Esquipulas",
       "country": "GT",
@@ -160,7 +187,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -168,17 +195,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
     },
     {
       "id": "Canal27.gt",
-      "code": "CAN-GT-003",
-      "index": 1349,
+      "code": "CAN-GT-004",
+      "index": 1353,
       "tvg_id": null,
-      "tvg_chno": 1449,
+      "tvg_chno": 1453,
       "name_ar": "Canal 27",
       "name_en": "Canal 27",
       "country": "GT",
@@ -187,7 +214,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -195,17 +222,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "Canal6Panadish.gt",
-      "code": "CAN-GT-004",
-      "index": 1400,
+      "code": "CAN-GT-005",
+      "index": 1404,
       "tvg_id": null,
-      "tvg_chno": 1500,
+      "tvg_chno": 1504,
       "name_ar": "Canal 6 Panadish",
       "name_en": "Canal 6 Panadish",
       "country": "GT",
@@ -214,7 +241,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -222,17 +249,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "Canal7.gt",
-      "code": "CAN-GT-005",
-      "index": 1403,
+      "code": "CAN-GT-006",
+      "index": 1407,
       "tvg_id": null,
-      "tvg_chno": 1503,
+      "tvg_chno": 1507,
       "name_ar": "Canal 7",
       "name_en": "Canal 7",
       "country": "GT",
@@ -241,7 +268,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -249,7 +276,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -257,7 +284,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         },
         {
@@ -265,7 +292,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -273,17 +300,17 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "CanalIglesiaLuzyVerdad.gt",
-      "code": "CAN-GT-006",
-      "index": 1467,
+      "code": "CAN-GT-007",
+      "index": 1471,
       "tvg_id": null,
-      "tvg_chno": 1567,
+      "tvg_chno": 1571,
       "name_ar": "Canal Iglesia Luz y Verdad",
       "name_en": "Canal Iglesia Luz y Verdad",
       "country": "GT",
@@ -292,7 +319,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -300,17 +327,17 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "CanalPeniel.gt",
-      "code": "CAN-GT-007",
-      "index": 1495,
+      "code": "CAN-GT-008",
+      "index": 1499,
       "tvg_id": null,
-      "tvg_chno": 1595,
+      "tvg_chno": 1599,
       "name_ar": "Canal Peniel",
       "name_en": "Canal Peniel",
       "country": "GT",
@@ -319,7 +346,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -327,17 +354,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "CanalTVRadioMayaTGBA.gt",
-      "code": "CAN-GT-008",
-      "index": 1522,
+      "code": "CAN-GT-009",
+      "index": 1526,
       "tvg_id": null,
-      "tvg_chno": 1622,
+      "tvg_chno": 1626,
       "name_ar": "Canal TV Radio Maya TGBA",
       "name_en": "Canal TV Radio Maya TGBA",
       "country": "GT",
@@ -346,7 +373,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -354,7 +381,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -362,17 +389,17 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "CanalVisof.gt",
-      "code": "CAN-GT-009",
-      "index": 1525,
+      "code": "CAN-GT-010",
+      "index": 1529,
       "tvg_id": null,
-      "tvg_chno": 1625,
+      "tvg_chno": 1629,
       "name_ar": "Canal Visof",
       "name_en": "Canal Visof",
       "country": "GT",
@@ -381,7 +408,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -389,17 +416,17 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
     },
     {
       "id": "CandelariaTV.gt",
-      "code": "CAN-GT-010",
-      "index": 1532,
+      "code": "CAN-GT-011",
+      "index": 1536,
       "tvg_id": null,
-      "tvg_chno": 1632,
+      "tvg_chno": 1636,
       "name_ar": "Candelaria TV",
       "name_en": "Candelaria TV",
       "country": "GT",
@@ -408,7 +435,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -416,7 +443,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -424,9 +451,9 @@
     {
       "id": "CarinosaTV.gt",
       "code": "CAR-GT-001",
-      "index": 1566,
+      "index": 1570,
       "tvg_id": null,
-      "tvg_chno": 1666,
+      "tvg_chno": 1670,
       "name_ar": "Carinosa TV",
       "name_en": "Carinosa TV",
       "country": "GT",
@@ -435,7 +462,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -443,7 +470,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -451,9 +478,9 @@
     {
       "id": "ConectadosconDios.gt",
       "code": "CON-GT-001",
-      "index": 2005,
+      "index": 2010,
       "tvg_id": null,
-      "tvg_chno": 2105,
+      "tvg_chno": 2110,
       "name_ar": "Conectados con Dios",
       "name_en": "Conectados con Dios",
       "country": "GT",
@@ -462,7 +489,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -470,7 +497,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -478,9 +505,9 @@
     {
       "id": "CristoTV.gt",
       "code": "CRI-GT-001",
-      "index": 2067,
+      "index": 2072,
       "tvg_id": null,
-      "tvg_chno": 2167,
+      "tvg_chno": 2172,
       "name_ar": "Cristo TV",
       "name_en": "Cristo TV",
       "country": "GT",
@@ -489,7 +516,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -497,7 +524,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -505,9 +532,9 @@
     {
       "id": "ElRoiTV.gt",
       "code": "ELR-GT-001",
-      "index": 2569,
+      "index": 2575,
       "tvg_id": null,
-      "tvg_chno": 2669,
+      "tvg_chno": 2675,
       "name_ar": "El-Roi TV",
       "name_en": "El-Roi TV",
       "country": "GT",
@@ -516,7 +543,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -524,7 +551,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -532,9 +559,9 @@
     {
       "id": "EspirituSantoYFuegoTV.gt",
       "code": "ESP-GT-001",
-      "index": 2655,
+      "index": 2661,
       "tvg_id": null,
-      "tvg_chno": 2755,
+      "tvg_chno": 2761,
       "name_ar": "Espiritu Santo Y Fuego TV",
       "name_en": "Espiritu Santo Y Fuego TV",
       "country": "GT",
@@ -543,7 +570,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -551,7 +578,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -559,9 +586,9 @@
     {
       "id": "ExpresionTV.gt",
       "code": "EXP-GT-001",
-      "index": 2740,
+      "index": 2746,
       "tvg_id": null,
-      "tvg_chno": 2840,
+      "tvg_chno": 2846,
       "name_ar": "Expresion TV",
       "name_en": "Expresion TV",
       "country": "GT",
@@ -570,7 +597,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -578,7 +605,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -586,9 +613,9 @@
     {
       "id": "FeViviente.gt",
       "code": "FEV-GT-001",
-      "index": 2813,
+      "index": 2819,
       "tvg_id": null,
-      "tvg_chno": 2913,
+      "tvg_chno": 2919,
       "name_ar": "Fe Viviente",
       "name_en": "Fe Viviente",
       "country": "GT",
@@ -597,7 +624,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -605,7 +632,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -613,9 +640,9 @@
     {
       "id": "FranchsTV.gt",
       "code": "FRA-GT-001",
-      "index": 2922,
+      "index": 2928,
       "tvg_id": null,
-      "tvg_chno": 3022,
+      "tvg_chno": 3028,
       "name_ar": "Franchs TV",
       "name_en": "Franchs TV",
       "country": "GT",
@@ -624,7 +651,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -632,7 +659,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -640,9 +667,9 @@
     {
       "id": "GardeniasTV.gt",
       "code": "GAR-GT-001",
-      "index": 2991,
+      "index": 2997,
       "tvg_id": null,
-      "tvg_chno": 3091,
+      "tvg_chno": 3097,
       "name_ar": "Gardenias TV",
       "name_en": "Gardenias TV",
       "country": "GT",
@@ -651,7 +678,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -659,7 +686,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -667,9 +694,9 @@
     {
       "id": "Guatevision.gt",
       "code": "GUA-GT-001",
-      "index": 3168,
+      "index": 3174,
       "tvg_id": null,
-      "tvg_chno": 3268,
+      "tvg_chno": 3274,
       "name_ar": "Guatevision",
       "name_en": "Guatevision",
       "country": "GT",
@@ -678,7 +705,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -686,7 +713,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -694,7 +721,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -702,7 +729,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -710,7 +737,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -718,9 +745,9 @@
     {
       "id": "IglesiaDelCamino.gt",
       "code": "IGL-GT-001",
-      "index": 3472,
+      "index": 3479,
       "tvg_id": null,
-      "tvg_chno": 3572,
+      "tvg_chno": 3579,
       "name_ar": "Iglesia Del Camino",
       "name_en": "Iglesia Del Camino",
       "country": "GT",
@@ -729,25 +756,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
-          "is_working": true
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "JacalCanal5.gt",
       "code": "JAC-GT-001",
-      "index": 3644,
+      "index": 3652,
       "tvg_id": null,
-      "tvg_chno": 3744,
+      "tvg_chno": 3752,
       "name_ar": "Jacal Canal 5",
       "name_en": "Jacal Canal 5",
       "country": "GT",
@@ -756,7 +783,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -764,7 +791,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -772,9 +799,9 @@
     {
       "id": "JehovaNissi.gt",
       "code": "JEH-GT-001",
-      "index": 3677,
+      "index": 3685,
       "tvg_id": null,
-      "tvg_chno": 3777,
+      "tvg_chno": 3785,
       "name_ar": "Jehova Nissi",
       "name_en": "Jehova Nissi",
       "country": "GT",
@@ -783,7 +810,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -791,7 +818,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -799,9 +826,9 @@
     {
       "id": "JubiloTV.gt",
       "code": "JUB-GT-001",
-      "index": 3749,
+      "index": 3757,
       "tvg_id": null,
-      "tvg_chno": 3849,
+      "tvg_chno": 3857,
       "name_ar": "Jubilo TV",
       "name_en": "Jubilo TV",
       "country": "GT",
@@ -810,7 +837,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -818,7 +845,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -826,9 +853,9 @@
     {
       "id": "Knal4Quiche.gt",
       "code": "KNA-GT-001",
-      "index": 3943,
+      "index": 3952,
       "tvg_id": null,
-      "tvg_chno": 4043,
+      "tvg_chno": 4052,
       "name_ar": "Knal 4 Quiche",
       "name_en": "Knal 4 Quiche",
       "country": "GT",
@@ -837,7 +864,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -845,7 +872,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -853,9 +880,9 @@
     {
       "id": "MASTV.gt",
       "code": "MAS-GT-001",
-      "index": 4435,
+      "index": 4445,
       "tvg_id": null,
-      "tvg_chno": 4535,
+      "tvg_chno": 4545,
       "name_ar": "MAS TV",
       "name_en": "MAS TV",
       "country": "GT",
@@ -864,7 +891,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -872,7 +899,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -880,9 +907,9 @@
     {
       "id": "MaxivisionTV.gt",
       "code": "MAX-GT-001",
-      "index": 4461,
+      "index": 4471,
       "tvg_id": null,
-      "tvg_chno": 4561,
+      "tvg_chno": 4571,
       "name_ar": "Maxivision TV",
       "name_en": "Maxivision TV",
       "country": "GT",
@@ -891,7 +918,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -899,7 +926,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -907,9 +934,9 @@
     {
       "id": "MCNTelevision.gt",
       "code": "MCN-GT-001",
-      "index": 4503,
+      "index": 4513,
       "tvg_id": null,
-      "tvg_chno": 4603,
+      "tvg_chno": 4613,
       "name_ar": "MCN Television",
       "name_en": "MCN Television",
       "country": "GT",
@@ -918,7 +945,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -926,7 +953,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -934,9 +961,9 @@
     {
       "id": "MultivisionCanal3.gt",
       "code": "MUL-GT-001",
-      "index": 4829,
+      "index": 4840,
       "tvg_id": null,
-      "tvg_chno": 4929,
+      "tvg_chno": 4940,
       "name_ar": "Multivision Canal 3",
       "name_en": "Multivision Canal 3",
       "country": "GT",
@@ -945,7 +972,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -953,7 +980,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -961,9 +988,9 @@
     {
       "id": "MultivisionSports.gt",
       "code": "MUL-GT-002",
-      "index": 4831,
+      "index": 4842,
       "tvg_id": null,
-      "tvg_chno": 4931,
+      "tvg_chno": 4942,
       "name_ar": "Multivision Sports",
       "name_en": "Multivision Sports",
       "country": "GT",
@@ -972,7 +999,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -980,7 +1007,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -988,9 +1015,9 @@
     {
       "id": "NimTV.gt",
       "code": "NIM-GT-001",
-      "index": 5115,
+      "index": 5128,
       "tvg_id": null,
-      "tvg_chno": 5215,
+      "tvg_chno": 5228,
       "name_ar": "Nim TV",
       "name_en": "Nim TV",
       "country": "GT",
@@ -999,7 +1026,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1007,7 +1034,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1015,9 +1042,9 @@
     {
       "id": "NuestraImagenTV.gt",
       "code": "NUE-GT-001",
-      "index": 5236,
+      "index": 5249,
       "tvg_id": null,
-      "tvg_chno": 5336,
+      "tvg_chno": 5349,
       "name_ar": "Nuestra Imagen TV",
       "name_en": "Nuestra Imagen TV",
       "country": "GT",
@@ -1026,7 +1053,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1034,7 +1061,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1042,9 +1069,9 @@
     {
       "id": "PenielKY.gt",
       "code": "PEN-GT-001",
-      "index": 5563,
+      "index": 5576,
       "tvg_id": null,
-      "tvg_chno": 5663,
+      "tvg_chno": 5676,
       "name_ar": "Peniel K&Y",
       "name_en": "Peniel K&Y",
       "country": "GT",
@@ -1053,7 +1080,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1061,7 +1088,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1069,9 +1096,9 @@
     {
       "id": "PenielMusical.gt",
       "code": "PEN-GT-002",
-      "index": 5564,
+      "index": 5577,
       "tvg_id": null,
-      "tvg_chno": 5664,
+      "tvg_chno": 5677,
       "name_ar": "Peniel Musical",
       "name_en": "Peniel Musical",
       "country": "GT",
@@ -1080,7 +1107,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1088,7 +1115,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -1096,7 +1123,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1104,9 +1131,9 @@
     {
       "id": "PenielTVBibliaAbierta.gt",
       "code": "PEN-GT-003",
-      "index": 5565,
+      "index": 5578,
       "tvg_id": null,
-      "tvg_chno": 5665,
+      "tvg_chno": 5678,
       "name_ar": "Peniel TV Biblia Abierta",
       "name_en": "Peniel TV Biblia Abierta",
       "country": "GT",
@@ -1115,7 +1142,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1123,7 +1150,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1131,9 +1158,9 @@
     {
       "id": "PlenitudTV.gt",
       "code": "PLE-GT-001",
-      "index": 5647,
+      "index": 5660,
       "tvg_id": null,
-      "tvg_chno": 5747,
+      "tvg_chno": 5760,
       "name_ar": "Plenitud TV",
       "name_en": "Plenitud TV",
       "country": "GT",
@@ -1142,7 +1169,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1150,7 +1177,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1158,9 +1185,9 @@
     {
       "id": "PresenciaTelevision.gt",
       "code": "PRE-GT-001",
-      "index": 6014,
+      "index": 6027,
       "tvg_id": null,
-      "tvg_chno": 6114,
+      "tvg_chno": 6127,
       "name_ar": "Presencia Television",
       "name_en": "Presencia Television",
       "country": "GT",
@@ -1169,7 +1196,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1177,7 +1204,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         },
         {
@@ -1185,7 +1212,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1193,9 +1220,9 @@
     {
       "id": "RadioCoatanCanal21.gt",
       "code": "RAD-GT-001",
-      "index": 6229,
+      "index": 6243,
       "tvg_id": null,
-      "tvg_chno": 6329,
+      "tvg_chno": 6343,
       "name_ar": "Radio Coatan Canal 21",
       "name_en": "Radio Coatan Canal 21",
       "country": "GT",
@@ -1204,7 +1231,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1212,7 +1239,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1220,9 +1247,9 @@
     {
       "id": "RhemaTV.gt",
       "code": "RHE-GT-001",
-      "index": 6549,
+      "index": 6563,
       "tvg_id": null,
-      "tvg_chno": 6649,
+      "tvg_chno": 6663,
       "name_ar": "Rhema TV",
       "name_en": "Rhema TV",
       "country": "GT",
@@ -1231,7 +1258,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1239,7 +1266,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -1247,7 +1274,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         },
         {
@@ -1255,7 +1282,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1263,9 +1290,9 @@
     {
       "id": "SASTV.gt",
       "code": "SAS-GT-001",
-      "index": 6907,
+      "index": 6921,
       "tvg_id": null,
-      "tvg_chno": 7007,
+      "tvg_chno": 7021,
       "name_ar": "SAS TV",
       "name_en": "SAS TV",
       "country": "GT",
@@ -1274,7 +1301,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1282,7 +1309,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1290,9 +1317,9 @@
     {
       "id": "SILTV.gt",
       "code": "SIL-GT-001",
-      "index": 7105,
+      "index": 7119,
       "tvg_id": null,
-      "tvg_chno": 7205,
+      "tvg_chno": 7219,
       "name_ar": "SIL TV",
       "name_en": "SIL TV",
       "country": "GT",
@@ -1301,7 +1328,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1309,7 +1336,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1317,9 +1344,9 @@
     {
       "id": "TN23.gt",
       "code": "TNX-GT-001",
-      "index": 8054,
+      "index": 8070,
       "tvg_id": null,
-      "tvg_chno": 8154,
+      "tvg_chno": 8170,
       "name_ar": "TN23",
       "name_en": "TN23",
       "country": "GT",
@@ -1328,7 +1355,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1336,7 +1363,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1344,9 +1371,9 @@
     {
       "id": "Totovision.gt",
       "code": "TOT-GT-001",
-      "index": 8126,
+      "index": 8143,
       "tvg_id": null,
-      "tvg_chno": 8226,
+      "tvg_chno": 8243,
       "name_ar": "Totovision",
       "name_en": "Totovision",
       "country": "GT",
@@ -1355,7 +1382,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1363,7 +1390,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1371,9 +1398,9 @@
     {
       "id": "Tunevision.gt",
       "code": "TUN-GT-001",
-      "index": 8233,
+      "index": 8250,
       "tvg_id": null,
-      "tvg_chno": 8333,
+      "tvg_chno": 8350,
       "name_ar": "Tunevision",
       "name_en": "Tunevision",
       "country": "GT",
@@ -1382,7 +1409,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1390,7 +1417,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1398,9 +1425,9 @@
     {
       "id": "TVFlorencia.gt",
       "code": "TVF-GT-001",
-      "index": 8437,
+      "index": 8454,
       "tvg_id": null,
-      "tvg_chno": 8537,
+      "tvg_chno": 8554,
       "name_ar": "TV Florencia",
       "name_en": "TV Florencia",
       "country": "GT",
@@ -1409,7 +1436,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1417,7 +1444,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1425,9 +1452,9 @@
     {
       "id": "TVMaria.gt",
       "code": "TVM-GT-001",
-      "index": 8514,
+      "index": 8531,
       "tvg_id": null,
-      "tvg_chno": 8614,
+      "tvg_chno": 8631,
       "name_ar": "TV Maria",
       "name_en": "TV Maria",
       "country": "GT",
@@ -1436,7 +1463,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1444,7 +1471,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1452,9 +1479,9 @@
     {
       "id": "TVSRetro.gt",
       "code": "TVS-GT-001",
-      "index": 8682,
+      "index": 8699,
       "tvg_id": null,
-      "tvg_chno": 8782,
+      "tvg_chno": 8799,
       "name_ar": "TVS Retro",
       "name_en": "TVS Retro",
       "country": "GT",
@@ -1463,7 +1490,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1471,7 +1498,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1479,9 +1506,9 @@
     {
       "id": "TVTun.gt",
       "code": "TVT-GT-001",
-      "index": 8713,
+      "index": 8730,
       "tvg_id": null,
-      "tvg_chno": 8813,
+      "tvg_chno": 8830,
       "name_ar": "TV Tun",
       "name_en": "TV Tun",
       "country": "GT",
@@ -1490,7 +1517,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1498,7 +1525,7 @@
           "quality": "240p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1506,9 +1533,9 @@
     {
       "id": "UnicaTV.gt",
       "code": "UNI-GT-001",
-      "index": 8802,
+      "index": 8819,
       "tvg_id": null,
-      "tvg_chno": 8902,
+      "tvg_chno": 8919,
       "name_ar": "Unica TV",
       "name_en": "Unica TV",
       "country": "GT",
@@ -1517,7 +1544,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1525,7 +1552,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": false
         }
       ]
@@ -1533,9 +1560,9 @@
     {
       "id": "VeaCanal.gt",
       "code": "VEA-GT-001",
-      "index": 8897,
+      "index": 8915,
       "tvg_id": null,
-      "tvg_chno": 8997,
+      "tvg_chno": 9015,
       "name_ar": "Vea Canal",
       "name_en": "Vea Canal",
       "country": "GT",
@@ -1544,7 +1571,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1552,7 +1579,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
@@ -1560,9 +1587,9 @@
     {
       "id": "WorldTVGuatemala.gt",
       "code": "WOR-GT-001",
-      "index": 9214,
+      "index": 9232,
       "tvg_id": null,
-      "tvg_chno": 9314,
+      "tvg_chno": 9332,
       "name_ar": "World TV Guatemala",
       "name_en": "World TV Guatemala",
       "country": "GT",
@@ -1571,7 +1598,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-25T12:10:11.030082+00:00",
+      "last_checked": "2026-11-26T11:57:28.703323+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1579,11 +1606,11 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-25T12:10:11.030082+00:00",
+          "last_checked": "2026-11-26T11:57:28.703323+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-25T12:10:11.030082+00:00"
+  "last_updated": "2026-11-26T11:57:28.703323+00:00"
 }
