@@ -17,7 +17,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -25,7 +25,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -33,7 +33,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -41,7 +41,7 @@
           "quality": null,
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -49,9 +49,9 @@
     {
       "id": "AlegriaTV.bo",
       "code": "ALE-BO-001",
-      "index": 386,
+      "index": 385,
       "tvg_id": null,
-      "tvg_chno": 486,
+      "tvg_chno": 485,
       "name_ar": "Alegria TV",
       "name_en": "Alegria TV",
       "country": "BO",
@@ -60,7 +60,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -68,7 +68,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -76,9 +76,9 @@
     {
       "id": "AmitelTV.bo",
       "code": "AMI-BO-001",
-      "index": 545,
+      "index": 544,
       "tvg_id": null,
-      "tvg_chno": 645,
+      "tvg_chno": 644,
       "name_ar": "Amitel TV",
       "name_en": "Amitel TV",
       "country": "BO",
@@ -87,7 +87,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -95,7 +95,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -103,9 +103,9 @@
     {
       "id": "AsContenidos.bo",
       "code": "ASC-BO-001",
-      "index": 705,
+      "index": 706,
       "tvg_id": null,
-      "tvg_chno": 805,
+      "tvg_chno": 806,
       "name_ar": "As Contenidos",
       "name_en": "As Contenidos",
       "country": "BO",
@@ -114,7 +114,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -122,7 +122,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -130,9 +130,9 @@
     {
       "id": "AsiesmiPuebloTV.bo",
       "code": "ASI-BO-001",
-      "index": 725,
+      "index": 727,
       "tvg_id": null,
-      "tvg_chno": 825,
+      "tvg_chno": 827,
       "name_ar": "Asi es mi Pueblo TV",
       "name_en": "Asi es mi Pueblo TV",
       "country": "BO",
@@ -141,7 +141,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -149,7 +149,15 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
+          "is_working": true
+        },
+        {
+          "url": "https://edge.enhdtv.com/asiestv/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -157,9 +165,9 @@
     {
       "id": "Audiokiss.bo",
       "code": "AUD-BO-001",
-      "index": 781,
+      "index": 783,
       "tvg_id": null,
-      "tvg_chno": 881,
+      "tvg_chno": 883,
       "name_ar": "Audiokiss",
       "name_en": "Audiokiss",
       "country": "BO",
@@ -168,7 +176,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -176,7 +184,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -184,9 +192,9 @@
     {
       "id": "AYNITV.bo",
       "code": "AYN-BO-001",
-      "index": 833,
+      "index": 835,
       "tvg_id": null,
-      "tvg_chno": 933,
+      "tvg_chno": 935,
       "name_ar": "AYNI TV",
       "name_en": "AYNI TV",
       "country": "BO",
@@ -195,7 +203,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -203,7 +211,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -211,7 +219,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -219,7 +227,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -227,9 +235,9 @@
     {
       "id": "BoliviaTV.bo",
       "code": "BOL-BO-001",
-      "index": 1146,
+      "index": 1150,
       "tvg_id": null,
-      "tvg_chno": 1246,
+      "tvg_chno": 1250,
       "name_ar": "Bolivia TV",
       "name_en": "Bolivia TV",
       "country": "BO",
@@ -238,7 +246,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -246,7 +254,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -254,7 +262,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -262,7 +270,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -270,9 +278,9 @@
     {
       "id": "Bolivision.bo",
       "code": "BOL-BO-002",
-      "index": 1147,
+      "index": 1151,
       "tvg_id": null,
-      "tvg_chno": 1247,
+      "tvg_chno": 1251,
       "name_ar": "Bolivision",
       "name_en": "Bolivision",
       "country": "BO",
@@ -281,7 +289,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -289,7 +297,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -297,7 +305,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -305,7 +313,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -313,9 +321,9 @@
     {
       "id": "CadenaA.bo",
       "code": "CAD-BO-001",
-      "index": 1275,
+      "index": 1280,
       "tvg_id": null,
-      "tvg_chno": 1375,
+      "tvg_chno": 1380,
       "name_ar": "Cadena A",
       "name_en": "Cadena A",
       "country": "BO",
@@ -324,7 +332,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -332,7 +340,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -340,7 +348,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -348,7 +356,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -356,9 +364,9 @@
     {
       "id": "Canal14ValleAltoTelevision.bo",
       "code": "CAN-BO-001",
-      "index": 1335,
+      "index": 1340,
       "tvg_id": null,
-      "tvg_chno": 1435,
+      "tvg_chno": 1440,
       "name_ar": "Canal 14 Valle Alto Television",
       "name_en": "Canal 14 Valle Alto Television",
       "country": "BO",
@@ -367,7 +375,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -375,7 +383,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -383,9 +391,9 @@
     {
       "id": "Canal15Teleor.bo",
       "code": "CAN-BO-002",
-      "index": 1338,
+      "index": 1343,
       "tvg_id": null,
-      "tvg_chno": 1438,
+      "tvg_chno": 1443,
       "name_ar": "Canal 15 Teleor",
       "name_en": "Canal 15 Teleor",
       "country": "BO",
@@ -394,7 +402,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -402,7 +410,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -410,9 +418,9 @@
     {
       "id": "Canal56QuieroTV.bo",
       "code": "CAN-BO-003",
-      "index": 1393,
+      "index": 1398,
       "tvg_id": null,
-      "tvg_chno": 1493,
+      "tvg_chno": 1498,
       "name_ar": "Canal 56 Quiero TV",
       "name_en": "Canal 56 Quiero TV",
       "country": "BO",
@@ -421,7 +429,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -429,7 +437,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -437,9 +445,9 @@
     {
       "id": "CanalGuiaABE.bo",
       "code": "CAN-BO-004",
-      "index": 1469,
+      "index": 1474,
       "tvg_id": null,
-      "tvg_chno": 1569,
+      "tvg_chno": 1574,
       "name_ar": "Canal Guia ABE",
       "name_en": "Canal Guia ABE",
       "country": "BO",
@@ -448,7 +456,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -456,7 +464,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -464,9 +472,9 @@
     {
       "id": "CEACOMTV.bo",
       "code": "CEA-BO-001",
-      "index": 1674,
+      "index": 1680,
       "tvg_id": null,
-      "tvg_chno": 1774,
+      "tvg_chno": 1780,
       "name_ar": "CEACOM TV",
       "name_en": "CEACOM TV",
       "country": "BO",
@@ -475,7 +483,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -483,7 +491,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -491,9 +499,9 @@
     {
       "id": "CineramaTelevision.bo",
       "code": "CIN-BO-001",
-      "index": 1817,
+      "index": 1825,
       "tvg_id": null,
-      "tvg_chno": 1917,
+      "tvg_chno": 1925,
       "name_ar": "Cinerama Television",
       "name_en": "Cinerama Television",
       "country": "BO",
@@ -502,7 +510,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -510,7 +518,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -518,7 +526,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -526,9 +534,9 @@
     {
       "id": "CTV.bo",
       "code": "CTV-BO-001",
-      "index": 2107,
+      "index": 2115,
       "tvg_id": null,
-      "tvg_chno": 2207,
+      "tvg_chno": 2215,
       "name_ar": "CTV",
       "name_en": "CTV",
       "country": "BO",
@@ -537,7 +545,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -545,7 +553,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -553,7 +561,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -561,7 +569,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -569,7 +577,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -577,7 +585,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -585,7 +593,7 @@
           "quality": "unknown",
           "protocol": "unknown",
           "priority": 5,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -593,9 +601,9 @@
     {
       "id": "CVC.bo",
       "code": "CVC-BO-001",
-      "index": 2129,
+      "index": 2137,
       "tvg_id": null,
-      "tvg_chno": 2229,
+      "tvg_chno": 2237,
       "name_ar": "CVC",
       "name_en": "CVC",
       "country": "BO",
@@ -604,7 +612,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -612,7 +620,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -620,7 +628,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -628,9 +636,9 @@
     {
       "id": "DeltaTV.bo",
       "code": "DEL-BO-001",
-      "index": 2247,
+      "index": 2255,
       "tvg_id": null,
-      "tvg_chno": 2347,
+      "tvg_chno": 2355,
       "name_ar": "Delta TV",
       "name_en": "Delta TV",
       "country": "BO",
@@ -639,7 +647,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -647,7 +655,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -655,7 +663,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -663,9 +671,9 @@
     {
       "id": "DmodaChannel.bo",
       "code": "DMO-BO-001",
-      "index": 2373,
+      "index": 2383,
       "tvg_id": null,
-      "tvg_chno": 2473,
+      "tvg_chno": 2483,
       "name_ar": "Dmoda Channel",
       "name_en": "Dmoda Channel",
       "country": "BO",
@@ -674,7 +682,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -682,7 +690,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -690,9 +698,9 @@
     {
       "id": "ELDEBER.bo",
       "code": "ELD-BO-001",
-      "index": 2547,
+      "index": 2557,
       "tvg_id": null,
-      "tvg_chno": 2647,
+      "tvg_chno": 2657,
       "name_ar": "EL DEBER",
       "name_en": "EL DEBER",
       "country": "BO",
@@ -701,7 +709,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -709,7 +717,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -717,9 +725,9 @@
     {
       "id": "EnVivoTV.bo",
       "code": "ENV-BO-001",
-      "index": 2625,
+      "index": 2635,
       "tvg_id": null,
-      "tvg_chno": 2725,
+      "tvg_chno": 2735,
       "name_ar": "En Vivo TV",
       "name_en": "En Vivo TV",
       "country": "BO",
@@ -728,7 +736,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -736,7 +744,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -744,9 +752,9 @@
     {
       "id": "F10HD.bo",
       "code": "FHD-BO-001",
-      "index": 2755,
+      "index": 2765,
       "tvg_id": null,
-      "tvg_chno": 2855,
+      "tvg_chno": 2865,
       "name_ar": "F10 HD",
       "name_en": "F10 HD",
       "country": "BO",
@@ -755,7 +763,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -763,7 +771,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -771,7 +779,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -779,9 +787,9 @@
     {
       "id": "FAPTV.bo",
       "code": "FAP-BO-001",
-      "index": 2777,
+      "index": 2787,
       "tvg_id": null,
-      "tvg_chno": 2877,
+      "tvg_chno": 2887,
       "name_ar": "FAP TV",
       "name_en": "FAP TV",
       "country": "BO",
@@ -790,7 +798,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -798,7 +806,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -806,7 +814,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -814,9 +822,9 @@
     {
       "id": "FTV.bo",
       "code": "FTV-BO-001",
-      "index": 2951,
+      "index": 2962,
       "tvg_id": null,
-      "tvg_chno": 3051,
+      "tvg_chno": 3062,
       "name_ar": "FTV",
       "name_en": "FTV",
       "country": "BO",
@@ -825,7 +833,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -833,7 +841,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -841,9 +849,9 @@
     {
       "id": "Gigavision.bo",
       "code": "GIG-BO-001",
-      "index": 3048,
+      "index": 3059,
       "tvg_id": null,
-      "tvg_chno": 3148,
+      "tvg_chno": 3159,
       "name_ar": "Gigavision",
       "name_en": "Gigavision",
       "country": "BO",
@@ -852,7 +860,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -860,7 +868,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -868,7 +876,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -876,7 +884,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -884,7 +892,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -892,9 +900,9 @@
     {
       "id": "GoGoPlayTV.bo",
       "code": "GOG-BO-001",
-      "index": 3093,
+      "index": 3104,
       "tvg_id": null,
-      "tvg_chno": 3193,
+      "tvg_chno": 3204,
       "name_ar": "GoGoPlayTV",
       "name_en": "GoGoPlayTV",
       "country": "BO",
@@ -903,7 +911,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -911,7 +919,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -919,9 +927,9 @@
     {
       "id": "ImperialTV.bo",
       "code": "IMP-BO-001",
-      "index": 3514,
+      "index": 3525,
       "tvg_id": null,
-      "tvg_chno": 3614,
+      "tvg_chno": 3625,
       "name_ar": "Imperial TV",
       "name_en": "Imperial TV",
       "country": "BO",
@@ -930,7 +938,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -938,7 +946,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -946,9 +954,9 @@
     {
       "id": "InteractivoTelevision.bo",
       "code": "INT-BO-001",
-      "index": 3565,
+      "index": 3575,
       "tvg_id": null,
-      "tvg_chno": 3665,
+      "tvg_chno": 3675,
       "name_ar": "Interactivo Television",
       "name_en": "Interactivo Television",
       "country": "BO",
@@ -957,7 +965,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -965,7 +973,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -973,7 +981,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -981,9 +989,9 @@
     {
       "id": "LaExitosaTVRiberalta.bo",
       "code": "LAE-BO-001",
-      "index": 4064,
+      "index": 4076,
       "tvg_id": null,
-      "tvg_chno": 4164,
+      "tvg_chno": 4176,
       "name_ar": "La Exitosa TV Riberalta",
       "name_en": "La Exitosa TV Riberalta",
       "country": "BO",
@@ -992,7 +1000,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1000,7 +1008,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1008,9 +1016,9 @@
     {
       "id": "PalenqueTV.bo",
       "code": "PAL-BO-001",
-      "index": 5483,
+      "index": 5503,
       "tvg_id": null,
-      "tvg_chno": 5583,
+      "tvg_chno": 5603,
       "name_ar": "Palenque TV",
       "name_en": "Palenque TV",
       "country": "BO",
@@ -1019,7 +1027,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1027,7 +1035,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1035,7 +1043,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1043,7 +1051,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1051,9 +1059,9 @@
     {
       "id": "PAT.bo",
       "code": "PAT-BO-001",
-      "index": 5535,
+      "index": 5555,
       "tvg_id": null,
-      "tvg_chno": 5635,
+      "tvg_chno": 5655,
       "name_ar": "PAT",
       "name_en": "PAT",
       "country": "BO",
@@ -1062,7 +1070,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1070,7 +1078,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1078,9 +1086,9 @@
     {
       "id": "PIMEDIATV.bo",
       "code": "PIM-BO-001",
-      "index": 5638,
+      "index": 5658,
       "tvg_id": null,
-      "tvg_chno": 5738,
+      "tvg_chno": 5758,
       "name_ar": "PI MEDIA TV",
       "name_en": "PI MEDIA TV",
       "country": "BO",
@@ -1089,7 +1097,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1097,7 +1105,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1105,9 +1113,9 @@
     {
       "id": "PlusTLT.bo",
       "code": "PLU-BO-001",
-      "index": 5667,
+      "index": 5687,
       "tvg_id": null,
-      "tvg_chno": 5767,
+      "tvg_chno": 5787,
       "name_ar": "Plus TLT",
       "name_en": "Plus TLT",
       "country": "BO",
@@ -1116,7 +1124,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1124,7 +1132,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1132,7 +1140,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1140,9 +1148,9 @@
     {
       "id": "PoderdeDiosTV.bo",
       "code": "POD-BO-001",
-      "index": 5952,
+      "index": 5972,
       "tvg_id": null,
-      "tvg_chno": 6052,
+      "tvg_chno": 6072,
       "name_ar": "Poder de Dios TV",
       "name_en": "Poder de Dios TV",
       "country": "BO",
@@ -1151,7 +1159,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1159,7 +1167,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1167,7 +1175,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1175,9 +1183,9 @@
     {
       "id": "RadioCentro.bo",
       "code": "RAD-BO-001",
-      "index": 6237,
+      "index": 6259,
       "tvg_id": null,
-      "tvg_chno": 6337,
+      "tvg_chno": 6359,
       "name_ar": "Radio Centro",
       "name_en": "Radio Centro",
       "country": "BO",
@@ -1186,7 +1194,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1194,7 +1202,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1202,9 +1210,9 @@
     {
       "id": "RadioClasicaTV.bo",
       "code": "RAD-BO-002",
-      "index": 6241,
+      "index": 6263,
       "tvg_id": null,
-      "tvg_chno": 6341,
+      "tvg_chno": 6363,
       "name_ar": "Radio Clasica TV",
       "name_en": "Radio Clasica TV",
       "country": "BO",
@@ -1213,25 +1221,25 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
-      "is_working": true,
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
+      "is_working": false,
       "streams": [
         {
           "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
-          "is_working": true
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
+          "is_working": false
         }
       ]
     },
     {
       "id": "RadioKollasuyo.bo",
       "code": "RAD-BO-003",
-      "index": 6272,
+      "index": 6294,
       "tvg_id": null,
-      "tvg_chno": 6372,
+      "tvg_chno": 6394,
       "name_ar": "Radio Kollasuyo",
       "name_en": "Radio Kollasuyo",
       "country": "BO",
@@ -1240,7 +1248,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1248,7 +1256,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1256,9 +1264,9 @@
     {
       "id": "RadioMegaTVAmazonia.bo",
       "code": "RAD-BO-004",
-      "index": 6278,
+      "index": 6300,
       "tvg_id": null,
-      "tvg_chno": 6378,
+      "tvg_chno": 6400,
       "name_ar": "Radio Mega TV Amazonia",
       "name_en": "Radio Mega TV Amazonia",
       "country": "BO",
@@ -1267,7 +1275,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1275,7 +1283,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1283,9 +1291,9 @@
     {
       "id": "RadioTVMega.bo",
       "code": "RAD-BO-005",
-      "index": 6338,
+      "index": 6360,
       "tvg_id": null,
-      "tvg_chno": 6438,
+      "tvg_chno": 6460,
       "name_ar": "Radio TV Mega",
       "name_en": "Radio TV Mega",
       "country": "BO",
@@ -1294,7 +1302,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1302,7 +1310,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1310,9 +1318,9 @@
     {
       "id": "RadioUniversitariaSanAndres.bo",
       "code": "RAD-BO-006",
-      "index": 6344,
+      "index": 6366,
       "tvg_id": null,
-      "tvg_chno": 6444,
+      "tvg_chno": 6466,
       "name_ar": "Radio Universitaria San Andres",
       "name_en": "Radio Universitaria San Andres",
       "country": "BO",
@@ -1321,7 +1329,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1329,7 +1337,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1337,9 +1345,9 @@
     {
       "id": "RATelevision.bo",
       "code": "RAT-BO-001",
-      "index": 6412,
+      "index": 6434,
       "tvg_id": null,
-      "tvg_chno": 6512,
+      "tvg_chno": 6534,
       "name_ar": "RA Television",
       "name_en": "RA Television",
       "country": "BO",
@@ -1348,7 +1356,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1356,7 +1364,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1364,9 +1372,9 @@
     {
       "id": "RedADvenirTV.bo",
       "code": "RED-BO-001",
-      "index": 6469,
+      "index": 6491,
       "tvg_id": null,
-      "tvg_chno": 6569,
+      "tvg_chno": 6591,
       "name_ar": "RedADvenir TV",
       "name_en": "RedADvenir TV",
       "country": "BO",
@@ -1375,7 +1383,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1383,7 +1391,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1391,7 +1399,7 @@
           "quality": "360p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1399,9 +1407,9 @@
     {
       "id": "RedAmericaTV.bo",
       "code": "RED-BO-002",
-      "index": 6470,
+      "index": 6492,
       "tvg_id": null,
-      "tvg_chno": 6570,
+      "tvg_chno": 6592,
       "name_ar": "Red America TV",
       "name_en": "Red America TV",
       "country": "BO",
@@ -1410,7 +1418,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1418,7 +1426,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1426,9 +1434,9 @@
     {
       "id": "RedCCTV.bo",
       "code": "RED-BO-003",
-      "index": 6474,
+      "index": 6496,
       "tvg_id": null,
-      "tvg_chno": 6574,
+      "tvg_chno": 6596,
       "name_ar": "Red CCTV",
       "name_en": "Red CCTV",
       "country": "BO",
@@ -1437,7 +1445,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1445,7 +1453,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1453,7 +1461,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1461,9 +1469,9 @@
     {
       "id": "RedDTV.bo",
       "code": "RED-BO-004",
-      "index": 6476,
+      "index": 6498,
       "tvg_id": null,
-      "tvg_chno": 6576,
+      "tvg_chno": 6598,
       "name_ar": "Red DTV",
       "name_en": "Red DTV",
       "country": "BO",
@@ -1472,7 +1480,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1480,7 +1488,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1488,9 +1496,9 @@
     {
       "id": "RedRubi.bo",
       "code": "RED-BO-005",
-      "index": 6498,
+      "index": 6520,
       "tvg_id": null,
-      "tvg_chno": 6598,
+      "tvg_chno": 6620,
       "name_ar": "Red Rubi",
       "name_en": "Red Rubi",
       "country": "BO",
@@ -1499,7 +1507,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1507,7 +1515,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1515,9 +1523,9 @@
     {
       "id": "RedTVShop.bo",
       "code": "RED-BO-006",
-      "index": 6501,
+      "index": 6523,
       "tvg_id": null,
-      "tvg_chno": 6601,
+      "tvg_chno": 6623,
       "name_ar": "Red TV Shop",
       "name_en": "Red TV Shop",
       "country": "BO",
@@ -1526,7 +1534,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1534,7 +1542,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1542,9 +1550,9 @@
     {
       "id": "RedUno.bo",
       "code": "RED-BO-007",
-      "index": 6502,
+      "index": 6524,
       "tvg_id": null,
-      "tvg_chno": 6602,
+      "tvg_chno": 6624,
       "name_ar": "Red Uno",
       "name_en": "Red Uno",
       "country": "BO",
@@ -1553,7 +1561,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1561,7 +1569,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1569,7 +1577,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1577,7 +1585,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1585,7 +1593,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1593,7 +1601,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1601,7 +1609,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1609,9 +1617,9 @@
     {
       "id": "RTP.bo",
       "code": "RTP-BO-001",
-      "index": 6706,
+      "index": 6728,
       "tvg_id": null,
-      "tvg_chno": 6806,
+      "tvg_chno": 6828,
       "name_ar": "RTP",
       "name_en": "RTP",
       "country": "BO",
@@ -1620,7 +1628,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1628,7 +1636,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1636,7 +1644,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1644,7 +1652,7 @@
           "quality": "480p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1652,7 +1660,7 @@
           "quality": null,
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1660,7 +1668,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1668,7 +1676,7 @@
           "quality": "unknown",
           "protocol": "hls",
           "priority": 5,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1676,9 +1684,9 @@
     {
       "id": "SABCOVision.bo",
       "code": "SAB-BO-001",
-      "index": 6826,
+      "index": 6848,
       "tvg_id": null,
-      "tvg_chno": 6926,
+      "tvg_chno": 6948,
       "name_ar": "SABCO Vision",
       "name_en": "SABCO Vision",
       "country": "BO",
@@ -1687,7 +1695,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1695,7 +1703,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1703,9 +1711,9 @@
     {
       "id": "SigloXXITV.bo",
       "code": "SIG-BO-001",
-      "index": 7113,
+      "index": 7137,
       "tvg_id": null,
-      "tvg_chno": 7213,
+      "tvg_chno": 7237,
       "name_ar": "Siglo XXI TV",
       "name_en": "Siglo XXI TV",
       "country": "BO",
@@ -1714,15 +1722,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "https://edge.enhdtv.com/sigloxxi/index.m3u8",
+          "quality": "720p",
+          "protocol": "hls",
+          "priority": 2,
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
+          "is_working": true
+        },
         {
           "url": "http://190.181.61.93:8000/play/a00b/index.m3u8",
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1730,9 +1746,9 @@
     {
       "id": "SolTV.bo",
       "code": "SOL-BO-001",
-      "index": 7218,
+      "index": 7242,
       "tvg_id": null,
-      "tvg_chno": 7318,
+      "tvg_chno": 7342,
       "name_ar": "Sol TV",
       "name_en": "Sol TV",
       "country": "BO",
@@ -1741,7 +1757,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1749,7 +1765,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1757,7 +1773,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1765,9 +1781,9 @@
     {
       "id": "SPCCanal15.bo",
       "code": "SPC-BO-001",
-      "index": 7300,
+      "index": 7325,
       "tvg_id": null,
-      "tvg_chno": 7400,
+      "tvg_chno": 7425,
       "name_ar": "SPC Canal 15",
       "name_en": "SPC Canal 15",
       "country": "BO",
@@ -1776,7 +1792,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1784,7 +1800,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1792,7 +1808,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1800,9 +1816,9 @@
     {
       "id": "SucremantaTV.bo",
       "code": "SUC-BO-001",
-      "index": 7456,
+      "index": 7481,
       "tvg_id": null,
-      "tvg_chno": 7556,
+      "tvg_chno": 7581,
       "name_ar": "Sucremanta TV",
       "name_en": "Sucremanta TV",
       "country": "BO",
@@ -1811,7 +1827,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1819,7 +1835,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1827,7 +1843,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1835,9 +1851,9 @@
     {
       "id": "TDTMultimedia.bo",
       "code": "TDT-BO-001",
-      "index": 7654,
+      "index": 7680,
       "tvg_id": null,
-      "tvg_chno": 7754,
+      "tvg_chno": 7780,
       "name_ar": "TDT Multimedia",
       "name_en": "TDT Multimedia",
       "country": "BO",
@@ -1846,7 +1862,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1854,7 +1870,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1862,7 +1878,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1870,9 +1886,9 @@
     {
       "id": "TELE6.bo",
       "code": "TEL-BO-001",
-      "index": 7674,
+      "index": 7700,
       "tvg_id": null,
-      "tvg_chno": 7774,
+      "tvg_chno": 7800,
       "name_ar": "TELE 6",
       "name_en": "TELE 6",
       "country": "BO",
@@ -1881,7 +1897,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1889,7 +1905,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1897,7 +1913,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1905,9 +1921,9 @@
     {
       "id": "TeleFeBolivia.bo",
       "code": "TEL-BO-002",
-      "index": 7728,
+      "index": 7754,
       "tvg_id": null,
-      "tvg_chno": 7828,
+      "tvg_chno": 7854,
       "name_ar": "Tele Fe Bolivia",
       "name_en": "Tele Fe Bolivia",
       "country": "BO",
@@ -1916,7 +1932,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -1924,7 +1940,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -1932,9 +1948,9 @@
     {
       "id": "TigoSports.bo",
       "code": "TIG-BO-001",
-      "index": 8024,
+      "index": 8050,
       "tvg_id": null,
-      "tvg_chno": 8124,
+      "tvg_chno": 8150,
       "name_ar": "Tigo Sports",
       "name_en": "Tigo Sports",
       "country": "BO",
@@ -1943,7 +1959,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1951,7 +1967,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -1959,9 +1975,9 @@
     {
       "id": "TLEstrella.bo",
       "code": "TLE-BO-001",
-      "index": 8055,
+      "index": 8081,
       "tvg_id": null,
-      "tvg_chno": 8155,
+      "tvg_chno": 8181,
       "name_ar": "TL Estrella",
       "name_en": "TL Estrella",
       "country": "BO",
@@ -1970,7 +1986,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -1978,7 +1994,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -1986,7 +2002,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -1994,7 +2010,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2002,9 +2018,9 @@
     {
       "id": "TransMedia.bo",
       "code": "TRA-BO-001",
-      "index": 8177,
+      "index": 8205,
       "tvg_id": null,
-      "tvg_chno": 8277,
+      "tvg_chno": 8305,
       "name_ar": "TransMedia",
       "name_en": "TransMedia",
       "country": "BO",
@@ -2013,7 +2029,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2021,7 +2037,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2029,9 +2045,9 @@
     {
       "id": "TvCarigso.bo",
       "code": "TVC-BO-001",
-      "index": 8389,
+      "index": 8417,
       "tvg_id": null,
-      "tvg_chno": 8489,
+      "tvg_chno": 8517,
       "name_ar": "Tv Carigso",
       "name_en": "Tv Carigso",
       "country": "BO",
@@ -2040,7 +2056,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2048,7 +2064,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2056,9 +2072,9 @@
     {
       "id": "TVCulturas.bo",
       "code": "TVC-BO-002",
-      "index": 8424,
+      "index": 8452,
       "tvg_id": null,
-      "tvg_chno": 8524,
+      "tvg_chno": 8552,
       "name_ar": "TV Culturas",
       "name_en": "TV Culturas",
       "country": "BO",
@@ -2067,7 +2083,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2075,7 +2091,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2083,9 +2099,9 @@
     {
       "id": "TVOFF.bo",
       "code": "TVO-BO-001",
-      "index": 8575,
+      "index": 8604,
       "tvg_id": null,
-      "tvg_chno": 8675,
+      "tvg_chno": 8704,
       "name_ar": "TV OFF",
       "name_en": "TV OFF",
       "country": "BO",
@@ -2094,7 +2110,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2102,7 +2118,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2110,9 +2126,9 @@
     {
       "id": "TVShowOruro.bo",
       "code": "TVS-BO-001",
-      "index": 8679,
+      "index": 8708,
       "tvg_id": null,
-      "tvg_chno": 8779,
+      "tvg_chno": 8808,
       "name_ar": "TV Show Oruro",
       "name_en": "TV Show Oruro",
       "country": "BO",
@@ -2121,7 +2137,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2129,7 +2145,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2137,9 +2153,9 @@
     {
       "id": "TVUniversitaria.bo",
       "code": "TVU-BO-001",
-      "index": 8741,
+      "index": 8770,
       "tvg_id": null,
-      "tvg_chno": 8841,
+      "tvg_chno": 8870,
       "name_ar": "TV Universitaria",
       "name_en": "TV Universitaria",
       "country": "BO",
@@ -2148,7 +2164,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2156,7 +2172,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2164,9 +2180,9 @@
     {
       "id": "TVUSucre.bo",
       "code": "TVU-BO-002",
-      "index": 8744,
+      "index": 8773,
       "tvg_id": null,
-      "tvg_chno": 8844,
+      "tvg_chno": 8873,
       "name_ar": "TVU Sucre",
       "name_en": "TVU Sucre",
       "country": "BO",
@@ -2175,7 +2191,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2183,7 +2199,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2191,7 +2207,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2199,9 +2215,9 @@
     {
       "id": "UMSATVUInternacional.bo",
       "code": "UMS-BO-001",
-      "index": 8805,
+      "index": 8834,
       "tvg_id": null,
-      "tvg_chno": 8905,
+      "tvg_chno": 8934,
       "name_ar": "UMSA TVU Internacional",
       "name_en": "UMSA TVU Internacional",
       "country": "BO",
@@ -2210,7 +2226,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2218,7 +2234,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2226,7 +2242,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2234,9 +2250,9 @@
     {
       "id": "UMSATVULP.bo",
       "code": "UMS-BO-002",
-      "index": 8806,
+      "index": 8835,
       "tvg_id": null,
-      "tvg_chno": 8906,
+      "tvg_chno": 8935,
       "name_ar": "UMSA TVU LP",
       "name_en": "UMSA TVU LP",
       "country": "BO",
@@ -2245,7 +2261,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2253,7 +2269,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2261,7 +2277,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2269,7 +2285,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2277,9 +2293,9 @@
     {
       "id": "Unifranz.bo",
       "code": "UNI-BO-001",
-      "index": 8824,
+      "index": 8853,
       "tvg_id": null,
-      "tvg_chno": 8924,
+      "tvg_chno": 8953,
       "name_ar": "Unifranz",
       "name_en": "Unifranz",
       "country": "BO",
@@ -2288,7 +2304,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2296,7 +2312,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2304,7 +2320,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2312,9 +2328,9 @@
     {
       "id": "Unitel.bo",
       "code": "UNI-BO-002",
-      "index": 8834,
+      "index": 8863,
       "tvg_id": null,
-      "tvg_chno": 8934,
+      "tvg_chno": 8963,
       "name_ar": "Unitel",
       "name_en": "Unitel",
       "country": "BO",
@@ -2323,7 +2339,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2331,7 +2347,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2339,7 +2355,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2347,7 +2363,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2355,7 +2371,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2363,7 +2379,7 @@
           "quality": "576p",
           "protocol": "hls",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2371,9 +2387,9 @@
     {
       "id": "UnivalleTelevision.bo",
       "code": "UNI-BO-003",
-      "index": 8838,
+      "index": 8867,
       "tvg_id": null,
-      "tvg_chno": 8938,
+      "tvg_chno": 8967,
       "name_ar": "Univalle Television",
       "name_en": "Univalle Television",
       "country": "BO",
@@ -2382,7 +2398,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2390,7 +2406,7 @@
           "quality": "1080p",
           "protocol": "hls",
           "priority": 1,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2398,9 +2414,9 @@
     {
       "id": "UPEATV.bo",
       "code": "UPE-BO-001",
-      "index": 8853,
+      "index": 8882,
       "tvg_id": null,
-      "tvg_chno": 8953,
+      "tvg_chno": 8982,
       "name_ar": "UPEA TV",
       "name_en": "UPEA TV",
       "country": "BO",
@@ -2409,7 +2425,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2417,7 +2433,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2425,7 +2441,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
@@ -2433,9 +2449,9 @@
     {
       "id": "VosTV.bo",
       "code": "VOS-BO-001",
-      "index": 9080,
+      "index": 9109,
       "tvg_id": null,
-      "tvg_chno": 9180,
+      "tvg_chno": 9209,
       "name_ar": "Vos TV",
       "name_en": "Vos TV",
       "country": "BO",
@@ -2444,15 +2460,23 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
+        {
+          "url": "https://edge.enhdtv.com/vostv/index.m3u8",
+          "quality": "1080p",
+          "protocol": "hls",
+          "priority": 1,
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
+          "is_working": true
+        },
         {
           "url": "http://15.204.246.24:8080/VOSTVHD/index.m3u8",
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -2460,7 +2484,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2468,7 +2492,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2476,9 +2500,9 @@
     {
       "id": "VTVCanal17.bo",
       "code": "VTV-BO-001",
-      "index": 9116,
+      "index": 9145,
       "tvg_id": null,
-      "tvg_chno": 9216,
+      "tvg_chno": 9245,
       "name_ar": "VTV Canal 17",
       "name_en": "VTV Canal 17",
       "country": "BO",
@@ -2487,7 +2511,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2495,7 +2519,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         },
         {
@@ -2503,7 +2527,7 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2511,9 +2535,9 @@
     {
       "id": "XTOTV.bo",
       "code": "XTO-BO-001",
-      "index": 9277,
+      "index": 9305,
       "tvg_id": null,
-      "tvg_chno": 9377,
+      "tvg_chno": 9405,
       "name_ar": "XTOTV",
       "name_en": "XTOTV",
       "country": "BO",
@@ -2522,7 +2546,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": false,
       "streams": [
         {
@@ -2530,7 +2554,7 @@
           "quality": "720p",
           "protocol": "unknown",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         },
         {
@@ -2538,7 +2562,7 @@
           "quality": "1280p",
           "protocol": "unknown",
           "priority": 3,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": false
         }
       ]
@@ -2546,9 +2570,9 @@
     {
       "id": "ZuracaTV.bo",
       "code": "ZUR-BO-001",
-      "index": 9419,
+      "index": 9449,
       "tvg_id": null,
-      "tvg_chno": 9519,
+      "tvg_chno": 9549,
       "name_ar": "Zuraca TV",
       "name_en": "Zuraca TV",
       "country": "BO",
@@ -2557,7 +2581,7 @@
       "logo": null,
       "website": null,
       "priority": 1,
-      "last_checked": "2026-11-26T11:57:28.703323+00:00",
+      "last_checked": "2026-11-27T11:49:05.476484+00:00",
       "is_working": true,
       "streams": [
         {
@@ -2565,11 +2589,11 @@
           "quality": "720p",
           "protocol": "hls",
           "priority": 2,
-          "last_checked": "2026-11-26T11:57:28.703323+00:00",
+          "last_checked": "2026-11-27T11:49:05.476484+00:00",
           "is_working": true
         }
       ]
     }
   ],
-  "last_updated": "2026-11-26T11:57:28.703323+00:00"
+  "last_updated": "2026-11-27T11:49:05.476484+00:00"
 }
